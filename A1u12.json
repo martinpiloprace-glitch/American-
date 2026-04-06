@@ -1,0 +1,22 @@
+{
+  "level": "A1",
+  "letter": "U",
+  "mode": "words_only",
+  "count": 12,
+  "data": [
+    { "word": "ugly", "tr": "ošklivý" },
+    { "word": "umbrella", "tr": "deštník" },
+    { "word": "uncle", "tr": "strýc" },
+    { "word": "under", "tr": "pod" },
+    { "word": "understand", "tr": "rozumět" },
+    { "word": "university", "tr": "univerzita" },
+    { "word": "until", "tr": "dokud / až do" },
+    { "word": "up", "tr": "nahoru" },
+    { "word": "upstairs", "tr": "nahoře / v patře" },
+    { "word": "us", "tr": "nás / nám" },
+    { "word": "use", "tr": "použít" },
+    { "word": "useful", "tr": "užitečný" },
+    { "word": "usual", "tr": "obvyklý" },
+    { "word": "usually", "tr": "obvykle" }
+  ]
+}
