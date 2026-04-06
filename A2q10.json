@@ -1,0 +1,21 @@
+{
+  "level": "A2",
+  "letter": "Q",
+  "mode": "words_only",
+  "count": 10,
+  "data": [
+    { "word": "qualification", "tr": "kvalifikace" },
+    { "word": "qualified", "tr": "kvalifikovaný" },
+    { "word": "quality", "tr": "kvalita" },
+    { "word": "quantity", "tr": "množství" },
+    { "word": "quarrel", "tr": "hádka / hádat se" },
+    { "word": "quarter", "tr": "čtvrtina" },
+    { "word": "queen", "tr": "královna" },
+    { "word": "questionnaire", "tr": "dotazník" },
+    { "word": "queue", "tr": "fronta" },
+    { "word": "quietly", "tr": "potichu" },
+    { "word": "quit", "tr": "přestat / skončit" },
+    { "word": "quite", "tr": "docela / zcela" },
+    { "word": "quiz", "tr": "kvíz" }
+  ]
+}
