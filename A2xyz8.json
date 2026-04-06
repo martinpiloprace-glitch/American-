@@ -1,0 +1,16 @@
+{
+  "level": "A2",
+  "letter": "XYZ",
+  "mode": "words_only",
+  "count": 8,
+  "data": [
+    { "word": "X-ray", "tr": "rentgen" },
+    { "word": "yard", "tr": "dvůr / yard" },
+    { "word": "yell", "tr": "křičet / řvát" },
+    { "word": "yet", "tr": "ještě / už (v otázce)" },
+    { "word": "yoga", "tr": "joga" },
+    { "word": "youth", "tr": "mládí / mládež" },
+    { "word": "zero", "tr": "nula" },
+    { "word": "zone", "tr": "zóna" }
+  ]
+}
