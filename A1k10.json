@@ -1,0 +1,22 @@
+{
+  "level": "A1",
+  "letter": "K",
+  "mode": "words_only",
+  "count": 16,
+  "data": [
+    { "word": "keep", "tr": "držet / uchovat" },
+    { "word": "key", "tr": "klíč" },
+    { "word": "kick", "tr": "kopnout / kop" },
+    { "word": "kid", "tr": "dítě / dělat si legraci" },
+    { "word": "kill", "tr": "zabít" },
+    { "word": "kilo", "tr": "kilo" },
+    { "word": "kilometer", "tr": "kilometr" },
+    { "word": "kind", "tr": "milý / druh (typ)" },
+    { "word": "king", "tr": "král" },
+    { "word": "kiss", "tr": "polibek / líbat" },
+    { "word": "kitchen", "tr": "kuchyně" },
+    { "word": "knee", "tr": "koleno" },
+    { "word": "knife", "tr": "nůž" },
+    { "word": "know", "tr": "vědět / znát" }
+  ]
+}
