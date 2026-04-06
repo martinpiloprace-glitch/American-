@@ -1,0 +1,17 @@
+{
+  "level": "A1",
+  "letter": "V",
+  "mode": "words_only",
+  "count": 8,
+  "data": [
+    { "word": "vacation", "tr": "dovolená (AmE)" },
+    { "word": "valley", "tr": "údolí" },
+    { "word": "vegetable", "tr": "zelenina" },
+    { "word": "very", "tr": "velmi" },
+    { "word": "video", "tr": "video" },
+    { "word": "village", "tr": "vesnice" },
+    { "word": "visit", "tr": "navštívit" },
+    { "word": "visitor", "tr": "návštěvník" },
+    { "word": "voice", "tr": "hlas" }
+  ]
+}
