@@ -1,0 +1,21 @@
+{
+  "level": "A2",
+  "letter": "J",
+  "mode": "words_only",
+  "count": 12,
+  "data": [
+    { "word": "jail", "tr": "vězení" },
+    { "word": "jar", "tr": "sklenice (zavařovací)" },
+    { "word": "jazz", "tr": "jazz" },
+    { "word": "jewelry", "tr": "šperky (AmE)" },
+    { "word": "joint", "tr": "kloub / společný" },
+    { "word": "journal", "tr": "deník / odborný časopis" },
+    { "word": "journalist", "tr": "novinář" },
+    { "word": "judge", "tr": "soudce / soudit" },
+    { "word": "judgment", "tr": "úsudek / rozsudek" },
+    { "word": "jungle", "tr": "džungle" },
+    { "word": "junior", "tr": "mladší / služebně nižší" },
+    { "word": "just then", "tr": "právě tehdy" },
+    { "word": "justice", "tr": "spravedlnost" }
+  ]
+}
