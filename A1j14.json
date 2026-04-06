@@ -1,0 +1,20 @@
+{
+  "level": "A1",
+  "letter": "J",
+  "mode": "words_only",
+  "count": 14,
+  "data": [
+    { "word": "jacket", "tr": "bunda / sako" },
+    { "word": "January", "tr": "leden" },
+    { "word": "jeans", "tr": "džíny" },
+    { "word": "job", "tr": "práce / zaměstnání" },
+    { "word": "join", "tr": "připojit se" },
+    { "word": "joke", "tr": "vtip / žertovat" },
+    { "word": "journey", "tr": "cesta" },
+    { "word": "juice", "tr": "džus / šťáva" },
+    { "word": "July", "tr": "červenec" },
+    { "word": "jump", "tr": "skočit / skok" },
+    { "word": "June", "tr": "červen" },
+    { "word": "just", "tr": "jen / právě" }
+  ]
+}
