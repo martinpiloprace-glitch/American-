@@ -1,0 +1,18 @@
+{
+  "level": "A2",
+  "letter": "K",
+  "mode": "words_only",
+  "count": 8,
+  "data": [
+    { "word": "keen", "tr": "nadšený / dychtivý" },
+    { "word": "keyboard", "tr": "klávesnice" },
+    { "word": "kick", "tr": "kopnout / kop" },
+    { "word": "killing", "tr": "zabíjení / vražda" },
+    { "word": "kindness", "tr": "laskavost" },
+    { "word": "king", "tr": "král" },
+    { "word": "kit", "tr": "sada / vybavení" },
+    { "word": "knock", "tr": "klepat" },
+    { "word": "knot", "tr": "uzel" },
+    { "word": "knowledge", "tr": "znalost / vědomosti" }
+  ]
+}
