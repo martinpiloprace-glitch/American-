@@ -1,0 +1,20 @@
+{
+  "level": "A1",
+  "letter": "XYZ",
+  "mode": "words_only",
+  "count": 12,
+  "data": [
+    { "word": "year", "tr": "rok" },
+    { "word": "yellow", "tr": "žlutý" },
+    { "word": "yes", "tr": "ano" },
+    { "word": "yesterday", "tr": "včera" },
+    { "word": "yet", "tr": "ještě (v záporu)" },
+    { "word": "you", "tr": "ty / vy" },
+    { "word": "young", "tr": "mladý" },
+    { "word": "your", "tr": "tvůj / váš" },
+    { "word": "yours", "tr": "tvůj / váš (vlastnictví)" },
+    { "word": "yourself", "tr": "ty sám / se" },
+    { "word": "zero", "tr": "nula" },
+    { "word": "zoo", "tr": "zoo" }
+  ]
+}
