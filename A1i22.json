@@ -1,0 +1,33 @@
+{
+  "level": "A1",
+  "letter": "I",
+  "mode": "words_only",
+  "count": 22,
+  "data": [
+    { "word": "I", "tr": "já" },
+    { "word": "ice", "tr": "led" },
+    { "word": "ice cream", "tr": "zmrzlina" },
+    { "word": "idea", "tr": "nápad / myšlenka" },
+    { "word": "if", "tr": "pokud / jestli" },
+    { "word": "ill", "tr": "nemocný" },
+    { "word": "imagine", "tr": "představit si" },
+    { "word": "immediately", "tr": "okamžitě" },
+    { "word": "important", "tr": "důležitý" },
+    { "word": "impossible", "tr": "nemožný" },
+    { "word": "improve", "tr": "zlepšit" },
+    { "word": "in", "tr": "v / dovnitř" },
+    { "word": "include", "tr": "zahrnovat" },
+    { "word": "incorrect", "tr": "nesprávný" },
+    { "word": "information", "tr": "informace" },
+    { "word": "inside", "tr": "uvnitř" },
+    { "word": "instead", "tr": "namísto" },
+    { "word": "intelligent", "tr": "inteligentní" },
+    { "word": "interested", "tr": "mít zájem" },
+    { "word": "interesting", "tr": "zajímavý" },
+    { "word": "internet", "tr": "internet" },
+    { "word": "into", "tr": "do" },
+    { "word": "island", "tr": "ostrov" },
+    { "word": "it", "tr": "to" },
+    { "word": "its", "tr": "jeho / její (věci)" }
+  ]
+}
