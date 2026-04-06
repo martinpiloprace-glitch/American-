@@ -1,0 +1,14 @@
+{
+  "level": "A1",
+  "letter": "Q",
+  "mode": "words_only",
+  "count": 6,
+  "data": [
+    { "word": "quarter", "tr": "čtvrť / čtvrthodina" },
+    { "word": "queen", "tr": "královna" },
+    { "word": "question", "tr": "otázka / ptát se" },
+    { "word": "quick", "tr": "rychlý" },
+    { "word": "quickly", "tr": "rychle" },
+    { "word": "quiet", "tr": "tichý" }
+  ]
+}
