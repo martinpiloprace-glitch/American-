@@ -1,0 +1,33 @@
+{
+  "level": "B1",
+  "letter": "N",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 71, "word": "northern", "tr": "severní", "ex": "Northern Europe." },
+    { "id": 72, "word": "nose", "tr": "nos", "ex": "Runny nose." },
+    { "id": 73, "word": "not", "tr": "ne / zápor", "ex": "Not at all." },
+    { "id": 74, "word": "notable", "tr": "pozoruhodný / významný", "ex": "A notable achievement." },
+    { "id": 75, "word": "notably", "tr": "zejména / pozoruhodně", "ex": "Notably, he was late." },
+    { "id": 76, "word": "note", "tr": "poznámka / bankovka / všimnout si", "ex": "Take notes." },
+    { "id": 77, "word": "notebook", "tr": "zápisník / sešit", "ex": "Write in a notebook." },
+    { "id": 78, "word": "nothing", "tr": "nic", "ex": "Nothing else matters." },
+    { "id": 79, "word": "notice", "tr": "všimnout si / oznámení", "ex": "Short notice." },
+    { "id": 80, "word": "noticeable", "tr": "všimnutelný / zřetelný", "ex": "A noticeable difference." },
+    { "id": 81, "word": "notion", "tr": "představa / pojem", "ex": "A vague notion." },
+    { "id": 82, "word": "notorious", "tr": "neblaze proslulý", "ex": "Notorious criminal." },
+    { "id": 83, "word": "novel", "tr": "román / neotřelý", "ex": "Write a novel." },
+    { "id": 84, "word": "November", "tr": "listopad", "ex": "In November." },
+    { "id": 85, "word": "now", "tr": "teď / nyní", "ex": "Right now." },
+    { "id": 86, "word": "nowadays", "tr": "v dnešní době", "ex": "Nowadays, people travel more." },
+    { "id": 87, "word": "nowhere", "tr": "nikde", "ex": "Nowhere to go." },
+    { "id": 88, "word": "nuclear", "tr": "jaderný / nukleární", "ex": "Nuclear energy." },
+    { "id": 89, "word": "nuisance", "tr": "příťaž / nepříjemnost", "ex": "What a nuisance!" },
+    { "id": 90, "word": "number", "tr": "číslo / počet", "ex": "A large number." },
+    { "id": 91, "word": "numerous", "tr": "početný / četný", "ex": "Numerous occasions." },
+    { "id": 92, "word": "nurse", "tr": "zdravotní sestra / kojit", "ex": "Work as a nurse." },
+    { "id": 93, "word": "nursery", "tr": "školka / jesle", "ex": "Nursery school." },
+    { "id": 94, "word": "nut", "tr": "ořech / matice", "ex": "Peanut butter." },
+    { "id": 95, "word": "nutrition", "tr": "výživa", "ex": "Poor nutrition." }
+  ]
+}
