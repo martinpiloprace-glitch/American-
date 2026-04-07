@@ -1,0 +1,28 @@
+{
+  "level": "B1",
+  "letter": "Q",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "qualification", "tr": "kvalifikace / vzdělání", "ex": "Professional qualification." },
+    { "id": 2, "word": "qualified", "tr": "kvalifikovaný / způsobilý", "ex": "Highly qualified." },
+    { "id": 3, "word": "qualify", "tr": "kvalifikovat se / splnit podmínky", "ex": "Qualify for the final." },
+    { "id": 4, "word": "quality", "tr": "kvalita / vlastnost", "ex": "High quality." },
+    { "id": 5, "word": "quantity", "tr": "množství / počet", "ex": "Large quantity." },
+    { "id": 6, "word": "quarter", "tr": "čtvrtina / čtvrť", "ex": "A quarter of an hour." },
+    { "id": 7, "word": "queen", "tr": "královna", "ex": "Queen Victoria." },
+    { "id": 8, "word": "query", "tr": "dotaz / otázka", "ex": "Answer a query." },
+    { "id": 9, "word": "question", "tr": "otázka / zpochybňovat", "ex": "Ask a question." },
+    { "id": 10, "word": "questionnaire", "tr": "dotazník", "ex": "Fill out a questionnaire." },
+    { "id": 11, "word": "queue", "tr": "fronta / stát ve frontě", "ex": "Wait in a queue." },
+    { "id": 12, "word": "quick", "tr": "rychlý", "ex": "A quick snack." },
+    { "id": 13, "word": "quickly", "tr": "rychle", "ex": "Come quickly." },
+    { "id": 14, "word": "quiet", "tr": "tichý / klid", "ex": "Be quiet." },
+    { "id": 15, "word": "quietly", "tr": "tichce / potichu", "ex": "Speak quietly." },
+    { "id": 16, "word": "quit", "tr": "přestat / odejít (z práce)", "ex": "Quit smoking." },
+    { "id": 17, "word": "quite", "tr": "docela / zcela", "ex": "Quite good." },
+    { "id": 18, "word": "quota", "tr": "kvóta / příděl", "ex": "Production quota." },
+    { "id": 19, "word": "quotation", "tr": "citát / cenová nabídka", "ex": "Famous quotation." },
+    { "id": 20, "word": "quote", "tr": "citovat / uvést cenu", "ex": "Don't quote me." }
+  ]
+}
