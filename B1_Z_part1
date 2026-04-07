@@ -1,0 +1,17 @@
+{
+  "level": "B1",
+  "letter": "Z",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "zeal", "tr": "horlivost / nadšení", "ex": "Excessive zeal." },
+    { "id": 2, "word": "zealous", "tr": "horlivý / nadšený", "ex": "Zealous supporter." },
+    { "id": 3, "word": "zebra", "tr": "zebra", "ex": "Zebra crossing." },
+    { "id": 4, "word": "zero", "tr": "nula", "ex": "Zero tolerance." },
+    { "id": 5, "word": "zinc", "tr": "zinek", "ex": "Zinc supplement." },
+    { "id": 6, "word": "zip", "tr": "zip / zapnout zip", "ex": "Zip up." },
+    { "id": 7, "word": "zone", "tr": "zóna / oblast", "ex": "Time zone." },
+    { "id": 8, "word": "zoo", "tr": "zoo", "ex": "Visit the zoo." },
+    { "id": 9, "word": "zoom", "tr": "přiblížit / prudce stoupat", "ex": "Zoom in." }
+  ]
+}
