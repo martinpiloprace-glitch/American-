@@ -1,0 +1,27 @@
+{
+  "level": "B1",
+  "letter": "Y",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "yard", "tr": "dvůr / yard (jednotka)", "ex": "Back yard." },
+    { "id": 2, "word": "yawn", "tr": "zíva / zívat", "ex": "Stop yawning." },
+    { "id": 3, "word": "yeah", "tr": "jo / ano (neformální)", "ex": "Yeah, sure." },
+    { "id": 4, "word": "year", "tr": "rok", "ex": "Once a year." },
+    { "id": 5, "word": "yearly", "tr": "roční / každoroční", "ex": "Yearly report." },
+    { "id": 6, "word": "yell", "tr": "křičet / řvát", "ex": "Yell for help." },
+    { "id": 7, "word": "yellow", "tr": "žlutý", "ex": "Bright yellow." },
+    { "id": 8, "word": "yes", "tr": "ano", "ex": "Yes or no." },
+    { "id": 9, "word": "yesterday", "tr": "včera", "ex": "Day before yesterday." },
+    { "id": 10, "word": "yet", "tr": "ještě / už (v záporu/otázce) / přesto", "ex": "Not yet." },
+    { "id": 11, "word": "yield", "tr": "výnos / ustoupit / dát přednost", "ex": "High yield." },
+    { "id": 12, "word": "yoga", "tr": "joga", "ex": "Do yoga." },
+    { "id": 13, "word": "yoghurt", "tr": "jogurt", "ex": "Low-fat yoghurt." },
+    { "id": 14, "word": "you", "tr": "ty / vy / tebe", "ex": "Bless you." },
+    { "id": 15, "word": "young", "tr": "mladý", "ex": "Young generation." },
+    { "id": 16, "word": "your", "tr": "tvoje / vaše", "ex": "Is this your car?" },
+    { "id": 17, "word": "yours", "tr": "tvůj / váš (přivlastňovací zájmeno)", "ex": "Sincerely yours." },
+    { "id": 18, "word": "yourself", "tr": "ty sám / sebe / se", "ex": "Do it yourself." },
+    { "id": 19, "word": "youth", "tr": "mládí / mládež", "ex": "Youth hostel." }
+  ]
+}
