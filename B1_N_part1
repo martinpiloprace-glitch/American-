@@ -1,0 +1,18 @@
+{
+  "level": "B1",
+  "letter": "N",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "nail", "tr": "hřebík / nehet", "ex": "Hit the nail." },
+    { "id": 2, "word": "naked", "tr": "nahý", "ex": "The naked truth." },
+    { "id": 3, "word": "name", "tr": "jméno / pojmenovat", "ex": "What's your name?" },
+    { "id": 4, "word": "namely", "tr": "totiž / jmenovitě", "ex": "Three colors, namely red, blue, and green." },
+    { "id": 5, "word": "narrative", "tr": "vyprávění / příběh", "ex": "Personal narrative." },
+    { "id": 6, "word": "narrow", "tr": "úzký", "ex": "A narrow street." },
+    { "id": 7, "word": "nasty", "tr": "ošklivý / odporný", "ex": "A nasty habit." },
+    { "id": 8, "word": "nation", "tr": "národ / stát", "ex": "Developing nation." },
+    { "id": 9, "word": "national", "tr": "národní / státní", "ex": "National anthem." },
+    { "id": 10, "word": "native", "tr": "rodilý / domorodý", "ex": "Native speaker." }
+  ]
+}
