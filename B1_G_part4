@@ -1,0 +1,22 @@
+{
+  "level": "B1",
+  "letter": "G",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 91, "word": "growth", "tr": "růst / rozvoj", "ex": "Economic growth." },
+    { "id": 92, "word": "guarantee", "tr": "záruka / zaručit", "ex": "Money-back guarantee." },
+    { "id": 93, "word": "guard", "tr": "stráž / hlídat", "ex": "A security guard." },
+    { "id": 94, "word": "guess", "tr": "hádat / odhad", "ex": "Guess what?" },
+    { "id": 95, "word": "guest", "tr": "host", "ex": "Welcome our guest." },
+    { "id": 96, "word": "guidance", "tr": "vedení / rada", "ex": "Under your guidance." },
+    { "id": 97, "word": "guide", "tr": "průvodce / vést", "ex": "A tour guide." },
+    { "id": 98, "word": "guideline", "tr": "směrnice / instrukce", "ex": "Follow the guidelines." },
+    { "id": 100, "word": "guilt", "tr": "vina", "ex": "A sense of guilt." },
+    { "id": 101, "word": "guilty", "tr": "vinen", "ex": "Found guilty." },
+    { "id": 102, "word": "guitar", "tr": "kytara", "ex": "Play the guitar." },
+    { "id": 103, "word": "gun", "tr": "zbraň / pistole", "ex": "A loaded gun." },
+    { "id": 104, "word": "guy", "tr": "chlap / týpek", "ex": "A nice guy." },
+    { "id": 105, "word": "gym", "tr": "tělocvična / posilovna", "ex": "Go to the gym." }
+  ]
+}
