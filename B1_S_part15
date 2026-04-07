@@ -1,0 +1,33 @@
+{
+  "level": "B1",
+  "letter": "S",
+  "part": 15,
+  "mode": "sentences",
+  "data": [
+    { "id": 426, "word": "stop", "tr": "zastavit / stopka", "ex": "Bus stop." },
+    { "id": 427, "word": "storage", "tr": "skladování / úložiště", "ex": "Cloud storage." },
+    { "id": 428, "word": "store", "tr": "obchod / skladovat", "ex": "Department store." },
+    { "id": 429, "word": "storm", "tr": "bouře / bouřka", "ex": "Thunder storm." },
+    { "id": 430, "word": "story", "tr": "příběh / historka / patro", "ex": "True story." },
+    { "id": 431, "word": "straight", "tr": "rovný / přímo", "ex": "Go straight on." },
+    { "id": 432, "word": "straighten", "tr": "narovnat / urovnat", "ex": "Straighten your tie." },
+    { "id": 433, "word": "straightforward", "tr": "přímočarý / jasný", "ex": "A straightforward answer." },
+    { "id": 434, "word": "strain", "tr": "napětí / námaha / kmen (viru)", "ex": "Under strain." },
+    { "id": 435, "word": "strange", "tr": "divný / cizí", "ex": "Strange noise." },
+    { "id": 436, "word": "stranger", "tr": "cizinec / neznámý člověk", "ex": "Don't talk to strangers." },
+    { "id": 437, "word": "strategic", "tr": "strategický", "ex": "Strategic planning." },
+    { "id": 438, "word": "strategy", "tr": "strategie", "ex": "Marketing strategy." },
+    { "id": 439, "word": "stream", "tr": "proud / potok / streamovat", "ex": "Live stream." },
+    { "id": 440, "word": "street", "tr": "ulice", "ex": "Main street." },
+    { "id": 441, "word": "strength", "tr": "síla / silná stránka", "ex": "Physical strength." },
+    { "id": 442, "word": "strengthen", "tr": "posílit / upevnit", "ex": "Strengthen the bond." },
+    { "id": 443, "word": "stress", "tr": "stres / zdůraznit", "ex": "Under stress." },
+    { "id": 444, "word": "stressed", "tr": "ve stresu / zdůrazněný", "ex": "Feel stressed." },
+    { "id": 445, "word": "stretch", "tr": "natáhnout (se) / úsek", "ex": "Stretch your legs." },
+    { "id": 446, "word": "strict", "tr": "přísný", "ex": "Strict rules." },
+    { "id": 447, "word": "strictly", "tr": "přísně / striktně", "ex": "Strictly confidential." },
+    { "id": 448, "word": "strike", "tr": "stávka / udeřit / úder", "ex": "On strike." },
+    { "id": 449, "word": "striking", "tr": "poutavý / nápadný", "ex": "Striking resemblance." },
+    { "id": 450, "word": "string", "tr": "provázek / struna / řetězec", "ex": "Guitar strings." }
+  ]
+}
