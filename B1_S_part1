@@ -1,0 +1,28 @@
+{
+  "level": "B1",
+  "letter": "S",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "sack", "tr": "pytel / vyhodit (z práce)", "ex": "A sack of potatoes." },
+    { "id": 2, "word": "sacred", "tr": "posvátný", "ex": "Sacred place." },
+    { "id": 3, "word": "sacrifice", "tr": "oběť / obětovat", "ex": "Human sacrifice." },
+    { "id": 4, "word": "sad", "tr": "smutný", "ex": "Sad story." },
+    { "id": 5, "word": "saddle", "tr": "sedlo", "ex": "In the saddle." },
+    { "id": 6, "word": "sadly", "tr": "bohužel / smutně", "ex": "Sadly, he died." },
+    { "id": 7, "word": "sadness", "tr": "smutek", "ex": "Full of sadness." },
+    { "id": 8, "word": "safe", "tr": "bezpečný / trezor", "ex": "Safe and sound." },
+    { "id": 9, "word": "safely", "tr": "bezpečně", "ex": "Arrive safely." },
+    { "id": 10, "word": "safety", "tr": "bezpečnost", "ex": "Safety first." },
+    { "id": 11, "word": "sail", "tr": "plachta / plout", "ex": "Sail a boat." },
+    { "id": 12, "word": "sailing", "tr": "plachtění / jachting", "ex": "Go sailing." },
+    { "id": 13, "word": "sailor", "tr": "námořník", "ex": "Popeye the Sailor." },
+    { "id": 14, "word": "saint", "tr": "svatý", "ex": "Saint Nicholas." },
+    { "id": 15, "word": "sake", "tr": "v zájmu (koho/čeho)", "ex": "For your sake." },
+    { "id": 16, "word": "salad", "tr": "salát", "ex": "Fruit salad." },
+    { "id": 17, "word": "salary", "tr": "plat (měsíční)", "ex": "High salary." },
+    { "id": 18, "word": "sale", "tr": "prodej / výprodej", "ex": "For sale." },
+    { "id": 19, "word": "salt", "tr": "sůl", "ex": "Sea salt." },
+    { "id": 20, "word": "salty", "tr": "slaný", "ex": "Salty food." }
+  ]
+}
