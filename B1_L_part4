@@ -1,0 +1,33 @@
+{
+  "level": "B1",
+  "letter": "L",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 91, "word": "link", "tr": "odkaz / spojení / spojit", "ex": "Click the link." },
+    { "id": 92, "word": "lion", "tr": "lev", "ex": "The king of lions." },
+    { "id": 93, "word": "lip", "tr": "ret", "ex": "Read my lips." },
+    { "id": 94, "word": "liquid", "tr": "tekutina / kapalný", "ex": "Dishwashing liquid." },
+    { "id": 100, "word": "list", "tr": "seznam / vypsat", "ex": "Shopping list." },
+    { "id": 101, "word": "listen", "tr": "poslouchat", "ex": "Listen to music." },
+    { "id": 102, "word": "listener", "tr": "posluchač", "ex": "Radio listeners." },
+    { "id": 103, "word": "listing", "tr": "výpis / seznam", "ex": "Property listing." },
+    { "id": 104, "word": "liter", "tr": "litr", "ex": "A liter of milk." },
+    { "id": 105, "word": "literacy", "tr": "gramotnost", "ex": "Computer literacy." },
+    { "id": 106, "word": "literally", "tr": "doslova", "ex": "Literally starving." },
+    { "id": 107, "word": "literary", "tr": "literární", "ex": "Literary prize." },
+    { "id": 108, "word": "literature", "tr": "literatura", "ex": "Modern literature." },
+    { "id": 109, "word": "little", "tr": "malý / málo", "ex": "A little bit." },
+    { "id": 110, "word": "live", "tr": "žít / bydlet / živě", "ex": "Where do you live?" },
+    { "id": 111, "word": "lively", "tr": "živý / čilý", "ex": "A lively debate." },
+    { "id": 112, "word": "liver", "tr": "játra", "ex": "Liver transplant." },
+    { "id": 113, "word": "living", "tr": "živý / živobytí", "ex": "Cost of living." },
+    { "id": 114, "word": "load", "tr": "náklad / naložit", "ex": "Heavy load." },
+    { "id": 115, "word": "loan", "tr": "půjčka / úvěr", "ex": "Student loan." },
+    { "id": 116, "word": "lobby", "tr": "vstupní hala / lobby", "ex": "Wait in the lobby." },
+    { "id": 117, "word": "local", "tr": "místní / lokální", "ex": "Local news." },
+    { "id": 118, "word": "locate", "tr": "lokalizovat / umístit", "ex": "Locate the office." },
+    { "id": 119, "word": "location", "tr": "poloha / umístění", "ex": "Prime location." },
+    { "id": 120, "word": "lock", "tr": "zámek / zamknout", "ex": "Lock the door." }
+  ]
+}
