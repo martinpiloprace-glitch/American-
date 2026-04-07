@@ -1,0 +1,27 @@
+{
+  "level": "B1",
+  "letter": "B",
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "background", "tr": "pozadí", "ex": "Check the background." },
+    { "id": 2, "word": "backward", "tr": "pozpátku", "ex": "Step backward slowly." },
+    { "id": 3, "word": "bacteria", "tr": "bakterie", "ex": "Kill all bacteria." },
+    { "id": 4, "word": "badly", "tr": "špatně", "ex": "He failed badly." },
+    { "id": 5, "word": "baggage", "tr": "zavazadla", "ex": "Where is my baggage?" },
+    { "id": 6, "word": "balance", "tr": "rovnováha", "ex": "Keep your balance." },
+    { "id": 7, "word": "ban", "tr": "zakázat / zákaz", "ex": "Ban the plastic bags." },
+    { "id": 8, "word": "barrier", "tr": "bariéra", "ex": "Break the barrier." },
+    { "id": 9, "word": "basically", "tr": "v podstatě", "ex": "It is basically free." },
+    { "id": 10, "word": "basis", "tr": "základ", "ex": "On a daily basis." },
+    { "id": 11, "word": "battle", "tr": "bitva", "ex": "Win the battle." },
+    { "id": 12, "word": "bear", "tr": "snést / medvěd", "ex": "I cannot bear it." },
+    { "id": 13, "word": "beauty", "tr": "krása", "ex": "She is a beauty." },
+    { "id": 14, "word": "behalf", "tr": "jménem (koho)", "ex": "On my behalf." },
+    { "id": 15, "word": "behavior", "tr": "chování", "ex": "Watch your behavior." },
+    { "id": 16, "word": "belief", "tr": "víra", "ex": "It is my belief." },
+    { "id": 17, "word": "belong", "tr": "patřit", "ex": "You belong here." },
+    { "id": 18, "word": "beneficial", "tr": "prospěšný", "ex": "It is beneficial." },
+    { "id": 19, "word": "benefit", "tr": "výhoda", "ex": "It is a benefit." },
+    { "id": 20, "word": "beyond", "tr": "za / nad", "ex": "It is beyond me." }
+  ]
+}
