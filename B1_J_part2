@@ -1,0 +1,11 @@
+{
+  "level": "B1",
+  "letter": "J",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 31, "word": "justification", "tr": "ospravedlnění / odůvodnění", "ex": "No justification for war." },
+    { "id": 32, "word": "justify", "tr": "ospravedlnit / odůvodnit", "ex": "Justify your answer." },
+    { "id": 33, "word": "juvenile", "tr": "mladistvý", "ex": "Juvenile court." }
+  ]
+}
