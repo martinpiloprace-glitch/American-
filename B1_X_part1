@@ -1,0 +1,12 @@
+{
+  "level": "B1",
+  "letter": "X",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "X-ray", "tr": "rentgen / rentgenovat", "ex": "Chest X-ray." },
+    { "id": 2, "word": "xenophobia", "tr": "xenofobie", "ex": "Fight against xenophobia." },
+    { "id": 3, "word": "xylophone", "tr": "xylofon", "ex": "Play the xylophone." },
+    { "id": 4, "word": "xerox", "tr": "xerox / fotokopie", "ex": "Make a xerox copy." }
+  ]
+}
