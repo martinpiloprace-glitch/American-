@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "C",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "class", "tr": "třída / lekce / vrstva", "ex": "The yoga class starts at six." },
+    { "id": 152, "word": "classic", "tr": "klasický / klasika", "ex": "It became a classic of modern cinema." },
+    { "id": 153, "word": "classical", "tr": "vážný (hudba) / klasický", "ex": "She prefers listening to classical music." },
+    { "id": 154, "word": "classification", "tr": "klasifikace / třídění", "ex": "The data needs proper classification." },
+    { "id": 155, "word": "classify", "tr": "klasifikovat / zařadit", "ex": "We can classify these as low-risk." },
+    { "id": 156, "word": "classroom", "tr": "třída (místnost)", "ex": "Leave your bags in the classroom." },
+    { "id": 157, "word": "clause", "tr": "věta (souvětí) / doložka", "ex": "Check the termination clause in the contract." },
+    { "id": 158, "word": "clean", "tr": "čistý / čistit", "ex": "Keep your workspace clean and tidy." },
+    { "id": 159, "word": "cleaning", "tr": "úklid / čištění", "ex": "The cleaning will take about an hour." },
+    { "id": 160, "word": "clear", "tr": "jasný / čistý / vyklidit", "ex": "The path is clear for us now." },
+    { "id": 161, "word": "clearly", "tr": "jasně / zřetelně", "ex": "Please state your name clearly." },
+    { "id": 162, "word": "clerk", "tr": "úředník / prodavač", "ex": "The bank clerk helped me with the form." },
+    { "id": 163, "word": "clever", "tr": "chytrý / šikovný", "ex": "That was a very clever solution." },
+    { "id": 164, "word": "click", "tr": "kliknout / cvaknout", "ex": "Double-click the icon to open it." },
+    { "id": 165, "word": "client", "tr": "klient / zákazník", "ex": "The client was happy with the result." },
+    { "id": 166, "word": "cliff", "tr": "útes / sráz", "ex": "The hotel stands on a high cliff." },
+    { "id": 167, "word": "climate", "tr": "klima / podnebí", "ex": "The climate here is very humid." },
+    { "id": 168, "word": "climb", "tr": "lézt / šplhat / stoupání", "ex": "It's a long climb to the top." },
+    { "id": 169, "word": "climbing", "tr": "lezení / horolezectví", "ex": "Rock climbing requires a lot of strength." },
+    { "id": 170, "word": "clinic", "tr": "klinika", "ex": "He works at a private dental clinic." }
+  ]
+}
