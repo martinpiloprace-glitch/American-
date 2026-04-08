@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 171, "word": "bride", "tr": "nevěsta", "ex": "The bride looked beautiful." },
+    { "id": 172, "word": "bridge", "tr": "most / překlenout", "ex": "The bridge spans the river." },
+    { "id": 173, "word": "brief", "tr": "stručný / krátký", "ex": "Please keep your report brief." },
+    { "id": 174, "word": "briefly", "tr": "stručně", "ex": "Let me briefly explain the plan." },
+    { "id": 175, "word": "bright", "tr": "jasný / chytrý", "ex": "The sun is very bright today." },
+    { "id": 176, "word": "brilliant", "tr": "vynikající / brilantní", "ex": "That is a brilliant idea." },
+    { "id": 177, "word": "bring", "tr": "přinést", "ex": "Remember to bring your ID." },
+    { "id": 178, "word": "broad", "tr": "široký / rozsáhlý", "ex": "He has a broad range of skills." },
+    { "id": 179, "word": "broadly", "tr": "široce / v hlavních rysech", "ex": "Broadly speaking, it is true." },
+    { "id": 180, "word": "broadcast", "tr": "vysílání / vysílat", "ex": "The news is broadcast live." },
+    { "id": 181, "word": "broaden", "tr": "rozšířit", "ex": "Travel helps to broaden the mind." },
+    { "id": 182, "word": "broken", "tr": "rozbitý / zlomený", "ex": "The window is broken." },
+    { "id": 183, "word": "brother", "tr": "bratr", "ex": "My brother lives in Prague." },
+    { "id": 184, "word": "brown", "tr": "hnědý", "ex": "She has brown eyes." },
+    { "id": 185, "word": "brush", "tr": "kartáč / štětec / čistit", "ex": "Brush your teeth twice a day." },
+    { "id": 186, "word": "bubble", "tr": "bublina", "ex": "Don't burst my bubble." },
+    { "id": 187, "word": "buck", "tr": "dolar (slang) / samec", "ex": "That only cost me five bucks." },
+    { "id": 188, "word": "bucket", "tr": "kbelík / kýbl", "ex": "Fill the bucket with water." },
+    { "id": 189, "word": "buddy", "tr": "kamarád / kámoš", "ex": "He is my old college buddy." },
+    { "id": 190, "word": "budget", "tr": "rozpočet", "ex": "We are on a tight budget." }
+  ]
+}
