@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 191, "word": "buffer", "tr": "nárazník / vyrovnávací paměť", "ex": "We need a financial buffer." },
+    { "id": 192, "word": "bug", "tr": "hmyz / chyba (v programu)", "ex": "There is a bug in the code." },
+    { "id": 193, "word": "build", "tr": "stavět / budovat", "ex": "They plan to build a new mall." },
+    { "id": 194, "word": "builder", "tr": "stavitel / zedník", "ex": "The builder finished the roof." },
+    { "id": 195, "word": "building", "tr": "budova", "ex": "It is the tallest building." },
+    { "id": 196, "word": "built-in", "tr": "vestavěný / integrovaný", "ex": "The car has a built-in GPS." },
+    { "id": 197, "word": "bulk", "tr": "objem / masa / velká část", "ex": "The bulk of the work is done." },
+    { "id": 198, "word": "bullet", "tr": "kulka / střela", "ex": "The bullet hit the target." },
+    { "id": 199, "word": "bunch", "tr": "kytice / svazek / parta", "ex": "A bunch of flowers." },
+    { "id": 200, "word": "burden", "tr": "břemeno / zatížit", "ex": "Don't burden them with details." },
+    { "id": 201, "word": "bureaucracy", "tr": "byrokracie", "ex": "Cut through the red tape." },
+    { "id": 202, "word": "burn", "tr": "hořet / pálit / popálenina", "ex": "The fire continues to burn." },
+    { "id": 203, "word": "burst", "tr": "prasknout / propuknout", "ex": "The pipe suddenly burst." },
+    { "id": 204, "word": "bury", "tr": "pohřbít / zakopat", "ex": "Bury the past and move on." },
+    { "id": 205, "word": "bus", "tr": "autobus", "ex": "Wait at the bus stop." },
+    { "id": 206, "word": "bush", "tr": "keř / křoví", "ex": "Hide behind the bush." },
+    { "id": 207, "word": "business", "tr": "obchod / podnikání", "ex": "Mind your own business." },
+    { "id": 208, "word": "businessman", "tr": "podnikatel", "ex": "He is a successful businessman." },
+    { "id": 209, "word": "busy", "tr": "zaneprázdněný", "ex": "I am busy right now." },
+    { "id": 210, "word": "but", "tr": "ale / kromě", "ex": "Simple but effective." }
+  ]
+}
