@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "C",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "cabin", "tr": "kabina / chata / bouda", "ex": "We stayed in a log cabin." },
+    { "id": 2, "word": "cabinet", "tr": "skříňka / kabinet (vláda)", "ex": "Keep the files in the cabinet." },
+    { "id": 3, "word": "cable", "tr": "kabel / lano", "ex": "The charger cable is broken." },
+    { "id": 4, "word": "cafe", "tr": "kavárna", "ex": "Meet me at the local cafe." },
+    { "id": 5, "word": "cake", "tr": "dort / koláč", "ex": "A slice of chocolate cake." },
+    { "id": 6, "word": "calculate", "tr": "vypočítat", "ex": "Calculate the total cost, please." },
+    { "id": 7, "word": "calculation", "tr": "výpočet", "ex": "The calculation was correct." },
+    { "id": 8, "word": "calculator", "tr": "kalkulačka", "ex": "Use a calculator for the math." },
+    { "id": 9, "word": "calendar", "tr": "kalendář", "ex": "Check the date on the calendar." },
+    { "id": 10, "word": "call", "tr": "volat / hovor / nazývat", "ex": "Give me a call later." },
+    { "id": 11, "word": "calm", "tr": "klidný / uklidnit", "ex": "Stay calm and keep going." },
+    { "id": 12, "word": "camera", "tr": "fotoaparát / kamera", "ex": "Smile for the camera!" },
+    { "id": 13, "word": "camp", "tr": "tábor / kempovat", "ex": "They set up camp by the lake." },
+    { "id": 14, "word": "campaign", "tr": "kampaň / táhnout", "ex": "The election campaign began today." },
+    { "id": 15, "word": "camping", "tr": "kempování", "ex": "We love going camping in summer." },
+    { "id": 16, "word": "campus", "tr": "univerzitní areál / kampus", "ex": "The campus is very green." },
+    { "id": 17, "word": "can", "tr": "moci / plechovka", "ex": "A can of soda." },
+    { "id": 18, "word": "canal", "tr": "kanál / průplav", "ex": "The boat moved along the canal." },
+    { "id": 19, "word": "cancel", "tr": "zrušit", "ex": "I need to cancel my booking." },
+    { "id": 20, "word": "cancer", "tr": "rakovina / rak", "ex": "Early detection saves lives." }
+  ]
+}
