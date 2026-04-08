@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "baby", "tr": "miminko / dítě", "ex": "The baby is sleeping soundly." },
+    { "id": 2, "word": "back", "tr": "záda / zpět", "ex": "I'll be back in five minutes." },
+    { "id": 3, "word": "background", "tr": "pozadí / původ", "ex": "Tell me about your background." },
+    { "id": 4, "word": "backing", "tr": "podpora / záštita", "ex": "The project has financial backing." },
+    { "id": 5, "word": "backup", "tr": "záloha / posila", "ex": "Always create a backup of your data." },
+    { "id": 6, "word": "backward", "tr": "pozpátku / zaostalý", "ex": "She took a step backward." },
+    { "id": 7, "word": "bad", "tr": "špatný", "ex": "Smoking is a bad habit." },
+    { "id": 8, "word": "badge", "tr": "odznak / jmenovka", "ex": "Wear your security badge at all times." },
+    { "id": 9, "word": "badly", "tr": "špatně / vážně", "ex": "The building was badly damaged." },
+    { "id": 10, "word": "bag", "tr": "taška / pytel", "ex": "Pack your bags for the trip." },
+    { "id": 11, "word": "bail", "tr": "kauce / vysvobodit", "ex": "He was released on bail." },
+    { "id": 12, "word": "bake", "tr": "péct", "ex": "I love to bake fresh bread." },
+    { "id": 13, "word": "balance", "tr": "rovnováha / zůstatek", "ex": "Check your bank balance." },
+    { "id": 14, "word": "balanced", "tr": "vyvážený", "ex": "Eat a healthy, balanced diet." },
+    { "id": 15, "word": "ballot", "tr": "hlasování / hlasovací lístek", "ex": "The winners are chosen by secret ballot." },
+    { "id": 16, "word": "ban", "tr": "zákaz / zakázat", "ex": "The government decided to ban smoking." },
+    { "id": 17, "word": "banana", "tr": "banán", "ex": "I had a banana for breakfast." },
+    { "id": 18, "word": "band", "tr": "kapela / páska", "ex": "The band is playing live tonight." },
+    { "id": 19, "word": "bank", "tr": "banka / břeh", "ex": "The bank closes at 5 PM." },
+    { "id": 20, "word": "bankruptcy", "tr": "bankrot", "ex": "The company is facing bankruptcy." }
+  ]
+}
