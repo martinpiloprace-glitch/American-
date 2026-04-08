@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 131, "word": "bomb", "tr": "bomba / bombardovat", "ex": "The bomb was defused just in time." },
+    { "id": 132, "word": "bond", "tr": "pouto / dluhopis / vazba", "ex": "There is a strong bond between them." },
+    { "id": 133, "word": "bone", "tr": "kost", "ex": "He broke a bone in his hand." },
+    { "id": 134, "word": "bonus", "tr": "bonus / prémie", "ex": "Staff received a Christmas bonus." },
+    { "id": 135, "word": "book", "tr": "kniha / rezervovat", "ex": "I need to book a flight to Paris." },
+    { "id": 136, "word": "boom", "tr": "rozmach / prosperita", "ex": "The economy is experiencing a boom." },
+    { "id": 137, "word": "boost", "tr": "posílit / zvýšit / oživení", "ex": "The news gave the team a boost." },
+    { "id": 138, "word": "boot", "tr": "bota (vysoká) / kufr auta", "ex": "Put your luggage in the boot." },
+    { "id": 139, "word": "border", "tr": "hranice / lemovat", "ex": "We crossed the border at night." },
+    { "id": 140, "word": "bored", "tr": "znuděný", "ex": "I am bored with this movie." },
+    { "id": 141, "word": "boring", "tr": "nudný", "ex": "The lecture was incredibly boring." },
+    { "id": 142, "word": "born", "tr": "narozený", "ex": "He was born in a small village." },
+    { "id": 143, "word": "borrow", "tr": "půjčit si (od někoho)", "ex": "Can I borrow your umbrella?" },
+    { "id": 144, "word": "boss", "tr": "šéf / nadřízený", "ex": "My boss is very demanding." },
+    { "id": 145, "word": "both", "tr": "oba / obojí", "ex": "Both options are acceptable." },
+    { "id": 146, "word": "bother", "tr": "obtěžovat / trápit se", "ex": "I'm sorry to bother you." },
+    { "id": 147, "word": "bottle", "tr": "láhev", "ex": "A bottle of mineral water." },
+    { "id": 148, "word": "bottom", "tr": "dno / spodní část", "ex": "The answer is at the bottom." },
+    { "id": 149, "word": "bounce", "tr": "odrazit se / odraz", "ex": "The ball started to bounce." },
+    { "id": 150, "word": "bound", "tr": "vázaný / směřující kam", "ex": "You are bound to succeed." }
+  ]
+}
