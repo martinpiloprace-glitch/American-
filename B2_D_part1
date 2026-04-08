@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "D",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "dad", "tr": "táta", "ex": "My dad is a very patient man." },
+    { "id": 2, "word": "daily", "tr": "denně / denní", "ex": "Exercise should be a daily habit." },
+    { "id": 3, "word": "dairy", "tr": "mléčné výrobky / mlékárna", "ex": "I have a dairy-free diet." },
+    { "id": 4, "word": "dam", "tr": "přehrada / hráz", "ex": "The dam provides electricity." },
+    { "id": 5, "word": "damage", "tr": "poškodit / škoda", "ex": "The storm caused severe damage." },
+    { "id": 6, "word": "damaged", "tr": "poškozený", "ex": "The package arrived damaged." },
+    { "id": 7, "word": "damaging", "tr": "škodlivý / poškozující", "ex": "Stress can be very damaging." },
+    { "id": 8, "word": "dance", "tr": "tančit / tanec", "ex": "Would you like to dance?" },
+    { "id": 9, "word": "dancer", "tr": "tanečník", "ex": "She is a professional ballet dancer." },
+    { "id": 10, "word": "dancing", "tr": "tančení", "ex": "Dancing is a great way to relax." },
+    { "id": 11, "word": "danger", "tr": "nebezpečí", "ex": "The bridge is in danger of falling." },
+    { "id": 12, "word": "dangerous", "tr": "nebezpečný", "ex": "It is dangerous to walk alone at night." },
+    { "id": 13, "word": "dare", "tr": "odvážit se / troufnout si", "ex": "Don't you dare touch that!" },
+    { "id": 14, "word": "dark", "tr": "tmavý / tma", "ex": "It gets dark very early in winter." },
+    { "id": 15, "word": "darkness", "tr": "tma / temnota", "ex": "He disappeared into the darkness." },
+    { "id": 16, "word": "data", "tr": "data / údaje", "ex": "We need more data to be sure." },
+    { "id": 17, "word": "database", "tr": "databáze", "ex": "The information is in our database." },
+    { "id": 18, "word": "date", "tr": "datum / rande / datovat", "ex": "What is the date today?" },
+    { "id": 19, "word": "daughter", "tr": "dcera", "ex": "Their daughter is a doctor." },
+    { "id": 20, "word": "day", "tr": "den", "ex": "Have a nice day!" }
+  ]
+}
