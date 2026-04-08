@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "boundary", "tr": "hranice / mez", "ex": "Respect the personal boundary." },
+    { "id": 152, "word": "bow", "tr": "luk / mašle / poklonit se", "ex": "The actors took a final bow." },
+    { "id": 153, "word": "bowl", "tr": "misa / miska", "ex": "He ate a bowl of soup." },
+    { "id": 154, "word": "box", "tr": "krabice / boxovat", "ex": "Keep the tools in the box." },
+    { "id": 155, "word": "boy", "tr": "kluk", "ex": "He was a quiet boy." },
+    { "id": 156, "word": "brain", "tr": "mozek", "ex": "The brain needs constant oxygen." },
+    { "id": 157, "word": "branch", "tr": "větev / pobočka", "ex": "The bank has a local branch." },
+    { "id": 158, "word": "brand", "tr": "značka", "ex": "What is your favorite brand?" },
+    { "id": 159, "word": "brave", "tr": "statečný", "ex": "It was a very brave act." },
+    { "id": 160, "word": "bread", "tr": "chléb", "ex": "Fresh bread smells amazing." },
+    { "id": 161, "word": "break", "tr": "zlomit / přestávka", "ex": "Let's take a short break." },
+    { "id": 162, "word": "breakdown", "tr": "zhroucení / porucha / rozpis", "ex": "He suffered a nervous breakdown." },
+    { "id": 163, "word": "breakfast", "tr": "snídaně", "ex": "What's for breakfast today?" },
+    { "id": 164, "word": "breakthrough", "tr": "průlom", "ex": "A major breakthrough in science." },
+    { "id": 165, "word": "breast", "tr": "prsa / hruď", "ex": "Chicken breast is very lean." },
+    { "id": 166, "word": "breath", "tr": "dech", "ex": "Take a deep breath." },
+    { "id": 167, "word": "breathe", "tr": "dýchat", "ex": "I can hardly breathe here." },
+    { "id": 168, "word": "breathing", "tr": "dýchání", "ex": "Her breathing was slow and steady." },
+    { "id": 169, "word": "breed", "tr": "plemeno / chovat", "ex": "What breed is your dog?" },
+    { "id": 170, "word": "brick", "tr": "cihla", "ex": "The wall is made of red brick." }
+  ]
+}
