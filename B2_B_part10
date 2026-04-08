@@ -1,0 +1,16 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 211, "word": "butter", "tr": "máslo", "ex": "Spread some butter on the bread." },
+    { "id": 212, "word": "button", "tr": "tlačítko / knoflík", "ex": "Press the red button to start." },
+    { "id": 213, "word": "buy", "tr": "koupit", "ex": "Where did you buy that shirt?" },
+    { "id": 214, "word": "buyer", "tr": "kupující", "ex": "The house has a potential buyer." },
+    { "id": 215, "word": "buzz", "tr": "bzučení / vzrušení", "ex": "There is a buzz about the news." },
+    { "id": 216, "word": "by", "tr": "u / vedle / podle / (předložka)", "ex": "The book was written by him." },
+    { "id": 217, "word": "bypass", "tr": "obchvat / obejít", "ex": "We took the new city bypass." },
+    { "id": 218, "word": "bye", "tr": "ahoj / sbohem", "ex": "Bye, see you tomorrow!" }
+  ]
+}
