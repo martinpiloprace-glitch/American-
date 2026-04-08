@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "C",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 111, "word": "cheese", "tr": "sýr", "ex": "I love pasta with extra cheese." },
+    { "id": 112, "word": "chef", "tr": "šéfkuchař", "ex": "The chef prepared a special menu." },
+    { "id": 113, "word": "chemical", "tr": "chemikálie / chemický", "ex": "The lab uses dangerous chemicals." },
+    { "id": 114, "word": "chemist", "tr": "chemik / lékárník", "ex": "Ask the chemist for some advice." },
+    { "id": 115, "word": "chemistry", "tr": "chemie", "ex": "There is a great chemistry between them." },
+    { "id": 116, "word": "chest", "tr": "hruď / truhla", "ex": "He suffered a minor chest injury." },
+    { "id": 117, "word": "chicken", "tr": "kuře", "ex": "Grilled chicken with salad." },
+    { "id": 118, "word": "chief", "tr": "hlavní / náčelník", "ex": "He is the chief executive officer." },
+    { "id": 119, "word": "child", "tr": "dítě", "ex": "Every child deserves an education." },
+    { "id": 120, "word": "childhood", "tr": "dětství", "ex": "I had a very happy childhood." },
+    { "id": 121, "word": "chill", "tr": "chlad / nachlazení / relaxovat", "ex": "Let's just chill out tonight." },
+    { "id": 122, "word": "chin", "tr": "brada", "ex": "He rested his chin in his hand." },
+    { "id": 123, "word": "chip", "tr": "čip / hranolek / odštěpek", "ex": "The computer chip is overheating." },
+    { "id": 124, "word": "chocolate", "tr": "čokoláda", "ex": "A box of dark chocolate." },
+    { "id": 125, "word": "choice", "tr": "výběr / volba", "ex": "You have a difficult choice to make." },
+    { "id": 126, "word": "choir", "tr": "pěvecký sbor", "ex": "He sings in the church choir." },
+    { "id": 127, "word": "choose", "tr": "vybrat si / zvolit", "ex": "Choose the best option for you." },
+    { "id": 128, "word": "chop", "tr": "sekat / kotleta", "ex": "Chop the onions into small pieces." },
+    { "id": 129, "word": "chronic", "tr": "chronický", "ex": "He suffers from chronic back pain." },
+    { "id": 130, "word": "chunk", "tr": "kus / flák", "ex": "A large chunk of ice fell off." }
+  ]
+}
