@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "A",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 181, "word": "anomaly", "tr": "anomálie", "ex": "The test result was an anomaly." },
+    { "id": 182, "word": "anonymous", "tr": "anonymní", "ex": "He received an anonymous call." },
+    { "id": 183, "word": "another", "tr": "další / jiný", "ex": "Would you like another drink?" },
+    { "id": 184, "word": "answer", "tr": "odpověď / odpovědět", "ex": "I need a straight answer." },
+    { "id": 185, "word": "anticipate", "tr": "předvídat / očekávat", "ex": "We anticipate a large crowd." },
+    { "id": 186, "word": "anxiety", "tr": "úzkost / strach", "ex": "He suffers from acute anxiety." },
+    { "id": 187, "word": "anxious", "tr": "úzkostlivý / dychtivý", "ex": "I am anxious to hear the news." },
+    { "id": 188, "word": "any", "tr": "jakýkoli / nějaký", "ex": "Is there any bread left?" },
+    { "id": 189, "word": "anybody", "tr": "kdokoli", "ex": "Does anybody know the time?" },
+    { "id": 190, "word": "anymore", "tr": "už ne (v záporu)", "ex": "I don't live here anymore." },
+    { "id": 191, "word": "anyone", "tr": "kdokoli", "ex": "Anyone can join the club." },
+    { "id": 192, "word": "anything", "tr": "cokoli", "ex": "Is anything wrong?" },
+    { "id": 193, "word": "anyway", "tr": "každopádně", "ex": "I'll do it anyway." },
+    { "id": 194, "word": "anywhere", "tr": "kdekoli / kamkoli", "ex": "I can't find it anywhere." },
+    { "id": 195, "word": "apart", "tr": "stranou / od sebe", "ex": "The two cities are far apart." },
+    { "id": 196, "word": "apartment", "tr": "byt", "ex": "They live in a small apartment." },
+    { "id": 197, "word": "apologetic", "tr": "omluvný", "ex": "He was very apologetic about it." },
+    { "id": 198, "word": "apologize", "tr": "omluvit se", "ex": "You should apologize to her." },
+    { "id": 199, "word": "apology", "tr": "omluva", "ex": "Please accept my apology." },
+    { "id": 200, "word": "app", "tr": "aplikace", "ex": "Download the latest app." }
+  ]
+}
