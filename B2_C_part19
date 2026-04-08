@@ -1,0 +1,18 @@
+{
+  "level": "B2",
+  "letter": "C",
+  "part": 19,
+  "mode": "sentences",
+  "data": [
+    { "id": 501, "word": "curve", "tr": "křivka / zatáčka / zahnout", "ex": "The road has a sharp curve ahead." },
+    { "id": 502, "word": "custody", "tr": "vazba / opatrovnictví", "ex": "The father was granted custody." },
+    { "id": 503, "word": "custom", "tr": "zvyk / tradice", "ex": "It is a local custom to tip well." },
+    { "id": 504, "word": "customer", "tr": "zákazník", "ex": "The customer is always right." },
+    { "id": 505, "word": "customs", "tr": "clo / celnice", "ex": "We had to go through customs." },
+    { "id": 506, "word": "cut", "tr": "řezat / střihat / snížit", "ex": "He cut his finger on the glass." },
+    { "id": 507, "word": "cute", "tr": "roztomilý", "ex": "What a cute little puppy!" },
+    { "id": 508, "word": "cycle", "tr": "cyklus / jezdit na kole", "ex": "The economic cycle is turning." },
+    { "id": 509, "word": "cycling", "tr": "cyklistika", "ex": "Cycling is good for your health." },
+    { "id": 510, "word": "cynical", "tr": "cynický", "ex": "Don't be so cynical about love." }
+  ]
+}
