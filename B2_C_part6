@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "C",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 131, "word": "church", "tr": "kostel / církev", "ex": "The church was built in 1750." },
+    { "id": 132, "word": "cigarette", "tr": "cigareta", "ex": "He lit a cigarette while waiting." },
+    { "id": 133, "word": "cinema", "tr": "kino", "ex": "Let's go to the cinema tonight." },
+    { "id": 134, "word": "circle", "tr": "kruh / kroužek", "ex": "Draw a small circle on the paper." },
+    { "id": 135, "word": "circuit", "tr": "okruh / obvod", "ex": "The race consists of ten circuits." },
+    { "id": 136, "word": "circular", "tr": "kruhový / oběžník", "ex": "The table has a circular shape." },
+    { "id": 137, "word": "circulate", "tr": "kolovat / obíhat", "ex": "Fresh air should circulate in the room." },
+    { "id": 138, "word": "circulation", "tr": "oběh / cirkulace / náklad (tisk)", "ex": "Exercise improves your blood circulation." },
+    { "id": 139, "word": "circumstance", "tr": "okolnost", "ex": "The decision depends on the circumstance." },
+    { "id": 140, "word": "cite", "tr": "citovat / uvádět", "ex": "You must cite all your sources." },
+    { "id": 141, "word": "citizen", "tr": "občan", "ex": "He is a law-abiding citizen." },
+    { "id": 142, "word": "citizenship", "tr": "občanství", "ex": "She applied for dual citizenship." },
+    { "id": 143, "word": "city", "tr": "město (velké)", "ex": "I love the energy of the city." },
+    { "id": 144, "word": "civil", "tr": "občanský / civilní", "ex": "They are fighting for civil rights." },
+    { "id": 145, "word": "civilian", "tr": "civilista / civilní", "ex": "He left the army for civilian life." },
+    { "id": 146, "word": "civilization", "tr": "civilizace", "ex": "The rise and fall of ancient civilization." },
+    { "id": 147, "word": "claim", "tr": "tvrdit / nárokovat / tvrzení", "ex": "He made a false claim about it." },
+    { "id": 148, "word": "clarify", "tr": "objasnit", "ex": "Could you clarify that point, please?" },
+    { "id": 149, "word": "clarity", "tr": "jasnost / srozumitelnost", "ex": "The report lacks clarity and detail." },
+    { "id": 150, "word": "clash", "tr": "střet / srážka / rozpor", "ex": "There was a clash between protesters." }
+  ]
+}
