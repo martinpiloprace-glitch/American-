@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "B",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 111, "word": "blade", "tr": "čepel / ostří", "ex": "The blade of the knife was very sharp." },
+    { "id": 112, "word": "blame", "tr": "vina / vinit", "ex": "Don't blame me for your mistakes." },
+    { "id": 113, "word": "blank", "tr": "prázdný / nepopsaný", "ex": "Leave the last page blank." },
+    { "id": 114, "word": "blast", "tr": "výbuch / odstřel", "ex": "The blast could be heard for miles." },
+    { "id": 115, "word": "bleeding", "tr": "krvácení", "ex": "The wound was bleeding heavily." },
+    { "id": 116, "word": "blend", "tr": "směs / mísit (se)", "ex": "This coffee is a special blend." },
+    { "id": 117, "word": "bless", "tr": "žehnat", "ex": "God bless you!" },
+    { "id": 118, "word": "blind", "tr": "slepý / roleta", "ex": "She has been blind since birth." },
+    { "id": 119, "word": "block", "tr": "blok / blokovat", "ex": "The fallen tree blocked the road." },
+    { "id": 120, "word": "blog", "tr": "blog", "ex": "He writes a blog about travel." },
+    { "id": 121, "word": "blonde", "tr": "blonďatý / blondýna", "ex": "She has long blonde hair." },
+    { "id": 122, "word": "blood", "tr": "krev", "ex": "Blood is thicker than water." },
+    { "id": 123, "word": "blow", "tr": "foukat / rána", "ex": "The wind began to blow hard." },
+    { "id": 124, "word": "blue", "tr": "modrý / smutný", "ex": "The sky is clear and blue." },
+    { "id": 125, "word": "board", "tr": "deska / tabule / nastoupit", "ex": "It's time to board the plane." },
+    { "id": 126, "word": "boast", "tr": "chlubit se", "ex": "He likes to boast about his wealth." },
+    { "id": 127, "word": "boat", "tr": "loď / loďka", "ex": "We took a boat across the lake." },
+    { "id": 128, "word": "body", "tr": "tělo / orgán", "ex": "Keep your body and mind healthy." },
+    { "id": 129, "word": "boil", "tr": "vařit (se) / vřít", "ex": "Boil the water before adding tea." },
+    { "id": 130, "word": "bold", "tr": "odvážný / tučný (písmo)", "ex": "That was a very bold decision." }
+  ]
+}
