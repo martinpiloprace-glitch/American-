@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "fossil", "tr": "fosilie / zkamenělina", "ex": "They found a dinosaur fossil in the desert." },
+    { "id": 177, "word": "foster", "tr": "podporovat / pěstounský", "ex": "The club aims to foster a sense of community." },
+    { "id": 178, "word": "foul", "tr": "odporný / faul / znečistit", "ex": "The air in the cave smelled foul." },
+    { "id": 179, "word": "found", "tr": "založit / nalézt (min. čas)", "ex": "The hospital was founded in 1920." },
+    { "id": 180, "word": "foundation", "tr": "nadace / základ / založení", "ex": "Respect is the foundation of a good marriage." },
+    { "id": 181, "word": "founder", "tr": "zakladatel", "ex": "He is the founder of a successful startup." },
+    { "id": 182, "word": "fountain", "tr": "fontána / kašna", "ex": "There is a large fountain in the square." },
+    { "id": 183, "word": "four", "tr": "čtyři", "ex": "The table has four wooden legs." },
+    { "id": 184, "word": "fourteen", "tr": "čtrnáct", "ex": "I will be back in fourteen days." },
+    { "id": 185, "word": "fourth", "tr": "čtvrtý", "ex": "He finished fourth in the race." },
+    { "id": 186, "word": "fraction", "tr": "zlomek / část / zlomek sekundy", "ex": "He only spent a fraction of his wealth." },
+    { "id": 187, "word": "fragile", "tr": "křehký", "ex": "Be careful with that box, it's fragile." },
+    { "id": 188, "word": "fragment", "tr": "střep / zlomek / úlomek", "ex": "The mirror broke into many fragments." },
+    { "id": 189, "word": "fragrance", "tr": "vůně / parfém", "ex": "The garden was filled with the fragrance of roses." },
+    { "id": 190, "word": "frame", "tr": "rám / rámovat / konstrukce", "ex": "She put the photo in a silver frame." },
+    { "id": 191, "word": "framework", "tr": "rámec / struktura", "ex": "The legal framework is very complex." },
+    { "id": 192, "word": "frankly", "tr": "upřímně", "ex": "Frankly, I don't care what they think." },
+    { "id": 193, "word": "fraud", "tr": "podvod / podvodník", "ex": "He was arrested for credit card fraud." },
+    { "id": 194, "word": "free", "tr": "volný / zdarma / osvobodit", "ex": "Feel free to ask any questions." },
+    { "id": 195, "word": "freedom", "tr": "svoboda", "ex": "Freedom of speech is a basic human right." },
+    { "id": 196, "word": "freely", "tr": "volně / svobodně", "ex": "Information should be allowed to flow freely." },
+    { "id": 197, "word": "freeze", "tr": "mrznout / zmrazit", "ex": "Water will freeze at zero degrees Celsius." },
+    { "id": 198, "word": "freezer", "tr": "mrazák", "ex": "Put the meat in the freezer immediately." },
+    { "id": 199, "word": "frequency", "tr": "frekvence / četnost", "ex": "The frequency of the buses is every ten minutes." },
+    { "id": 200, "word": "frequent", "tr": "častý", "ex": "He is a frequent visitor to this gallery." }
+  ]
+}
