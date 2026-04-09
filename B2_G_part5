@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "G",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "grateful", "tr": "vděčný", "ex": "I am very grateful for your help." },
+    { "id": 102, "word": "gratitude", "tr": "vděčnost", "ex": "I would like to express my gratitude." },
+    { "id": 103, "word": "grave", "tr": "hrob / vážný", "ex": "The situation is very grave." },
+    { "id": 104, "word": "gravity", "tr": "gravitace / vážnost", "ex": "Newton discovered the law of gravity." },
+    { "id": 105, "word": "gray", "tr": "šedý / šedá barva", "ex": "The sky was gray and cloudy." },
+    { "id": 106, "word": "great", "tr": "velký / skvělý", "ex": "It was a great achievement." },
+    { "id": 107, "word": "greatly", "tr": "velmi / značně", "ex": "Your help is greatly appreciated." },
+    { "id": 108, "word": "greed", "tr": "chamtivost", "ex": "He was driven by pure greed." },
+    { "id": 109, "word": "greedy", "tr": "chamtivý / nenasytný", "ex": "Don't be so greedy; leave some for others." },
+    { "id": 110, "word": "green", "tr": "zelený / ekologický", "ex": "The park was full of green trees." },
+    { "id": 111, "word": "greet", "tr": "pozdravit / přivítat", "ex": "She greeted us with a big smile." },
+    { "id": 112, "word": "greeting", "tr": "pozdrav / přivítání", "ex": "He sent his greetings to everyone." },
+    { "id": 113, "word": "grey", "tr": "šedý (UK varianta)", "ex": "She has beautiful grey eyes." },
+    { "id": 114, "word": "grid", "tr": "mřížka / síť", "ex": "The city is laid out on a grid." },
+    { "id": 115, "word": "grief", "tr": "smutek / zármutek", "ex": "She was overcome with grief." },
+    { "id": 116, "word": "grim", "tr": "pochmurný / neúprosný", "ex": "The future looks rather grim." },
+    { "id": 117, "word": "grin", "tr": "široký úsměv / křenit se", "ex": "He had a wide grin on his face." },
+    { "id": 118, "word": "grind", "tr": "mlít / drtit", "ex": "I need to grind some coffee beans." },
+    { "id": 119, "word": "grip", "tr": "stisk / uchopit", "ex": "Keep a tight grip on the rope." },
+    { "id": 120, "word": "grocery", "tr": "potraviny / koloniál", "ex": "I'm going to the grocery store." },
+    { "id": 121, "word": "gross", "tr": "hrubý / odporný", "ex": "What is the gross weight of the package?" },
+    { "id": 122, "word": "ground", "tr": "země / půda / hřiště", "ex": "The ground was wet after the rain." },
+    { "id": 123, "word": "group", "tr": "skupina / seskupit", "ex": "The students worked in small groups." },
+    { "id": 124, "word": "grow", "tr": "růst / pěstovat", "ex": "The company continues to grow." },
+    { "id": 125, "word": "growth", "tr": "růst / rozvoj", "ex": "Economic growth has slowed down." }
+  ]
+}
