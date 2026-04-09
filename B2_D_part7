@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "D",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "device", "tr": "zařízení / přístroj", "ex": "You can connect your device via Bluetooth." },
+    { "id": 152, "word": "devil", "tr": "ďábel", "ex": "The devil is in the details." },
+    { "id": 153, "word": "devise", "tr": "vymyslet / navrhnout", "ex": "We must devise a plan to escape." },
+    { "id": 154, "word": "devote", "tr": "věnovat / zasvětit", "ex": "He decided to devote his life to art." },
+    { "id": 155, "word": "devoted", "tr": "oddaný / zapálený", "ex": "She is a devoted mother of two." },
+    { "id": 156, "word": "devotion", "tr": "oddanost / zbožnost", "ex": "Her devotion to her work is admirable." },
+    { "id": 157, "word": "diagnose", "tr": "diagnostikovat", "ex": "The doctor was able to diagnose the flu." },
+    { "id": 158, "word": "diagnosis", "tr": "diagnóza", "ex": "We are waiting for the final diagnosis." },
+    { "id": 159, "word": "diagram", "tr": "diagram / schéma", "ex": "The diagram shows how the engine works." },
+    { "id": 160, "word": "dial", "tr": "vytočit (číslo) / ciferník", "ex": "Dial 911 in case of emergency." },
+    { "id": 161, "word": "dialogue", "tr": "dialog / rozhovor", "ex": "The movie has very witty dialogue." },
+    { "id": 162, "word": "diamond", "tr": "diamant / kosočtverec", "ex": "She wore a beautiful diamond ring." },
+    { "id": 163, "word": "diary", "tr": "deník", "ex": "I write in my diary every night." },
+    { "id": 164, "word": "dictate", "tr": "diktovat", "ex": "You cannot dictate what I should do." },
+    { "id": 165, "word": "dictatorship", "tr": "diktatura", "ex": "The country suffered under a dictatorship." },
+    { "id": 166, "word": "dictionary", "tr": "slovník", "ex": "Look up the word in the dictionary." },
+    { "id": 167, "word": "die", "tr": "zemřít / kostka", "ex": "Plants will die without water." },
+    { "id": 168, "word": "diet", "tr": "strava / dieta", "ex": "A balanced diet is essential for health." },
+    { "id": 169, "word": "differ", "tr": "lišit se", "ex": "Opinions differ on this subject." },
+    { "id": 170, "word": "difference", "tr": "rozdíl", "ex": "What is the difference between these two?" }
+  ]
+}
