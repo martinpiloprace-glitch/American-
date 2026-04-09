@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "K",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "keen", "tr": "zapálený / nadšený / ostrý", "ex": "He is a keen photographer in his spare time." },
+    { "id": 2, "word": "keep", "tr": "držet / nechat si / pokračovat", "ex": "Please keep the noise down, I'm trying to work." },
+    { "id": 3, "word": "kettle", "tr": "rychlovarná konvice", "ex": "I'll put the kettle on and make some tea." },
+    { "id": 4, "word": "key", "tr": "klíč / klíčový", "ex": "I can't find my car keys anywhere." },
+    { "id": 5, "word": "keyboard", "tr": "klávesnice", "ex": "He typed the password on the keyboard." },
+    { "id": 6, "word": "kick", "tr": "kopnout / kopanec", "ex": "The player was sent off for a dangerous kick." },
+    { "id": 7, "word": "kid", "tr": "dítě / dělat si legraci", "ex": "You're kidding! I don't believe you." },
+    { "id": 8, "word": "kidnap", "tr": "unést (osobu)", "ex": "They planned to kidnap the businessman for ransom." },
+    { "id": 9, "word": "kidney", "tr": "ledvina", "ex": "The patient is waiting for a kidney transplant." },
+    { "id": 10, "word": "kill", "tr": "zabít", "ex": "The frost will kill the young plants." },
+    { "id": 11, "word": "killer", "tr": "vrah / zabiják", "ex": "The police are still searching for the killer." },
+    { "id": 12, "word": "kilogram", "tr": "kilogram", "ex": "I bought a kilogram of apples." },
+    { "id": 13, "word": "kilometer", "tr": "kilometr", "ex": "The nearest gas station is five kilometers away." },
+    { "id": 14, "word": "kind", "tr": "druh / milý / laskavý", "ex": "What kind of music do you like?" },
+    { "id": 15, "word": "kindly", "tr": "laskavě", "ex": "Would you kindly close the door?" },
+    { "id": 16, "word": "kindness", "tr": "laskavost", "ex": "I'll never forget your kindness." },
+    { "id": 17, "word": "king", "tr": "král", "ex": "The king ruled the country for fifty years." },
+    { "id": 18, "word": "kingdom", "tr": "království / říše", "ex": "The lion is the king of the animal kingdom." },
+    { "id": 19, "word": "kiss", "tr": "polibek / líbat", "ex": "She gave him a quick kiss on the cheek." },
+    { "id": 20, "word": "kit", "tr": "sada / vybavení", "ex": "Do you have a first-aid kit in the car?" },
+    { "id": 21, "word": "kitchen", "tr": "kuchyně", "ex": "The kitchen is the heart of the home." },
+    { "id": 22, "word": "knee", "tr": "koleno", "ex": "He fell down and hurt his knee." },
+    { "id": 23, "word": "kneel", "tr": "klečet", "ex": "The children had to kneel on the floor." },
+    { "id": 24, "word": "knife", "tr": "nůž", "ex": "Be careful, that knife is very sharp." },
+    { "id": 25, "word": "knight", "tr": "rytíř", "ex": "The knight fought bravely in the battle." }
+  ]
+}
