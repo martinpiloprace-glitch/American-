@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "H",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "hesitate", "tr": "váhat", "ex": "Don't hesitate to contact me if you need help." },
+    { "id": 77, "word": "hesitation", "tr": "váhání / rozpaků", "ex": "After a moment's hesitation, he agreed." },
+    { "id": 78, "word": "hey", "tr": "hej / ahoj", "ex": "Hey! What are you doing there?" },
+    { "id": 79, "word": "hidden", "tr": "skrytý / schovaný", "ex": "There are no hidden costs in this contract." },
+    { "id": 80, "word": "hide", "tr": "schovat (se) / kůže", "ex": "They used to hide the keys under a rock." },
+    { "id": 81, "word": "hierarchy", "tr": "hierarchie", "ex": "There is a strict hierarchy within the company." },
+    { "id": 82, "word": "high", "tr": "vysoký / vysoko", "ex": "The mountain is very high." },
+    { "id": 83, "word": "highlight", "tr": "zvýraznit / zlatý hřeb", "ex": "The highlight of the trip was the boat ride." },
+    { "id": 84, "word": "highly", "tr": "vysoce / velmi", "ex": "She is a highly skilled professional." },
+    { "id": 85, "word": "highway", "tr": "dálnice / hlavní silnice", "ex": "The highway was closed due to an accident." },
+    { "id": 86, "word": "hilarious", "tr": "velmi vtipný / k popukání", "ex": "The movie we saw last night was hilarious." },
+    { "id": 87, "word": "hill", "tr": "kopec / pahorek", "ex": "They built their house on top of a hill." },
+    { "id": 88, "word": "him", "tr": "ho / jemu / jím", "ex": "I saw him at the supermarket yesterday." },
+    { "id": 89, "word": "himself", "tr": "se / sebe (on)", "ex": "He cut himself while shaving." },
+    { "id": 90, "word": "hint", "tr": "nápověda / náznak / naznačit", "ex": "He gave me a hint about my surprise gift." },
+    { "id": 91, "word": "hip", "tr": "bok / kyčel", "ex": "She stood with her hands on her hips." },
+    { "id": 92, "word": "hire", "tr": "najmout / pronajmout", "ex": "We decided to hire a car for the weekend." },
+    { "id": 93, "word": "historian", "tr": "historik", "ex": "The historian wrote a book about the war." },
+    { "id": 94, "word": "historic", "tr": "historicky významný", "ex": "It was a historic moment for the country." },
+    { "id": 95, "word": "historical", "tr": "historický / dějepisný", "ex": "I enjoy reading historical novels." },
+    { "id": 96, "word": "history", "tr": "historie / dějepis", "ex": "History was my favorite subject." },
+    { "id": 97, "word": "hit", "tr": "uhodit / trefit / hit", "ex": "The ball hit the window and broke it." },
+    { "id": 98, "word": "hobby", "tr": "koníček / záliba", "ex": "My main hobby is photography." },
+    { "id": 99, "word": "hold", "tr": "držet / pořádat", "ex": "Can you hold this for a second?" },
+    { "id": 100, "word": "holder", "tr": "držitel / držák", "ex": "He is the current record holder." }
+  ]
+}
