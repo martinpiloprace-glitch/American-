@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "G",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "girlfriend", "tr": "přítelkyně", "ex": "He is going out with his girlfriend tonight." },
+    { "id": 52, "word": "give", "tr": "dát / darovat", "ex": "Can you give me a hand with this box?" },
+    { "id": 53, "word": "glad", "tr": "rád / potěšený", "ex": "I'm so glad to hear that you're okay." },
+    { "id": 54, "word": "glance", "tr": "letmý pohled / pohlédnout", "ex": "He took a quick glance at his watch." },
+    { "id": 55, "word": "glass", "tr": "sklo / sklenice", "ex": "The window is made of reinforced glass." },
+    { "id": 56, "word": "glimpse", "tr": "zahlédnout / letmý vhled", "ex": "I caught a glimpse of the celebrity." },
+    { "id": 57, "word": "global", "tr": "globální / celosvětový", "ex": "Climate change is a global problem." },
+    { "id": 58, "word": "globalization", "tr": "globalizace", "ex": "The book explores the effects of globalization." },
+    { "id": 59, "word": "globe", "tr": "zeměkoule / globus", "ex": "They have traveled all around the globe." },
+    { "id": 60, "word": "gloomy", "tr": "temný / ponurý / sklíčený", "ex": "It was a gloomy, rainy afternoon." },
+    { "id": 61, "word": "glorious", "tr": "slavný / nádherný", "ex": "The weather today is absolutely glorious." },
+    { "id": 62, "word": "glory", "tr": "sláva", "ex": "He was at the peak of his glory." },
+    { "id": 63, "word": "glossary", "tr": "slovníček / glosář", "ex": "There is a glossary at the back of the book." },
+    { "id": 64, "word": "glove", "tr": "rukavice", "ex": "Don't forget to wear your gloves; it's cold." },
+    { "id": 65, "word": "glow", "tr": "zář / zářit", "ex": "The city lights created a warm glow." },
+    { "id": 66, "word": "glue", "tr": "lepidlo / lepit", "ex": "Use a strong glue to fix the broken vase." },
+    { "id": 67, "word": "go", "tr": "jít / jet / fungovat", "ex": "I have to go to the dentist tomorrow." },
+    { "id": 68, "word": "goal", "tr": "cíl / gól", "ex": "His main goal is to finish his degree." },
+    { "id": 69, "word": "goat", "tr": "koza", "ex": "They keep goats for their milk." },
+    { "id": 70, "word": "god", "tr": "bůh", "ex": "Many people pray to God for help." },
+    { "id": 71, "word": "gold", "tr": "zlato / zlatý", "ex": "She was wearing a beautiful gold necklace." },
+    { "id": 72, "word": "golden", "tr": "zlatý", "ex": "This is a golden opportunity for you." },
+    { "id": 73, "word": "golf", "tr": "golf", "ex": "He likes to play golf on Sundays." },
+    { "id": 74, "word": "good", "tr": "dobrý / zboží (mn. č.)", "ex": "The news was very good indeed." },
+    { "id": 75, "word": "goodbye", "tr": "sbohem / na shledanou", "ex": "She waved goodbye as the train left." }
+  ]
+}
