@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "H",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "heap", "tr": "hromada / kupa", "ex": "There was a heap of clothes on the floor." },
+    { "id": 52, "word": "hear", "tr": "slyšet", "ex": "Can you hear me clearly?" },
+    { "id": 53, "word": "hearing", "tr": "sluch / slyšení / výslech", "ex": "He has a very good sense of hearing." },
+    { "id": 54, "word": "heart", "tr": "srdce", "ex": "Regular exercise is good for the heart." },
+    { "id": 55, "word": "heat", "tr": "teplo / horko / ohřát", "ex": "The heat was unbearable in the desert." },
+    { "id": 56, "word": "heated", "tr": "vyhřívaný / vášnivý (diskuze)", "ex": "They had a heated argument about politics." },
+    { "id": 57, "word": "heater", "tr": "topení / ohřívač", "ex": "I turned on the electric heater." },
+    { "id": 58, "word": "heaven", "tr": "nebe / ráj", "ex": "This place is a piece of heaven on earth." },
+    { "id": 59, "word": "heavily", "tr": "těžce / silně", "ex": "It was raining heavily all night." },
+    { "id": 60, "word": "heavy", "tr": "těžký", "ex": "This suitcase is too heavy to carry." },
+    { "id": 61, "word": "height", "tr": "výška", "ex": "The mountain is 3,000 meters in height." },
+    { "id": 62, "word": "heighten", "tr": "zvýšit / umocnit", "ex": "The tension began to heighten." },
+    { "id": 63, "word": "helicopter", "tr": "vrtulník", "ex": "The injured man was taken away by helicopter." },
+    { "id": 64, "word": "hell", "tr": "peklo", "ex": "The journey was a complete hell." },
+    { "id": 65, "word": "hello", "tr": "ahoj / dobrý den", "ex": "He said hello to everyone." },
+    { "id": 66, "word": "helmet", "tr": "helma / přilba", "ex": "You must wear a helmet on a motorbike." },
+    { "id": 67, "word": "help", "tr": "pomoc / pomoci", "ex": "Thank you for all your help." },
+    { "id": 68, "word": "helpful", "tr": "nápomocný / užitečný", "ex": "The staff were very friendly and helpful." },
+    { "id": 69, "word": "hence", "tr": "proto / z toho důvodu", "ex": "He is injured, hence his absence." },
+    { "id": 70, "word": "her", "tr": "její / ji / jí", "ex": "I gave her the keys." },
+    { "id": 71, "word": "herb", "tr": "bylina / bylinka", "ex": "Basil is a popular herb in Italian cooking." },
+    { "id": 72, "word": "here", "tr": "zde / tady", "ex": "Come here and sit down." },
+    { "id": 73, "word": "heritage", "tr": "dědictví / odkaz", "ex": "The castle is part of our national heritage." },
+    { "id": 74, "word": "hero", "tr": "hrdina", "ex": "He is a national hero." },
+    { "id": 75, "word": "herself", "tr": "se / sebe (ona)", "ex": "She lives by herself in a big house." }
+  ]
+}
