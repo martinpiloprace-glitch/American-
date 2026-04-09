@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "internet", "tr": "internet", "ex": "I use the internet to look for information." },
+    { "id": 202, "word": "interpret", "tr": "interpretovat / tlumočit", "ex": "How do you interpret these results?" },
+    { "id": 203, "word": "interpretation", "tr": "interpretace / výklad", "ex": "Her interpretation of the poem was unique." },
+    { "id": 204, "word": "interpreter", "tr": "tlumočník", "ex": "The president spoke through an interpreter." },
+    { "id": 205, "word": "interrupt", "tr": "přerušit / vyrušit", "ex": "I'm sorry to interrupt, but there's a phone call." },
+    { "id": 206, "word": "interruption", "tr": "přerušení / vyrušení", "ex": "Please continue without any more interruptions." },
+    { "id": 207, "word": "interval", "tr": "interval / přestávka", "ex": "There was a short interval between the acts." },
+    { "id": 208, "word": "intervene", "tr": "zasáhnout / vložit se", "ex": "The police had to intervene to stop the fight." },
+    { "id": 209, "word": "intervention", "tr": "intervence / zásah", "ex": "Military intervention was seen as a last resort." },
+    { "id": 210, "word": "interview", "tr": "pohovor / rozhovor", "ex": "I have a job interview tomorrow morning." },
+    { "id": 211, "word": "intimate", "tr": "důvěrný / intimní", "ex": "They had an intimate wedding with only family." },
+    { "id": 212, "word": "into", "tr": "do / v", "ex": "She walked into the room." },
+    { "id": 213, "word": "intrigue", "tr": "zaujmout / intrika / pleticha", "ex": "The mystery began to intrigue her." },
+    { "id": 214, "word": "intrinsic", "tr": "vnitřní / podstatný / přirozený", "ex": "Flexibility is intrinsic to the creative process." },
+    { "id": 215, "word": "introduce", "tr": "představit / zavést", "ex": "Let me introduce you to my sister." },
+    { "id": 216, "word": "introduction", "tr": "úvod / představení", "ex": "The book has a very long introduction." },
+    { "id": 217, "word": "invade", "tr": "vtrhnout / napadnout / invaze", "ex": "The army prepared to invade the country." },
+    { "id": 218, "word": "invasion", "tr": "invaze / vpád", "ex": "The invasion began at dawn." },
+    { "id": 219, "word": "invalid", "tr": "neplatný / invalida", "ex": "Your passport is invalid." },
+    { "id": 220, "word": "invaluable", "tr": "neocenitelný", "ex": "Your advice has been invaluable to me." },
+    { "id": 221, "word": "invariably", "tr": "neustále / pokaždé", "ex": "He invariably arrives late for meetings." },
+    { "id": 222, "word": "invent", "tr": "vynalézt / vymyslet si", "ex": "Who invented the telephone?" },
+    { "id": 223, "word": "invention", "tr": "vynález", "ex": "The wheel was a revolutionary invention." },
+    { "id": 224, "word": "inventory", "tr": "inventář / zásoby", "ex": "We need to do an inventory of the warehouse." },
+    { "id": 225, "word": "invest", "tr": "investovat", "ex": "You should invest your money in property." }
+  ]
+}
