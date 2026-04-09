@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "G",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "gadget", "tr": "přístroj / vychytávka", "ex": "Kitchen gadgets make cooking much easier." },
+    { "id": 2, "word": "gain", "tr": "získat / nárůst / zisk", "ex": "What do you hope to gain from this experience?" },
+    { "id": 3, "word": "galaxy", "tr": "galaxie", "ex": "Our galaxy is called the Milky Way." },
+    { "id": 4, "word": "gallery", "tr": "galerie", "ex": "The art gallery is closed on Mondays." },
+    { "id": 5, "word": "gamble", "tr": "hazardovat / risk / hazard", "ex": "It's a gamble, but I think it will work." },
+    { "id": 6, "word": "gambling", "tr": "hazardní hraní", "ex": "He lost a lot of money through gambling." },
+    { "id": 7, "word": "game", "tr": "hra / zápas / zvěřina", "ex": "Let's play a game of chess." },
+    { "id": 8, "word": "gang", "tr": "gang / parta", "ex": "A gang of teenagers was hanging out on the corner." },
+    { "id": 9, "word": "gap", "tr": "mezera / propast / rozdíl", "ex": "There is a huge gap between the rich and the poor." },
+    { "id": 10, "word": "garage", "tr": "garáž / servis", "ex": "I left my car at the garage for a service." },
+    { "id": 11, "word": "garbage", "tr": "odpadky / nesmysl", "ex": "Don't forget to take the garbage out." },
+    { "id": 12, "word": "garden", "tr": "zahrada", "ex": "The children are playing in the garden." },
+    { "id": 13, "word": "garlic", "tr": "česnek", "ex": "I added two cloves of garlic to the sauce." },
+    { "id": 14, "word": "gas", "tr": "plyn / benzín (US)", "ex": "Do you cook with gas or electricity?" },
+    { "id": 15, "word": "gasoline", "tr": "benzín", "ex": "The price of gasoline is rising again." },
+    { "id": 16, "word": "gate", "tr": "brána / branka / východ (letiště)", "ex": "Your flight is departing from gate 12." },
+    { "id": 17, "word": "gather", "tr": "shromáždit (se) / sbírat", "ex": "A crowd began to gather outside the building." },
+    { "id": 18, "word": "gathering", "tr": "shromáždění / setkání", "ex": "It was a small family gathering." },
+    { "id": 19, "word": "gauge", "tr": "měřidlo / měřit / posoudit", "ex": "It is difficult to gauge his reaction." },
+    { "id": 20, "word": "gear", "tr": "vybavení / převod / rychlost", "ex": "Don't forget to pack your hiking gear." },
+    { "id": 21, "word": "gender", "tr": "pohlaví / rod", "ex": "The survey asks for your age and gender." },
+    { "id": 22, "word": "gene", "tr": "gen", "ex": "Scientists have identified the gene responsible for the disease." },
+    { "id": 23, "word": "general", "tr": "obecný / generál / hlavní", "ex": "In general, I prefer cold weather." },
+    { "id": 24, "word": "generalization", "tr": "zobecnění", "ex": "It's a dangerous generalization to make." },
+    { "id": 25, "word": "generalize", "tr": "zobecňovat", "ex": "It's hard to generalize about entire generations." }
+  ]
+}
