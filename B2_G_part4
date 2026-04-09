@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "G",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "goodness", "tr": "dobrota / laskavost", "ex": "Thank goodness you are safe!" },
+    { "id": 77, "word": "goods", "tr": "zboží", "ex": "The shop sells leather goods." },
+    { "id": 78, "word": "gorgeous", "tr": "nádherný / úchvatný", "ex": "You look gorgeous in that dress." },
+    { "id": 79, "word": "govern", "tr": "vládnout / spravovat", "ex": "The country is hard to govern." },
+    { "id": 80, "word": "governance", "tr": "správa / řízení", "ex": "Good corporate governance is essential." },
+    { "id": 81, "word": "government", "tr": "vláda", "ex": "The government announced new taxes." },
+    { "id": 82, "word": "governor", "tr": "guvernér / místodržící", "ex": "The governor signed the new bill." },
+    { "id": 83, "word": "grab", "tr": "uchopit / popadnout", "ex": "Let's grab a coffee before work." },
+    { "id": 84, "word": "grace", "tr": "půvab / milost", "ex": "She moved with great grace." },
+    { "id": 85, "word": "graceful", "tr": "půvabný / elegantní", "ex": "The dancers were very graceful." },
+    { "id": 86, "word": "grade", "tr": "stupeň / známka / třída", "ex": "He got a high grade in the exam." },
+    { "id": 87, "word": "gradual", "tr": "postupný", "ex": "There has been a gradual improvement." },
+    { "id": 88, "word": "gradually", "tr": "postupně", "ex": "The weather is gradually getting warmer." },
+    { "id": 89, "word": "graduate", "tr": "absolvent / absolvovat", "ex": "She is a graduate of Harvard University." },
+    { "id": 90, "word": "graduation", "tr": "promoce / absolvování", "ex": "The whole family attended his graduation." },
+    { "id": 91, "word": "grain", "tr": "zrno / obilí", "ex": "The farmers are harvesting the grain." },
+    { "id": 92, "word": "grand", "tr": "velkolepý / hlavní", "ex": "The hotel has a grand entrance." },
+    { "id": 93, "word": "grandfather", "tr": "dědeček", "ex": "My grandfather is eighty years old." },
+    { "id": 94, "word": "grandmother", "tr": "babička", "ex": "Her grandmother lives in the country." },
+    { "id": 95, "word": "grandparent", "tr": "prarodič", "ex": "Children should spend time with their grandparents." },
+    { "id": 96, "word": "grant", "tr": "grant / dotace / udělit", "ex": "They received a grant for their research." },
+    { "id": 97, "word": "graph", "tr": "graf / diagram", "ex": "The graph shows a rise in sales." },
+    { "id": 98, "word": "graphics", "tr": "grafika", "ex": "The game has amazing graphics." },
+    { "id": 99, "word": "grasp", "tr": "pochopit / uchopit", "ex": "He failed to grasp the importance of the situation." },
+    { "id": 100, "word": "grass", "tr": "tráva", "ex": "Please keep off the grass." }
+  ]
+}
