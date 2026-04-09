@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "G",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "generally", "tr": "obecně / většinou", "ex": "I generally get up at seven o'clock." },
+    { "id": 27, "word": "generate", "tr": "vytvořit / generovat", "ex": "The wind turbines generate electricity for the village." },
+    { "id": 28, "word": "generation", "tr": "generace", "ex": "This traditions has been passed down for generations." },
+    { "id": 29, "word": "generator", "tr": "generátor", "ex": "The hospital has an emergency power generator." },
+    { "id": 30, "word": "generosity", "tr": "velkorysost / štědrost", "ex": "We were overwhelmed by their generosity." },
+    { "id": 31, "word": "generous", "tr": "velkorysý / štědrý", "ex": "Thank you for your generous donation." },
+    { "id": 32, "word": "generously", "tr": "velkoryse / štědře", "ex": "He gave generously to the local charity." },
+    { "id": 33, "word": "genetic", "tr": "genetický", "ex": "Some diseases are linked to genetic factors." },
+    { "id": 34, "word": "genetics", "tr": "genetika", "ex": "She is doing research in the field of genetics." },
+    { "id": 35, "word": "genius", "tr": "génius / genialita", "ex": "You don't have to be a genius to see the problem." },
+    { "id": 36, "word": "genre", "tr": "žánr", "ex": "What is your favorite genre of movies?" },
+    { "id": 37, "word": "gentle", "tr": "jemný / mírný / laskavý", "ex": "He gave her a gentle squeeze on the shoulder." },
+    { "id": 38, "word": "gentleman", "tr": "pán / gentleman", "ex": "He is a perfect gentleman in every way." },
+    { "id": 39, "word": "gently", "tr": "jemně / mírně", "ex": "She gently rocked the baby to sleep." },
+    { "id": 40, "word": "genuine", "tr": "pravý / ryzí / upřímný", "ex": "Is this a genuine leather jacket?" },
+    { "id": 41, "word": "genuinely", "tr": "skutečně / upřímně", "ex": "I am genuinely sorry for the mistake." },
+    { "id": 42, "word": "geography", "tr": "zeměpis / geografie", "ex": "Geography was my favorite subject at school." },
+    { "id": 43, "word": "geology", "tr": "geologie", "ex": "He is studying the geology of the region." },
+    { "id": 44, "word": "gesture", "tr": "gesto / posunek", "ex": "It was a kind gesture to offer us a ride." },
+    { "id": 45, "word": "get", "tr": "dostat / získat / pochopit", "ex": "I need to get some milk from the shop." },
+    { "id": 46, "word": "ghost", "tr": "duch", "ex": "Do you believe in ghosts?" },
+    { "id": 47, "word": "giant", "tr": "obří / obor", "ex": "The project was a giant leap forward." },
+    { "id": 48, "word": "gift", "tr": "dar / dárek / talent", "ex": "She has a natural gift for music." },
+    { "id": 49, "word": "gifted", "tr": "nadaný / talentovaný", "ex": "He is a gifted pianist." },
+    { "id": 50, "word": "girl", "tr": "dívka / holka", "ex": "The little girl was crying for her mother." }
+  ]
+}
