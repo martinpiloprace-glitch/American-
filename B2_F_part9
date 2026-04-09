@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "frequently", "tr": "často", "ex": "The trains are frequently delayed." },
+    { "id": 202, "word": "fresh", "tr": "čerstvý / svěží", "ex": "I love the smell of fresh bread." },
+    { "id": 203, "word": "friction", "tr": "tření / napětí", "ex": "There is some friction between the two colleagues." },
+    { "id": 204, "word": "Friday", "tr": "pátek", "ex": "I'm looking forward to Friday night." },
+    { "id": 305, "word": "fridge", "tr": "lednice", "ex": "Is there any milk in the fridge?" },
+    { "id": 206, "word": "friend", "tr": "přítel / kamarád", "ex": "He has been my best friend since childhood." },
+    { "id": 207, "word": "friendly", "tr": "přátelský", "ex": "The local people are very friendly." },
+    { "id": 208, "word": "friendship", "tr": "přátelství", "ex": "Their friendship lasted for a lifetime." },
+    { "id": 209, "word": "frightened", "tr": "vystrašený", "ex": "She was frightened of the dark." },
+    { "id": 210, "word": "frightening", "tr": "strašidelný / děsivý", "ex": "It was a truly frightening experience." },
+    { "id": 211, "word": "frog", "tr": "žába", "ex": "A green frog jumped into the pond." },
+    { "id": 212, "word": "from", "tr": "z / od", "ex": "Where are you from?" },
+    { "id": 213, "word": "front", "tr": "přední / předek / čelo", "ex": "The car was damaged at the front." },
+    { "id": 214, "word": "frontier", "tr": "hranice / pomezí", "ex": "The soldiers were guarding the frontier." },
+    { "id": 215, "word": "frost", "tr": "mráz / jinovatka", "ex": "The grass was covered in frost this morning." },
+    { "id": 216, "word": "frown", "tr": "mračit se", "ex": "He began to frown as he read the letter." },
+    { "id": 217, "word": "frozen", "tr": "zmrzlý / zmražený", "ex": "The lake is completely frozen over." },
+    { "id": 218, "word": "fruit", "tr": "ovoce / plod", "ex": "You should eat more fresh fruit." },
+    { "id": 219, "word": "fruitful", "tr": "plodný / úspěšný", "ex": "We had a very fruitful discussion." },
+    { "id": 220, "word": "frustrate", "tr": "frustrovat / zmařit", "ex": "The lack of progress began to frustrate him." },
+    { "id": 221, "word": "frustrated", "tr": "frustrovaný / otrávený", "ex": "I feel frustrated by the constant delays." },
+    { "id": 222, "word": "frustrating", "tr": "frustrující", "ex": "It's frustrating when you can't find your keys." },
+    { "id": 223, "word": "frustration", "tr": "frustrace", "ex": "He threw his pen down in frustration." },
+    { "id": 224, "word": "fry", "tr": "smažit / potěr", "ex": "Fry the onions until they are golden brown." },
+    { "id": 225, "word": "fuel", "tr": "palivo / pohánět", "ex": "The car ran out of fuel on the highway." }
+  ]
+}
