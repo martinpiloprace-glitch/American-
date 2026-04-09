@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "fabric", "tr": "tkanina / látka / struktura", "ex": "The fabric of the sofa is very soft." },
+    { "id": 2, "word": "fabricate", "tr": "vymyslet si / vyrobit", "ex": "He tried to fabricate an alibi." },
+    { "id": 3, "word": "fabulous", "tr": "skvělý / báječný", "ex": "We had a fabulous time at the party." },
+    { "id": 4, "word": "face", "tr": "obličej / čelit", "ex": "You have to face your fears." },
+    { "id": 5, "word": "facilitate", "tr": "usnadnit / napomáhat", "ex": "Modern technology can facilitate learning." },
+    { "id": 6, "word": "facility", "tr": "zařízení / vybavení / talent", "ex": "The hotel has great sports facilities." },
+    { "id": 7, "word": "fact", "tr": "fakt / skutečnost", "ex": "It's a well-known fact." },
+    { "id": 8, "word": "factor", "tr": "faktor / činitel", "ex": "Price is a key factor in our decision." },
+    { "id": 9, "word": "factory", "tr": "továrna", "ex": "He works in a car factory." },
+    { "id": 10, "word": "faculty", "tr": "fakulta / schopnost", "ex": "She is a member of the law faculty." },
+    { "id": 11, "word": "fade", "tr": "blednout / vytrácet se", "ex": "The colors will fade in the sun." },
+    { "id": 12, "word": "fail", "tr": "selhat / neuspět", "ex": "I hope I don't fail the test." },
+    { "id": 13, "word": "failure", "tr": "selhání / neúspěch", "ex": "The mission ended in failure." },
+    { "id": 14, "word": "faint", "tr": "slabý / omdlít", "ex": "She felt faint from the heat." },
+    { "id": 15, "word": "fair", "tr": "spravedlivý / fér / světlý", "ex": "That's not a fair comparison." },
+    { "id": 16, "word": "fairly", "tr": "docela / spravedlivě", "ex": "The test was fairly difficult." },
+    { "id": 17, "word": "fairness", "tr": "spravedlnost / férovost", "ex": "I demand fairness for everyone." },
+    { "id": 18, "word": "faith", "tr": "víra / důvěra", "ex": "I have faith in your abilities." },
+    { "id": 19, "word": "faithful", "tr": "věrný", "ex": "He has been a faithful friend." },
+    { "id": 20, "word": "fake", "tr": "falešný / padělek", "ex": "The painting turned out to be a fake." },
+    { "id": 21, "word": "fall", "tr": "padat / pád / podzim", "ex": "Be careful not to fall." },
+    { "id": 22, "word": "false", "tr": "falešný / nesprávný", "ex": "The accusations were false." },
+    { "id": 23, "word": "fame", "tr": "sláva", "ex": "He achieved fame at a young age." },
+    { "id": 24, "word": "familiar", "tr": "povědomý / známý", "ex": "His face looks very familiar." },
+    { "id": 25, "word": "family", "tr": "rodina", "ex": "I'm spending the weekend with my family." }
+  ]
+}
