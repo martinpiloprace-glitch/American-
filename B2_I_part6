@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "initiative", "tr": "iniciativa / podnět", "ex": "The peace initiative was welcomed by both sides." },
+    { "id": 127, "word": "inject", "tr": "vstříknout / vpravit", "ex": "The nurse had to inject the medicine into his arm." },
+    { "id": 128, "word": "injection", "tr": "injekce", "ex": "I had to have an injection against tetanus." },
+    { "id": 129, "word": "injure", "tr": "zranit / poranit", "ex": "He managed to injure his back while lifting weights." },
+    { "id": 130, "word": "injured", "tr": "zraněný", "ex": "The injured man was taken to the hospital." },
+    { "id": 131, "word": "injury", "tr": "zranění / úraz", "ex": "She suffered a serious head injury in the accident." },
+    { "id": 132, "word": "ink", "tr": "inkoust", "ex": "The pen ran out of ink right in the middle of the exam." },
+    { "id": 133, "word": "inn", "tr": "hostinec / hospoda", "ex": "We stayed at a charming old inn in the village." },
+    { "id": 134, "word": "inner", "tr": "vnitřní", "ex": "Yoga helps you find your inner peace." },
+    { "id": 135, "word": "innocent", "tr": "nevinný", "ex": "He insists that he is innocent of the crime." },
+    { "id": 136, "word": "innovation", "tr": "inovace / novinka", "ex": "The company is famous for its technological innovation." },
+    { "id": 137, "word": "innovative", "tr": "inovativní / novátorský", "ex": "They have developed an innovative solution to the problem." },
+    { "id": 138, "word": "input", "tr": "vstup / vklad / přínos", "ex": "We need more input from the marketing department." },
+    { "id": 139, "word": "inquiry", "tr": "dotaz / vyšetřování", "ex": "The police are conducting an inquiry into the matter." },
+    { "id": 140, "word": "insane", "tr": "šílený / bláznivý", "ex": "It's insane to drive so fast in this fog." },
+    { "id": 141, "word": "insect", "tr": "hmyz", "ex": "An ant is a type of insect." },
+    { "id": 142, "word": "insert", "tr": "vložit / vsunout", "ex": "Please insert your card into the machine." },
+    { "id": 143, "word": "inside", "tr": "uvnitř / vnitřek", "ex": "It was very cold outside, but warm inside." },
+    { "id": 144, "word": "insight", "tr": "vhled / pochopení / porozumění", "ex": "The book provides a fascinating insight into his life." },
+    { "id": 145, "word": "insist", "tr": "trvat na (čem)", "ex": "I must insist that you leave immediately." },
+    { "id": 146, "word": "insistence", "tr": "naléhání / trvání na něčem", "ex": "At his mother's insistence, he wore a coat." },
+    { "id": 147, "word": "inspect", "tr": "kontrolovat / prohlížet", "ex": "The engineers came to inspect the bridge." },
+    { "id": 148, "word": "inspection", "tr": "prohlídka / revize / inspekce", "ex": "The building is due for a fire safety inspection." },
+    { "id": 149, "word": "inspector", "tr": "inspektor / revizor", "ex": "A ticket inspector got on the bus." },
+    { "id": 150, "word": "inspiration", "tr": "inspirace", "ex": "Nature is a great source of inspiration for her." }
+  ]
+}
