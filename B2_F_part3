@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "feather", "tr": "pírko / peří", "ex": "The bird has colorful feathers." },
+    { "id": 52, "word": "feature", "tr": "vlastnost / rys / hlavní film", "ex": "Safety is a key feature of this car." },
+    { "id": 53, "word": "February", "tr": "únor", "ex": "The weather is usually cold in February." },
+    { "id": 54, "word": "federal", "tr": "federální / spolkový", "ex": "The federal government passed a new law." },
+    { "id": 55, "word": "fee", "tr": "poplatek", "ex": "You have to pay an entrance fee." },
+    { "id": 56, "word": "feed", "tr": "krmit / podávat", "ex": "Don't forget to feed the cat." },
+    { "id": 57, "word": "feedback", "tr": "zpětná vazba", "ex": "We would appreciate your feedback." },
+    { "id": 58, "word": "feel", "tr": "cítit (se) / hmat", "ex": "I feel much better today." },
+    { "id": 59, "word": "feeling", "tr": "pocit / emoce", "ex": "I had a feeling that you would come." },
+    { "id": 60, "word": "fellow", "tr": "chlapík / kolega / spolu-", "ex": "He is a very pleasant young fellow." },
+    { "id": 61, "word": "female", "tr": "ženský / samice", "ex": "The company has many female employees." },
+    { "id": 62, "word": "feminine", "tr": "ženský (vlastnosti)", "ex": "She has a very feminine style." },
+    { "id": 63, "word": "fence", "tr": "plot / šermovat", "ex": "He built a wooden fence around the garden." },
+    { "id": 64, "word": "festival", "tr": "festival / slavnost", "ex": "We are going to a music festival." },
+    { "id": 65, "word": "fetch", "tr": "přinést / dojít pro", "ex": "Could you fetch some water, please?" },
+    { "id": 66, "word": "fever", "tr": "horečka", "ex": "He has a high fever and a headache." },
+    { "id": 67, "word": "few", "tr": "málo / pár", "ex": "There are only a few cookies left." },
+    { "id": 68, "word": "fiber", "tr": "vlákno / vláknina", "ex": "Fruit is a good source of fiber." },
+    { "id": 69, "word": "fiction", "tr": "beletrie / fikce", "ex": "I prefer reading fiction to non-fiction." },
+    { "id": 70, "word": "field", "tr": "pole / obor / hřiště", "ex": "He is an expert in his field." },
+    { "id": 71, "word": "fierce", "tr": "krutý / divoký / prudký", "ex": "There was fierce competition between them." },
+    { "id": 72, "word": "fifteen", "tr": "patnáct", "ex": "The bus leaves in fifteen minutes." },
+    { "id": 73, "word": "fifth", "tr": "pátý", "ex": "This is the fifth time I've called." },
+    { "id": 74, "word": "fifty", "tr": "padesát", "ex": "She celebrated her fifty-first birthday." },
+    { "id": 75, "word": "fight", "tr": "bojovat / boj / hádka", "ex": "They are fighting for their rights." }
+  ]
+}
