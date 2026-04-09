@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "flower", "tr": "květina / kvést", "ex": "He gave her a bunch of flowers." },
+    { "id": 127, "word": "flu", "tr": "chřipka", "ex": "I couldn't go to work because I had the flu." },
+    { "id": 128, "word": "fluctuate", "tr": "kolísat / měnit se", "ex": "Prices tend to fluctuate according to demand." },
+    { "id": 129, "word": "fluctuation", "tr": "kolísání / výkyv", "ex": "Small fluctuations in temperature are normal." },
+    { "id": 130, "word": "fluency", "tr": "plynulost", "ex": "The job requires fluency in English." },
+    { "id": 131, "word": "fluent", "tr": "plynulý / plynule mluvící", "ex": "She is fluent in three languages." },
+    { "id": 132, "word": "fluid", "tr": "tekutina / kapalina / měnlivý", "ex": "The situation remains very fluid." },
+    { "id": 133, "word": "fly", "tr": "létat / moucha", "ex": "Birds fly south for the winter." },
+    { "id": 134, "word": "focus", "tr": "soustředit se / ohnisko", "ex": "You need to focus on your studies." },
+    { "id": 135, "word": "fog", "tr": "mlha", "ex": "The mountain was covered in thick fog." },
+    { "id": 136, "word": "fold", "tr": "složit / přeložit", "ex": "Fold the paper in half." },
+    { "id": 137, "word": "folk", "tr": "lidový / lidé", "ex": "I enjoy listening to traditional folk music." },
+    { "id": 138, "word": "follow", "tr": "následovat / sledovat", "ex": "Please follow me to the office." },
+    { "id": 139, "word": "following", "tr": "následující", "ex": "The following day, we left for Paris." },
+    { "id": 140, "word": "fond", "tr": "mající rád (koho/co)", "ex": "I am very fond of classical music." },
+    { "id": 141, "word": "food", "tr": "jídlo / potraviny", "ex": "The food at the restaurant was delicious." },
+    { "id": 142, "word": "fool", "tr": "blázen / hlupák / obelstít", "ex": "Don't let him fool you with his lies." },
+    { "id": 143, "word": "foot", "tr": "noha (chodidlo) / stopa (jednotka)", "ex": "He stepped on my foot by accident." },
+    { "id": 144, "word": "footage", "tr": "záběry / videozáznam", "ex": "The police examined the CCTV footage." },
+    { "id": 145, "word": "football", "tr": "fotbal", "ex": "He plays football every Saturday." },
+    { "id": 146, "word": "for", "tr": "pro / za / po dobu", "ex": "I have a present for you." },
+    { "id": 147, "word": "forbid", "tr": "zakázat", "ex": "The rules forbid smoking in the building." },
+    { "id": 148, "word": "forbidden", "tr": "zakázaný", "ex": "Entrance to the private area is forbidden." },
+    { "id": 149, "word": "force", "tr": "síla / nutit / násilí", "ex": "They used force to open the door." },
+    { "id": 150, "word": "forecast", "tr": "předpověď / předpovídat", "ex": "What is the weather forecast for tomorrow?" }
+  ]
+}
