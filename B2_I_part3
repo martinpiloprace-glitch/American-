@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "impossible", "tr": "nemožný", "ex": "It's impossible to please everyone." },
+    { "id": 52, "word": "impress", "tr": "udělat dojem / ohromit", "ex": "He tried hard to impress his boss." },
+    { "id": 53, "word": "impression", "tr": "dojem / otisk", "ex": "What was your first impression of the city?" },
+    { "id": 54, "word": "impressive", "tr": "působivý / úctyhodný", "ex": "The view from the top is very impressive." },
+    { "id": 55, "word": "imprison", "tr": "uvěznit", "ex": "He was imprisoned for his political beliefs." },
+    { "id": 56, "word": "imprisonment", "tr": "uvěznění / trest odnětí svobody", "ex": "He was sentenced to five years' imprisonment." },
+    { "id": 57, "word": "improve", "tr": "zlepšit (se)", "ex": "I want to improve my English skills." },
+    { "id": 58, "word": "improvement", "tr": "zlepšení", "ex": "There has been a significant improvement." },
+    { "id": 59, "word": "impulse", "tr": "impuls / popud", "ex": "I bought the dress on an impulse." },
+    { "id": 60, "word": "in", "tr": "v / do / za", "ex": "The keys are in my pocket." },
+    { "id": 61, "word": "inability", "tr": "neschopnost", "ex": "His inability to focus is a problem." },
+    { "id": 62, "word": "inadequate", "tr": "nedostatečný / neadekvátní", "ex": "The lighting in the room was inadequate." },
+    { "id": 63, "word": "inappropriate", "tr": "nevhodný", "ex": "His behavior was completely inappropriate." },
+    { "id": 64, "word": "incentive", "tr": "pobídka / motivace", "ex": "The bonus is a great incentive to work harder." },
+    { "id": 65, "word": "inch", "tr": "palec (jednotka)", "ex": "The snow was three inches deep." },
+    { "id": 66, "word": "incidence", "tr": "výskyt / četnost", "ex": "There is a high incidence of flu this winter." },
+    { "id": 67, "word": "incident", "tr": "incident / událost", "ex": "The police are investigating the incident." },
+    { "id": 68, "word": "inclined", "tr": "mající sklon / nakloněný", "ex": "I am inclined to agree with you." },
+    { "id": 69, "word": "include", "tr": "zahrnovat / obsahovat", "ex": "Does the price include breakfast?" },
+    { "id": 70, "word": "including", "tr": "včetně", "ex": "Six people were injured, including two children." },
+    { "id": 71, "word": "inclusion", "tr": "zahrnutí / inkluze", "ex": "The inclusion of her name was a mistake." },
+    { "id": 72, "word": "income", "tr": "příjem", "ex": "He has a very high annual income." },
+    { "id": 73, "word": "incorporate", "tr": "začlenit / zahrnout", "ex": "We should incorporate your ideas into the plan." },
+    { "id": 74, "word": "incorrect", "tr": "nesprávný / chybný", "ex": "Your password is incorrect." },
+    { "id": 75, "word": "increase", "tr": "zvýšit (se) / nárůst", "ex": "The population continues to increase." }
+  ]
+}
