@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 226, "word": "fulfill", "tr": "splnit / vykonat / naplnit", "ex": "He finally managed to fulfill his ambition." },
+    { "id": 227, "word": "fulfillment", "tr": "splnění / uspokojení", "ex": "Winning the prize brought her great fulfillment." },
+    { "id": 228, "word": "full", "tr": "plný / úplný", "ex": "The room was full of people." },
+    { "id": 229, "word": "fully", "tr": "plně / zcela", "ex": "I fully understand the situation." },
+    { "id": 230, "word": "fun", "tr": "legrace / zábava", "ex": "We had so much fun at the beach." },
+    { "id": 231, "word": "function", "tr": "funkce / fungovat", "ex": "What is the main function of this machine?" },
+    { "id": 232, "word": "functional", "tr": "funkční", "ex": "The design is simple but very functional." },
+    { "id": 233, "word": "fund", "tr": "fond / financovat", "ex": "The project is looking for a new source of funds." },
+    { "id": 234, "word": "fundamental", "tr": "základní / zásadní", "ex": "There is a fundamental difference between the two." },
+    { "id": 235, "word": "fundamentally", "tr": "v základu / zásadně", "ex": "They are fundamentally decent people." },
+    { "id": 236, "word": "funding", "tr": "financování / dotace", "ex": "The government is cutting funding for the arts." },
+    { "id": 237, "word": "fundraising", "tr": "shromažďování prostředků", "ex": "The school organized a fundraising event." },
+    { "id": 238, "word": "funeral", "tr": "pohřeb", "ex": "Many people attended the funeral." },
+    { "id": 239, "word": "funny", "tr": "vtipný / divný", "ex": "He told a very funny story." },
+    { "id": 240, "word": "fur", "tr": "srst / kožešina", "ex": "The cat has soft, thick fur." },
+    { "id": 241, "word": "furious", "tr": "zuřivý / zběsilý", "ex": "My father was furious when he saw the broken window." },
+    { "id": 242, "word": "furniture", "tr": "nábytek", "ex": "They bought some new furniture for the living room." },
+    { "id": 243, "word": "further", "tr": "další / dále", "ex": "Do you have any further questions?" },
+    { "id": 244, "word": "furthermore", "tr": "navíc / mimoto", "ex": "He is lazy, and furthermore, he is dishonest." },
+    { "id": 245, "word": "fury", "tr": "vzteky / zuřivost", "ex": "She was shaking with fury." },
+    { "id": 246, "word": "fuse", "tr": "pojistka / spojit (se)", "ex": "The lights went out because a fuse blew." },
+    { "id": 247, "word": "fusion", "tr": "fúze / spojení", "ex": "The restaurant serves a fusion of French and Thai food." },
+    { "id": 248, "word": "fuss", "tr": "povyk / cavyky", "ex": "Don't make such a fuss about a small scratch." },
+    { "id": 249, "word": "future", "tr": "budoucnost / budoucí", "ex": "Nobody knows what will happen in the future." },
+    { "id": 250, "word": "fuzzy", "tr": "nejasný / rozmazaný / chlupatý", "ex": "The picture on the TV was a bit fuzzy." }
+  ]
+}
