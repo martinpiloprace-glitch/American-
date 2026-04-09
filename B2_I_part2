@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "illustrate", "tr": "ilustrovat / objasnit", "ex": "He used a story to illustrate his point." },
+    { "id": 27, "word": "illustration", "tr": "ilustrace / znázornění", "ex": "The book contains many beautiful illustrations." },
+    { "id": 28, "word": "image", "tr": "obraz / představa / snímek", "ex": "The satellite took a clear image of the area." },
+    { "id": 29, "word": "imaginary", "tr": "pomyslný / fiktivní", "ex": "The story is set in an imaginary world." },
+    { "id": 30, "word": "imagination", "tr": "představivost / fantazie", "ex": "You need a lot of imagination to be a writer." },
+    { "id": 31, "word": "imagine", "tr": "představit si / myslet si", "ex": "I can't imagine living without music." },
+    { "id": 32, "word": "imbalance", "tr": "nerovnováha", "ex": "There is a serious imbalance in the budget." },
+    { "id": 33, "word": "imitate", "tr": "napodobovat / imitovat", "ex": "He can imitate several famous actors." },
+    { "id": 34, "word": "imitation", "tr": "napodobenina / imitace", "ex": "It's not real leather, it's just an imitation." },
+    { "id": 35, "word": "immediate", "tr": "okamžitý / bezprostřední", "ex": "The new law had an immediate effect." },
+    { "id": 36, "word": "immediately", "tr": "okamžitě / hned", "ex": "Please come here immediately." },
+    { "id": 37, "word": "immense", "tr": "nesmírný / obrovský", "ex": "The project was an immense undertaking." },
+    { "id": 38, "word": "immigrant", "tr": "přistěhovanec / imigrant", "ex": "The city is home to many immigrants." },
+    { "id": 39, "word": "immigration", "tr": "imigrace / přistěhovalectví", "ex": "The government is changing the immigration laws." },
+    { "id": 40, "word": "imminent", "tr": "bezprostředně hrozící", "ex": "The dark clouds suggest that rain is imminent." },
+    { "id": 41, "word": "immune", "tr": "imunní / odolný", "ex": "Most people are immune to the disease." },
+    { "id": 42, "word": "impact", "tr": "dopad / účinek / náraz", "ex": "The internet has had a huge impact on society." },
+    { "id": 43, "word": "impatient", "tr": "netrpělivý", "ex": "He is very impatient with slow workers." },
+    { "id": 44, "word": "implication", "tr": "důsledek / náznak", "ex": "What are the implications of the new policy?" },
+    { "id": 45, "word": "implied", "tr": "nepřímý / naznačený", "ex": "His silence was an implied agreement." },
+    { "id": 46, "word": "imply", "tr": "naznačovat / znamenat", "ex": "Are you trying to imply that I'm lying?" },
+    { "id": 47, "word": "import", "tr": "importovat / dovoz", "ex": "We import most of our oil from abroad." },
+    { "id": 48, "word": "importance", "tr": "důležitost / význam", "ex": "She emphasized the importance of education." },
+    { "id": 49, "word": "important", "tr": "důležitý", "ex": "It's important to arrive on time." },
+    { "id": 50, "word": "impose", "tr": "uvalit / vnutit", "ex": "The government decided to impose a new tax." }
+  ]
+}
