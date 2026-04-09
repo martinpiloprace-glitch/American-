@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "increasingly", "tr": "stále více / čím dál tím víc", "ex": "The situation is becoming increasingly difficult." },
+    { "id": 77, "word": "incredible", "tr": "neuvěřitelný", "ex": "The view from the hotel was incredible." },
+    { "id": 78, "word": "incredibly", "tr": "neuvěřitelně", "ex": "He is incredibly talented for his age." },
+    { "id": 79, "word": "incur", "tr": "způsobit si / utrpět / naběhnout (dluh)", "ex": "They had to incur additional costs." },
+    { "id": 80, "word": "indeed", "tr": "skutečně / vskutku", "ex": "Thank you very much indeed." },
+    { "id": 81, "word": "independence", "tr": "nezávislost", "ex": "The country gained its independence in 1960." },
+    { "id": 82, "word": "independent", "tr": "nezávislý", "ex": "She is a very independent woman." },
+    { "id": 83, "word": "index", "tr": "index / ukazatel / rejstřík", "ex": "Look up the word in the index at the back." },
+    { "id": 84, "word": "indicate", "tr": "naznačit / ukazovat", "ex": "The map indicates where the treasure is hidden." },
+    { "id": 85, "word": "indication", "tr": "náznak / znamení / indikace", "ex": "There are no indications of a struggle." },
+    { "id": 86, "word": "indicator", "tr": "ukazatel / blinkr", "ex": "The unemployment rate is a key economic indicator." },
+    { "id": 87, "word": "indictment", "tr": "obžaloba / svědectví (o špatném stavu)", "ex": "The report is a terrible indictment of the school system." },
+    { "id": 88, "word": "indifference", "tr": "lhostejnost", "ex": "He was shocked by her indifference to his pain." },
+    { "id": 89, "word": "indifferent", "tr": "lhostejný", "ex": "They seem quite indifferent to our problems." },
+    { "id": 90, "word": "indigenous", "tr": "domorodý / původní", "ex": "The kangaroo is indigenous to Australia." },
+    { "id": 91, "word": "indirect", "tr": "nepřímý", "ex": "There is an indirect link between the two events." },
+    { "id": 92, "word": "individual", "tr": "jednotlivec / individuální", "ex": "We must respect the rights of the individual." },
+    { "id": 93, "word": "indoor", "tr": "vnitřní / halový", "ex": "The hotel has an indoor swimming pool." },
+    { "id": 94, "word": "indoors", "tr": "uvnitř (v budově)", "ex": "It's raining, let's stay indoors." },
+    { "id": 95, "word": "induce", "tr": "vyvolat / přimět", "ex": "Nothing would induce me to leave my job." },
+    { "id": 96, "word": "indulge", "tr": "dopřát si / hovět si", "ex": "They went to the spa to indulge themselves." },
+    { "id": 97, "word": "industrial", "tr": "průmyslový", "ex": "The city is located in an industrial zone." },
+    { "id": 98, "word": "industrialization", "tr": "industrializace", "ex": "The country underwent rapid industrialization." },
+    { "id": 99, "word": "industry", "tr": "průmysl / odvětví", "ex": "The car industry is facing big changes." },
+    { "id": 100, "word": "inevitable", "tr": "nevyhnutelný", "ex": "The accident was an inevitable result of carelessness." }
+  ]
+}
