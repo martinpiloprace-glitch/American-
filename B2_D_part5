@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "D",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 111, "word": "descend", "tr": "klesat / sestoupit", "ex": "The plane began to descend." },
+    { "id": 112, "word": "descent", "tr": "sestup / původ", "ex": "The mountain descent was quite dangerous." },
+    { "id": 113, "word": "describe", "tr": "popsat", "ex": "Can you describe the man you saw?" },
+    { "id": 114, "word": "description", "tr": "popis", "ex": "The description matches the suspect." },
+    { "id": 115, "word": "desert", "tr": "poušť / opustit", "ex": "The Sahara is a vast desert." },
+    { "id": 116, "word": "deserve", "tr": "zasloužit si", "ex": "You deserve a rest after all that work." },
+    { "id": 117, "word": "design", "tr": "navrhnout / design / návrh", "ex": "He was hired to design the new logo." },
+    { "id": 118, "word": "designer", "tr": "návrhář / projektant", "ex": "She is a famous fashion designer." },
+    { "id": 119, "word": "desirable", "tr": "žádoucí / přitažlivý", "ex": "It is a highly desirable location." },
+    { "id": 120, "word": "desire", "tr": "touha / toužit", "ex": "She has a strong desire to travel." },
+    { "id": 121, "word": "desk", "tr": "pracovní stůl / recepce", "ex": "Leave the keys at the front desk." },
+    { "id": 122, "word": "desktop", "tr": "plocha / stolní počítač", "ex": "Save the file to your desktop." },
+    { "id": 123, "word": "despair", "tr": "zoufalství / zoufat si", "ex": "Don't drive me to despair." },
+    { "id": 124, "word": "desperate", "tr": "zoufale / beznadějný", "ex": "The prisoners were desperate for freedom." },
+    { "id": 125, "word": "desperately", "tr": "zoufale", "ex": "He desperately needed some medical help." },
+    { "id": 126, "word": "despite", "tr": "přes / navzdory", "ex": "We enjoyed the walk despite the rain." },
+    { "id": 127, "word": "destination", "tr": "cíl / destinace", "ex": "We reached our destination at sunset." },
+    { "id": 128, "word": "destroy", "tr": "zničit", "ex": "The fire destroyed the entire building." },
+    { "id": 129, "word": "destruction", "tr": "zkáza / zničení", "ex": "The hurricane left a trail of destruction." },
+    { "id": 130, "word": "destructive", "tr": "destruktivní / ničivý", "ex": "His behavior is very destructive." }
+  ]
+}
