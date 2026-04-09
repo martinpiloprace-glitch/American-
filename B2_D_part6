@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "D",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 131, "word": "detach", "tr": "oddělit / odpojit", "ex": "Please detach the coupon before use." },
+    { "id": 132, "word": "detached", "tr": "samostatně stojící / odměřený", "ex": "They live in a large detached house." },
+    { "id": 133, "word": "detail", "tr": "detail / podrobnost", "ex": "The report provides every minor detail." },
+    { "id": 134, "word": "detailed", "tr": "podrobný", "ex": "He gave a detailed account of the event." },
+    { "id": 135, "word": "detain", "tr": "zadržet", "ex": "The police have the right to detain you." },
+    { "id": 136, "word": "detect", "tr": "zjistit / odhalit", "ex": "The sensor can detect small movements." },
+    { "id": 137, "word": "detection", "tr": "detekce / odhalení", "ex": "Early detection of the disease is vital." },
+    { "id": 138, "word": "detective", "tr": "detektiv", "ex": "The detective solved the mystery." },
+    { "id": 139, "word": "detention", "tr": "zadržení / po škole (trest)", "ex": "He was kept in detention for two hours." },
+    { "id": 140, "word": "deteriorate", "tr": "zhoršit se", "ex": "The weather is expected to deteriorate." },
+    { "id": 141, "word": "determination", "tr": "odhodlání", "ex": "Success requires hard work and determination." },
+    { "id": 142, "word": "determine", "tr": "určit / stanovit", "ex": "We need to determine the exact cause." },
+    { "id": 143, "word": "determined", "tr": "odhodlaný", "ex": "She is determined to win the race." },
+    { "id": 144, "word": "deterrent", "tr": "odstrašující prostředek", "ex": "The cameras act as a deterrent to theft." },
+    { "id": 145, "word": "detrimental", "tr": "škodlivý / neblahý", "ex": "Smoking is detrimental to your health." },
+    { "id": 146, "word": "devastate", "tr": "zpustošit / zdrtit", "ex": "The news of the fire devastated him." },
+    { "id": 147, "word": "devastating", "tr": "ničivý / zdrcující", "ex": "The flood had a devastating effect." },
+    { "id": 148, "word": "develop", "tr": "vyvinout / vyvíjet se", "ex": "We want to develop a new mobile app." },
+    { "id": 149, "word": "developer", "tr": "vývojář / developer", "ex": "He works as a senior web developer." },
+    { "id": 150, "word": "development", "tr": "vývoj / rozvoj", "ex": "Child development is a complex process." }
+  ]
+}
