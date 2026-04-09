@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "inevitably", "tr": "nevyhnutelně", "ex": "Inevitably, the situation will get worse." },
+    { "id": 102, "word": "infant", "tr": "kojenec / nemluvně", "ex": "The mother was holding her infant in her arms." },
+    { "id": 103, "word": "infect", "tr": "infikovat / nakazit", "ex": "The virus can infect both animals and humans." },
+    { "id": 104, "word": "infection", "tr": "infekce / nákaza", "ex": "He has a throat infection and needs antibiotics." },
+    { "id": 105, "word": "infectious", "tr": "nakažlivý", "ex": "Laughter is often infectious." },
+    { "id": 106, "word": "infer", "tr": "vyvodit / usuzovat", "ex": "What can we infer from these statistics?" },
+    { "id": 107, "word": "inference", "tr": "odvození / závěr", "ex": "The inference was that the plan had failed." },
+    { "id": 108, "word": "inferior", "tr": "podřadný / horší", "ex": "The copy was of inferior quality." },
+    { "id": 109, "word": "inflation", "tr": "inflace", "ex": "The rate of inflation has risen significantly." },
+    { "id": 110, "word": "inflict", "tr": "způsobit / zasadit (ránu)", "ex": "They did not want to inflict pain on anyone." },
+    { "id": 111, "word": "influence", "tr": "vliv / ovlivňovat", "ex": "Her parents had a huge influence on her." },
+    { "id": 112, "word": "influential", "tr": "vlivný", "ex": "He is one of the most influential people in the city." },
+    { "id": 113, "word": "inform", "tr": "informovat / oznámit", "ex": "Please inform us of any changes." },
+    { "id": 114, "word": "informal", "tr": "neformální", "ex": "It was just an informal meeting." },
+    { "id": 115, "word": "information", "tr": "informace", "ex": "Where can I get more information about this?" },
+    { "id": 116, "word": "infrastructure", "tr": "infrastruktura", "ex": "The country needs to improve its infrastructure." },
+    { "id": 117, "word": "ingredient", "tr": "přísada / ingredience", "ex": "Mix all the ingredients in a large bowl." },
+    { "id": 118, "word": "inhabit", "tr": "obývat / sídlit", "ex": "Many strange creatures inhabit the ocean." },
+    { "id": 119, "word": "inhabitant", "tr": "obyvatel", "ex": "The city has over a million inhabitants." },
+    { "id": 120, "word": "inherent", "tr": "vlastní / neodmyslitelný", "ex": "There are inherent risks in this business." },
+    { "id": 121, "word": "inherit", "tr": "zdědit", "ex": "She is expected to inherit a lot of money." },
+    { "id": 122, "word": "inhibit", "tr": "brzdit / tlumit / bránit", "ex": "Fear can inhibit people from trying new things." },
+    { "id": 123, "word": "initial", "tr": "počáteční / iniciála", "ex": "My initial reaction was one of surprise." },
+    { "id": 124, "word": "initially", "tr": "zpočátku / původně", "ex": "Initially, we thought the task would be easy." },
+    { "id": 125, "word": "initiate", "tr": "zahájit / iniciovat", "ex": "They decided to initiate a new project." }
+  ]
+}
