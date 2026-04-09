@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "H",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "habit", "tr": "zvyk", "ex": "It's a good habit to drink water in the morning." },
+    { "id": 2, "word": "habitat", "tr": "přirozené prostředí", "ex": "The forest is the natural habitat of the bear." },
+    { "id": 3, "word": "hail", "tr": "kroupy / krupobití / oslavovat", "ex": "It started to hail while we were driving." },
+    { "id": 4, "word": "hair", "tr": "vlasy / chlupy", "ex": "She has long, curly blonde hair." },
+    { "id": 5, "word": "half", "tr": "polovina", "ex": "Cut the apple in half and share it." },
+    { "id": 6, "word": "hall", "tr": "hala / chodba / sál", "ex": "The meeting will be held in the main hall." },
+    { "id": 7, "word": "halt", "tr": "zastavit / zastavení", "ex": "The car came to a sudden halt." },
+    { "id": 8, "word": "hammer", "tr": "kladivo", "ex": "You need a hammer and some nails." },
+    { "id": 9, "word": "hand", "tr": "ruka (dlaň) / podat", "ex": "Please hand me that book." },
+    { "id": 10, "word": "handful", "tr": "hrst / hrstka", "ex": "Only a handful of people attended the lecture." },
+    { "id": 11, "word": "handicap", "tr": "handicap / znevýhodnění", "ex": "Being unable to drive is a real handicap." },
+    { "id": 12, "word": "handle", "tr": "zvládnout / klika / rukojeť", "ex": "Can you handle the pressure of this job?" },
+    { "id": 13, "word": "handy", "tr": "šikovný / po ruce", "ex": "Keep a flashlight handy in case of a power cut." },
+    { "id": 14, "word": "hang", "tr": "viset / věšet", "ex": "Where should I hang this picture?" },
+    { "id": 15, "word": "happen", "tr": "stát se / přihodit se", "ex": "Accidents can happen to anyone." },
+    { "id": 16, "word": "happiness", "tr": "štěstí", "ex": "Money can't buy you happiness." },
+    { "id": 17, "word": "happy", "tr": "šťastný / spokojený", "ex": "I am so happy for you!" },
+    { "id": 18, "word": "harass", "tr": "obtěžovat / sužovat", "ex": "He was accused of harassing his colleagues." },
+    { "id": 19, "word": "harassment", "tr": "obtěžování", "ex": "The company has a zero-tolerance policy on harassment." },
+    { "id": 20, "word": "harbor", "tr": "přístav / přechovávat", "ex": "The boat sailed into the harbor." },
+    { "id": 21, "word": "hard", "tr": "tvrdý / těžký / pilně", "ex": "You need to work hard to succeed." },
+    { "id": 22, "word": "hardly", "tr": "sotva / stěží", "ex": "I can hardly wait for the holidays." },
+    { "id": 23, "word": "hardship", "tr": "utrpení / strádání", "ex": "The family faced great financial hardship." },
+    { "id": 24, "word": "hardware", "tr": "hardware / železářství", "ex": "The computer hardware needs an upgrade." },
+    { "id": 25, "word": "harm", "tr": "uškodit / škoda / újma", "ex": "A little bit of sun won't do you any harm." }
+  ]
+}
