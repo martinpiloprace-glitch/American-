@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "intellect", "tr": "intelekt / rozum", "ex": "She has a brilliant intellect." },
+    { "id": 177, "word": "intellectual", "tr": "intelektuální / intelektuál", "ex": "I enjoy intellectual challenges." },
+    { "id": 178, "word": "intelligence", "tr": "inteligence / zpravodajství", "ex": "He is a man of high intelligence." },
+    { "id": 179, "word": "intelligent", "tr": "inteligentní / rozumný", "ex": "She gave a very intelligent answer." },
+    { "id": 180, "word": "intend", "tr": "zamýšlet / hodlat", "ex": "We intend to go to Italy this summer." },
+    { "id": 181, "word": "intense", "tr": "intenzivní / silný", "ex": "The heat from the sun was very intense." },
+    { "id": 182, "word": "intensify", "tr": "zesílit / zintenzivnit", "ex": "The fighting began to intensify." },
+    { "id": 183, "word": "intensity", "tr": "intenzita / síla", "ex": "The intensity of the light was blinding." },
+    { "id": 184, "word": "intensive", "tr": "intenzivní / důkladný", "ex": "I'm taking an intensive English course." },
+    { "id": 185, "word": "intent", "tr": "záměr / úmysl", "ex": "It was never my intent to hurt you." },
+    { "id": 186, "word": "intention", "tr": "úmysl / záměr", "ex": "I have no intention of resigning." },
+    { "id": 187, "word": "interact", "tr": "interagovat / vzájemně působit", "ex": "The teacher allows the students to interact." },
+    { "id": 188, "word": "interaction", "tr": "interakce / vzájemné působení", "ex": "Social interaction is important for children." },
+    { "id": 189, "word": "interactive", "tr": "interaktivní", "ex": "The museum has many interactive displays." },
+    { "id": 190, "word": "interest", "tr": "zájem / úrok / zajímat", "ex": "The bank offers a high rate of interest." },
+    { "id": 191, "word": "interested", "tr": "mající zájem / zaujatý", "ex": "I'm interested in learning more about it." },
+    { "id": 192, "word": "interesting", "tr": "zajímavý", "ex": "That's a very interesting point of view." },
+    { "id": 193, "word": "interface", "tr": "rozhraní / propojit", "ex": "The user interface is very easy to navigate." },
+    { "id": 194, "word": "interfere", "tr": "zasahovat / plést se", "ex": "I wish you wouldn't interfere in my life." },
+    { "id": 195, "word": "interference", "tr": "zasahování / rušení (signálu)", "ex": "There is too much interference on the radio." },
+    { "id": 196, "word": "interim", "tr": "prozatímní / dočasný", "ex": "An interim government was set up after the war." },
+    { "id": 197, "word": "interior", "tr": "vnitřek / interiér / vnitřní", "ex": "The interior of the building is very modern." },
+    { "id": 198, "word": "intermediate", "tr": "středně pokročilý / mezistupeň", "ex": "This course is for intermediate students." },
+    { "id": 199, "word": "internal", "tr": "vnitřní / domácí (státní)", "ex": "The company is undergoing an internal review." },
+    { "id": 200, "word": "international", "tr": "mezinárodní", "ex": "She works for an international organization." }
+  ]
+}
