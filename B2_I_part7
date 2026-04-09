@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "inspire", "tr": "inspirovat / nadchnout", "ex": "The teacher tried to inspire her students." },
+    { "id": 152, "word": "install", "tr": "instalovat / namontovat", "ex": "They are going to install a new heating system." },
+    { "id": 153, "word": "installation", "tr": "instalace / montáž", "ex": "The installation of the software took an hour." },
+    { "id": 154, "word": "instance", "tr": "případ / příklad", "ex": "For instance, you could try calling him." },
+    { "id": 155, "word": "instant", "tr": "okamžitý / chvíle", "ex": "The show was an instant success." },
+    { "id": 156, "word": "instantly", "tr": "okamžitě", "ex": "He recognized her instantly." },
+    { "id": 157, "word": "instead", "tr": "namísto toho", "ex": "If you don't have milk, use cream instead." },
+    { "id": 158, "word": "instinct", "tr": "instinkt / pud", "ex": "Animals survive by instinct." },
+    { "id": 159, "word": "institute", "tr": "institut / ústav / zavést", "ex": "He works at a research institute." },
+    { "id": 160, "word": "institution", "tr": "instituce / ústav / zavedení", "ex": "The university is a well-respected institution." },
+    { "id": 161, "word": "institutional", "tr": "institucionální", "ex": "The report highlights institutional failures." },
+    { "id": 162, "word": "instruct", "tr": "poučit / instruovat / nařídit", "ex": "She was instructed to wait in the lobby." },
+    { "id": 163, "word": "instruction", "tr": "instrukce / pokyn / návod", "ex": "Read the instructions carefully before starting." },
+    { "id": 164, "word": "instructive", "tr": "poučný", "ex": "The documentary was very instructive." },
+    { "id": 165, "word": "instructor", "tr": "instruktor / cvičitel", "ex": "He is a ski instructor during the winter." },
+    { "id": 166, "word": "instrument", "tr": "nástroj (hudební i jiný)", "ex": "Which musical instrument do you play?" },
+    { "id": 167, "word": "insult", "tr": "urazit / urážka", "ex": "I didn't mean to insult you." },
+    { "id": 168, "word": "insurance", "tr": "pojištění / pojistka", "ex": "Do you have travel insurance for your trip?" },
+    { "id": 169, "word": "insure", "tr": "pojistit (se)", "ex": "You should insure your house against fire." },
+    { "id": 170, "word": "intact", "tr": "nedotčený / neporušený", "ex": "The building remained intact after the earthquake." },
+    { "id": 171, "word": "intake", "tr": "příjem (potravy apod.) / nasávání", "ex": "You should reduce your salt intake." },
+    { "id": 172, "word": "integral", "tr": "nedílný / integrální", "ex": "Music is an integral part of my life." },
+    { "id": 173, "word": "integrate", "tr": "integrovat / začlenit", "ex": "The new students integrated quickly into the class." },
+    { "id": 174, "word": "integration", "tr": "integrace / začlenění", "ex": "The integration of technology into the classroom is essential." },
+    { "id": 175, "word": "integrity", "tr": "bezúhonnost / celistvost", "ex": "He is a man of great personal integrity." }
+  ]
+}
