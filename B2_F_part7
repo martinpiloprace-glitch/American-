@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "forehead", "tr": "čelo", "ex": "He wiped the sweat from his forehead." },
+    { "id": 152, "word": "foreign", "tr": "zahraniční / cizí", "ex": "Do you speak any foreign languages?" },
+    { "id": 153, "word": "foreigner", "tr": "cizinec", "ex": "The city attracts many foreigners every year." },
+    { "id": 154, "word": "foresee", "tr": "předvídat", "ex": "No one could foresee the future problems." },
+    { "id": 155, "word": "forest", "tr": "les", "ex": "We went for a walk in the forest." },
+    { "id": 156, "word": "forever", "tr": "navždy", "ex": "I will love you forever." },
+    { "id": 157, "word": "forge", "tr": "padělat / vykovat / vytvořit", "ex": "They tried to forge his signature." },
+    { "id": 158, "word": "forget", "tr": "zapomenout", "ex": "Don't forget to buy some milk." },
+    { "id": 159, "word": "forgive", "tr": "odpustit", "ex": "I can't forgive him for what he did." },
+    { "id": 160, "word": "fork", "tr": "vidlička / rozcestí", "ex": "You need a knife and a fork." },
+    { "id": 161, "word": "form", "tr": "forma / formulář / tvořit", "ex": "Please fill out this application form." },
+    { "id": 162, "word": "formal", "tr": "formální / oficiální", "ex": "You should wear formal clothes to the interview." },
+    { "id": 163, "word": "format", "tr": "formát / uspořádání", "ex": "The new format of the show is popular." },
+    { "id": 164, "word": "formation", "tr": "formace / vznik / útvar", "ex": "The planes flew in a tight formation." },
+    { "id": 165, "word": "former", "tr": "bývalý / dřívější / onen první", "ex": "The former president attended the funeral." },
+    { "id": 166, "word": "formerly", "tr": "dříve / kdysi", "ex": "This building was formerly a school." },
+    { "id": 167, "word": "formidable", "tr": "hrůzostrašný / budící respekt", "ex": "She is a formidable opponent." },
+    { "id": 168, "word": "formula", "tr": "vzorec / recept / formule", "ex": "He used a mathematical formula to solve it." },
+    { "id": 169, "word": "forth", "tr": "vpřed / dále", "ex": "He paced back and forth in the room." },
+    { "id": 170, "word": "forthcoming", "tr": "nadcházející / vstřícný", "ex": "We are preparing for the forthcoming election." },
+    { "id": 171, "word": "fortnight", "tr": "čtrnáct dní", "ex": "We spent a fortnight in the mountains." },
+    { "id": 172, "word": "fortunate", "tr": "mít štěstí / šťastný", "ex": "I am very fortunate to have such friends." },
+    { "id": 173, "word": "fortune", "tr": "štěstí / jmění / bohatství", "ex": "He made a fortune in real estate." },
+    { "id": 174, "word": "forty", "tr": "čtyřicet", "ex": "There are forty students in the class." },
+    { "id": 175, "word": "forward", "tr": "vpřed / dopředu / přeposlat", "ex": "Please step forward when I call your name." }
+  ]
+}
