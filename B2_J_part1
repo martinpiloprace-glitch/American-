@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "J",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "jacket", "tr": "bunda / sako", "ex": "You should wear a warm jacket today." },
+    { "id": 2, "word": "jail", "tr": "vězení", "ex": "He was sent to jail for three years." },
+    { "id": 3, "word": "jam", "tr": "džem / zácpa (dopravní)", "ex": "We were stuck in a traffic jam for two hours." },
+    { "id": 4, "word": "January", "tr": "leden", "ex": "It's usually very cold in January." },
+    { "id": 5, "word": "jar", "tr": "sklenice (zavařovací) / otřást", "ex": "I can't get the lid off this jar of pickles." },
+    { "id": 6, "word": "jaw", "tr": "čelist", "ex": "His jaw dropped in surprise." },
+    { "id": 7, "word": "jazz", "tr": "jazz", "ex": "The club plays live jazz every Friday night." },
+    { "id": 8, "word": "jealous", "tr": "žárlivý / závistivý", "ex": "He gets very jealous if she talks to other men." },
+    { "id": 9, "word": "jealousy", "tr": "žárlivost / závist", "ex": "Jealousy can destroy a relationship." },
+    { "id": 10, "word": "jeans", "tr": "džíny", "ex": "He always wears a pair of blue jeans." },
+    { "id": 11, "word": "jet", "tr": "tryskové letadlo / tryska", "ex": "The private jet landed on the runway." },
+    { "id": 12, "word": "jewelry", "tr": "šperky", "ex": "She inherited a lot of expensive jewelry from her aunt." },
+    { "id": 13, "word": "job", "tr": "práce / zaměstnání", "ex": "He is looking for a new job in marketing." },
+    { "id": 14, "word": "join", "tr": "připojit se / spojit", "ex": "Would you like to join us for lunch?" },
+    { "id": 15, "word": "joint", "tr": "kloub / společný", "ex": "The two companies issued a joint statement." },
+    { "id": 16, "word": "joke", "tr": "vtip / žertovat", "ex": "He told a very funny joke at the party." },
+    { "id": 17, "word": "journal", "tr": "deník / odborný časopis", "ex": "His research was published in a medical journal." },
+    { "id": 18, "word": "journalism", "tr": "žurnalistika", "ex": "She decided to study journalism at university." },
+    { "id": 19, "word": "journalist", "tr": "novinář", "ex": "The journalist interviewed the prime minister." },
+    { "id": 20, "word": "journey", "tr": "cesta / jízda", "ex": "The journey from London to Paris takes about two hours." },
+    { "id": 21, "word": "joy", "tr": "radost / potěšení", "ex": "The children's faces were full of joy." },
+    { "id": 22, "word": "judge", "tr": "soudce / soudit", "ex": "You shouldn't judge people by their appearance." },
+    { "id": 23, "word": "judgment", "tr": "úsudek / rozsudek", "ex": "In my judgment, we should wait a bit longer." },
+    { "id": 24, "word": "judicial", "tr": "soudní / justiční", "ex": "The judicial system needs to be reformed." },
+    { "id": 25, "word": "juice", "tr": "šťáva / džus", "ex": "Would you like some orange juice?" }
+  ]
+}
