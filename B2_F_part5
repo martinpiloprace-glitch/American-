@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "fitness", "tr": "zdatnost / kondice", "ex": "Regular exercise improves your fitness." },
+    { "id": 102, "word": "five", "tr": "pět", "ex": "The meeting lasted for five hours." },
+    { "id": 103, "word": "fix", "tr": "opravit / upevnit / stanovit", "ex": "Can you fix the broken chair?" },
+    { "id": 104, "word": "fixed", "tr": "pevný / nepohyblivý / opravený", "ex": "The interest rate is fixed for five years." },
+    { "id": 105, "word": "fixture", "tr": "stálé příslušenství / termín utkání", "ex": "The light fixture needs to be replaced." },
+    { "id": 106, "word": "flag", "tr": "vlajka", "ex": "The national flag was waving in the wind." },
+    { "id": 107, "word": "flame", "tr": "plamen", "ex": "The candle flame flickered in the draft." },
+    { "id": 108, "word": "flash", "tr": "blesk / blikat", "ex": "A sudden flash of light blinded me." },
+    { "id": 109, "word": "flat", "tr": "byt / plochý / píchlá pneu", "ex": "He lives in a small flat in London." },
+    { "id": 110, "word": "flavor", "tr": "příchuť / chuť", "ex": "This yogurt has a strawberry flavor." },
+    { "id": 111, "word": "flaw", "tr": "chyba / nedostatek / vada", "ex": "There is a flaw in your reasoning." },
+    { "id": 112, "word": "flee", "tr": "prchat / utéct", "ex": "Many people had to flee the country." },
+    { "id": 113, "word": "fleet", "tr": "flotila / vozový park", "ex": "The company owns a fleet of trucks." },
+    { "id": 114, "word": "flesh", "tr": "maso / dužina", "ex": "The fruit has sweet, juicy flesh." },
+    { "id": 115, "word": "flexibility", "tr": "flexibilita / ohebnost", "ex": "Yoga helps to improve your flexibility." },
+    { "id": 116, "word": "flexible", "tr": "flexibilní / pružný", "ex": "My working hours are quite flexible." },
+    { "id": 117, "word": "flight", "tr": "let / schodiště", "ex": "Our flight was delayed by two hours." },
+    { "id": 118, "word": "fling", "tr": "hodit / mrštit", "ex": "She decided to fling the window open." },
+    { "id": 119, "word": "float", "tr": "plout / vznášet se", "ex": "Wood will usually float on water." },
+    { "id": 120, "word": "flock", "tr": "stádo / hejno / hrnout se", "ex": "A flock of birds flew overhead." },
+    { "id": 121, "word": "flood", "tr": "povodeň / zaplavit", "ex": "The basement was destroyed by the flood." },
+    { "id": 122, "word": "floor", "tr": "podlaha / patro", "ex": "His office is on the third floor." },
+    { "id": 123, "word": "flour", "tr": "mouka", "ex": "You need two cups of flour for the cake." },
+    { "id": 124, "word": "flourish", "tr": "vkvétat / prosperovat", "ex": "The business began to flourish last year." },
+    { "id": 125, "word": "flow", "tr": "tok / téci", "ex": "The river flows through the city center." }
+  ]
+}
