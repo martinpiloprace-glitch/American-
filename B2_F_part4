@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "F",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "fighter", "tr": "bojovník / stíhačka", "ex": "He is a brave fighter for human rights." },
+    { "id": 77, "word": "fighting", "tr": "bojování / boje", "ex": "The fighting stopped after the ceasefire." },
+    { "id": 78, "word": "figure", "tr": "postava / číslo / údaj", "ex": "The latest figures show a decrease in sales." },
+    { "id": 79, "word": "file", "tr": "soubor / pořadač / pilník", "ex": "I can't open this file on my computer." },
+    { "id": 80, "word": "fill", "tr": "naplnit / vyplnit", "ex": "Fill the glass with water, please." },
+    { "id": 81, "word": "film", "tr": "film / natáčet", "ex": "What's your favorite science-fiction film?" },
+    { "id": 82, "word": "filter", "tr": "filtr / filtrovat", "ex": "The water passes through a carbon filter." },
+    { "id": 83, "word": "final", "tr": "finální / konečný", "ex": "The final decision will be made tomorrow." },
+    { "id": 84, "word": "finally", "tr": "konečně / nakonec", "ex": "Finally, we reached the top of the mountain." },
+    { "id": 85, "word": "finance", "tr": "finance / financovat", "ex": "They need more money to finance the project." },
+    { "id": 86, "word": "financial", "tr": "finanční", "ex": "She is a very successful financial advisor." },
+    { "id": 87, "word": "find", "tr": "najít / zjistit", "ex": "I can't find my keys anywhere." },
+    { "id": 88, "word": "finding", "tr": "nález / zjištění", "ex": "The findings of the study were published today." },
+    { "id": 89, "word": "fine", "tr": "jemný / fajn / pokuta", "ex": "He had to pay a fine for speeding." },
+    { "id": 90, "word": "finger", "tr": "prst (na ruce)", "ex": "She wears a ring on her middle finger." },
+    { "id": 91, "word": "finish", "tr": "dokončit / konec", "ex": "I will finish this work in an hour." },
+    { "id": 92, "word": "fire", "tr": "oheň / požár / vyhodit (z práce)", "ex": "The boss threatened to fire him." },
+    { "id": 93, "word": "firefighter", "tr": "hasič", "ex": "The firefighters arrived within minutes." },
+    { "id": 94, "word": "firm", "tr": "pevný / firma", "ex": "He works for a large law firm." },
+    { "id": 95, "word": "firmly", "tr": "pevně / rozhodně", "ex": "She firmly believes in her principles." },
+    { "id": 96, "word": "first", "tr": "první / nejprve", "ex": "This is the first time I've been here." },
+    { "id": 97, "word": "fish", "tr": "ryba / rybařit", "ex": "We had fresh fish for dinner." },
+    { "id": 98, "word": "fishing", "tr": "rybaření", "ex": "My uncle spends his weekends fishing." },
+    { "id": 99, "word": "fist", "tr": "pěst", "ex": "He hit the table with his fist." },
+    { "id": 100, "word": "fit", "tr": "sedět (velikostí) / fit / záchvat", "ex": "These shoes don't fit me very well." }
+  ]
+}
