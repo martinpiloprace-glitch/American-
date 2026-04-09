@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "I",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "I", "tr": "já", "ex": "I am a student." },
+    { "id": 2, "word": "ice", "tr": "led", "ex": "The lake was covered in thick ice." },
+    { "id": 3, "word": "ice cream", "tr": "zmrzlina", "ex": "I'd like a scoop of vanilla ice cream." },
+    { "id": 4, "word": "icon", "tr": "ikona / symbol", "ex": "Click on the printer icon to start." },
+    { "id": 5, "word": "idea", "tr": "nápad / myšlenka", "ex": "That's a brilliant idea!" },
+    { "id": 6, "word": "ideal", "tr": "ideální / ideál", "ex": "The weather was ideal for a picnic." },
+    { "id": 7, "word": "identical", "tr": "identický / totožný", "ex": "The two signatures look identical." },
+    { "id": 8, "word": "identification", "tr": "identifikace / průkaz", "ex": "Please show your identification at the gate." },
+    { "id": 9, "word": "identify", "tr": "identifikovat / rozpoznat", "ex": "Can you identify the man in the photo?" },
+    { "id": 10, "word": "identity", "tr": "identita / totožnost", "ex": "He tried to hide his true identity." },
+    { "id": 11, "word": "ideological", "tr": "ideologický", "ex": "They have deep ideological differences." },
+    { "id": 12, "word": "ideology", "tr": "ideologie", "ex": "He doesn't agree with their political ideology." },
+    { "id": 13, "word": "idiom", "tr": "idiom / ustálený výraz", "ex": "It's raining cats and dogs is an idiom." },
+    { "id": 14, "word": "idiot", "tr": "idiot / blbec", "ex": "I felt like an idiot after making that mistake." },
+    { "id": 15, "word": "idle", "tr": "nečinný / zahálet", "ex": "The machines have been idle for weeks." },
+    { "id": 16, "word": "if", "tr": "pokud / jestli", "ex": "I'll go if you go." },
+    { "id": 17, "word": "ignite", "tr": "zapálit / vznítit se", "ex": "Gas can ignite very easily." },
+    { "id": 18, "word": "ignorance", "tr": "nevědomost / ignorance", "ex": "Ignorance of the law is no excuse." },
+    { "id": 19, "word": "ignorant", "tr": "nevědomý / neomalený", "ex": "He is completely ignorant of the facts." },
+    { "id": 20, "word": "ignore", "tr": "ignorovat / přehlížet", "ex": "Just ignore him; he's trying to annoy you." },
+    { "id": 21, "word": "ill", "tr": "nemocný / špatný", "ex": "She has been ill for over a week." },
+    { "id": 22, "word": "illegal", "tr": "nelegální / nezákonný", "ex": "It is illegal to park here." },
+    { "id": 23, "word": "illness", "tr": "nemoc / choroba", "ex": "He recovered quickly from his illness." },
+    { "id": 24, "word": "illuminate", "tr": "osvětlit / objasnit", "ex": "The street was illuminated by lamps." },
+    { "id": 25, "word": "illusion", "tr": "iluze / klam", "ex": "The mirrors create an illusion of space." }
+  ]
+}
