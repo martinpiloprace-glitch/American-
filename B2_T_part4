@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "terrorist", "tr": "terorista / teroristický", "ex": "The group is listed as a terrorist organization." },
+    { "id": 77, "word": "test", "tr": "test / zkouška / testovat", "ex": "The students are taking a math test today." },
+    { "id": 78, "word": "testify", "tr": "svědčit / vypovídat", "ex": "He was called to testify in court." },
+    { "id": 79, "word": "testimony", "tr": "svědectví / výpověď", "ex": "Her testimony was crucial to the case." },
+    { "id": 80, "word": "text", "tr": "text / textová zpráva", "ex": "Please read the text carefully." },
+    { "id": 81, "word": "textbook", "tr": "učebnice", "ex": "You can find the answer in your textbook." },
+    { "id": 82, "word": "texture", "tr": "textura / struktura", "ex": "The fabric has a very soft texture." },
+    { "id": 83, "word": "than", "tr": "než (při srovnání)", "ex": "He is older than his brother." },
+    { "id": 84, "word": "thank", "tr": "děkovat / poděkovat", "ex": "I want to thank you for all your help." },
+    { "id": 85, "word": "thankful", "tr": "vděčný", "ex": "I am thankful for your support." },
+    { "id": 86, "word": "thanks", "tr": "díky", "ex": "Thanks for the invitation." },
+    { "id": 87, "word": "that", "tr": "tamten / že / který", "ex": "I didn't know that she was married." },
+    { "id": 88, "word": "the", "tr": "určitý člen", "ex": "The book is on the table." },
+    { "id": 89, "word": "theater", "tr": "divadlo (v USA)", "ex": "We went to the theater last night." },
+    { "id": 90, "word": "theatrical", "tr": "divadelní / teatrální", "ex": "The performance was very theatrical." },
+    { "id": 91, "word": "theft", "tr": "krádež", "ex": "He was charged with the theft of a car." },
+    { "id": 92, "word": "their", "tr": "jejich", "ex": "They have sold their house." },
+    { "id": 93, "word": "theirs", "tr": "jejich (vlastnictví)", "ex": "The car is theirs." },
+    { "id": 94, "word": "them", "tr": "jim / je", "ex": "I saw them at the park." },
+    { "id": 95, "word": "theme", "tr": "téma / námět", "ex": "The main theme of the book is love." },
+    { "id": 96, "word": "themselves", "tr": "sebe / sami (oni)", "ex": "They prepared the meal themselves." },
+    { "id": 97, "word": "theory", "tr": "teorie", "ex": "He has a theory about why the accident happened." },
+    { "id": 98, "word": "therapeutic", "tr": "terapeutický / léčivý", "ex": "Gardening can be very therapeutic." },
+    { "id": 99, "word": "therapy", "tr": "terapie", "ex": "He is undergoing therapy for his back pain." },
+    { "id": 100, "word": "there", "tr": "tam / tamní", "ex": "There is a fly in my soup." }
+  ]
+}
