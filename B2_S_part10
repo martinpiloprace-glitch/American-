@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 226, "word": "slack", "tr": "uvolněný / chabý / flákat se", "ex": "Business is often slack during the winter months." },
+    { "id": 227, "word": "slap", "tr": "facka / plácnout", "ex": "She gave him a slap across the face." },
+    { "id": 228, "word": "slash", "tr": "rozříznout / lomeno / prudce snížit", "ex": "The company has decided to slash prices by 50%." },
+    { "id": 229, "word": "slave", "tr": "otrok", "ex": "The building was constructed by slaves." },
+    { "id": 230, "word": "slavery", "tr": "otroctví", "ex": "Slavery was abolished in the 19th century." },
+    { "id": 231, "word": "sleep", "tr": "spát / spánek", "ex": "I didn't get much sleep last night." },
+    { "id": 232, "word": "sleeve", "tr": "rukáv / obal (na desku)", "ex": "He rolled up his sleeves and started working." },
+    { "id": 233, "word": "slender", "tr": "štíhlý / útlý", "ex": "She has a slender figure." },
+    { "id": 234, "word": "slice", "tr": "plátek / ukrojit", "ex": "Would you like another slice of cake?" },
+    { "id": 235, "word": "slide", "tr": "klouzat / snímek / skluzavka", "ex": "The children were playing on the slide." },
+    { "id": 236, "word": "slight", "tr": "mírný / nepatrný", "ex": "There has been a slight change in our plans." },
+    { "id": 237, "word": "slightly", "tr": "mírně / trochu", "ex": "I'm feeling slightly better today." },
+    { "id": 238, "word": "slim", "tr": "štíhlý / hubený", "ex": "He is tall and slim." },
+    { "id": 239, "word": "slip", "tr": "uklouznout / lístek / uklouznutí", "ex": "Be careful not to slip on the ice." },
+    { "id": 240, "word": "slogan", "tr": "slogan / heslo", "ex": "The advertising campaign uses a very catchy slogan." },
+    { "id": 241, "word": "slope", "tr": "svah / sráz / svažovat se", "ex": "The house is built on a steep slope." },
+    { "id": 242, "word": "slot", "tr": "štěrbina / otvor / termín", "ex": "Put the coin in the slot." },
+    { "id": 243, "word": "slow", "tr": "pomalý / zpomalit", "ex": "The traffic was moving very slow." },
+    { "id": 244, "word": "slowly", "tr": "pomalu", "ex": "Please speak more slowly." },
+    { "id": 245, "word": "small", "tr": "malý", "ex": "We live in a small apartment." },
+    { "id": 246, "word": "smart", "tr": "chytrý / elegantní / pálit (rána)", "ex": "He looks very smart in his new suit." },
+    { "id": 247, "word": "smash", "tr": "rozbít / roztříštit / pecka (hit)", "ex": "Someone smashed the window with a brick." },
+    { "id": 248, "word": "smell", "tr": "cítit / čichat / vůně / zápach", "ex": "I love the smell of fresh coffee." },
+    { "id": 249, "word": "smile", "tr": "usmívat se / úsměv", "ex": "She gave me a warm smile." },
+    { "id": 250, "word": "smoke", "tr": "kouřit / kouř", "ex": "The room was filled with smoke." }
+  ]
+}
