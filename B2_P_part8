@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "policeman", "tr": "policista", "ex": "The policeman told him to pull over." },
+    { "id": 177, "word": "policy", "tr": "politika / strategie / pojistka", "ex": "The company has a strict no-smoking policy." },
+    { "id": 178, "word": "polish", "tr": "leštit / leštidlo / polština", "ex": "He used a cloth to polish his shoes." },
+    { "id": 179, "word": "polite", "tr": "zdvořilý / slušný", "ex": "It's important to be polite to customers." },
+    { "id": 180, "word": "politely", "tr": "zdvořile", "ex": "She politely declined the invitation." },
+    { "id": 181, "word": "political", "tr": "politický", "ex": "They have very different political views." },
+    { "id": 182, "word": "politician", "tr": "politik", "ex": "He is a well-known local politician." },
+    { "id": 183, "word": "politics", "tr": "politika (obor)", "ex": "She is interested in entering politics." },
+    { "id": 184, "word": "poll", "tr": "průzkum / anketa / volby", "ex": "A recent poll shows that the party is losing support." },
+    { "id": 185, "word": "pollute", "tr": "znečistit", "ex": "Factories continue to pollute the river." },
+    { "id": 186, "word": "pollution", "tr": "znečištění", "ex": "Air pollution is a major problem in big cities." },
+    { "id": 187, "word": "pond", "tr": "rybník / jezírko", "ex": "There are several frogs in the garden pond." },
+    { "id": 188, "word": "pool", "tr": "bazén / kaluž / fond", "ex": "The kids spent the whole afternoon in the pool." },
+    { "id": 189, "word": "poor", "tr": "chudý / ubohý / špatný", "ex": "He grew up in a very poor family." },
+    { "id": 190, "word": "pop", "tr": "pop / prasknout / vrazit (někam)", "ex": "I'm just going to pop into the shop for a minute." },
+    { "id": 191, "word": "popular", "tr": "populární / oblíbený", "ex": "The song is very popular among teenagers." },
+    { "id": 192, "word": "popularity", "tr": "popularita", "ex": "The president's popularity is at an all-time low." },
+    { "id": 193, "word": "population", "tr": "populace / obyvatelstvo", "ex": "The world's population is increasing rapidly." },
+    { "id": 194, "word": "pork", "tr": "vepřové", "ex": "I don't eat pork for religious reasons." },
+    { "id": 195, "word": "port", "tr": "přístav / port / levobok", "ex": "The ship finally arrived in port." },
+    { "id": 196, "word": "portfolio", "tr": "portfolio / složka / portfolio (akcií)", "ex": "The architect showed us his portfolio of designs." },
+    { "id": 197, "word": "portion", "tr": "porce / část / díl", "ex": "The restaurant serves very generous portions." },
+    { "id": 198, "word": "portrait", "tr": "portrét", "ex": "She painted a portrait of her father." },
+    { "id": 199, "word": "pose", "tr": "pózovat / představovat (hrozbu)", "ex": "Rising sea levels pose a threat to coastal cities." },
+    { "id": 200, "word": "position", "tr": "pozice / poloha / postavení", "ex": "I applied for the position of manager." }
+  ]
+}
