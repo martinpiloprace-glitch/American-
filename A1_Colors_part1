@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Colors",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "red", "tr": "červená", "ex": "The car is red." },
+    { "id": 2, "word": "blue", "tr": "modrá", "ex": "The sky is blue." },
+    { "id": 3, "word": "green", "tr": "zelená", "ex": "Green grass." },
+    { "id": 4, "word": "yellow", "tr": "žlutá", "ex": "The sun is yellow." },
+    { "id": 5, "word": "black", "tr": "černá", "ex": "Black cat." },
+    { "id": 6, "word": "white", "tr": "bílá", "ex": "White milk." },
+    { "id": 7, "word": "orange", "tr": "oranžová", "ex": "It is orange." },
+    { "id": 8, "word": "pink", "tr": "růžová", "ex": "Pink dress." },
+    { "id": 9, "word": "grey", "tr": "šedá", "ex": "Grey cloud." },
+    { "id": 10, "word": "color", "tr": "barva", "ex": "What color is it?" }
+  ]
+}
