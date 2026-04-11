@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "metabolic", "tr": "metabolický", "ex": "Exercise can increase your metabolic rate." },
+    { "id": 127, "word": "metabolism", "tr": "metabolismus / látková přeměna", "ex": "A fast metabolism helps you stay thin." },
+    { "id": 128, "word": "metal", "tr": "kov / kovový", "ex": "The gate is made of heavy metal." },
+    { "id": 129, "word": "metaphor", "tr": "metafora / přirovnání", "ex": "The poet uses the sea as a metaphor for life." },
+    { "id": 130, "word": "method", "tr": "metoda / způsob", "ex": "We need to find a more efficient method of working." },
+    { "id": 131, "word": "methodology", "tr": "metodologie", "ex": "The professor explained the research methodology." },
+    { "id": 132, "word": "metric", "tr": "metrický / měřítko", "ex": "Most countries use the metric system." },
+    { "id": 133, "word": "metropolis", "tr": "metropole / velkoměsto", "ex": "Tokyo is a huge, bustling metropolis." },
+    { "id": 134, "word": "microscope", "tr": "mikroskop", "ex": "Bacteria can only be seen under a microscope." },
+    { "id": 135, "word": "microwave", "tr": "mikrovlnná trouba / mikrovlna", "ex": "You can heat the soup in the microwave." },
+    { "id": 136, "word": "mid", "tr": "střední / uprostřed", "ex": "The accident happened in mid-July." },
+    { "id": 137, "word": "middle", "tr": "střed / prostřední", "ex": "He was standing in the middle of the room." },
+    { "id": 138, "word": "midnight", "tr": "půlnoc", "ex": "The party didn't finish until after midnight." },
+    { "id": 139, "word": "midst", "tr": "uprostřed / střed", "ex": "The country was in the midst of a civil war." },
+    { "id": 140, "word": "might", "tr": "možná / moci / síla", "ex": "I might go to the party if I'm not too tired." },
+    { "id": 141, "word": "mighty", "tr": "mocný / silný", "ex": "The mighty river flows into the sea." },
+    { "id": 142, "word": "migration", "tr": "migrace / stěhování", "ex": "Bird migration happens every autumn." },
+    { "id": 143, "word": "mild", "tr": "mírný / jemný", "ex": "The winter has been very mild so far." },
+    { "id": 144, "word": "mile", "tr": "míle", "ex": "The beach is about two miles from here." },
+    { "id": 145, "word": "militant", "tr": "militantní / bojovný", "ex": "The group is known for its militant views." },
+    { "id": 146, "word": "military", "tr": "vojenský / armáda", "ex": "He decided to join the military after school." },
+    { "id": 147, "word": "milk", "tr": "mléko / dojit", "ex": "Do you take milk in your coffee?" },
+    { "id": 148, "word": "mill", "tr": "mlýn / továrna / mlít", "ex": "The old water mill is now a museum." },
+    { "id": 149, "word": "millennium", "tr": "tisíciletí", "ex": "The city celebrated its first millennium." },
+    { "id": 150, "word": "million", "tr": "milion", "ex": "The painting is worth several million dollars." }
+  ]
+}
