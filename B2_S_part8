@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "sight", "tr": "zrak / pohled / památka", "ex": "He lost his sight in a car accident." },
+    { "id": 177, "word": "sightseeing", "tr": "prohlížení památek", "ex": "We did some sightseeing while we were in Paris." },
+    { "id": 178, "word": "sign", "tr": "znamení / značka / podepsat", "ex": "Please sign your name at the bottom of the page." },
+    { "id": 179, "word": "signal", "tr": "signál / signalizovat", "ex": "The green light is a signal to go." },
+    { "id": 180, "word": "signature", "tr": "podpis", "ex": "We need your signature on this document." },
+    { "id": 181, "word": "significance", "tr": "význam / důležitost", "ex": "The discovery is of great medical significance." },
+    { "id": 182, "word": "significant", "tr": "významný / podstatný", "ex": "There has been a significant increase in prices." },
+    { "id": 183, "word": "significantly", "tr": "významně / podstatně", "ex": "The new law will significantly affect the industry." },
+    { "id": 184, "word": "silence", "tr": "ticho / umlčet", "ex": "They sat in silence for a long time." },
+    { "id": 185, "word": "silent", "tr": "tichý / mlčící", "ex": "The house was completely silent." },
+    { "id": 186, "word": "silk", "tr": "hedvábí / hedvábný", "ex": "The dress is made of pure silk." },
+    { "id": 187, "word": "silly", "tr": "hloupý / pošetilý", "ex": "Don't be silly! Of course I'll help you." },
+    { "id": 188, "word": "silver", "tr": "stříbro / stříbrný", "ex": "She was wearing a silver necklace." },
+    { "id": 189, "word": "similar", "tr": "podobný", "ex": "The two brothers look very similar." },
+    { "id": 190, "word": "similarity", "tr": "podobnost", "ex": "I can see a strong similarity between the two paintings." },
+    { "id": 191, "word": "similarly", "tr": "podobně / nápodobně", "ex": "The second experiment was conducted similarly." },
+    { "id": 192, "word": "simple", "tr": "jednoduchý / prostý", "ex": "The solution to the problem is quite simple." },
+    { "id": 193, "word": "simplicity", "tr": "jednoduchost / prostota", "ex": "I like the simplicity of the design." },
+    { "id": 194, "word": "simplify", "tr": "zjednodušit", "ex": "We need to simplify the legal process." },
+    { "id": 195, "word": "simply", "tr": "prostě / jednoduše", "ex": "I simply don't have the time." },
+    { "id": 196, "word": "simulate", "tr": "simulovat / napodobit", "ex": "The computer can simulate different weather conditions." },
+    { "id": 197, "word": "simulation", "tr": "simulace", "ex": "The pilots train in a flight simulation." },
+    { "id": 198, "word": "simultaneous", "tr": "současný / simultánní", "ex": "There were simultaneous attacks on several cities." },
+    { "id": 199, "word": "sin", "tr": "hřích / hřešit", "ex": "To steal is a sin in most religions." },
+    { "id": 200, "word": "since", "tr": "od té doby / protože", "ex": "I haven't seen him since last summer." }
+  ]
+}
