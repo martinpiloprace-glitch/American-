@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 15,
+  "mode": "sentences",
+  "data": [
+    { "id": 351, "word": "spoil", "tr": "zkazit / rozmazlit", "ex": "The bad weather spoiled our holiday." },
+    { "id": 352, "word": "spokesman", "tr": "mluvčí (muž)", "ex": "A spokesman for the company denied the rumors." },
+    { "id": 353, "word": "sponsor", "tr": "sponzor / sponzorovat", "ex": "The event was sponsored by a local bank." },
+    { "id": 354, "word": "sponsorship", "tr": "sponzorství", "ex": "The team is looking for new sponsorship deals." },
+    { "id": 355, "word": "spontaneous", "tr": "spontánní", "ex": "The crowd gave them a spontaneous round of applause." },
+    { "id": 356, "word": "spoon", "tr": "lžíce", "ex": "She stirred her coffee with a spoon." },
+    { "id": 357, "word": "sport", "tr": "sport", "ex": "What's your favorite sport?" },
+    { "id": 358, "word": "spot", "tr": "místo / skvrna / zahlédnout", "ex": "This is a perfect spot for a picnic." },
+    { "id": 359, "word": "spread", "tr": "rozprostřít / šířit (se) / pomazánka", "ex": "The fire spread quickly through the building." },
+    { "id": 360, "word": "spring", "tr": "jaro / pramen / skočit", "ex": "The flowers start to bloom in the spring." },
+    { "id": 361, "word": "spy", "tr": "špión / špehovat", "ex": "He was accused of being a foreign spy." },
+    { "id": 362, "word": "squad", "tr": "oddíl / četa / tým", "ex": "The police sent a bomb disposal squad to the scene." },
+    { "id": 363, "word": "square", "tr": "čtverec / náměstí / čtvereční", "ex": "The town has a beautiful central square." },
+    { "id": 364, "word": "squeeze", "tr": "zmáčknout / vymačkat / stisknout", "ex": "She squeezed my hand to show her support." },
+    { "id": 365, "word": "stab", "tr": "bodnout / bodnutí", "ex": "He was stabbed in the chest during the fight." },
+    { "id": 366, "word": "stability", "tr": "stabilita", "ex": "The country is enjoying a period of economic stability." },
+    { "id": 367, "word": "stable", "tr": "stabilní / stáj", "ex": "His condition is reported to be stable." },
+    { "id": 368, "word": "stack", "tr": "hromada / komín / naskládat", "ex": "There was a stack of books on the table." },
+    { "id": 369, "word": "stadium", "tr": "stadion", "ex": "The stadium was packed for the final match." },
+    { "id": 370, "word": "staff", "tr": "personál / zaměstnanci", "ex": "The hospital has a staff of over 500." },
+    { "id": 371, "word": "stage", "tr": "fáze / etapa / jeviště", "ex": "The project is still in its early stages." },
+    { "id": 372, "word": "stain", "tr": "skvrna / flek / zašpinit", "ex": "I can't get this ink stain out of my shirt." },
+    { "id": 373, "word": "stair", "tr": "schod / schodiště", "ex": "She ran up the stairs to her room." },
+    { "id": 374, "word": "stake", "tr": "sázka / kůl / podíl", "ex": "There is a lot at stake in this election." },
+    { "id": 375, "word": "stall", "tr": "stánek / zhasnout (motor) / zdržovat", "ex": "He bought an apple from a fruit stall." }
+  ]
+}
