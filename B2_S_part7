@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "shocked", "tr": "šokovaný / otřesený", "ex": "I was shocked by his rude behavior." },
+    { "id": 152, "word": "shocking", "tr": "šokující / hrozný", "ex": "It was a shocking waste of money." },
+    { "id": 153, "word": "shoe", "tr": "bota", "ex": "Take your shoes off before you come in." },
+    { "id": 154, "word": "shoot", "tr": "střílet / natáčet / výhonek", "ex": "The cameras began to shoot the final scene." },
+    { "id": 155, "word": "shooting", "tr": "střelba / natáčení", "ex": "There was a shooting in the city center last night." },
+    { "id": 156, "word": "shop", "tr": "obchod / nakupovat", "ex": "I need to go to the shop to buy some milk." },
+    { "id": 157, "word": "shopping", "tr": "nakupování / nákup", "ex": "She spends all her money on shopping." },
+    { "id": 158, "word": "shore", "tr": "pobřeží / břeh", "ex": "We walked along the shore at sunset." },
+    { "id": 159, "word": "short", "tr": "krátký / malý (postavou)", "ex": "He is much shorter than his brother." },
+    { "id": 160, "word": "shortage", "tr": "nedostatek", "ex": "There is a severe shortage of skilled workers." },
+    { "id": 161, "word": "shortly", "tr": "brzy / zanedlouho", "ex": "The train will be arriving shortly." },
+    { "id": 162, "word": "shot", "tr": "výstřel / rána / záběr", "ex": "He fired a shot into the air." },
+    { "id": 163, "word": "should", "tr": "měl by (rada/pravděpodobnost)", "ex": "You should see a doctor about that cough." },
+    { "id": 164, "word": "shoulder", "tr": "rameno", "ex": "He put his hand on my shoulder." },
+    { "id": 165, "word": "shout", "tr": "křičet / křik", "ex": "There's no need to shout, I can hear you." },
+    { "id": 166, "word": "show", "tr": "ukázat / představení", "ex": "Can you show me the way to the station?" },
+    { "id": 167, "word": "shower", "tr": "sprcha / přeháňka", "ex": "I'll just have a quick shower." },
+    { "id": 168, "word": "shrewd", "tr": "mazaný / chytrý / prozíravý", "ex": "He is a shrewd businessman." },
+    { "id": 169, "word": "shrink", "tr": "srazit se / zmenšit se / psychiatr", "ex": "That shirt will shrink if you wash it in hot water." },
+    { "id": 170, "word": "shrug", "tr": "pokrčit rameny", "ex": "He just shrugged his shoulders and said nothing." },
+    { "id": 171, "word": "shut", "tr": "zavřít / zavřený", "ex": "Please shut the door behind you." },
+    { "id": 172, "word": "shy", "tr": "plachý / stydlivý", "ex": "He's very shy with people he doesn't know." },
+    { "id": 173, "word": "sibling", "tr": "sourozenec", "ex": "Do you have any siblings?" },
+    { "id": 174, "word": "sick", "tr": "nemocný / znechucený", "ex": "I feel a bit sick today." },
+    { "id": 175, "word": "side", "tr": "strana / bok", "ex": "Which side of the street do they live on?" }
+  ]
+}
