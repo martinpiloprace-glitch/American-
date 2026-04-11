@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "table", "tr": "stůl / tabulka", "ex": "Please look at the table on page 10." },
+    { "id": 2, "word": "tablet", "tr": "tablet / pilulka / deska", "ex": "He takes a vitamin tablet every morning." },
+    { "id": 3, "word": "tackle", "tr": "vypořádat se / řešit / nářadí", "ex": "The government is determined to tackle inflation." },
+    { "id": 4, "word": "tact", "tr": "takt / ohleduplnost", "ex": "He showed great tact in dealing with the difficult situation." },
+    { "id": 5, "word": "tactic", "tr": "taktika", "ex": "The manager changed his tactics for the second half." },
+    { "id": 6, "word": "tactical", "tr": "taktický", "ex": "It was a tactical decision to withdraw the troops." },
+    { "id": 7, "word": "tag", "tr": "štítek / visačka / označit", "ex": "The price is shown on the tag." },
+    { "id": 8, "word": "tail", "tr": "ocas / ohon", "ex": "The dog wagged its tail happily." },
+    { "id": 9, "word": "tailor", "tr": "krejčí / přizpůsobit", "ex": "The course is tailored to meet the needs of the students." },
+    { "id": 10, "word": "take", "tr": "vzít / brát / trvat", "ex": "It takes about an hour to get there." },
+    { "id": 11, "word": "tale", "tr": "příběh / povídka / báchorka", "ex": "She told us a fascinating tale of adventure." },
+    { "id": 12, "word": "talent", "tr": "talent / nadání", "ex": "She has a real talent for music." },
+    { "id": 13, "word": "talented", "tr": "talentovaný / nadaný", "ex": "He is a very talented young artist." },
+    { "id": 14, "word": "talk", "tr": "mluvit / hovořit / rozhovor", "ex": "We need to have a serious talk." },
+    { "id": 15, "word": "tall", "tr": "vysoký", "ex": "He is much taller than I expected." },
+    { "id": 16, "word": "tame", "tr": "zkrotit / krotký / fádní", "ex": "The lion was surprisingly tame." },
+    { "id": 17, "word": "tan", "tr": "opálení / hnědý / opalovat se", "ex": "She has a beautiful tan after her holiday." },
+    { "id": 18, "word": "tank", "tr": "nádrž / tank", "ex": "I need to fill up the gas tank." },
+    { "id": 19, "word": "tap", "tr": "kohoutek / klepat / odposlouchávat", "ex": "Don't forget to turn the tap off." },
+    { "id": 20, "word": "tape", "tr": "páska / kazeta / nahrát", "ex": "He used tape to fix the broken box." },
+    { "id": 21, "word": "target", "tr": "cíl / terč / zacílit", "ex": "The company has set a target of 10% growth." },
+    { "id": 22, "word": "tariff", "tr": "tarif / clo", "ex": "The government has imposed a tariff on imported cars." },
+    { "id": 23, "word": "task", "tr": "úkol", "ex": "Cleaning the whole house was a difficult task." },
+    { "id": 24, "word": "taste", "tr": "chuť / chutnat / vkus", "ex": "The cake has a very sweet taste." },
+    { "id": 25, "word": "tax", "tr": "daň / zdanit", "ex": "The government is planning to increase income tax." }
+  ]
+}
