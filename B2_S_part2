@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "scan", "tr": "skenovat / prohlédnout / sken", "ex": "She scanned the newspaper for any mention of the event." },
+    { "id": 27, "word": "scandal", "tr": "skandál / ostuda", "ex": "The mayor was forced to resign after the financial scandal." },
+    { "id": 28, "word": "scare", "tr": "vystrašit / polekat", "ex": "You scared me! I didn't hear you come in." },
+    { "id": 29, "word": "scared", "tr": "vystrašený / mající strach", "ex": "The little boy was scared of the dark." },
+    { "id": 30, "word": "scary", "tr": "děsivý / strašidelný", "ex": "It was a very scary movie." },
+    { "id": 31, "word": "scatter", "tr": "rozptýlit / rozházet", "ex": "The wind scattered the leaves across the lawn." },
+    { "id": 32, "word": "scene", "tr": "scéna / výjev / dějiště", "ex": "The police arrived at the scene of the accident." },
+    { "id": 33, "word": "scenery", "tr": "krajina / scenerie / kulisy", "ex": "We stopped to admire the beautiful mountain scenery." },
+    { "id": 34, "word": "scent", "tr": "vůně / pach / stopa", "ex": "The air was filled with the scent of roses." },
+    { "id": 35, "word": "schedule", "tr": "rozvrh / plán / naplánovat", "ex": "I have a very busy schedule this week." },
+    { "id": 36, "word": "scheme", "tr": "schéma / projekt / intrika", "ex": "The government has introduced a new training scheme." },
+    { "id": 37, "word": "scholar", "tr": "učenec / vědec / stipendista", "ex": "He is a world-renowned scholar of ancient history." },
+    { "id": 38, "word": "scholarship", "tr": "stipendium / učenost", "ex": "She won a scholarship to study at Oxford." },
+    { "id": 39, "word": "school", "tr": "škola / hejno (ryb)", "ex": "A large school of dolphins followed the boat." },
+    { "id": 40, "word": "science", "tr": "věda", "ex": "Advances in science have changed our lives." },
+    { "id": 41, "word": "scientific", "tr": "vědecký", "ex": "The theory is based on scientific evidence." },
+    { "id": 42, "word": "scientist", "tr": "vědec", "ex": "Scientists are working on a vaccine for the virus." },
+    { "id": 43, "word": "scissors", "tr": "nůžky", "ex": "I need a pair of scissors to cut this paper." },
+    { "id": 44, "word": "scold", "tr": "vynadat / hubovat", "ex": "His mother scolded him for breaking the vase." },
+    { "id": 45, "word": "scope", "tr": "rozsah / rámec / prostor", "ex": "This subject is beyond the scope of this book." },
+    { "id": 46, "word": "score", "tr": "skóre / bodovat / výsledek", "ex": "What was the final score of the match?" },
+    { "id": 47, "word": "scorn", "tr": "pohrdání / opovrhovat", "ex": "She looked at him with a look of pure scorn." },
+    { "id": 48, "word": "scratch", "tr": "škrábat / škrábanec", "ex": "Be careful, the cat might scratch you." },
+    { "id": 49, "word": "scream", "tr": "křičet / výkřik", "ex": "She let out a loud scream when she saw the mouse." },
+    { "id": 50, "word": "screen", "tr": "obrazovka / plátno / clona", "ex": "The movie was projected onto a large screen." }
+  ]
+}
