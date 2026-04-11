@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "U",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "uncertain", "tr": "nejistý", "ex": "The future of the project is still uncertain." },
+    { "id": 2, "word": "uncertainty", "tr": "nejistota", "ex": "There is a lot of uncertainty about the economy." },
+    { "id": 3, "word": "unchanged", "tr": "neměnný / nezměněný", "ex": "The situation remains unchanged." },
+    { "id": 4, "word": "uncle", "tr": "strýc", "ex": "My uncle lives in Canada." },
+    { "id": 5, "word": "uncomfortable", "tr": "nepohodlný / trapný", "ex": "The chairs were very uncomfortable." },
+    { "id": 6, "word": "unconscious", "tr": "v bezvědomí / podvědomý", "ex": "He was found unconscious on the floor." },
+    { "id": 7, "word": "uncover", "tr": "odkrýt / odhalit", "ex": "The police uncovered a plot to rob the bank." },
+    { "id": 8, "word": "under", "tr": "pod", "ex": "The cat is under the table." },
+    { "id": 9, "word": "underestimate", "tr": "podcenit", "ex": "Never underestimate your opponent." },
+    { "id": 10, "word": "undergo", "tr": "podstoupit / projít čím", "ex": "The building is undergoing extensive renovations." },
+    { "id": 11, "word": "undergraduate", "tr": "student bakalářského studia", "ex": "She is an undergraduate at Oxford University." },
+    { "id": 12, "word": "underground", "tr": "podzemní / metro (v UK)", "ex": "We took the underground to the city center." },
+    { "id": 13, "word": "underlie", "tr": "být základem / tvořit podstatu", "ex": "What are the principles that underlie this theory?" },
+    { "id": 14, "word": "underline", "tr": "podtrhnout / zdůraznit", "ex": "Please underline the correct answer." },
+    { "id": 15, "word": "underlying", "tr": "základní / hlubší", "ex": "The underlying cause of the problem is poverty." },
+    { "id": 16, "word": "undermine", "tr": "podkopat / oslabit", "ex": "His authority was undermined by the constant criticism." },
+    { "id": 17, "word": "underneath", "tr": "vespod / vespod", "ex": "The coin had rolled underneath the sofa." },
+    { "id": 18, "word": "understand", "tr": "rozumět / chápat", "ex": "I don't understand what you mean." },
+    { "id": 19, "word": "understanding", "tr": "pochopení / porozumění", "ex": "He has a deep understanding of the subject." },
+    { "id": 20, "word": "undertake", "tr": "podniknout / zavázat se k čemu", "ex": "The university has undertaken a major research project." },
+    { "id": 21, "word": "unemployed", "tr": "nezaměstnaný", "ex": "He has been unemployed for six months." },
+    { "id": 22, "word": "unemployment", "tr": "nezaměstnanost", "ex": "The unemployment rate is rising." },
+    { "id": 23, "word": "unexpected", "tr": "nečekaný / neočekávaný", "ex": "The news was quite unexpected." },
+    { "id": 24, "word": "unfair", "tr": "nespravedlivý", "ex": "It's unfair to blame her for everything." },
+    { "id": 25, "word": "unfold", "tr": "rozvinout (se) / odhalit (se)", "ex": "The story unfolds in a small village in France." }
+  ]
+}
