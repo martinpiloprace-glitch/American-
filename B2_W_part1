@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "W",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "wage", "tr": "mzda / vést (válku)", "ex": "The workers are demanding a higher minimum wage." },
+    { "id": 2, "word": "wagon", "tr": "vůz / vagon", "ex": "The horses were pulling a heavy wooden wagon." },
+    { "id": 3, "word": "waist", "tr": "pas / dřík", "ex": "The water was up to his waist." },
+    { "id": 4, "word": "wait", "tr": "čekat / počkat / čekání", "ex": "I'll wait for you at the station." },
+    { "id": 5, "word": "waiter", "tr": "číšník", "ex": "The waiter brought us the menu." },
+    { "id": 6, "word": "waiting", "tr": "čekání / čekající", "ex": "There's a long waiting list for the surgery." },
+    { "id": 7, "word": "waitress", "tr": "servírka", "ex": "The waitress took our order." },
+    { "id": 8, "word": "wake", "tr": "probudit (se) / brázda", "ex": "What time do you usually wake up?" },
+    { "id": 9, "word": "walk", "tr": "jít / procházet se / procházka", "ex": "I walk to work every day." },
+    { "id": 10, "word": "walking", "tr": "chůze / procházení", "ex": "Walking is a great way to stay fit." },
+    { "id": 11, "word": "wall", "tr": "zeď / stěna", "ex": "He hung the picture on the wall." },
+    { "id": 12, "word": "wallet", "tr": "peněženka (pánská)", "ex": "I forgot my wallet at home." },
+    { "id": 13, "word": "wander", "tr": "toulat se / bloudit", "ex": "We spent the afternoon wandering around the old town." },
+    { "id": 14, "word": "want", "tr": "chtít / nedostatek", "ex": "I want to travel around the world." },
+    { "id": 15, "word": "war", "tr": "válka", "ex": "The war lasted for six years." },
+    { "id": 16, "word": "ward", "tr": "oddělení (v nemocnici) / svěřenec", "ex": "He is in the surgical ward." },
+    { "id": 17, "word": "wardrobe", "tr": "šatní skříň / šatník", "ex": "I need to buy some new clothes for my summer wardrobe." },
+    { "id": 18, "word": "warehouse", "tr": "sklad / skladiště", "ex": "The goods are stored in a large warehouse." },
+    { "id": 19, "word": "warm", "tr": "teplý / hřát", "ex": "The soup is nice and warm." },
+    { "id": 20, "word": "warmth", "tr": "teplo / vřelost", "ex": "The sun provided some much-needed warmth." },
+    { "id": 21, "word": "warn", "tr": "varovat / upozornit", "ex": "The police warned us not to go out at night." },
+    { "id": 22, "word": "warning", "tr": "varování / výstraha", "ex": "The doctor gave him a serious warning about his health." },
+    { "id": 23, "word": "warrant", "tr": "zatykač / příkaz / opravňovat", "ex": "The police had a warrant for his arrest." },
+    { "id": 24, "word": "warrior", "tr": "bojovník / válečník", "ex": "The ancient warriors were known for their bravery." },
+    { "id": 25, "word": "wash", "tr": "mýt / prát / mytí", "ex": "I need to wash my car." }
+  ]
+}
