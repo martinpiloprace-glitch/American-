@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "screw", "tr": "šroub / přišroubovat", "ex": "I need a screwdriver to tighten this screw." },
+    { "id": 52, "word": "script", "tr": "scénář / písmo", "ex": "The actors are busy learning their script." },
+    { "id": 53, "word": "scrutiny", "tr": "podrobné zkoumání / dohled", "ex": "The company's finances are under close scrutiny." },
+    { "id": 54, "word": "sculpture", "tr": "socha / sochařství", "ex": "There is a modern sculpture in the park." },
+    { "id": 55, "word": "sea", "tr": "moře", "ex": "The town is located right by the sea." },
+    { "id": 56, "word": "seal", "tr": "tuleň / pečeť / uzavřít", "ex": "The envelope was sealed with wax." },
+    { "id": 57, "word": "search", "tr": "hledat / pátrání", "ex": "The police are still searching for the missing boy." },
+    { "id": 58, "word": "season", "tr": "sezóna / roční období", "ex": "Spring is my favorite season." },
+    { "id": 59, "word": "seat", "tr": "sedadlo / místo", "ex": "Is this seat taken?" },
+    { "id": 60, "word": "secondary", "tr": "sekundární / vedlejší / střední (škola)", "ex": "Our secondary concern is the cost of the project." },
+    { "id": 61, "word": "secret", "tr": "tajemství / tajný", "ex": "Can you keep a secret?" },
+    { "id": 62, "word": "secretary", "tr": "sekretář(ka) / ministr (v USA/UK)", "ex": "His secretary handles all his appointments." },
+    { "id": 63, "word": "section", "tr": "sekce / část / oddíl", "ex": "The library has a large section for children's books." },
+    { "id": 64, "word": "sector", "tr": "sektor / odvětví", "ex": "The private sector is growing rapidly." },
+    { "id": 65, "word": "secular", "tr": "světský / sekulární", "ex": "The country has a strong secular tradition." },
+    { "id": 66, "word": "secure", "tr": "zajistit / bezpečný / upevnit", "ex": "We need to secure the building against intruders." },
+    { "id": 67, "word": "security", "tr": "bezpečnost / ochranka / cenné papíry", "ex": "Security at the airport has been tightened." },
+    { "id": 68, "word": "see", "tr": "vidět / chápat / navštívit", "ex": "I can see the mountains from my window." },
+    { "id": 69, "word": "seed", "tr": "semínko", "ex": "The farmer is sowing the seeds in the field." },
+    { "id": 70, "word": "seek", "tr": "hledat / usilovat / žádat", "ex": "They are seeking shelter from the rain." },
+    { "id": 71, "word": "seem", "tr": "vypadat / zdát se", "ex": "You seem a bit tired today." },
+    { "id": 72, "word": "seemingly", "tr": "zdánlivě / podle všeho", "ex": "It was a seemingly impossible task." },
+    { "id": 73, "word": "segment", "tr": "segment / část / dílek", "ex": "A segment of the population is unhappy with the changes." },
+    { "id": 74, "word": "seize", "tr": "uchopit / zmocnit se / zabavit", "ex": "The police seized the stolen goods." },
+    { "id": 75, "word": "seldom", "tr": "zřídka / málokdy", "ex": "He seldom visits his parents." }
+  ]
+}
