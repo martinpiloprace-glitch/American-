@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "W",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "wind", "tr": "vítr / vinout se / natahovat", "ex": "The wind was blowing hard." },
+    { "id": 102, "word": "window", "tr": "okno", "ex": "Could you open the window, please?" },
+    { "id": 103, "word": "windy", "tr": "větrný", "ex": "It's a very windy day." },
+    { "id": 104, "word": "wine", "tr": "víno", "ex": "Would you like a glass of red wine?" },
+    { "id": 105, "word": "wing", "tr": "křídlo", "ex": "The bird has a broken wing." },
+    { "id": 106, "word": "winner", "tr": "vítěz", "ex": "The winner of the competition will receive a prize." },
+    { "id": 107, "word": "winter", "tr": "zima", "ex": "We usually go skiing in the winter." },
+    { "id": 108, "word": "wipe", "tr": "utřít / otřít", "ex": "Could you wipe the table, please?" },
+    { "id": 109, "word": "wire", "tr": "drát / vedení / zapojit", "ex": "The fence is made of wire." },
+    { "id": 110, "word": "wisdom", "tr": "moudrost", "ex": "He is known for his great wisdom." },
+    { "id": 111, "word": "wise", "tr": "moudrý", "ex": "I think you've made a very wise decision." },
+    { "id": 112, "word": "wish", "tr": "přát si / přání", "ex": "I wish I could fly." },
+    { "id": 113, "word": "wit", "tr": "vtip / důvtip", "ex": "He is famous for his sharp wit." },
+    { "id": 114, "word": "with", "tr": "s / se", "ex": "I'm going to the cinema with my friends." },
+    { "id": 115, "word": "withdraw", "tr": "vybrat (peníze) / stáhnout (se)", "ex": "I need to withdraw some money from the bank." },
+    { "id": 116, "word": "withdrawal", "tr": "výběr / stažení / odvykací stav", "ex": "He made a withdrawal of £100 from his account." },
+    { "id": 117, "word": "within", "tr": "v rámci / během / uvnitř", "ex": "The work must be completed within two weeks." },
+    { "id": 118, "word": "without", "tr": "bez", "ex": "I can't live without my phone." },
+    { "id": 119, "word": "witness", "tr": "svědek / být svědkem", "ex": "The police are looking for witnesses to the accident." },
+    { "id": 120, "word": "wolf", "tr": "vlk", "ex": "The wolves were howling in the distance." },
+    { "id": 121, "word": "woman", "tr": "žena", "ex": "She is a very successful business woman." },
+    { "id": 122, "word": "wonder", "tr": "divit se / chtít vědět / zázrak", "ex": "I wonder why he is so late." },
+    { "id": 123, "word": "wonderful", "tr": "nádherný / skvělý", "ex": "We had a wonderful time on holiday." },
+    { "id": 124, "word": "wood", "tr": "dřevo / les", "ex": "The table is made of solid wood." },
+    { "id": 125, "word": "wooden", "tr": "dřevěný", "ex": "They have a beautiful wooden house." }
+  ]
+}
