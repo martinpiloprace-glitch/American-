@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Bedroom",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "bed", "tr": "postel", "ex": "I am in bed." },
+    { "id": 2, "word": "pillow", "tr": "polštář", "ex": "Soft pillow." },
+    { "id": 3, "word": "lamp", "tr": "lampa", "ex": "Turn on the lamp." },
+    { "id": 4, "word": "sleep", "tr": "spát", "ex": "I sleep here." },
+    { "id": 5, "word": "blanket", "tr": "deka / přikrývka", "ex": "Warm blanket." },
+    { "id": 6, "word": "clock", "tr": "hodiny / budík", "ex": "See the clock." },
+    { "id": 7, "word": "night", "tr": "noc", "ex": "Dark night." },
+    { "id": 8, "word": "closet", "tr": "skříň", "ex": "Open the closet." },
+    { "id": 9, "word": "dream", "tr": "sen / snít", "ex": "I have a dream." },
+    { "id": 10, "word": "shelf", "tr": "police", "ex": "Book on the shelf." }
+  ]
+}
