@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "shabby", "tr": "ošuntělý / zanedbaný", "ex": "He was wearing a shabby old coat." },
+    { "id": 127, "word": "shade", "tr": "stín / odstín / clonit", "ex": "Let's sit in the shade of that big tree." },
+    { "id": 128, "word": "shadow", "tr": "stín (postavy/věci)", "ex": "The sun was low and the shadows were long." },
+    { "id": 129, "word": "shake", "tr": "třást / potřást / otřes", "ex": "They shook hands and agreed on the deal." },
+    { "id": 130, "word": "shall", "tr": "mít (povinnost/návrh) / budoucí čas", "ex": "Shall we go for a walk?" },
+    { "id": 131, "word": "shallow", "tr": "mělký / povrchní", "ex": "The water is quite shallow here." },
+    { "id": 132, "word": "shame", "tr": "hanba / stud / škoda", "ex": "It's a shame that you can't come to the party." },
+    { "id": 133, "word": "shape", "tr": "tvar / formovat", "ex": "The pool was in the shape of a heart." },
+    { "id": 134, "word": "share", "tr": "sdílet / podíl / akcie", "ex": "I'm happy to share my lunch with you." },
+    { "id": 135, "word": "shareholder", "tr": "akcionář / podílník", "ex": "The shareholders voted against the merger." },
+    { "id": 136, "word": "sharp", "tr": "ostrý / prudký / přesně", "ex": "Be careful, that knife is very sharp." },
+    { "id": 137, "word": "shatter", "tr": "roztříštit / otřást", "ex": "The glass shattered into a thousand pieces." },
+    { "id": 138, "word": "shave", "tr": "holit se", "ex": "He shaves every morning before work." },
+    { "id": 139, "word": "sheep", "tr": "ovce", "ex": "The farmer is shearing the sheep." },
+    { "id": 140, "word": "sheet", "tr": "prostěradlo / list / tabule", "ex": "Could you give me a sheet of paper?" },
+    { "id": 141, "word": "shelf", "tr": "police / regál", "ex": "The books are on the top shelf." },
+    { "id": 142, "word": "shell", "tr": "ulita / mušle / skořápka", "ex": "We collected shells on the beach." },
+    { "id": 143, "word": "shelter", "tr": "přístřeší / úkryt / krýt", "ex": "They took shelter from the rain in a cave." },
+    { "id": 144, "word": "shift", "tr": "směna / posun / posunout", "ex": "He works the night shift at the factory." },
+    { "id": 145, "word": "shine", "tr": "svítit / zářit / lesk", "ex": "The sun was shining brightly." },
+    { "id": 146, "word": "shiny", "tr": "lesklý / zářivý", "ex": "She has beautiful shiny hair." },
+    { "id": 147, "word": "ship", "tr": "loď / přepravovat", "ex": "The goods will be shipped by sea." },
+    { "id": 148, "word": "shipping", "tr": "přeprava / doprava", "ex": "Shipping is free on orders over $50." },
+    { "id": 149, "word": "shirt", "tr": "košile", "ex": "He wore a white shirt and a tie." },
+    { "id": 150, "word": "shock", "tr": "šok / otřes / šokovat", "ex": "The news of his death came as a great shock." }
+  ]
+}
