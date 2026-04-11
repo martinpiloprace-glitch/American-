@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Nature",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "tree", "tr": "strom", "ex": "The tree is tall." },
+    { "id": 2, "word": "flower", "tr": "květina", "ex": "The flower is red." },
+    { "id": 3, "word": "river", "tr": "řeka", "ex": "The river is cold." },
+    { "id": 4, "word": "mountain", "tr": "hora", "ex": "High mountain." },
+    { "id": 5, "word": "sun", "tr": "slunce", "ex": "Sun is yellow." },
+    { "id": 6, "word": "moon", "tr": "měsíc", "ex": "Moon is white." },
+    { "id": 7, "word": "star", "tr": "hvězda", "ex": "See the star." },
+    { "id": 8, "word": "sea", "tr": "moře", "ex": "The sea is blue." },
+    { "id": 9, "word": "forest", "tr": "les", "ex": "Run in the forest." },
+    { "id": 10, "word": "grass", "tr": "tráva", "ex": "Green grass." }
+  ]
+}
