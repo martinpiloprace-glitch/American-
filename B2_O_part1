@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "O",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "obey", "tr": "poslouchat / dbát (příkazů)", "ex": "You must obey the safety rules." },
+    { "id": 2, "word": "object", "tr": "předmět / objekt / namítat", "ex": "Does anyone object to this proposal?" },
+    { "id": 3, "word": "objection", "tr": "námitka", "ex": "I have no objection to your plan." },
+    { "id": 4, "word": "objective", "tr": "cíl / objektivní", "ex": "Our main objective is to improve quality." },
+    { "id": 5, "word": "obligation", "tr": "závazek / povinnost", "ex": "We have a moral obligation to help them." },
+    { "id": 6, "word": "oblige", "tr": "zavázat / donutit / vyhovět", "ex": "I am much obliged to you for your help." },
+    { "id": 7, "word": "obscure", "tr": "nejasný / zapadlý / zastínit", "ex": "The details of the contract are somewhat obscure." },
+    { "id": 8, "word": "observation", "tr": "pozorování / postřeh", "ex": "The patient is under close observation." },
+    { "id": 9, "word": "observe", "tr": "pozorovat / dodržovat", "ex": "Scientists observe the behavior of animals." },
+    { "id": 10, "word": "observer", "tr": "pozorovatel", "ex": "International observers monitored the elections." },
+    { "id": 11, "word": "obsess", "tr": "posednout / neustále pronásledovat", "ex": "He is obsessed with his appearance." },
+    { "id": 12, "word": "obsession", "tr": "posedlost", "ex": "Her obsession with cleanliness is annoying." },
+    { "id": 13, "word": "obstacle", "tr": "překážka", "ex": "Lack of money is the main obstacle to the project." },
+    { "id": 14, "word": "obtain", "tr": "získat / obdržet", "ex": "You need to obtain permission from the council." },
+    { "id": 15, "word": "obvious", "tr": "zřejmý / jasný", "ex": "It was obvious that she was lying." },
+    { "id": 16, "word": "obviously", "tr": "zřejmě / jasně", "ex": "Obviously, we need to talk about this." },
+    { "id": 17, "word": "occasion", "tr": "příležitost / událost", "ex": "We met on several occasions." },
+    { "id": 18, "word": "occasional", "tr": "příležitostný", "ex": "We have the occasional disagreement." },
+    { "id": 19, "word": "occasionally", "tr": "příležitostně / občas", "ex": "I occasionally go to the theater." },
+    { "id": 20, "word": "occupation", "tr": "povolání / okupace", "ex": "Please state your name, age, and occupation." },
+    { "id": 21, "word": "occupy", "tr": "obsadit / zabrat", "ex": "The army occupied the town." },
+    { "id": 22, "word": "occur", "tr": "stát se / přihodit se / napadnout (koho)", "ex": "The accident occurred at about 3 PM." },
+    { "id": 23, "word": "occurrence", "tr": "výskyt / událost", "ex": "Traffic jams are a daily occurrence here." },
+    { "id": 24, "word": "ocean", "tr": "oceán", "ex": "The ship crossed the Atlantic Ocean." },
+    { "id": 25, "word": "October", "tr": "říjen", "ex": "The leaves turn brown in October." }
+  ]
+}
