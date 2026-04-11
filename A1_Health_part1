@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Health",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "sick", "tr": "nemocný", "ex": "I am sick." },
+    { "id": 2, "word": "help", "tr": "pomoc", "ex": "Help me, please." },
+    { "id": 3, "word": "doctor", "tr": "doktor", "ex": "See a doctor." },
+    { "id": 4, "word": "pill", "tr": "pilulka / prášek", "ex": "Take this pill." },
+    { "id": 5, "word": "pain", "tr": "bolest", "ex": "I have pain." },
+    { "id": 6, "word": "hospital", "tr": "nemocnice", "ex": "Go to hospital." },
+    { "id": 7, "word": "better", "tr": "lépe", "ex": "I feel better." },
+    { "id": 8, "word": "medicine", "tr": "lék", "ex": "Drink the medicine." },
+    { "id": 9, "word": "hurt", "tr": "bolet", "ex": "My arm hurts." },
+    { "id": 10, "word": "healthy", "tr": "zdravý", "ex": "Eat healthy food." }
+  ]
+}
