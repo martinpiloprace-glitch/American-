@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "V",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "violence", "tr": "násilí", "ex": "The government is trying to reduce levels of violence in the city." },
+    { "id": 77, "word": "violent", "tr": "násilný / prudký", "ex": "He has a violent temper." },
+    { "id": 78, "word": "virtual", "tr": "virtuální / faktický", "ex": "The website offers a virtual tour of the museum." },
+    { "id": 79, "word": "virtually", "tr": "prakticky / v podstatě / virtuálně", "ex": "The stadium was virtually empty." },
+    { "id": 80, "word": "virtue", "tr": "ctnost / přednost / výhoda", "ex": "Patience is a virtue." },
+    { "id": 81, "word": "virus", "tr": "virus", "ex": "My computer has been infected with a virus." },
+    { "id": 82, "word": "visa", "tr": "vízum", "ex": "You need a visa to visit the United States." },
+    { "id": 83, "word": "visible", "tr": "viditelný / zřejmý", "ex": "The stars were clearly visible in the night sky." },
+    { "id": 84, "word": "vision", "tr": "vidění / zrak / vize", "ex": "She has a very clear vision for the future of the company." },
+    { "id": 85, "word": "visit", "tr": "navštívit / návštěva", "ex": "We're planning to visit our grandparents this weekend." },
+    { "id": 86, "word": "visitor", "tr": "návštěvník", "ex": "The museum attracts thousands of visitors every year." },
+    { "id": 87, "word": "visual", "tr": "vizuální / zrakový", "ex": "The movie has some stunning visual effects." },
+    { "id": 88, "word": "vital", "tr": "životně důležitý / vitální", "ex": "Regular exercise is vital for good health." },
+    { "id": 89, "word": "vitamin", "tr": "vitamin", "ex": "Oranges are full of vitamin C." },
+    { "id": 90, "word": "vivid", "tr": "živý / jasný / sytý", "ex": "I have a very vivid memory of my first day at school." },
+    { "id": 91, "word": "vocabulary", "tr": "slovní zásoba", "ex": "Reading is a great way to improve your vocabulary." },
+    { "id": 92, "word": "vocal", "tr": "vokální / hlasový / hlasitý (v názoru)", "ex": "He is a vocal critic of the government's policies." },
+    { "id": 93, "word": "vocation", "tr": "povolání / poslání", "ex": "Nursing is more than a job; it's a vocation." },
+    { "id": 94, "word": "voice", "tr": "hlas / vyslovit", "ex": "I could hear voices in the next room." },
+    { "id": 95, "word": "void", "tr": "prázdnota / neplatný / prázdný", "ex": "The contract was declared null and void." },
+    { "id": 96, "word": "volcano", "tr": "sopka / vulkán", "ex": "The volcano erupted for the first time in centuries." },
+    { "id": 97, "word": "volleyball", "tr": "volejbal", "ex": "We played volleyball on the beach." },
+    { "id": 98, "word": "volume", "tr": "objem / hlasitost / svazek (knihy)", "ex": "Can you turn the volume up, please?" },
+    { "id": 99, "word": "voluntary", "tr": "dobrovolný", "ex": "She does voluntary work for a local charity." },
+    { "id": 100, "word": "volunteer", "tr": "dobrovolník / nabídnout se", "ex": "He volunteered to help with the project." }
+  ]
+}
