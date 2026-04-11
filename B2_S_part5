@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "sequence", "tr": "sekvence / sled / pořadí", "ex": "The chapters are in a logical sequence." },
+    { "id": 102, "word": "series", "tr": "série / seriál / řada", "ex": "I'm watching a new comedy series on TV." },
+    { "id": 103, "word": "serious", "tr": "vážný / seriózní", "ex": "Is he in any serious danger?" },
+    { "id": 104, "word": "seriously", "tr": "vážně", "ex": "You need to take your studies more seriously." },
+    { "id": 105, "word": "sermon", "tr": "kázání", "ex": "The priest gave a long sermon on charity." },
+    { "id": 106, "word": "servant", "tr": "sluha / služebník", "ex": "The family had several servants in the past." },
+    { "id": 107, "word": "serve", "tr": "sloužit / podávat (jídlo) / obsloužit", "ex": "Dinner is served from 7 PM to 9 PM." },
+    { "id": 108, "word": "service", "tr": "služba / servis / bohoslužba", "ex": "The service in the restaurant was excellent." },
+    { "id": 109, "word": "session", "tr": "sezení / zasedání / schůze", "ex": "The training session will last for two hours." },
+    { "id": 110, "word": "set", "tr": "sada / nastavit / položit", "ex": "I need to set the alarm for 6 AM." },
+    { "id": 111, "word": "setting", "tr": "prostředí / nastavení", "ex": "The castle provides a beautiful setting for the wedding." },
+    { "id": 112, "word": "settle", "tr": "usadit se / urovnat / vyřešit", "ex": "They finally settled the dispute out of court." },
+    { "id": 113, "word": "settlement", "tr": "osada / vyrovnání / dohoda", "ex": "The lawyers reached a financial settlement." },
+    { "id": 114, "word": "settler", "tr": "osadník / kolonista", "ex": "The first European settlers arrived in the 17th century." },
+    { "id": 115, "word": "seven", "tr": "sedm", "ex": "She has seven brothers." },
+    { "id": 116, "word": "seventeen", "tr": "sedmnáct", "ex": "He is seventeen years old." },
+    { "id": 117, "word": "seventh", "tr": "sedmý", "ex": "It's his seventh birthday today." },
+    { "id": 118, "word": "seventy", "tr": "sedmdesát", "ex": "The speed limit is seventy miles per hour." },
+    { "id": 119, "word": "several", "tr": "několik", "ex": "I've seen that movie several times." },
+    { "id": 120, "word": "severe", "tr": "vážný / krutý / přísný", "ex": "The area is suffering from a severe drought." },
+    { "id": 121, "word": "severely", "tr": "vážně / těžce / přísně", "ex": "The building was severely damaged in the fire." },
+    { "id": 122, "word": "sew", "tr": "šít", "ex": "My grandmother taught me how to sew." },
+    { "id": 123, "word": "sewer", "tr": "stoka / kanalizace", "ex": "The city's sewer system needs to be updated." },
+    { "id": 124, "word": "sex", "tr": "pohlaví / sex", "ex": "The baby's sex was not determined yet." },
+    { "id": 125, "word": "sexual", "tr": "sexuální / pohlavní", "ex": "The law protects people against sexual harassment." }
+  ]
+}
