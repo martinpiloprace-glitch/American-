@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "L",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "liver", "tr": "játra", "ex": "Alcohol can cause serious damage to the liver." },
+    { "id": 127, "word": "living", "tr": "živý / živobytí / bydlení", "ex": "What do you do for a living?" },
+    { "id": 128, "word": "load", "tr": "náklad / naložit", "ex": "The truck was carrying a heavy load of bricks." },
+    { "id": 129, "word": "loan", "tr": "půjčka / úvěr", "ex": "I took out a loan to buy a new car." },
+    { "id": 130, "word": "lobby", "tr": "vstupní hala / lobbovat", "ex": "I'll meet you in the hotel lobby at eight." },
+    { "id": 131, "word": "local", "tr": "místní / lokální", "ex": "We should support our local businesses." },
+    { "id": 132, "word": "locate", "tr": "umístit / lokalizovat / najít", "ex": "They are trying to locate the source of the sound." },
+    { "id": 133, "word": "location", "tr": "poloha / místo / lokace", "ex": "The hotel is in a beautiful location by the lake." },
+    { "id": 134, "word": "lock", "tr": "zamknout / zámek", "ex": "Don't forget to lock the door when you leave." },
+    { "id": 135, "word": "log", "tr": "kláda / poleno / záznam", "ex": "The captain kept a daily log of the journey." },
+    { "id": 136, "word": "logic", "tr": "logika", "ex": "There is no logic in your argument." },
+    { "id": 137, "word": "logical", "tr": "logický", "ex": "It was the only logical thing to do." },
+    { "id": 138, "word": "logo", "tr": "logo", "ex": "The company's logo is recognized worldwide." },
+    { "id": 139, "word": "lonely", "tr": "osamělý", "ex": "She felt very lonely after her friends left." },
+    { "id": 140, "word": "long", "tr": "dlouhý / dlouho", "ex": "How long have you been waiting?" },
+    { "id": 141, "word": "long-term", "tr": "dlouhodobý", "ex": "We need to consider the long-term effects." },
+    { "id": 142, "word": "look", "tr": "dívala se / vypadat / pohled", "ex": "You look very tired today." },
+    { "id": 143, "word": "loose", "tr": "volný / uvolněný", "ex": "I have a loose tooth." },
+    { "id": 144, "word": "loosely", "tr": "volně / nepevně", "ex": "The rope was loosely tied around the tree." },
+    { "id": 145, "word": "lord", "tr": "pán / šlechtic", "ex": "The king was the lord of all the land." },
+    { "id": 146, "word": "lose", "tr": "ztratit / prohrát", "ex": "I don't want to lose my keys again." },
+    { "id": 147, "word": "loss", "tr": "ztráta / prohra", "ex": "The company reported a huge financial loss." },
+    { "id": 148, "word": "lost", "tr": "ztracený / ztraceno", "ex": "I got lost in the forest." },
+    { "id": 149, "word": "lot", "tr": "hodně / osud / pozemek", "ex": "There were a lot of people at the party." },
+    { "id": 150, "word": "loud", "tr": "hlasitý / nahlas", "ex": "The music was so loud that I couldn't hear you." }
+  ]
+}
