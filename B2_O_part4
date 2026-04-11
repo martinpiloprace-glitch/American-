@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "O",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "orchestra", "tr": "orchestr", "ex": "The orchestra played a beautiful symphony." },
+    { "id": 77, "word": "order", "tr": "objednávka / rozkaz / pořádek", "ex": "I'd like to place an order for a pizza." },
+    { "id": 78, "word": "orderly", "tr": "uspořádaný / ukázněný / zřízenec", "ex": "The evacuation was carried out in an orderly fashion." },
+    { "id": 79, "word": "ordinary", "tr": "obyčejný / běžný", "ex": "It was just an ordinary day at work." },
+    { "id": 80, "word": "ore", "tr": "ruda", "ex": "Iron ore is used to make steel." },
+    { "id": 81, "word": "organ", "tr": "orgán / varhany", "ex": "The heart is a vital organ." },
+    { "id": 82, "word": "organic", "tr": "organický / bio", "ex": "We only buy organic vegetables." },
+    { "id": 83, "word": "organism", "tr": "organismus", "ex": "All living organisms need water to survive." },
+    { "id": 84, "word": "organization", "tr": "organizace", "ex": "She works for a non-profit organization." },
+    { "id": 85, "word": "organizational", "tr": "organizační", "ex": "The job requires strong organizational skills." },
+    { "id": 86, "word": "organize", "tr": "organizovat / uspořádat", "ex": "We need to organize a meeting for next week." },
+    { "id": 87, "word": "organized", "tr": "organizovaný / uspořádaný", "ex": "She is a very organized person." },
+    { "id": 88, "word": "orient", "tr": "orientovat (se) / Orient", "ex": "It took me a while to orient myself in the new city." },
+    { "id": 89, "word": "orientation", "tr": "orientace / zaměření", "ex": "The company holds an orientation for new employees." },
+    { "id": 90, "word": "origin", "tr": "původ / počátek", "ex": "What is the origin of this tradition?" },
+    { "id": 91, "word": "original", "tr": "původní / originál", "ex": "The original building was destroyed in the fire." },
+    { "id": 92, "word": "originally", "tr": "původně", "ex": "The house was originally built in 1920." },
+    { "id": 93, "word": "originate", "tr": "vzniknout / pocházet", "ex": "The game is thought to have originated in China." },
+    { "id": 94, "word": "ornament", "tr": "ozdoba / dekorace", "ex": "The Christmas tree was covered in silver ornaments." },
+    { "id": 95, "word": "orphan", "tr": "sirotek", "ex": "He became an orphan at the age of ten." },
+    { "id": 96, "word": "orthodox", "tr": "ortodoxní / tradiční", "ex": "He has very orthodox views on religion." },
+    { "id": 97, "word": "other", "tr": "jiný / ostatní", "ex": "I have other things to do." },
+    { "id": 98, "word": "otherwise", "tr": "jinak / v opačném případě", "ex": "You must leave now; otherwise, you'll be late." },
+    { "id": 99, "word": "ought", "tr": "mít (povinnost/vhodnost)", "ex": "You ought to apologize for what you said." },
+    { "id": 100, "word": "our", "tr": "náš", "ex": "This is our house." }
+  ]
+}
