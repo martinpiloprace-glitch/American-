@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "N",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "nail", "tr": "hřebík / nehet", "ex": "He hit his finger with the hammer while driving a nail." },
+    { "id": 2, "word": "naked", "tr": "nahý", "ex": "The children were running around naked on the beach." },
+    { "id": 3, "word": "name", "tr": "jméno / pojmenovat", "ex": "What is the name of that flower?" },
+    { "id": 4, "word": "namely", "tr": "totiž / jmenovitě", "ex": "We need to address the main problem, namely the lack of funding." },
+    { "id": 5, "word": "narrative", "tr": "vyprávění / příběh", "ex": "The novel has a complex narrative structure." },
+    { "id": 6, "word": "narrow", "tr": "úzký / zúžit", "ex": "The road was too narrow for two cars to pass." },
+    { "id": 7, "word": "nation", "tr": "národ / stát", "ex": "The president addressed the nation on television." },
+    { "id": 8, "word": "national", "tr": "národní / státní", "ex": "The national anthem was played before the game." },
+    { "id": 9, "word": "nationwide", "tr": "celostátní / po celé zemi", "ex": "The company is launching a nationwide advertising campaign." },
+    { "id": 10, "word": "native", "tr": "rodný / domorodý / rodák", "ex": "English is not my native language." },
+    { "id": 11, "word": "natural", "tr": "přírodní / přirozený", "ex": "Floods are a natural disaster." },
+    { "id": 12, "word": "naturally", "tr": "přirozeně / samozřejmě", "ex": "Naturally, I was disappointed with the result." },
+    { "id": 13, "word": "nature", "tr": "příroda / povaha", "ex": "He loves spending time in nature." },
+    { "id": 14, "word": "navigation", "tr": "navigace", "ex": "The new car has a built-in navigation system." },
+    { "id": 15, "word": "near", "tr": "blízko / u", "ex": "Do you live near here?" },
+    { "id": 16, "word": "nearby", "tr": "poblíž / blízký", "ex": "We found a lovely cafe nearby." },
+    { "id": 17, "word": "nearly", "tr": "téměř / skoro", "ex": "I've nearly finished my book." },
+    { "id": 18, "word": "neat", "tr": "uprosený / čistý / elegantní", "ex": "She keeps her desk very neat and tidy." },
+    { "id": 19, "word": "necessarily", "tr": "nutně", "ex": "A high price doesn't necessarily mean high quality." },
+    { "id": 20, "word": "necessary", "tr": "nutný / nezbytný", "ex": "Is it necessary to sign all these documents?" },
+    { "id": 21, "word": "necessity", "tr": "nezbytnost / nutnost", "ex": "A car is a necessity for people living in the countryside." },
+    { "id": 22, "word": "neck", "tr": "krk", "ex": "She wore a gold necklace around her neck." },
+    { "id": 23, "word": "need", "tr": "potřebovat / potřeba", "ex": "I need some help with this suitcase." },
+    { "id": 24, "word": "needle", "tr": "jehla", "ex": "She used a needle and thread to fix the button." },
+    { "id": 25, "word": "negative", "tr": "negativní / záporný", "ex": "The feedback we received was mostly negative." }
+  ]
+}
