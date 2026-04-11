@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Hobbies",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "read", "tr": "číst", "ex": "I read books." },
+    { "id": 2, "word": "cook", "tr": "vařit", "ex": "I cook dinner." },
+    { "id": 3, "word": "swim", "tr": "plavat", "ex": "Swim in the sea." },
+    { "id": 4, "word": "travel", "tr": "cestovat", "ex": "I travel a lot." },
+    { "id": 5, "word": "watch", "tr": "sledovat", "ex": "Watch TV." },
+    { "id": 6, "word": "listen", "tr": "poslouchat", "ex": "Listen to music." },
+    { "id": 7, "word": "paint", "tr": "malovat", "ex": "Paint a house." },
+    { "id": 8, "word": "ride", "tr": "jezdit", "ex": "Ride a bike." },
+    { "id": 9, "word": "walk", "tr": "chodit / procházka", "ex": "Walk in the park." },
+    { "id": 10, "word": "hobby", "tr": "koníček", "ex": "It is my hobby." }
+  ]
+}
