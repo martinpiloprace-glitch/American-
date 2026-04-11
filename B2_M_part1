@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "machine", "tr": "stroj", "ex": "The machine is used for cutting wood." },
+    { "id": 2, "word": "machinery", "tr": "strojírenství / stroje (soubor)", "ex": "The factory has very modern machinery." },
+    { "id": 3, "word": "mad", "tr": "šílený / naštvaný", "ex": "Are you mad at me for being late?" },
+    { "id": 4, "word": "magazine", "tr": "časopis", "ex": "I read about the scandal in a fashion magazine." },
+    { "id": 5, "word": "magic", "tr": "magie / kouzlo / kouzelný", "ex": "The magician performed a magic trick." },
+    { "id": 6, "word": "magical", "tr": "kouzelný / magický", "ex": "It was a truly magical evening." },
+    { "id": 7, "word": "magistrate", "tr": "soudce (nižší instance) / magistrát", "ex": "The case was brought before a local magistrate." },
+    { "id": 8, "word": "magnificent", "tr": "nádherný / velkolepý", "ex": "The view from the top of the mountain is magnificent." },
+    { "id": 9, "word": "magnitude", "tr": "velikost / rozsah / magnituda", "ex": "We didn't realize the magnitude of the problem." },
+    { "id": 10, "word": "mail", "tr": "pošta / poslat poštou", "ex": "I'll send the documents by mail." },
+    { "id": 11, "word": "main", "tr": "hlavní", "ex": "What is the main reason for your visit?" },
+    { "id": 12, "word": "mainland", "tr": "pevnina", "ex": "The island is only a few miles from the mainland." },
+    { "id": 13, "word": "mainly", "tr": "hlavně / především", "ex": "The audience consisted mainly of teenagers." },
+    { "id": 14, "word": "mainstream", "tr": "hlavní proud", "ex": "The idea has now entered the mainstream." },
+    { "id": 15, "word": "maintain", "tr": "udržovat / tvrdit", "ex": "You must maintain a healthy diet." },
+    { "id": 16, "word": "maintenance", "tr": "údržba / výživné", "ex": "The building is in need of some maintenance." },
+    { "id": 17, "word": "major", "tr": "hlavní / významný / obor (studijní)", "ex": "Pollution is a major problem in many cities." },
+    { "id": 18, "word": "majority", "tr": "většina", "ex": "The majority of people voted for the change." },
+    { "id": 19, "word": "make", "tr": "dělat / vyrobit / značka", "ex": "Can you make me a sandwich?" },
+    { "id": 20, "word": "maker", "tr": "výrobce / stvořitel", "ex": "The car maker is launching a new model." },
+    { "id": 21, "word": "make-up", "tr": "líčení / make-up", "ex": "She never wears much make-up." },
+    { "id": 22, "word": "male", "tr": "muž / samec / mužský", "ex": "The male bird is more colorful than the female." },
+    { "id": 23, "word": "mall", "tr": "nákupní centrum / obchodní dům", "ex": "We spent the whole afternoon at the mall." },
+    { "id": 24, "word": "man", "tr": "muž / člověk", "ex": "He is a very kind man." },
+    { "id": 25, "word": "manage", "tr": "zvládnout / řídit", "ex": "How do you manage to stay so calm?" }
+  ]
+}
