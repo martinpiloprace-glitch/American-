@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "rent", "tr": "nájem / pronajmout si", "ex": "How much is the monthly rent for this apartment?" },
+    { "id": 152, "word": "rental", "tr": "pronájem / půjčovné", "ex": "The car rental company is near the airport." },
+    { "id": 153, "word": "repair", "tr": "opravit / oprava", "ex": "It will cost a lot of money to repair the roof." },
+    { "id": 154, "word": "repay", "tr": "splatit / oplatit", "ex": "I'll repay the money I borrowed next week." },
+    { "id": 155, "word": "repeat", "tr": "opakovat", "ex": "Could you repeat that, please? I didn't hear you." },
+    { "id": 156, "word": "repeatedly", "tr": "opakovaně / zas a znovu", "ex": "He has been warned repeatedly about his behavior." },
+    { "id": 157, "word": "replace", "tr": "nahradit / vyměnit", "ex": "We need to replace the old windows." },
+    { "id": 158, "word": "replacement", "tr": "náhrada / výměna", "ex": "The team is looking for a replacement for the injured player." },
+    { "id": 159, "word": "reply", "tr": "odpovědět / odpověď", "ex": "I'm still waiting for a reply to my letter." },
+    { "id": 160, "word": "report", "tr": "zpráva / hlásit / oznámit", "ex": "The annual report will be published next month." },
+    { "id": 161, "word": "reportedly", "tr": "údajně / podle všeho", "ex": "He is reportedly the richest man in the country." },
+    { "id": 162, "word": "reporter", "tr": "reportér / novinář", "ex": "A crowd of reporters was waiting outside the building." },
+    { "id": 163, "word": "reporting", "tr": "podávání zpráv / informování", "ex": "The quality of the reporting was very high." },
+    { "id": 164, "word": "represent", "tr": "zastupovat / reprezentovat", "ex": "She was chosen to represent the school at the conference." },
+    { "id": 165, "word": "representation", "tr": "zastoupení / znázornění", "ex": "The group is seeking better representation in parliament." },
+    { "id": 166, "word": "representative", "tr": "zástupce / představitel", "ex": "A sales representative will call you tomorrow." },
+    { "id": 167, "word": "reproduce", "tr": "reprodukovat / rozmnožovat se", "ex": "The painting is beautifully reproduced in the book." },
+    { "id": 168, "word": "reproduction", "tr": "reprodukce / rozmnožování", "ex": "The museum sells high-quality reproductions of famous paintings." },
+    { "id": 169, "word": "republic", "tr": "republika", "ex": "The country has been a republic since 1950." },
+    { "id": 170, "word": "reputation", "tr": "pověst / reputace", "ex": "The restaurant has a good reputation for its food." },
+    { "id": 171, "word": "request", "tr": "žádost / žádat", "ex": "They have submitted a formal request for help." },
+    { "id": 172, "word": "require", "tr": "vyžadovat / potřebovat", "ex": "The job requires a lot of hard work." },
+    { "id": 173, "word": "requirement", "tr": "požadavek", "ex": "Does the project meet all the safety requirements?" },
+    { "id": 174, "word": "rescue", "tr": "zachránit / záchrana", "ex": "The mountain rescue team saved the climbers." },
+    { "id": 175, "word": "research", "tr": "výzkum / zkoumat", "ex": "She is doing research into the causes of cancer." }
+  ]
+}
