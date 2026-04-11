@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "pace", "tr": "tempo / krok / kráčet", "ex": "She was walking at a very fast pace." },
+    { "id": 2, "word": "pack", "tr": "balit / balíček / smečka", "ex": "I need to pack my bags for the trip." },
+    { "id": 3, "word": "package", "tr": "balíček / balík / balení", "ex": "The package was delivered this morning." },
+    { "id": 4, "word": "packaging", "tr": "obal / balení (materiál)", "ex": "The product is sold in environmentally friendly packaging." },
+    { "id": 5, "word": "pad", "tr": "blok / podložka / vycpávka", "ex": "He wrote the number down on a pad of paper." },
+    { "id": 6, "word": "page", "tr": "stránka / strana", "ex": "Open your books on page twenty." },
+    { "id": 7, "word": "pain", "tr": "bolest / trápení", "ex": "The medicine should help to ease the pain." },
+    { "id": 8, "word": "painful", "tr": "bolestivý / trýznivý", "ex": "It was a very painful experience for her." },
+    { "id": 9, "word": "paint", "tr": "malovat / barva", "ex": "I'm going to paint the kitchen blue." },
+    { "id": 10, "word": "painter", "tr": "malíř", "ex": "Picasso is a very famous painter." },
+    { "id": 11, "word": "painting", "tr": "obraz / malba / malování", "ex": "The museum has a collection of oil paintings." },
+    { "id": 12, "word": "pair", "tr": "pár / dvojice", "ex": "I need a new pair of shoes." },
+    { "id": 13, "word": "palace", "tr": "palác", "ex": "The royal family lives in the palace." },
+    { "id": 14, "word": "pale", "tr": "bledý / světlý", "ex": "She looked very pale after the accident." },
+    { "id": 15, "word": "palm", "tr": "dlaň / palma", "ex": "The coin was lying in the palm of his hand." },
+    { "id": 16, "word": "pan", "tr": "pánev / pekáč", "ex": "Heat some oil in a frying pan." },
+    { "id": 17, "word": "panel", "tr": "panel / komise / porota", "ex": "The matter was discussed by a panel of experts." },
+    { "id": 18, "word": "panic", "tr": "panika / panikařit", "ex": "Don't panic; everything is under control." },
+    { "id": 19, "word": "paper", "tr": "papír / noviny / referát", "ex": "I need some paper to write a note." },
+    { "id": 20, "word": "parade", "tr": "přehlídka / průvod", "ex": "There was a colorful parade through the city streets." },
+    { "id": 21, "word": "paragraph", "tr": "odstavec", "ex": "Please read the first paragraph aloud." },
+    { "id": 22, "word": "parallel", "tr": "paralelní / rovnoběžný / obdoba", "ex": "The road runs parallel to the railway." },
+    { "id": 23, "word": "parameter", "tr": "parametr", "ex": "We need to define the parameters of the study." },
+    { "id": 24, "word": "parcel", "tr": "balík / zásilka / pozemek", "ex": "The parcel was sent by airmail." },
+    { "id": 25, "word": "pardon", "tr": "prominutí / milost / prominout", "ex": "I beg your pardon; I didn't hear you." }
+  ]
+}
