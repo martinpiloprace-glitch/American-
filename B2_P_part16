@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 16,
+  "mode": "sentences",
+  "data": [
+    { "id": 376, "word": "pub", "tr": "hospoda / hospůdka", "ex": "Let's go to the pub for a drink." },
+    { "id": 377, "word": "public", "tr": "veřejný / veřejnost", "ex": "The park is open to the general public." },
+    { "id": 378, "word": "publication", "tr": "publikace / zveřejnění", "ex": "The publication of the book was delayed." },
+    { "id": 379, "word": "publicity", "tr": "publicita / reklama", "ex": "The movie has received a lot of publicity." },
+    { "id": 380, "word": "publish", "tr": "publikovat / vydat", "ex": "The company publishes a wide range of books." },
+    { "id": 381, "word": "publisher", "tr": "vydavatel", "ex": "She works for a small independent publisher." },
+    { "id": 382, "word": "pull", "tr": "tahat / táhnout", "ex": "Pull the door toward you to open it." },
+    { "id": 383, "word": "pulse", "tr": "puls / tep / luštěnina", "ex": "The doctor checked my pulse." },
+    { "id": 384, "word": "pump", "tr": "pumpa / čerpat", "ex": "The heart acts as a pump for the blood." },
+    { "id": 385, "word": "punch", "tr": "rána pěstí / udeřit", "ex": "He gave him a punch in the face." },
+    { "id": 386, "word": "punish", "tr": "potrestat", "ex": "The students were punished for being late." },
+    { "id": 387, "word": "punishment", "tr": "trest", "ex": "The punishment should fit the crime." },
+    { "id": 388, "word": "pupil", "tr": "žák / zornice", "ex": "The school has over five hundred pupils." },
+    { "id": 389, "word": "purchase", "tr": "nákup / koupit", "ex": "Keep your receipt as proof of purchase." },
+    { "id": 390, "word": "pure", "tr": "čistý / ryzí", "ex": "The ring is made of pure gold." },
+    { "id": 391, "word": "purely", "tr": "čistě / pouze", "ex": "It was purely a matter of luck." },
+    { "id": 392, "word": "purple", "tr": "fialový", "ex": "She wore a dark purple velvet dress." },
+    { "id": 393, "word": "purpose", "tr": "účel / záměr", "ex": "What is the main purpose of your visit?" },
+    { "id": 394, "word": "pursue", "tr": "sledovat / pronásledovat / usilovat", "ex": "She decided to pursue a career in medicine." },
+    { "id": 395, "word": "pursuit", "tr": "úsilí / sledování / koníček", "ex": "Outdoor pursuits like hiking are very popular." },
+    { "id": 396, "word": "push", "tr": "tlačit / posunout", "ex": "Push the red button to stop the machine." },
+    { "id": 397, "word": "put", "tr": "dát / položit", "ex": "Put the keys back in the drawer." },
+    { "id": 398, "word": "puzzle", "tr": "hádanka / hlavolam / mást", "ex": "His sudden disappearance is a real puzzle." },
+    { "id": 399, "word": "pyjamas", "tr": "pyžamo", "ex": "He put on his pyjamas and went to bed." },
+    { "id": 400, "word": "pyramid", "tr": "pyramida", "ex": "They visited the Great Pyramid of Giza." }
+  ]
+}
