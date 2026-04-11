@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Greetings",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "Hello", "tr": "Ahoj / Dobrý den", "ex": "Hello, Tom." },
+    { "id": 2, "word": "Hi", "tr": "Ahoj (neformální)", "ex": "Hi, how are you?" },
+    { "id": 3, "word": "Goodbye", "tr": "Nashledanou", "ex": "Goodbye, see you." },
+    { "id": 4, "word": "Bye", "tr": "Ahoj / Čau", "ex": "Bye, see you later." },
+    { "id": 5, "word": "Good morning", "tr": "Dobré ráno", "ex": "Good morning, Dad." },
+    { "id": 6, "word": "Good night", "tr": "Dobrou noc", "ex": "Good night, Mom." },
+    { "id": 7, "word": "Please", "tr": "Prosím", "ex": "Water, please." },
+    { "id": 8, "word": "Thanks", "tr": "Díky", "ex": "Thanks a lot." },
+    { "id": 9, "word": "Sorry", "tr": "Promiň / Pardón", "ex": "Sorry, I am late." },
+    { "id": 10, "word": "Yes / No", "tr": "Ano / Ne", "ex": "Yes, I am." }
+  ]
+}
