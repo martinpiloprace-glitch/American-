@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "melt", "tr": "tát / rozpustit se", "ex": "The ice began to melt in the sun." },
+    { "id": 102, "word": "member", "tr": "člen", "ex": "Are you a member of the local library?" },
+    { "id": 103, "word": "membership", "tr": "členství", "ex": "The annual membership fee is fifty dollars." },
+    { "id": 104, "word": "memo", "tr": "oběžník / zpráva / poznámka", "ex": "The manager sent a memo to all staff members." },
+    { "id": 105, "word": "memoir", "tr": "paměti / memoáry", "ex": "The former president is writing his memoirs." },
+    { "id": 106, "word": "memorable", "tr": "památný / nezapomenutelný", "ex": "It was a truly memorable occasion." },
+    { "id": 107, "word": "memorial", "tr": "památník / pomník / vzpomínkový", "ex": "The statue is a memorial to the soldiers who died." },
+    { "id": 108, "word": "memory", "tr": "paměť / vzpomínka", "ex": "I have a very good memory for faces." },
+    { "id": 109, "word": "mental", "tr": "duševní / mentální", "ex": "Mental health is just as important as physical health." },
+    { "id": 110, "word": "mentally", "tr": "duševně / mentálně", "ex": "The job is very mentally exhausting." },
+    { "id": 111, "word": "mention", "tr": "zmínit / zmínka", "ex": "Did she mention where she was going?" },
+    { "id": 112, "word": "mentor", "tr": "mentor / rádce", "ex": "He acted as a mentor to the young employees." },
+    { "id": 113, "word": "menu", "tr": "jídelní lístek / menu", "ex": "Could we see the menu, please?" },
+    { "id": 114, "word": "merchandise", "tr": "zboží", "ex": "The store sells a wide range of official merchandise." },
+    { "id": 115, "word": "merchant", "tr": "obchodník / kupec", "ex": "He was a wealthy merchant who traded in silk." },
+    { "id": 116, "word": "mercury", "tr": "rtuť / Merkur", "ex": "Mercury is used in some thermometers." },
+    { "id": 117, "word": "mercy", "tr": "milost / slitování", "ex": "The prisoner pleaded for mercy." },
+    { "id": 118, "word": "mere", "tr": "pouhý / jen", "ex": "It's a mere five-minute walk to the station." },
+    { "id": 119, "word": "merely", "tr": "pouze / jenom", "ex": "I'm merely suggesting that we wait." },
+    { "id": 120, "word": "merge", "tr": "spojit (se) / sloučit (se)", "ex": "The two companies decided to merge." },
+    { "id": 121, "word": "merger", "tr": "fúze / sloučení", "ex": "The merger will create the largest bank in the country." },
+    { "id": 122, "word": "merit", "tr": "zásluha / hodnota / zasloužit si", "ex": "The proposal has a lot of merit." },
+    { "id": 123, "word": "mess", "tr": "nepořádek / zmatek", "ex": "Your room is a complete mess!" },
+    { "id": 124, "word": "message", "tr": "zpráva / poselství", "ex": "Can I leave a message for him?" },
+    { "id": 125, "word": "messenger", "tr": "posel / doručovatel", "ex": "The messenger delivered the package this morning." }
+  ]
+}
