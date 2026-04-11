@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Pronouns",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "I", "tr": "Já", "ex": "I am a boy." },
+    { "id": 2, "word": "You", "tr": "Ty / Vy", "ex": "You are a girl." },
+    { "id": 3, "word": "He", "tr": "On", "ex": "He is happy." },
+    { "id": 4, "word": "She", "tr": "Ona", "ex": "She is nice." },
+    { "id": 5, "word": "It", "tr": "To", "ex": "It is a dog." },
+    { "id": 6, "word": "We", "tr": "My", "ex": "We are here." },
+    { "id": 7, "word": "They", "tr": "Oni", "ex": "They are at home." },
+    { "id": 8, "word": "My", "tr": "Můj", "ex": "My name is John." },
+    { "id": 9, "word": "Your", "tr": "Tvůj / Váš", "ex": "Is this your car?" },
+    { "id": 10, "word": "Who", "tr": "Kdo", "ex": "Who is it?" }
+  ]
+}
