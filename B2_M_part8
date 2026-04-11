@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "miss", "tr": "zmeškat / postrádat / slečna", "ex": "I don't want to miss the beginning of the movie." },
+    { "id": 177, "word": "missing", "tr": "chybějící / nezvěstný", "ex": "Two pages are missing from this book." },
+    { "id": 178, "word": "mission", "tr": "mise / poslání", "ex": "Their mission was to provide food for the refugees." },
+    { "id": 179, "word": "mistake", "tr": "chyba / omyl / splést si", "ex": "I made a mistake in the calculations." },
+    { "id": 180, "word": "mix", "tr": "míchat / směs", "ex": "Mix the flour with the eggs." },
+    { "id": 181, "word": "mixed", "tr": "smíšený", "ex": "The reaction to the news was mixed." },
+    { "id": 182, "word": "mixture", "tr": "směs / mísení", "ex": "The air was a mixture of smoke and fog." },
+    { "id": 183, "word": "mobile", "tr": "mobilní / pohyblivý", "ex": "Please turn off your mobile phones." },
+    { "id": 184, "word": "mobility", "tr": "mobilita / pohyblivost", "ex": "Exercise can help improve your mobility." },
+    { "id": 185, "word": "mode", "tr": "režim / způsob / móda", "ex": "The camera has a special night mode." },
+    { "id": 186, "word": "model", "tr": "model / vzor / modelovat", "ex": "She is a famous fashion model." },
+    { "id": 187, "word": "moderate", "tr": "mírný / průměrný / krotit", "ex": "The hotel is available at a moderate price." },
+    { "id": 188, "word": "moderately", "tr": "mírně / vcelku", "ex": "The event was moderately successful." },
+    { "id": 189, "word": "modern", "tr": "moderní", "ex": "The building has a very modern design." },
+    { "id": 190, "word": "modernization", "tr": "modernizace", "ex": "The factory is in need of modernization." },
+    { "id": 191, "word": "modest", "tr": "skromný / mírný", "ex": "He is very modest about his achievements." },
+    { "id": 192, "word": "modification", "tr": "úprava / modifikace", "ex": "We need to make some modifications to the plan." },
+    { "id": 193, "word": "modify", "tr": "upravit / modifikovat", "ex": "The software allows you to modify the settings." },
+    { "id": 194, "word": "moist", "tr": "vlhký / navlhlý", "ex": "The air was warm and moist." },
+    { "id": 195, "word": "moisture", "tr": "vlhkost", "ex": "The plant absorbs moisture through its leaves." },
+    { "id": 196, "word": "molecule", "tr": "molekula", "ex": "A water molecule consists of hydrogen and oxygen." },
+    { "id": 197, "word": "moment", "tr": "moment / okamžik", "ex": "I'll be back in a moment." },
+    { "id": 198, "word": "momentum", "tr": "hybnost / spád / švinh", "ex": "The campaign is gaining momentum." },
+    { "id": 199, "word": "monarch", "tr": "monarcha / panovník", "ex": "The monarch has very little real power." },
+    { "id": 200, "word": "monarchy", "tr": "monarchie", "ex": "Britain is a constitutional monarchy." }
+  ]
+}
