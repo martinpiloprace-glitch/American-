@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 2,
+  "topic": "numbers_short",
+  "data": [
+    { "id": 1, "word": "one", "tr": "jedna", "ex": "I have one.", "ex_tr": "Mám jednu." },
+    { "id": 2, "word": "two", "tr": "dva", "ex": "I have two.", "ex_tr": "Mám dvě." },
+    { "id": 3, "word": "three", "tr": "tři", "ex": "I see three.", "ex_tr": "Vidím tři." },
+    { "id": 4, "word": "four", "tr": "čtyři", "ex": "I need four.", "ex_tr": "Potřebuji čtyři." },
+    { "id": 5, "word": "five", "tr": "pět", "ex": "I take five.", "ex_tr": "Beri pět." },
+
+    { "id": 6, "word": "six", "tr": "šest", "ex": "I see six.", "ex_tr": "Vidím šest." },
+    { "id": 7, "word": "seven", "tr": "sedm", "ex": "It is seven.", "ex_tr": "Je to sedm." },
+    { "id": 8, "word": "eight", "tr": "osm", "ex": "I have eight.", "ex_tr": "Mám osm." },
+    { "id": 9, "word": "nine", "tr": "devět", "ex": "I see nine.", "ex_tr": "Vidím devět." },
+    { "id": 10, "word": "ten", "tr": "deset", "ex": "I need ten.", "ex_tr": "Potřebuji deset." },
+
+    { "id": 11, "word": "eleven", "tr": "jedenáct", "ex": "It is eleven.", "ex_tr": "Je to jedenáct." },
+    { "id": 12, "word": "twelve", "tr": "dvanáct", "ex": "It is twelve.", "ex_tr": "Je to dvanáct." },
+    { "id": 13, "word": "thirteen", "tr": "třináct", "ex": "I see thirteen.", "ex_tr": "Vidím třináct." },
+    { "id": 14, "word": "fourteen", "tr": "čtrnáct", "ex": "It is fourteen.", "ex_tr": "Je to čtrnáct." },
+    { "id": 15, "word": "fifteen", "tr": "patnáct", "ex": "I need fifteen.", "ex_tr": "Potřebuji patnáct." },
+
+    { "id": 16, "word": "sixteen", "tr": "šestnáct", "ex": "It is sixteen.", "ex_tr": "Je to šestnáct." },
+    { "id": 17, "word": "seventeen", "tr": "sedmnáct", "ex": "It is seventeen.", "ex_tr": "Je to sedmnáct." },
+    { "id": 18, "word": "eighteen", "tr": "osmnáct", "ex": "It is eighteen.", "ex_tr": "Je to osmnáct." },
+    { "id": 19, "word": "nineteen", "tr": "devatenáct", "ex": "It is nineteen.", "ex_tr": "Je to devatenáct." },
+    { "id": 20, "word": "twenty", "tr": "dvacet", "ex": "I need twenty.", "ex_tr": "Potřebuji dvacet." },
+
+    { "id": 21, "word": "twenty-one", "tr": "dvacet jedna", "ex": "It is twenty-one.", "ex_tr": "Je to dvacet jedna." },
+    { "id": 22, "word": "twenty-two", "tr": "dvacet dva", "ex": "It is twenty-two.", "ex_tr": "Je to dvacet dva." },
+    { "id": 23, "word": "twenty-three", "tr": "dvacet tři", "ex": "It is twenty-three.", "ex_tr": "Je to dvacet tři." },
+    { "id": 24, "word": "twenty-four", "tr": "dvacet čtyři", "ex": "It is twenty-four.", "ex_tr": "Je to dvacet čtyři." },
+    { "id": 25, "word": "twenty-five", "tr": "dvacet pět", "ex": "It is twenty-five.", "ex_tr": "Je to dvacet pět." },
+
+    { "id": 26, "word": "twenty-six", "tr": "dvacet šest", "ex": "It is twenty-six.", "ex_tr": "Je to dvacet šest." },
+    { "id": 27, "word": "twenty-seven", "tr": "dvacet sedm", "ex": "It is twenty-seven.", "ex_tr": "Je to dvacet sedm." },
+    { "id": 28, "word": "twenty-eight", "tr": "dvacet osm", "ex": "It is twenty-eight.", "ex_tr": "Je to dvacet osm." },
+    { "id": 29, "word": "twenty-nine", "tr": "dvacet devět", "ex": "It is twenty-nine.", "ex_tr": "Je to dvacet devět." },
+    { "id": 30, "word": "thirty", "tr": "třicet", "ex": "I need thirty.", "ex_tr": "Potřebuji třicet." },
+
+    { "id": 31, "word": "thirty-one", "tr": "třicet jedna", "ex": "It is thirty-one.", "ex_tr": "Je to třicet jedna." },
+    { "id": 32, "word": "thirty-two", "tr": "třicet dva", "ex": "It is thirty-two.", "ex_tr": "Je to třicet dva." },
+    { "id": 33, "word": "thirty-three", "tr": "třicet tři", "ex": "It is thirty-three.", "ex_tr": "Je to třicet tři." },
+    { "id": 34, "word": "thirty-four", "tr": "třicet čtyři", "ex": "It is thirty-four.", "ex_tr": "Je to třicet čtyři." },
+    { "id": 35, "word": "thirty-five", "tr": "třicet pět", "ex": "It is thirty-five.", "ex_tr": "Je to třicet pět." },
+
+    { "id": 36, "word": "thirty-six", "tr": "třicet šest", "ex": "It is thirty-six.", "ex_tr": "Je to třicet šest." },
+    { "id": 37, "word": "thirty-seven", "tr": "třicet sedm", "ex": "It is thirty-seven.", "ex_tr": "Je to třicet sedm." },
+    { "id": 38, "word": "thirty-eight", "tr": "třicet osm", "ex": "It is thirty-eight.", "ex_tr": "Je to třicet osm." },
+    { "id": 39, "word": "thirty-nine", "tr": "třicet devět", "ex": "It is thirty-nine.", "ex_tr": "Je to třicet devět." },
+    { "id": 40, "word": "forty", "tr": "čtyřicet", "ex": "I need forty.", "ex_tr": "Potřebuji čtyřicet." },
+
+    { "id": 41, "word": "forty-one", "tr": "čtyřicet jedna", "ex": "It is forty-one.", "ex_tr": "Je to čtyřicet jedna." },
+    { "id": 42, "word": "forty-two", "tr": "čtyřicet dva", "ex": "It is forty-two.", "ex_tr": "Je to čtyřicet dva." },
+    { "id": 43, "word": "forty-three", "tr": "čtyřicet tři", "ex": "It is forty-three.", "ex_tr": "Je to čtyřicet tři." },
+    { "id": 44, "word": "forty-four", "tr": "čtyřicet čtyři", "ex": "It is forty-four.", "ex_tr": "Je to čtyřicet čtyři." },
+    { "id": 45, "word": "forty-five", "tr": "čtyřicet pět", "ex": "It is forty-five.", "ex_tr": "Je to čtyřicet pět." },
+
+    { "id": 46, "word": "forty-six", "tr": "čtyřicet šest", "ex": "It is forty-six.", "ex_tr": "Je to čtyřicet šest." },
+    { "id": 47, "word": "forty-seven", "tr": "čtyřicet sedm", "ex": "It is forty-seven.", "ex_tr": "Je to čtyřicet sedm." },
+    { "id": 48, "word": "forty-eight", "tr": "čtyřicet osm", "ex": "It is forty-eight.", "ex_tr": "Je to čtyřicet osm." },
+    { "id": 49, "word": "forty-nine", "tr": "čtyřicet devět", "ex": "It is forty-nine.", "ex_tr": "Je to čtyřicet devět." },
+    { "id": 50, "word": "fifty", "tr": "padesát", "ex": "I need fifty.", "ex_tr": "Potřebuji padesát." }
+  ]
+}
