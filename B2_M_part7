@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "mind", "tr": "mysl / rozum / vadit", "ex": "I don't mind waiting for a few minutes." },
+    { "id": 152, "word": "mine", "tr": "důl / mina / můj", "ex": "The coal mine was closed down years ago." },
+    { "id": 153, "word": "miner", "tr": "horník", "ex": "The miners went on strike for better pay." },
+    { "id": 154, "word": "mineral", "tr": "minerál / nerost", "ex": "The region is rich in minerals." },
+    { "id": 155, "word": "minimal", "tr": "minimální / nepatrný", "ex": "There was only minimal damage to the car." },
+    { "id": 156, "word": "minimize", "tr": "minimalizovat / zlehčovat", "ex": "We should try to minimize the risks." },
+    { "id": 157, "word": "minimum", "tr": "minimum / minimální", "ex": "The minimum wage has been increased." },
+    { "id": 158, "word": "mining", "tr": "hornictví / těžba", "ex": "Mining is the main industry in this area." },
+    { "id": 159, "word": "minister", "tr": "ministr / duchovní", "ex": "The Minister of Education gave a speech." },
+    { "id": 160, "word": "ministry", "tr": "ministerstvo", "ex": "He works for the Ministry of Foreign Affairs." },
+    { "id": 161, "word": "minor", "tr": "vedlejší / drobný / nezletilý", "ex": "It was just a minor accident." },
+    { "id": 162, "word": "minority", "tr": "menšina", "ex": "Only a minority of people agreed with the plan." },
+    { "id": 163, "word": "mint", "tr": "máta / mincovna / netknutý", "ex": "The coins were in mint condition." },
+    { "id": 164, "word": "minus", "tr": "mínus / bez", "ex": "The temperature was minus five degrees." },
+    { "id": 165, "word": "minute", "tr": "minuta / kratičký / zápis", "ex": "Wait a minute, I'm not ready yet." },
+    { "id": 166, "word": "miracle", "tr": "zázrak", "ex": "It's a miracle that he survived the crash." },
+    { "id": 167, "word": "mirror", "tr": "zrcadlo / zrcadlit", "ex": "She looked at herself in the mirror." },
+    { "id": 168, "word": "misbehavior", "tr": "špatné chování / přestupek", "ex": "The student was punished for his misbehavior." },
+    { "id": 169, "word": "miscalculate", "tr": "přepočítat se / špatně odhadnout", "ex": "They completely miscalculated the costs." },
+    { "id": 170, "word": "miserable", "tr": "ubohý / mizerný / nešťastný", "ex": "The weather was absolutely miserable." },
+    { "id": 171, "word": "misery", "tr": "utrpení / bída", "ex": "Famine caused terrible misery in the region." },
+    { "id": 172, "word": "misfortune", "tr": "neštěstí / smůla", "ex": "He had the misfortune to lose his job." },
+    { "id": 173, "word": "misinterpret", "tr": "špatně interpretovat / vyložit", "ex": "I'm afraid you misinterpret my silence." },
+    { "id": 174, "word": "mislead", "tr": "uvést v omyl / klamat", "ex": "The advertisement was intended to mislead people." },
+    { "id": 175, "word": "misleading", "tr": "zavádějící / klamný", "ex": "The report provides misleading information." }
+  ]
+}
