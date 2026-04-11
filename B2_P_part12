@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 12,
+  "mode": "sentences",
+  "data": [
+    { "id": 276, "word": "prevalence", "tr": "rozšíření / převaha", "ex": "The prevalence of the disease is higher in rural areas." },
+    { "id": 277, "word": "prevalent", "tr": "převládající / běžně se vyskytující", "ex": "These beliefs are more prevalent among young people." },
+    { "id": 278, "word": "prevent", "tr": "zabránit / předejít", "ex": "The police tried to prevent the protesters from entering." },
+    { "id": 279, "word": "prevention", "tr": "prevence / zamezení", "ex": "Crime prevention is a priority for the local council." },
+    { "id": 280, "word": "previous", "tr": "předchozí / dřívější", "ex": "I had no previous experience in this field." },
+    { "id": 281, "word": "previously", "tr": "dříve / předtím", "ex": "She had previously worked as a lawyer." },
+    { "id": 282, "word": "prey", "tr": "kořist / oběť", "ex": "The eagle was searching for its prey." },
+    { "id": 283, "word": "price", "tr": "cena", "ex": "The price of gas has gone up again." },
+    { "id": 284, "word": "priceless", "tr": "nepočítejný / nesmírně cenný", "ex": "The museum houses many priceless works of art." },
+    { "id": 285, "word": "pride", "tr": "pýcha / hrdost / smečka (lvů)", "ex": "He takes great pride in his work." },
+    { "id": 286, "word": "primarily", "tr": "primárně / především", "ex": "The course is intended primarily for beginners." },
+    { "id": 287, "word": "primary", "tr": "primární / hlavní / základní", "ex": "Our primary concern is the safety of our staff." },
+    { "id": 288, "word": "prime", "tr": "hlavní / prvotřídní / rozkvět", "ex": "He was in the prime of his life." },
+    { "id": 289, "word": "primitive", "tr": "primitivní / prostý", "ex": "Living conditions in the village were very primitive." },
+    { "id": 290, "word": "prince", "tr": "princ", "ex": "The prince was next in line for the throne." },
+    { "id": 291, "word": "princess", "tr": "princezna", "ex": "The princess was known for her charitable work." },
+    { "id": 292, "word": "principal", "tr": "hlavní / ředitel školy", "ex": "The principal reason for my visit is to see you." },
+    { "id": 293, "word": "principle", "tr": "princip / zásada", "ex": "It's a matter of principle for me." },
+    { "id": 294, "word": "print", "tr": "tisknout / tisk / otisk", "ex": "Can you print this document for me?" },
+    { "id": 295, "word": "printer", "tr": "tiskárna", "ex": "The printer is out of ink." },
+    { "id": 296, "word": "prior", "tr": "předchozí / dřívější", "ex": "The course requires no prior knowledge of Spanish." },
+    { "id": 297, "word": "priority", "tr": "priorita", "ex": "Health and safety are our top priority." },
+    { "id": 298, "word": "prison", "tr": "vězení", "ex": "He was sent to prison for three years." },
+    { "id": 299, "word": "prisoner", "tr": "vězeň", "ex": "The prisoners were allowed to exercise for one hour." },
+    { "id": 300, "word": "privacy", "tr": "soukromí", "ex": "I value my privacy very much." }
+  ]
+}
