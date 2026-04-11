@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "taxation", "tr": "zdanění / daně", "ex": "The level of taxation is a major political issue." },
+    { "id": 27, "word": "taxi", "tr": "taxi / pojíždět (letadlo)", "ex": "The plane began to taxi towards the runway." },
+    { "id": 28, "word": "taxpayer", "tr": "daňový poplatník", "ex": "The project is funded by the taxpayer." },
+    { "id": 29, "word": "tea", "tr": "čaj / svačina (v UK)", "ex": "Would you like a cup of tea?" },
+    { "id": 30, "word": "teach", "tr": "učit / vyučovat", "ex": "She teaches English at a secondary school." },
+    { "id": 31, "word": "teacher", "tr": "učitel(ka)", "ex": "The teacher explained the rules to the students." },
+    { "id": 32, "word": "teaching", "tr": "výuka / učení / učitelský", "ex": "She has a real passion for teaching." },
+    { "id": 33, "word": "team", "tr": "tým / mužstvo", "ex": "Our team won the championship last year." },
+    { "id": 34, "word": "tear", "tr": "trhat / slza", "ex": "He carefully tore the letter into small pieces." },
+    { "id": 35, "word": "technical", "tr": "technický / odborný", "ex": "The manual is full of technical terms." },
+    { "id": 36, "word": "technically", "tr": "technicky / formálně vzato", "ex": "Technically, the project is already finished." },
+    { "id": 37, "word": "technique", "tr": "technika / metoda / postup", "ex": "The artist uses a very unusual painting technique." },
+    { "id": 38, "word": "technological", "tr": "technologický", "ex": "The 20th century saw rapid technological change." },
+    { "id": 39, "word": "technology", "tr": "technologie", "ex": "Modern technology has changed the way we work." },
+    { "id": 40, "word": "teenager", "tr": "náctiletý / dospívající", "ex": "She is a typical teenager who loves music." },
+    { "id": 41, "word": "telecommunications", "tr": "telekomunikace", "ex": "He works in the telecommunications industry." },
+    { "id": 42, "word": "telephone", "tr": "telefon / telefonovat", "ex": "Please leave your name and telephone number." },
+    { "id": 43, "word": "telescope", "tr": "teleskop / dalekohled", "ex": "We looked at the stars through a telescope." },
+    { "id": 44, "word": "television", "tr": "televize", "ex": "I don't watch much television these days." },
+    { "id": 45, "word": "tell", "tr": "říct / vyprávět / poznat", "ex": "Can you tell me the time, please?" },
+    { "id": 46, "word": "temper", "tr": "povaha / nálada / vztek", "ex": "He has a very short temper." },
+    { "id": 47, "word": "temperature", "tr": "teplota / horečka", "ex": "The temperature has dropped significantly today." },
+    { "id": 48, "word": "temple", "tr": "chrám / spánek (anatomicky)", "ex": "The ancient temple was built of white marble." },
+    { "id": 49, "word": "temporary", "tr": "dočasný", "ex": "She found a temporary job for the summer." },
+    { "id": 50, "word": "tempt", "tr": "lákat / pokoušet", "ex": "The smell of fresh bread tempted me to buy some." }
+  ]
+}
