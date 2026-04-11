@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "V",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "vertical", "tr": "svislý / vertikální", "ex": "The cliff face was almost vertical." },
+    { "id": 52, "word": "very", "tr": "velmi / právě ten", "ex": "Thank you very much for your help." },
+    { "id": 53, "word": "vessel", "tr": "nádoba / plavidlo / céva", "ex": "The harbor was full of fishing vessels." },
+    { "id": 54, "word": "vest", "tr": "vesta / nátělník", "ex": "The police officer was wearing a bulletproof vest." },
+    { "id": 55, "word": "veteran", "tr": "veterán", "ex": "He is a veteran of the Vietnam War." },
+    { "id": 56, "word": "veto", "tr": "veto / vetovat", "ex": "The president has the power to veto the bill." },
+    { "id": 57, "word": "via", "tr": "přes / prostřednictvím", "ex": "We flew to New York via London." },
+    { "id": 58, "word": "vibrant", "tr": "živý / energický / sytý (barva)", "ex": "The city has a vibrant nightlife." },
+    { "id": 59, "word": "vibrate", "tr": "vibrovat / chvět se", "ex": "My phone started to vibrate in my pocket." },
+    { "id": 60, "word": "vibration", "tr": "vibrace / chvění", "ex": "The heavy machinery caused a lot of vibration." },
+    { "id": 61, "word": "vice", "tr": "neřest / zlozvyk / svěrák", "ex": "Smoking is my only vice." },
+    { "id": 62, "word": "vicious", "tr": "zlý / krutý / brutální", "ex": "The dog was attacked by a vicious animal." },
+    { "id": 63, "word": "victim", "tr": "oběť", "ex": "The police are still trying to identify the victim." },
+    { "id": 64, "word": "victory", "tr": "vítězství", "ex": "The team celebrated their victory with champagne." },
+    { "id": 65, "word": "video", "tr": "video / nahrát", "ex": "I'll watch the video later." },
+    { "id": 66, "word": "view", "tr": "výhled / názor / dívat se", "ex": "The room has a beautiful view of the lake." },
+    { "id": 67, "word": "viewer", "tr": "divák", "ex": "The program attracts millions of viewers." },
+    { "id": 68, "word": "viewpoint", "tr": "stanoviště / hledisko / názor", "ex": "From a practical viewpoint, the plan is impossible." },
+    { "id": 69, "word": "vigorous", "tr": "rázný / energický / silný", "ex": "She is a vigorous supporter of the new policy." },
+    { "id": 70, "word": "villa", "tr": "vila", "ex": "They stayed in a luxury villa by the sea." },
+    { "id": 71, "word": "village", "tr": "vesnice", "ex": "He grew up in a small village in the mountains." },
+    { "id": 72, "word": "villain", "tr": "padouch / záporná postava", "ex": "He played the villain in the latest James Bond movie." },
+    { "id": 73, "word": "vine", "tr": "vinná réva / popínavá rostlina", "ex": "The walls of the house were covered in vines." },
+    { "id": 74, "word": "vinegar", "tr": "ocet", "ex": "I like to put vinegar on my chips." },
+    { "id": 75, "word": "violate", "tr": "porušit / znásilnit / narušit", "ex": "The company was found to have violated the law." }
+  ]
+}
