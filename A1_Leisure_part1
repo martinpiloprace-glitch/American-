@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Leisure",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "music", "tr": "hudba", "ex": "I like music." },
+    { "id": 2, "word": "game", "tr": "hra", "ex": "Play the game." },
+    { "id": 3, "word": "sport", "tr": "sport", "ex": "Sport is fun." },
+    { "id": 4, "word": "movie", "tr": "film", "ex": "Watch a movie." },
+    { "id": 5, "word": "photo", "tr": "fotka", "ex": "Take a photo." },
+    { "id": 6, "word": "dance", "tr": "tančit", "ex": "They dance." },
+    { "id": 7, "word": "sing", "tr": "zpívat", "ex": "Sing a song." },
+    { "id": 8, "word": "play", "tr": "hrát", "ex": "Play football." },
+    { "id": 9, "word": "hobby", "tr": "koníček", "ex": "My hobby is art." },
+    { "id": 10, "word": "party", "tr": "večírek", "ex": "Go to the party." }
+  ]
+}
