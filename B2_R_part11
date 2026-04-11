@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 11,
+  "mode": "sentences",
+  "data": [
+    { "id": 251, "word": "robber", "tr": "lupič / zloděj", "ex": "The robbers escaped with over a million dollars." },
+    { "id": 252, "word": "robbery", "tr": "loupež", "ex": "He was charged with armed robbery." },
+    { "id": 253, "word": "robot", "tr": "robot", "ex": "The cars are assembled by robots." },
+    { "id": 254, "word": "robust", "tr": "robustní / silný / odolný", "ex": "The company has a robust plan for future growth." },
+    { "id": 255, "word": "rock", "tr": "skála / kámen / rock", "ex": "The boat hit a rock and began to sink." },
+    { "id": 256, "word": "rocket", "tr": "raketa / vyletět nahoru", "ex": "The rocket was launched into space." },
+    { "id": 257, "word": "rod", "tr": "tyč / prut", "ex": "He used a fishing rod to catch a trout." },
+    { "id": 258, "word": "role", "tr": "role / úloha", "ex": "What is your role in this project?" },
+    { "id": 259, "word": "roll", "tr": "válet / rolovat / role", "ex": "The ball rolled down the hill." },
+    { "id": 260, "word": "romance", "tr": "romance / milostný vztah", "ex": "Their romance started during a summer holiday." },
+    { "id": 261, "word": "romantic", "tr": "romantický", "ex": "We had a romantic dinner by candlelight." },
+    { "id": 262, "word": "roof", "tr": "střecha", "ex": "The house has a red tiled roof." },
+    { "id": 263, "word": "room", "tr": "místnost / pokoj / prostor", "ex": "Is there enough room for everyone in the car?" },
+    { "id": 264, "word": "root", "tr": "kořen / původ", "ex": "We need to get to the root of the problem." },
+    { "id": 265, "word": "rope", "tr": "lano / provaz", "ex": "He tied the boat to the pier with a rope." },
+    { "id": 266, "word": "rose", "tr": "růže", "ex": "He gave her a single red rose." },
+    { "id": 267, "word": "rot", "tr": "hnít / hniloba", "ex": "The fallen apples began to rot on the ground." },
+    { "id": 268, "word": "rough", "tr": "hrubý / drsný / přibližný", "ex": "The sea was very rough today." },
+    { "id": 269, "word": "roughly", "tr": "zhruba / přibližně / hrubě", "ex": "There were roughly 200 people at the meeting." },
+    { "id": 270, "word": "round", "tr": "kulatý / kolo / kolem", "ex": "The children sat in a round circle." },
+    { "id": 271, "word": "route", "tr": "trasa / cesta", "ex": "Which is the quickest route to the airport?" },
+    { "id": 272, "word": "routine", "tr": "rutina / běžný postup", "ex": "I need to change my daily routine." },
+    { "id": 273, "word": "row", "tr": "řada / veslovat", "ex": "We sat in the front row of the cinema." },
+    { "id": 274, "word": "royal", "tr": "královský", "ex": "The royal family lives in the palace." },
+    { "id": 275, "word": "rub", "tr": "třít / masírovat", "ex": "She rubbed her eyes because she was tired." }
+  ]
+}
