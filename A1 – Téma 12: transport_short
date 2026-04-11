@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 12,
+  "topic": "transport_short",
+  "data": [
+    { "id": 1, "word": "car", "tr": "auto", "ex": "The car is fast.", "ex_tr": "Auto je rychlé." },
+    { "id": 2, "word": "bus", "tr": "autobus", "ex": "The bus is full.", "ex_tr": "Autobus je plný." },
+    { "id": 3, "word": "train", "tr": "vlak", "ex": "The train comes.", "ex_tr": "Vlak přijíždí." },
+    { "id": 4, "word": "tram", "tr": "tramvaj", "ex": "The tram stops.", "ex_tr": "Tramvaj zastavuje." },
+    { "id": 5, "word": "subway", "tr": "metro", "ex": "The subway is fast.", "ex_tr": "Metro je rychlé." },
+
+    { "id": 6, "word": "bike", "tr": "kolo", "ex": "I ride a bike.", "ex_tr": "Jedu na kole." },
+    { "id": 7, "word": "motorcycle", "tr": "motorka", "ex": "The motorcycle is loud.", "ex_tr": "Motorka je hlasitá." },
+    { "id": 8, "word": "scooter", "tr": "koloběžka", "ex": "I use a scooter.", "ex_tr": "Používám koloběžku." },
+    { "id": 9, "word": "truck", "tr": "nákladní auto", "ex": "The truck is big.", "ex_tr": "Nákladní auto je velké." },
+    { "id": 10, "word": "van", "tr": "dodávka", "ex": "The van is full.", "ex_tr": "Dodávka je plná." },
+
+    { "id": 11, "word": "taxi", "tr": "taxík", "ex": "I take a taxi.", "ex_tr": "Beru taxík." },
+    { "id": 12, "word": "uber", "tr": "uber", "ex": "I call an Uber.", "ex_tr": "Volám Uber." },
+    { "id": 13, "word": "plane", "tr": "letadlo", "ex": "The plane flies.", "ex_tr": "Letadlo letí." },
+    { "id": 14, "word": "airport", "tr": "letiště", "ex": "The airport is big.", "ex_tr": "Letiště je velké." },
+    { "id": 15, "word": "ship", "tr": "loď", "ex": "The ship moves.", "ex_tr": "Loď se pohybuje." },
+
+    { "id": 16, "word": "boat", "tr": "člun", "ex": "The boat is small.", "ex_tr": "Člun je malý." },
+    { "id": 17, "word": "ferry", "tr": "trajekt", "ex": "The ferry leaves.", "ex_tr": "Trajekt odjíždí." },
+    { "id": 18, "word": "helicopter", "tr": "vrtulník", "ex": "The helicopter lands.", "ex_tr": "Vrtulník přistává." },
+    { "id": 19, "word": "taxi driver", "tr": "taxikář", "ex": "The driver waits.", "ex_tr": "Řidič čeká." },
+    { "id": 20, "word": "pilot", "tr": "pilot", "ex": "The pilot flies.", "ex_tr": "Pilot letí." },
+
+    { "id": 21, "word": "station", "tr": "stanice", "ex": "The station is near.", "ex_tr": "Stanice je blízko." },
+    { "id": 22, "word": "bus stop", "tr": "zastávka", "ex": "This is a bus stop.", "ex_tr": "Tohle je zastávka." },
+    { "id": 23, "word": "platform", "tr": "nástupiště", "ex": "The platform is full.", "ex_tr": "Nástupiště je plné." },
+    { "id": 24, "word": "ticket", "tr": "lístek", "ex": "I buy a ticket.", "ex_tr": "Kupují lístek." },
+    { "id": 25, "word": "map", "tr": "mapa", "ex": "I use a map.", "ex_tr": "Používám mapu." },
+
+    { "id": 26, "word": "traffic", "tr": "doprava", "ex": "The traffic is heavy.", "ex_tr": "Doprava je hustá." },
+    { "id": 27, "word": "traffic light", "tr": "semafor", "ex": "The light is green.", "ex_tr": "Světlo je zelené." },
+    { "id": 28, "word": "crosswalk", "tr": "přechod", "ex": "Use the crosswalk.", "ex_tr": "Použij přechod." },
+    { "id": 29, "word": "sidewalk", "tr": "chodník", "ex": "The sidewalk is clean.", "ex_tr": "Chodník je čistý." },
+    { "id": 30, "word": "highway", "tr": "dálnice", "ex": "The highway is fast.", "ex_tr": "Dálnice je rychlá." },
+
+    { "id": 31, "word": "bridge", "tr": "most", "ex": "The bridge is long.", "ex_tr": "Most je dlouhý." },
+    { "id": 32, "word": "tunnel", "tr": "tunel", "ex": "The tunnel is dark.", "ex_tr": "Tunel je tmavý." },
+    { "id": 33, "word": "gas station", "tr": "benzínka", "ex": "The station is open.", "ex_tr": "Benzínka je otevřená." },
+    { "id": 34, "word": "parking", "tr": "parkoviště", "ex": "The parking is full.", "ex_tr": "Parkoviště je plné." },
+    { "id": 35, "word": "garage", "tr": "garáž", "ex": "The garage is big.", "ex_tr": "Garáž je velká." },
+
+    { "id": 36, "word": "speed", "tr": "rychlost", "ex": "The speed is high.", "ex_tr": "Rychlost je vysoká." },
+    { "id": 37, "word": "seat", "tr": "sedadlo", "ex": "The seat is soft.", "ex_tr": "Sedadlo je měkké." },
+    { "id": 38, "word": "helmet", "tr": "helma", "ex": "I wear a helmet.", "ex_tr": "Nosím helmu." },
+    { "id": 39, "word": "wheel", "tr": "kolo (volant)", "ex": "The wheel turns.", "ex_tr": "Volant se otáčí." },
+    { "id": 40, "word": "engine", "tr": "motor", "ex": "The engine runs.", "ex_tr": "Motor běží." },
+
+    { "id": 41, "word": "brake", "tr": "brzda", "ex": "I use the brake.", "ex_tr": "Používám brzdu." },
+    { "id": 42, "word": "fuel", "tr": "palivo", "ex": "The fuel is low.", "ex_tr": "Málo paliva." },
+    { "id": 43, "word": "driver", "tr": "řidič", "ex": "The driver waits.", "ex_tr": "Řidič čeká." },
+    { "id": 44, "word": "passenger", "tr": "cestující", "ex": "The passenger sits.", "ex_tr": "Cestující sedí." },
+    { "id": 45, "word": "route", "tr": "trasa", "ex": "The route is long.", "ex_tr": "Trasa je dlouhá." },
+
+    { "id": 46, "word": "stop", "tr": "zastávka", "ex": "This is my stop.", "ex_tr": "Tohle je moje zastávka." },
+    { "id": 47, "word": "station map", "tr": "mapa stanice", "ex": "I check the map.", "ex_tr": "Kontroluji mapu." },
+    { "id": 48, "word": "ticket machine", "tr": "automat na lístky", "ex": "The machine works.", "ex_tr": "Automat funguje." },
+    { "id": 49, "word": "schedule", "tr": "jízdní řád", "ex": "I read the schedule.", "ex_tr": "Čtu jízdní řád." },
+    { "id": 50, "word": "delay", "tr": "zpoždění", "ex": "The delay is long.", "ex_tr": "Zpoždění je dlouhé." }
+  ]
+}
