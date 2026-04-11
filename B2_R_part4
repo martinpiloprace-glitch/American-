@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "recycle", "tr": "recyklovat", "ex": "We should all try to recycle as much as possible." },
+    { "id": 77, "word": "red", "tr": "červený", "ex": "She has bright red hair." },
+    { "id": 78, "word": "reduce", "tr": "snížit / omezit", "ex": "We need to reduce our expenses." },
+    { "id": 79, "word": "reduction", "tr": "snížení / redukce / sleva", "ex": "There has been a significant reduction in crime." },
+    { "id": 80, "word": "redundant", "tr": "nadbytečný / propuštěný (pro nadbytečnost)", "ex": "The factory closed and 500 workers were made redundant." },
+    { "id": 81, "word": "refer", "tr": "odkazovat / odvolávat se", "ex": "Please refer to the manual for more details." },
+    { "id": 82, "word": "referee", "tr": "rozhodčí / ručitel", "ex": "The referee blew the whistle for halftime." },
+    { "id": 83, "word": "reference", "tr": "odkaz / reference / doporučení", "ex": "He made several references to his previous work." },
+    { "id": 84, "word": "referendum", "tr": "referendum", "ex": "The government decided to hold a referendum on the issue." },
+    { "id": 85, "word": "refine", "tr": "vylepšit / rafinovat / čistit", "ex": "Engineers are working to refine the design." },
+    { "id": 86, "word": "reflect", "tr": "odrážet / uvažovat", "ex": "The mirror reflects the light." },
+    { "id": 87, "word": "reflection", "tr": "odraz / úvaha", "ex": "She looked at her reflection in the window." },
+    { "id": 88, "word": "reform", "tr": "reforma / reformovat", "ex": "The healthcare system is in need of urgent reform." },
+    { "id": 89, "word": "refrain", "tr": "zdržet se (čeho) / refrén", "ex": "Please refrain from smoking in this area." },
+    { "id": 90, "word": "refresh", "tr": "osvěžit / aktualizovat", "ex": "I need a glass of water to refresh myself." },
+    { "id": 91, "word": "refrigerator", "tr": "chladnička / lednice", "ex": "Put the milk back in the refrigerator." },
+    { "id": 92, "word": "refuge", "tr": "útočiště / úkryt", "ex": "The cat took refuge under the car." },
+    { "id": 93, "word": "refugee", "tr": "uprchlík", "ex": "Thousands of refugees are crossing the border." },
+    { "id": 94, "word": "refusal", "tr": "odmítnutí", "ex": "His refusal to help was very disappointing." },
+    { "id": 95, "word": "refuse", "tr": "odmítnout / odpad", "ex": "I simply couldn't refuse such a generous offer." },
+    { "id": 96, "word": "regain", "tr": "znovu získat / dostat se zpět", "ex": "She struggled to regain her balance." },
+    { "id": 97, "word": "regard", "tr": "považovat / ohled / úcta", "ex": "He is highly regarded by his colleagues." },
+    { "id": 98, "word": "regardless", "tr": "bez ohledu na", "ex": "The law applies to everyone, regardless of their status." },
+    { "id": 99, "word": "regime", "tr": "režim / zřízení", "ex": "The old regime was overthrown in a revolution." },
+    { "id": 100, "word": "region", "tr": "region / oblast / kraj", "ex": "Wine is produced in several regions of the country." }
+  ]
+}
