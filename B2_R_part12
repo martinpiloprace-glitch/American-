@@ -1,0 +1,23 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 12,
+  "mode": "sentences",
+  "data": [
+    { "id": 276, "word": "rubber", "tr": "guma / gumový", "ex": "The tires are made of synthetic rubber." },
+    { "id": 277, "word": "rubbish", "tr": "odpadky / nesmysl", "ex": "Please put your rubbish in the bin." },
+    { "id": 278, "word": "rude", "tr": "hrubý / neslušný", "ex": "It’s rude to interrupt when someone is speaking." },
+    { "id": 279, "word": "rudely", "tr": "neslušně / hrubě", "ex": "He rudely pushed past her." },
+    { "id": 280, "word": "rug", "tr": "kobereček / předložka", "ex": "There is a colorful rug in the living room." },
+    { "id": 281, "word": "ruin", "tr": "zničit / zřícenina", "ex": "The rain ruined our plans for a picnic." },
+    { "id": 282, "word": "rule", "tr": "pravidlo / vládnout", "ex": "You must follow the rules of the game." },
+    { "id": 283, "word": "ruler", "tr": "vládce / pravítko", "ex": "He was a fair and just ruler." },
+    { "id": 284, "word": "ruling", "tr": "rozhodnutí / verdikt", "ex": "The court's ruling surprised everyone." },
+    { "id": 285, "word": "rumor", "tr": "fáma / drb", "ex": "There is a rumor that the company is closing." },
+    { "id": 286, "word": "run", "tr": "běžet / vést / provozovat", "ex": "She runs a small business in the city." },
+    { "id": 287, "word": "runner", "tr": "běžec", "ex": "He is a very fast long-distance runner." },
+    { "id": 288, "word": "running", "tr": "běhání / běžící / tekoucí", "ex": "I like to go running in the morning." },
+    { "id": 289, "word": "rural", "tr": "venkovský / rurální", "ex": "She lives in a quiet rural area." },
+    { "id": 290, "word": "rush", "tr": "spěchat / spěch", "ex": "I'm in a rush; can we talk later?" }
+  ]
+}
