@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "too", "tr": "také / příliš", "ex": "The water is too cold for swimming." },
+    { "id": 177, "word": "tool", "tr": "nástroj / nářadí", "ex": "A hammer is a useful tool." },
+    { "id": 178, "word": "tooth", "tr": "zub", "ex": "I need to brush my teeth." },
+    { "id": 179, "word": "top", "tr": "horní / vrchol / vršek", "ex": "He lives on the top floor." },
+    { "id": 180, "word": "topic", "tr": "téma / námět", "ex": "The environment is a popular topic for discussion." },
+    { "id": 181, "word": "torch", "tr": "baterka / pochodeň", "ex": "It was dark, so I used a torch to see the path." },
+    { "id": 182, "word": "torment", "tr": "muka / trápit / týrat", "ex": "The memory of the accident continued to torment him." },
+    { "id": 183, "word": "torture", "tr": "mučení / týrání", "ex": "The prisoner was subjected to torture." },
+    { "id": 184, "word": "total", "tr": "celkový / úplný", "ex": "What is the total cost of the project?" },
+    { "id": 185, "word": "totally", "tr": "zcela / úplně", "ex": "I totally agree with you." },
+    { "id": 186, "word": "touch", "tr": "dotknout se / dotek", "ex": "Please do not touch the paintings." },
+    { "id": 187, "word": "tough", "tr": "tuhý / tvrdý / odolný", "ex": "The steak was very tough and hard to chew." },
+    { "id": 188, "word": "tour", "tr": "prohlídka / turné / zájezd", "ex": "We went on a guided tour of the city." },
+    { "id": 189, "word": "tourism", "tr": "turismus / cestovní ruch", "ex": "Tourism is a major industry in this country." },
+    { "id": 190, "word": "tourist", "tr": "turista", "ex": "The city is full of tourists in the summer." },
+    { "id": 191, "word": "tournament", "tr": "turnaj", "ex": "He won the local tennis tournament." },
+    { "id": 192, "word": "toward", "tr": "směrem k / vůči", "ex": "They walked toward the village." },
+    { "id": 193, "word": "towards", "tr": "směrem k / vůči", "ex": "He was very kind towards the children." },
+    { "id": 194, "word": "towel", "tr": "ručník / osuška", "ex": "I need a dry towel." },
+    { "id": 195, "word": "tower", "tr": "věž / tyčit se", "ex": "The Eiffel Tower is a famous landmark." },
+    { "id": 196, "word": "town", "tr": "město / městečko", "ex": "We live in a small town near the border." },
+    { "id": 197, "word": "toxic", "tr": "toxický / jedovatý", "ex": "The waste is highly toxic." },
+    { "id": 198, "word": "toy", "tr": "hračka", "ex": "The children were playing with their toys." },
+    { "id": 199, "word": "trace", "tr": "stopa / sledovat / vypátrat", "ex": "The police were unable to trace the missing man." },
+    { "id": 200, "word": "track", "tr": "stopa / dráha / sledovat", "ex": "We followed the tracks in the snow." }
+  ]
+}
