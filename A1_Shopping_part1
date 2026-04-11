@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Shopping",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "buy", "tr": "koupit", "ex": "Buy the milk." },
+    { "id": 2, "word": "sell", "tr": "prodat", "ex": "I sell cars." },
+    { "id": 3, "word": "price", "tr": "cena", "ex": "What is the price?" },
+    { "id": 4, "word": "money", "tr": "peníze", "ex": "I have money." },
+    { "id": 5, "word": "cheap", "tr": "levný", "ex": "It is cheap." },
+    { "id": 6, "word": "expensive", "tr": "drahý", "ex": "It is expensive." },
+    { "id": 7, "word": "bag", "tr": "taška", "ex": "Put it in the bag." },
+    { "id": 8, "word": "market", "tr": "trh", "ex": "Go to the market." },
+    { "id": 9, "word": "pay", "tr": "platit", "ex": "Pay here." },
+    { "id": 10, "word": "free", "tr": "zdarma", "ex": "It is free." }
+  ]
+}
