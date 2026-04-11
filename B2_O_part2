@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "O",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "odd", "tr": "zvláštní / lichý / příležitostný", "ex": "It's odd that he hasn't called yet." },
+    { "id": 27, "word": "odds", "tr": "šance / pravděpodobnost", "ex": "The odds of winning the lottery are very low." },
+    { "id": 28, "word": "offend", "tr": "urazit / dotknout se / porušit zákon", "ex": "I'm sorry, I didn't mean to offend you." },
+    { "id": 29, "word": "offense", "tr": "urážka / přestupek / útok", "ex": "Driving without a license is a serious offense." },
+    { "id": 30, "word": "offensive", "tr": "urážlivý / útočný / ofenzíva", "ex": "I found his remarks deeply offensive." },
+    { "id": 31, "word": "offer", "tr": "nabídka / nabídnout", "ex": "Thank you for your generous offer." },
+    { "id": 32, "word": "office", "tr": "kancelář / úřad", "ex": "I'll be in my office all afternoon." },
+    { "id": 33, "word": "officer", "tr": "důstojník / úředník / policista", "ex": "The police officer asked to see my ID." },
+    { "id": 34, "word": "official", "tr": "oficiální / úřední / funkcionář", "ex": "The news has not been made official yet." },
+    { "id": 35, "word": "offset", "tr": "vyvážit / kompenzovat", "ex": "The gains in one area offset the losses in another." },
+    { "id": 36, "word": "offspring", "tr": "potomek / potomstvo", "ex": "The birds are busy feeding their offspring." },
+    { "id": 37, "word": "often", "tr": "často", "ex": "How often do you go to the gym?" },
+    { "id": 38, "word": "oh", "tr": "ó / ach", "ex": "Oh, I didn't see you there!" },
+    { "id": 39, "word": "oil", "tr": "olej / ropa", "ex": "The price of oil has increased again." },
+    { "id": 40, "word": "okay", "tr": "v pořádku / dobře", "ex": "Everything is going to be okay." },
+    { "id": 41, "word": "old", "tr": "starý", "ex": "How old are you?" },
+    { "id": 42, "word": "old-fashioned", "tr": "staromódní", "ex": "She wears rather old-fashioned clothes." },
+    { "id": 43, "word": "on", "tr": "na / zapnutý", "ex": "The book is on the table." },
+    { "id": 44, "word": "once", "tr": "jednou / kdysi", "ex": "I've only been there once." },
+    { "id": 45, "word": "one", "tr": "jeden / člověk (obecně)", "ex": "One should always be polite." },
+    { "id": 46, "word": "ongoing", "tr": "probíhající / trvající", "ex": "The investigation into the cause of the fire is ongoing." },
+    { "id": 47, "word": "onion", "tr": "cibule", "ex": "I always cry when I'm chopping onions." },
+    { "id": 48, "word": "online", "tr": "online / připojený", "ex": "You can buy the tickets online." },
+    { "id": 49, "word": "only", "tr": "jen / pouze / jediný", "ex": "He is an only child." },
+    { "id": 50, "word": "onto", "tr": "na (směr)", "ex": "The cat jumped onto the sofa." }
+  ]
+}
