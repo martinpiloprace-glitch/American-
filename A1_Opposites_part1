@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Opposite Adjectives",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "big", "tr": "velký", "ex": "The dog is big." },
+    { "id": 2, "word": "small", "tr": "malý", "ex": "The cat is small." },
+    { "id": 3, "word": "new", "tr": "nový", "ex": "The car is new." },
+    { "id": 4, "word": "old", "tr": "starý", "ex": "The book is old." },
+    { "id": 5, "word": "fast", "tr": "rychlý", "ex": "He is fast." },
+    { "id": 6, "word": "slow", "tr": "pomalý", "ex": "It is slow." },
+    { "id": 7, "word": "easy", "tr": "lehký / snadný", "ex": "Test is easy." },
+    { "id": 8, "word": "hard", "tr": "těžký", "ex": "Work is hard." },
+    { "id": 9, "word": "long", "tr": "dlouhý", "ex": "Wait is long." },
+    { "id": 10, "word": "short", "tr": "krátký", "ex": "Day is short." }
+  ]
+}
