@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 23,
+  "mode": "sentences",
+  "data": [
+    { "id": 551, "word": "suspicion", "tr": "podezření", "ex": "He was arrested on suspicion of robbery." },
+    { "id": 552, "word": "suspicious", "tr": "podezřelý / nedůvěřivý", "ex": "They were seen behaving in a suspicious manner." },
+    { "id": 553, "word": "sustain", "tr": "udržet / utrpět / vyživovat", "ex": "The company has managed to sustain its growth." },
+    { "id": 554, "word": "sustainable", "tr": "udržitelný", "ex": "We need to find more sustainable energy sources." },
+    { "id": 555, "word": "swallow", "tr": "polykat / polknout / vlaštovka", "ex": "The pills were too big to swallow easily." },
+    { "id": 556, "word": "swap", "tr": "vyměnit si / směna", "ex": "I'll swap my apple for your orange." },
+    { "id": 557, "word": "swear", "tr": "přísahat / klít", "ex": "I swear I'm telling the truth." },
+    { "id": 558, "word": "sweat", "tr": "pot / potit se", "ex": "He was dripping with sweat after the race." },
+    { "id": 559, "word": "sweater", "tr": "svetr", "ex": "Put a sweater on if you're cold." },
+    { "id": 560, "word": "sweep", "tr": "zametat / smést", "ex": "Could you sweep the floor for me?" },
+    { "id": 561, "word": "sweet", "tr": "sladký / milý / bonbon", "ex": "She gave the child a sweet." },
+    { "id": 562, "word": "swell", "tr": "otéct / nabýt / vlnobití", "ex": "My ankle started to swell after the fall." },
+    { "id": 563, "word": "swift", "tr": "rychlý / hbitý / rorýs", "ex": "The government promised swift action to help the victims." },
+    { "id": 564, "word": "swim", "tr": "plavat / zaplavat si", "ex": "I like to swim in the sea." },
+    { "id": 565, "word": "swimming", "tr": "plavání", "ex": "Swimming is a very healthy exercise." },
+    { "id": 566, "word": "swing", "tr": "houpat (se) / houpačka / švih", "ex": "The children were playing on the swings." },
+    { "id": 567, "word": "switch", "tr": "přepnout / vypínač / změna", "ex": "Can you switch the light off?" },
+    { "id": 568, "word": "sword", "tr": "meč", "ex": "The knight drew his sword." },
+    { "id": 569, "word": "symbol", "tr": "symbol", "ex": "The dove is a symbol of peace." },
+    { "id": 570, "word": "symbolic", "tr": "symbolický", "ex": "The act was purely symbolic." },
+    { "id": 571, "word": "sympathetic", "tr": "soucitný / sympatizující", "ex": "She was very sympathetic when I told her about my problems." },
+    { "id": 572, "word": "sympathize", "tr": "soucitit / sympatizovat", "ex": "I find it hard to sympathize with him." },
+    { "id": 573, "word": "sympathy", "tr": "soucit / sympatie", "ex": "I have a lot of sympathy for the victims." },
+    { "id": 574, "word": "symptom", "tr": "symptom / příznak", "ex": "The first symptom of the disease is a fever." },
+    { "id": 575, "word": "synonym", "tr": "synonymum", "ex": "Can you think of a synonym for 'happy'?" }
+  ]
+}
