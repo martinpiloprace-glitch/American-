@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 13,
+  "topic": "sport_short",
+  "data": [
+    { "id": 1, "word": "sport", "tr": "sport", "ex": "I like sport.", "ex_tr": "Mám rád sport." },
+    { "id": 2, "word": "game", "tr": "hra", "ex": "The game starts.", "ex_tr": "Hra začíná." },
+    { "id": 3, "word": "team", "tr": "tým", "ex": "My team wins.", "ex_tr": "Můj tým vyhrává." },
+    { "id": 4, "word": "player", "tr": "hráč", "ex": "He is a player.", "ex_tr": "Je hráč." },
+    { "id": 5, "word": "coach", "tr": "trenér", "ex": "The coach helps.", "ex_tr": "Trenér pomáhá." },
+
+    { "id": 6, "word": "soccer", "tr": "fotbal", "ex": "I play soccer.", "ex_tr": "Hraju fotbal." },
+    { "id": 7, "word": "basketball", "tr": "basketbal", "ex": "I play basketball.", "ex_tr": "Hraju basketbal." },
+    { "id": 8, "word": "tennis", "tr": "tenis", "ex": "I play tennis.", "ex_tr": "Hraju tenis." },
+    { "id": 9, "word": "volleyball", "tr": "volejbal", "ex": "I play volleyball.", "ex_tr": "Hraju volejbal." },
+    { "id": 10, "word": "baseball", "tr": "baseball", "ex": "I play baseball.", "ex_tr": "Hraju baseball." },
+
+    { "id": 11, "word": "football", "tr": "americký fotbal", "ex": "I watch football.", "ex_tr": "Sleduju americký fotbal." },
+    { "id": 12, "word": "hockey", "tr": "hokej", "ex": "I play hockey.", "ex_tr": "Hraju hokej." },
+    { "id": 13, "word": "golf", "tr": "golf", "ex": "I play golf.", "ex_tr": "Hraju golf." },
+    { "id": 14, "word": "swimming", "tr": "plavání", "ex": "I like swimming.", "ex_tr": "Mám rád plavání." },
+    { "id": 15, "word": "running", "tr": "běh", "ex": "I like running.", "ex_tr": "Mám rád běh." },
+
+    { "id": 16, "word": "cycling", "tr": "cyklistika", "ex": "I like cycling.", "ex_tr": "Mám rád cyklistiku." },
+    { "id": 17, "word": "skiing", "tr": "lyžování", "ex": "I like skiing.", "ex_tr": "Mám rád lyžování." },
+    { "id": 18, "word": "snowboarding", "tr": "snowboarding", "ex": "I like snowboarding.", "ex_tr": "Mám rád snowboarding." },
+    { "id": 19, "word": "boxing", "tr": "box", "ex": "He does boxing.", "ex_tr": "Dělá box." },
+    { "id": 20, "word": "yoga", "tr": "jóga", "ex": "I do yoga.", "ex_tr": "Dělám jógu." },
+
+    { "id": 21, "word": "gym", "tr": "posilovna", "ex": "I go to the gym.", "ex_tr": "Jdu do posilovny." },
+    { "id": 22, "word": "workout", "tr": "trénink", "ex": "I do a workout.", "ex_tr": "Cvičím." },
+    { "id": 23, "word": "exercise", "tr": "cvičení", "ex": "I need exercise.", "ex_tr": "Potřebuji cvičení." },
+    { "id": 24, "word": "stretch", "tr": "protahovat se", "ex": "I stretch now.", "ex_tr": "Teď se protahuju." },
+    { "id": 25, "word": "jump", "tr": "skákat", "ex": "I jump high.", "ex_tr": "Skáču vysoko." },
+
+    { "id": 26, "word": "ball", "tr": "míč", "ex": "I have a ball.", "ex_tr": "Mám míč." },
+    { "id": 27, "word": "goal", "tr": "gól", "ex": "I score a goal.", "ex_tr": "Dávám gól." },
+    { "id": 28, "word": "stadium", "tr": "stadion", "ex": "The stadium is full.", "ex_tr": "Stadion je plný." },
+    { "id": 29, "word": "field", "tr": "hřiště", "ex": "The field is big.", "ex_tr": "Hřiště je velké." },
+    { "id": 30, "word": "court", "tr": "kurt", "ex": "The court is clean.", "ex_tr": "Kurt je čistý." },
+
+    { "id": 31, "word": "referee", "tr": "rozhodčí", "ex": "The referee whistles.", "ex_tr": "Rozhodčí píská." },
+    { "id": 32, "word": "whistle", "tr": "píšťalka", "ex": "The whistle blows.", "ex_tr": "Píšťalka píská." },
+    { "id": 33, "word": "score", "tr": "skóre", "ex": "The score is low.", "ex_tr": "Skóre je nízké." },
+    { "id": 34, "word": "win", "tr": "vyhrát", "ex": "We win today.", "ex_tr": "Dnes vyhráváme." },
+    { "id": 35, "word": "lose", "tr": "prohrát", "ex": "We lose today.", "ex_tr": "Dnes prohráváme." },
+
+    { "id": 36, "word": "race", "tr": "závod", "ex": "The race starts.", "ex_tr": "Závod začíná." },
+    { "id": 37, "word": "track", "tr": "dráha", "ex": "The track is long.", "ex_tr": "Dráha je dlouhá." },
+    { "id": 38, "word": "swimsuit", "tr": "plavky", "ex": "I wear a swimsuit.", "ex_tr": "Nosím plavky." },
+    { "id": 39, "word": "helmet", "tr": "helma", "ex": "I wear a helmet.", "ex_tr": "Nosím helmu." },
+    { "id": 40, "word": "gloves", "tr": "rukavice", "ex": "I wear gloves.", "ex_tr": "Nosím rukavice." },
+
+    { "id": 41, "word": "skates", "tr": "brusle", "ex": "I wear skates.", "ex_tr": "Nosím brusle." },
+    { "id": 42, "word": "ski", "tr": "lyže", "ex": "I use skis.", "ex_tr": "Používám lyže." },
+    { "id": 43, "word": "board", "tr": "prkno", "ex": "I use a board.", "ex_tr": "Používám prkno." },
+    { "id": 44, "word": "net", "tr": "síť", "ex": "The net is high.", "ex_tr": "Síť je vysoká." },
+    { "id": 45, "word": "goalkeeper", "tr": "brankář", "ex": "The goalkeeper jumps.", "ex_tr": "Brankář skáče." },
+
+    { "id": 46, "word": "fan", "tr": "fanoušek", "ex": "The fan cheers.", "ex_tr": "Fanoušek fandí." },
+    { "id": 47, "word": "trophy", "tr": "trofej", "ex": "We get a trophy.", "ex_tr": "Dostáváme trofej." },
+    { "id": 48, "word": "medal", "tr": "medaile", "ex": "I win a medal.", "ex_tr": "Vyhrávám medaili." },
+    { "id": 49, "word": "champion", "tr": "šampion", "ex": "He is a champion.", "ex_tr": "Je šampion." },
+    { "id": 50, "word": "match", "tr": "zápas", "ex": "The match starts.", "ex_tr": "Zápas začíná." }
+  ]
+}
