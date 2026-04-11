@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "U",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "unfortunate", "tr": "nešťastný / politováníhodný", "ex": "It was an unfortunate accident." },
+    { "id": 27, "word": "unfortunately", "tr": "bohužel", "ex": "Unfortunately, I won't be able to come to the party." },
+    { "id": 28, "word": "unhappy", "tr": "nešťastný / nespokojený", "ex": "She was very unhappy in her job." },
+    { "id": 29, "word": "uniform", "tr": "uniforma / jednotný", "ex": "The students have to wear a school uniform." },
+    { "id": 30, "word": "unify", "tr": "sjednotit / spojit", "ex": "The new leader hopes to unify the country." },
+    { "id": 31, "word": "union", "tr": "unie / odbory / spojení", "ex": "He is a member of the teachers' union." },
+    { "id": 32, "word": "unique", "tr": "jedinečný / unikátní", "ex": "Each person's fingerprints are unique." },
+    { "id": 33, "word": "unit", "tr": "jednotka / kus", "ex": "The course is divided into ten units." },
+    { "id": 34, "word": "unite", "tr": "sjednotit (se) / spojit (se)", "ex": "The two companies united to form a new corporation." },
+    { "id": 35, "word": "united", "tr": "spojený / jednotný", "ex": "They presented a united front to the media." },
+    { "id": 36, "word": "unity", "tr": "jednota / soudržnost", "ex": "The party is calling for national unity." },
+    { "id": 37, "word": "universal", "tr": "univerzální / všeobecný", "ex": "The desire for peace is universal." },
+    { "id": 38, "word": "universe", "tr": "vesmír", "ex": "How big is the universe?" },
+    { "id": 39, "word": "university", "tr": "univerzita", "ex": "She is studying law at university." },
+    { "id": 40, "word": "unjust", "tr": "nespravedlivý", "ex": "The new law is seen as unjust by many people." },
+    { "id": 41, "word": "unknown", "tr": "neznámý", "ex": "The cause of the fire is still unknown." },
+    { "id": 42, "word": "unless", "tr": "pokud ne / ledaže", "ex": "I'll be there at eight, unless the train is late." },
+    { "id": 43, "word": "unlike", "tr": "na rozdíl od / nepodobný", "ex": "Unlike his brother, he is very shy." },
+    { "id": 44, "word": "unlikely", "tr": "nepravděpodobný", "ex": "It's unlikely that it will rain today." },
+    { "id": 45, "word": "unlimited", "tr": "neomezený", "ex": "The hotel offers unlimited access to the spa." },
+    { "id": 46, "word": "unload", "tr": "vyložit / vyložit náklad", "ex": "The men began to unload the truck." },
+    { "id": 47, "word": "unlucky", "tr": "smolný / mající smůlu", "ex": "He was very unlucky to lose the match." },
+    { "id": 48, "word": "unnecessary", "tr": "zbytečný / nadbytečný", "ex": "The operation was completely unnecessary." },
+    { "id": 49, "word": "unpleasant", "tr": "nepříjemný", "ex": "The smell was very unpleasant." },
+    { "id": 50, "word": "unprecedented", "tr": "neslýchaný / bezprecedentní", "ex": "The situation is unprecedented in modern times." }
+  ]
+}
