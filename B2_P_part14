@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 14,
+  "mode": "sentences",
+  "data": [
+    { "id": 326, "word": "profitable", "tr": "ziskový / výnosný", "ex": "The advertising campaign proved to be very profitable." },
+    { "id": 327, "word": "profound", "tr": "hluboký / důkladný / nesmírný", "ex": "His mother's death had a profound effect on him." },
+    { "id": 328, "word": "program", "tr": "program / naplánovat", "ex": "What's your favorite television program?" },
+    { "id": 329, "word": "programme", "tr": "program (britská varianta)", "ex": "The school has a very active sports programme." },
+    { "id": 330, "word": "programming", "tr": "programování", "ex": "She is learning computer programming at college." },
+    { "id": 331, "word": "progress", "tr": "pokrok / postupovat", "ex": "We are making good progress with the project." },
+    { "id": 332, "word": "progressive", "tr": "progresivní / pokrokový", "ex": "The company is known for its progressive policies." },
+    { "id": 333, "word": "prohibit", "tr": "zakázat / znemožnit", "ex": "Smoking is strictly prohibited in the building." },
+    { "id": 334, "word": "prohibition", "tr": "zákaz / prohibice", "ex": "The government is considering a prohibition on alcohol sales." },
+    { "id": 335, "word": "project", "tr": "projekt / promítat / vyčnívat", "ex": "The new housing project will be completed next year." },
+    { "id": 336, "word": "projection", "tr": "projekce / předpověď / odhad", "ex": "The sales projections for next year are very positive." },
+    { "id": 337, "word": "prominent", "tr": "významný / nápadný / vyčnívající", "ex": "He is a prominent member of the local community." },
+    { "id": 338, "word": "promise", "tr": "slib / slíbit", "ex": "I promise I'll be home by ten o'clock." },
+    { "id": 339, "word": "promising", "tr": "slibný / nadějný", "ex": "The young player shows a lot of promising talent." },
+    { "id": 340, "word": "promote", "tr": "podporovat / propagovat / povýšit", "ex": "The organization works to promote human rights." },
+    { "id": 341, "word": "promotion", "tr": "povýšení / propagace / podpora", "ex": "She's hoping for a promotion to senior manager." },
+    { "id": 342, "word": "prompt", "tr": "okamžitý / pobídka / napovědět", "ex": "Thank you for your prompt reply to my email." },
+    { "id": 343, "word": "promptly", "tr": "okamžitě / bezodkladně", "ex": "The ambulance arrived promptly after the call." },
+    { "id": 344, "word": "proof", "tr": "důkaz / korektura", "ex": "Do you have any proof of identity?" },
+    { "id": 345, "word": "proper", "tr": "vhodný / řádný / vlastní", "ex": "Make sure you follow the proper procedure." },
+    { "id": 346, "word": "properly", "tr": "pořádně / správně", "ex": "The machine isn't working properly." },
+    { "id": 347, "word": "property", "tr": "vlastnictví / majetek / nemovitost", "ex": "The police recovered the stolen property." },
+    { "id": 348, "word": "prophecy", "tr": "proroctví", "ex": "His prophecy about the economy came true." },
+    { "id": 349, "word": "proportion", "tr": "podíl / část / poměr", "ex": "A large proportion of the students are from abroad." },
+    { "id": 350, "word": "proposal", "tr": "návrh / nabídka k sňatku", "ex": "The committee is considering the proposal." }
+  ]
+}
