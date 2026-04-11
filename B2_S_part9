@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "sincere", "tr": "upřímný", "ex": "Please accept my sincere apologies." },
+    { "id": 202, "word": "sincerely", "tr": "upřímně", "ex": "I sincerely hope that everything goes well." },
+    { "id": 203, "word": "sing", "tr": "zpívat", "ex": "She sings in the church choir." },
+    { "id": 204, "word": "singer", "tr": "zpěvák / zpěvačka", "ex": "He is a very famous opera singer." },
+    { "id": 205, "word": "single", "tr": "jediný / svobodný / jednotlivý", "ex": "Is he still single?" },
+    { "id": 206, "word": "singular", "tr": "jednotné číslo / neobvyklý", "ex": "The word 'mouse' is singular; 'mice' is plural." },
+    { "id": 207, "word": "sink", "tr": "potopit se / klesat / dřez", "ex": "The boat began to sink after hitting a rock." },
+    { "id": 208, "word": "sir", "tr": "pán / pane (oslovení)", "ex": "Can I help you, sir?" },
+    { "id": 209, "word": "sister", "tr": "sestra", "ex": "I have two sisters and one brother." },
+    { "id": 210, "word": "sit", "tr": "sedět", "ex": "Please sit down and make yourself comfortable." },
+    { "id": 211, "word": "site", "tr": "místo / pozemek / web", "ex": "The site of the new hospital has been chosen." },
+    { "id": 212, "word": "situate", "tr": "umístit / situovat", "ex": "The hotel is situated near the beach." },
+    { "id": 213, "word": "situation", "tr": "situace", "ex": "We are in a very difficult situation." },
+    { "id": 214, "word": "six", "tr": "šest", "ex": "The house has six bedrooms." },
+    { "id": 215, "word": "sixteen", "tr": "šestnáct", "ex": "She is sixteen years old." },
+    { "id": 216, "word": "sixth", "tr": "šestý", "ex": "He finished in sixth place." },
+    { "id": 217, "word": "sixty", "tr": "šedesát", "ex": "My father is sixty years old." },
+    { "id": 218, "word": "size", "tr": "velikost / rozměr", "ex": "What size shoes do you wear?" },
+    { "id": 219, "word": "sketch", "tr": "náčrt / skica / načrtnout", "ex": "He made a quick sketch of the building." },
+    { "id": 220, "word": "skill", "tr": "dovednost / zručnost", "ex": "Management is a skill that can be learned." },
+    { "id": 221, "word": "skilled", "tr": "kvalifikovaný / zručný", "ex": "The company needs more skilled engineers." },
+    { "id": 222, "word": "skin", "tr": "kůže / pleť / slupka", "ex": "Use sunscreen to protect your skin." },
+    { "id": 223, "word": "skip", "tr": "přeskočit / vynechat", "ex": "I decided to skip breakfast this morning." },
+    { "id": 224, "word": "skirt", "tr": "sukně / lem", "ex": "She was wearing a short blue skirt." },
+    { "id": 225, "word": "sky", "tr": "obloha / nebe", "ex": "There isn't a cloud in the sky." }
+  ]
+}
