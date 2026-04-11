@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "positive", "tr": "pozitivní / kladný", "ex": "You should try to be more positive about the future." },
+    { "id": 202, "word": "possess", "tr": "vlastnit / mít (vlastnost)", "ex": "He possesses a great sense of humor." },
+    { "id": 203, "word": "possession", "tr": "majetek / držení / vlastnictví", "ex": "The family lost all their possessions in the fire." },
+    { "id": 204, "word": "possibility", "tr": "možnost", "ex": "Is there any possibility of a compromise?" },
+    { "id": 205, "word": "possible", "tr": "možný", "ex": "We must find a solution as soon as possible." },
+    { "id": 206, "word": "possibly", "tr": "možná / snad", "ex": "I couldn't possibly finish all this work today." },
+    { "id": 207, "word": "post", "tr": "pošta / příspěvek / sloupek", "ex": "I’ll put the letter in the post today." },
+    { "id": 208, "word": "postage", "tr": "poštovné", "ex": "How much is the postage for this parcel?" },
+    { "id": 209, "word": "poster", "tr": "plakát", "ex": "The room was decorated with movie posters." },
+    { "id": 210, "word": "postpone", "tr": "odložit / odsunout", "ex": "The match has been postponed until next week." },
+    { "id": 211, "word": "pot", "tr": "hrnec / květináč / konvice", "ex": "She put the pasta into a pot of boiling water." },
+    { "id": 212, "word": "potato", "tr": "brambor", "ex": "Would you like baked or mashed potatoes?" },
+    { "id": 213, "word": "potential", "tr": "potenciální / potenciál", "ex": "The project has the potential to be very successful." },
+    { "id": 214, "word": "potentially", "tr": "potenciálně", "ex": "This is a potentially dangerous situation." },
+    { "id": 215, "word": "poverty", "tr": "chudoba / bída", "ex": "Many people in the world still live in poverty." },
+    { "id": 216, "word": "powder", "tr": "prášek / pudr", "ex": "The snow was as fine as powder." },
+    { "id": 217, "word": "power", "tr": "moc / síla / elektřina", "ex": "The storm caused a major power cut." },
+    { "id": 218, "word": "powerful", "tr": "mocný / silný", "ex": "The internet is a powerful tool for learning." },
+    { "id": 219, "word": "practical", "tr": "praktický", "ex": "The course provides students with practical skills." },
+    { "id": 220, "word": "practically", "tr": "prakticky / v podstatě", "ex": "The task is practically impossible." },
+    { "id": 221, "word": "practice", "tr": "praxe / trénink / zvyk", "ex": "It takes a lot of practice to play the violin well." },
+    { "id": 222, "word": "practise", "tr": "procvičovat / trénovat", "ex": "You need to practise your English every day." },
+    { "id": 223, "word": "praise", "tr": "chválit / pochvala", "ex": "The teacher praised the students for their hard work." },
+    { "id": 224, "word": "pray", "tr": "modlit se", "ex": "They went to the temple to pray." },
+    { "id": 225, "word": "prayer", "tr": "modlitba", "ex": "She said a quick prayer before the exam." }
+  ]
+}
