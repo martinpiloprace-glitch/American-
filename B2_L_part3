@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "L",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "leather", "tr": "kůže (materiál)", "ex": "He was wearing a black leather jacket." },
+    { "id": 52, "word": "leave", "tr": "odejít / opustit / nechat", "ex": "What time does the train leave?" },
+    { "id": 53, "word": "lecture", "tr": "přednáška / přednášet", "ex": "I have a lecture at ten o'clock." },
+    { "id": 54, "word": "lecturer", "tr": "přednášející", "ex": "The lecturer explained the theory clearly." },
+    { "id": 55, "word": "left", "tr": "levý / vlevo", "ex": "Turn left at the next corner." },
+    { "id": 56, "word": "leg", "tr": "noha", "ex": "He broke his leg while skiing." },
+    { "id": 57, "word": "legacy", "tr": "odkaz / dědictví", "ex": "The president left a complex legacy." },
+    { "id": 58, "word": "legal", "tr": "právní / zákonný", "ex": "You should seek legal advice." },
+    { "id": 59, "word": "legend", "tr": "legenda", "ex": "King Arthur is a famous figure of legend." },
+    { "id": 60, "word": "legendary", "tr": "legendární", "ex": "His guitar skills are legendary." },
+    { "id": 61, "word": "legislation", "tr": "legislativa / zákony", "ex": "The new legislation will come into force next year." },
+    { "id": 62, "word": "legislative", "tr": "legislativní / zákonodárný", "ex": "The legislative process can be very slow." },
+    { "id": 63, "word": "legislature", "tr": "zákonodárný sbor", "ex": "The proposal was rejected by the state legislature." },
+    { "id": 64, "word": "legitimate", "tr": "legitimní / oprávněný", "ex": "That is a legitimate question to ask." },
+    { "id": 65, "word": "leisure", "tr": "volno / volný čas", "ex": "What do you do in your leisure time?" },
+    { "id": 66, "word": "lemon", "tr": "citron", "ex": "Would you like a slice of lemon in your tea?" },
+    { "id": 67, "word": "lend", "tr": "půjčit (někomu něco)", "ex": "Can you lend me ten dollars?" },
+    { "id": 68, "word": "length", "tr": "délka", "ex": "What is the length of the pool?" },
+    { "id": 69, "word": "lengthen", "tr": "prodloužit", "ex": "The days begin to lengthen in the spring." },
+    { "id": 70, "word": "lens", "tr": "čočka / objektiv", "ex": "I need to clean the lens of my camera." },
+    { "id": 71, "word": "less", "tr": "méně", "ex": "I eat less meat than I used to." },
+    { "id": 72, "word": "lessen", "tr": "zmenšit / zmírnit", "ex": "The medicine will help to lessen the pain." },
+    { "id": 73, "word": "lesson", "tr": "lekce / hodina", "ex": "I'm taking piano lessons." },
+    { "id": 74, "word": "let", "tr": "nechat / dovolit / pronajmout", "ex": "Let me help you with those bags." },
+    { "id": 75, "word": "letter", "tr": "dopis / písmeno", "ex": "I received a letter from my pen pal." }
+  ]
+}
