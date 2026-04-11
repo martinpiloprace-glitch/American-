@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "O",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "open", "tr": "otevřený / otevřít", "ex": "Could you open the window, please?" },
+    { "id": 52, "word": "opening", "tr": "otevření / otvor / volné místo", "ex": "Are there any job openings at your company?" },
+    { "id": 53, "word": "openly", "tr": "otevřeně / upřímně", "ex": "They discussed the problem quite openly." },
+    { "id": 54, "word": "opera", "tr": "opera", "ex": "We are going to the opera tonight." },
+    { "id": 55, "word": "operate", "tr": "fungovat / provozovat / operovat", "ex": "Does this machine operate automatically?" },
+    { "id": 56, "word": "operation", "tr": "operace / provoz / činnost", "ex": "The computer is now back in operation." },
+    { "id": 57, "word": "operational", "tr": "provozní / funkční", "ex": "The new system will be fully operational by May." },
+    { "id": 58, "word": "operator", "tr": "operátor / obsluha stroje", "ex": "Please wait for a telephone operator to assist you." },
+    { "id": 59, "word": "opinion", "tr": "názor / mínění", "ex": "What's your opinion on this matter?" },
+    { "id": 60, "word": "opponent", "tr": "soupeř / protivník", "ex": "He beat his opponent in the final match." },
+    { "id": 61, "word": "opportunity", "tr": "příležitost", "ex": "Don't miss this opportunity to study abroad." },
+    { "id": 62, "word": "oppose", "tr": "postavit se proti / odporovat", "ex": "Many people oppose the new tax laws." },
+    { "id": 63, "word": "opposite", "tr": "naproti / opačný", "ex": "The bank is on the opposite side of the street." },
+    { "id": 64, "word": "opposition", "tr": "opozice / odpor", "ex": "The proposal met with fierce opposition." },
+    { "id": 65, "word": "oppress", "tr": "utlačovat / tísnit", "ex": "The people were oppressed by a cruel dictator." },
+    { "id": 66, "word": "oppression", "tr": "útlak", "ex": "The movement fought against racial oppression." },
+    { "id": 67, "word": "optimism", "tr": "optimismus", "ex": "There is a growing feeling of optimism about the economy." },
+    { "id": 68, "word": "optimistic", "tr": "optimistický", "ex": "I'm optimistic that we can reach an agreement." },
+    { "id": 69, "word": "option", "tr": "možnost / volba", "ex": "We have several options to choose from." },
+    { "id": 70, "word": "optional", "tr": "volitelný / nepovinný", "ex": "The extra features are completely optional." },
+    { "id": 71, "word": "or", "tr": "nebo", "ex": "Would you like tea or coffee?" },
+    { "id": 72, "word": "oral", "tr": "ústní / orální", "ex": "He passed the oral exam with honors." },
+    { "id": 73, "word": "orange", "tr": "oranžový / pomeranč", "ex": "I'd like a glass of orange juice." },
+    { "id": 74, "word": "orbit", "tr": "oběžná dráha / obíhat", "ex": "The Earth is in orbit around the Sun." },
+    { "id": 75, "word": "orchard", "tr": "ovocný sad", "ex": "We picked apples in the orchard." }
+  ]
+}
