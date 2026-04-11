@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 21,
+  "mode": "sentences",
+  "data": [
+    { "id": 501, "word": "sun", "tr": "slunce", "ex": "The sun is a star." },
+    { "id": 502, "word": "sunday", "tr": "neděle", "ex": "I usually visit my parents on Sunday." },
+    { "id": 503, "word": "sunlight", "tr": "sluneční světlo", "ex": "The room was filled with bright sunlight." },
+    { "id": 504, "word": "sunny", "tr": "slunečno / zalitý sluncem", "ex": "It's a beautiful sunny day." },
+    { "id": 505, "word": "sunrise", "tr": "východ slunce", "ex": "We got up early to watch the sunrise." },
+    { "id": 506, "word": "sunset", "tr": "západ slunce", "ex": "The sunset over the ocean was breathtaking." },
+    { "id": 507, "word": "super", "tr": "super / skvělý", "ex": "That's a super idea!" },
+    { "id": 508, "word": "superb", "tr": "nádherný / skvělý / excelentní", "ex": "The food at the restaurant was superb." },
+    { "id": 509, "word": "superficial", "tr": "povrchní / vnější", "ex": "He has only a superficial knowledge of the subject." },
+    { "id": 510, "word": "superior", "tr": "nadřízený / lepší / špičkový", "ex": "This model is superior to the previous one." },
+    { "id": 511, "word": "supermarket", "tr": "supermarket", "ex": "I need to go to the supermarket to buy some groceries." },
+    { "id": 512, "word": "superstition", "tr": "pověra", "ex": "According to ancient superstition, breaking a mirror brings bad luck." },
+    { "id": 513, "word": "superstitious", "tr": "pověrčivý", "ex": "I'm not superstitious, but I still avoid walking under ladders." },
+    { "id": 514, "word": "supervise", "tr": "dohlížet / kontrolovat", "ex": "The students must be supervised at all times." },
+    { "id": 515, "word": "supervision", "tr": "dohled / dozor", "ex": "Children should not be left without adult supervision." },
+    { "id": 516, "word": "supervisor", "tr": "vedoucí / dozor / školitel", "ex": "You should report any problems to your supervisor." },
+    { "id": 517, "word": "supper", "tr": "večeře (lehčí/pozdní)", "ex": "Would you like to stay for supper?" },
+    { "id": 518, "word": "supplement", "tr": "doplněk / dodatek / doplnit", "ex": "She takes a vitamin supplement every morning." },
+    { "id": 519, "word": "supplementary", "tr": "dodatečný / doplňkový", "ex": "The book includes supplementary exercises for students." },
+    { "id": 520, "word": "supply", "tr": "zásoba / dodávka / dodávat", "ex": "The company supplies office equipment to local businesses." },
+    { "id": 521, "word": "support", "tr": "podpora / podporovat", "ex": "Thank you for all your help and support." },
+    { "id": 522, "word": "supporter", "tr": "fanoušek / stoupenec", "ex": "He is a lifelong supporter of the local football team." },
+    { "id": 523, "word": "supportive", "tr": "podpůrný / solidární", "ex": "My family has been very supportive throughout my illness." },
+    { "id": 524, "word": "suppose", "tr": "předpokládat / domnívat se", "ex": "I suppose you're right." },
+    { "id": 525, "word": "supposedly", "tr": "údajně / podle všeho", "ex": "The novel is supposedly based on a true story." }
+  ]
+}
