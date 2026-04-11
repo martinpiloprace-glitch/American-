@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Daily Routine",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "wake up", "tr": "vzbudit se", "ex": "I wake up." },
+    { "id": 2, "word": "wash", "tr": "mýt se", "ex": "Wash your hands." },
+    { "id": 3, "word": "breakfast", "tr": "snídaně", "ex": "Eat breakfast." },
+    { "id": 4, "word": "lunch", "tr": "oběd", "ex": "Cook lunch." },
+    { "id": 5, "word": "dinner", "tr": "večeře", "ex": "Big dinner." },
+    { "id": 6, "word": "shower", "tr": "sprcha", "ex": "Take a shower." },
+    { "id": 7, "word": "study", "tr": "studovat", "ex": "Study now." },
+    { "id": 8, "word": "clean", "tr": "uklízet", "ex": "Clean the room." },
+    { "id": 9, "word": "rest", "tr": "odpočívat", "ex": "Time to rest." },
+    { "id": 10, "word": "sleep", "tr": "spát", "ex": "Go to sleep." }
+  ]
+}
