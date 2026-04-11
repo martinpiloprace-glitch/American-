@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "L",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "like", "tr": "mít rád / jako / podobný", "ex": "She looks just like her mother." },
+    { "id": 102, "word": "likelihood", "tr": "pravděpodobnost", "ex": "There is every likelihood that he will win." },
+    { "id": 103, "word": "likely", "tr": "pravděpodobný / pravděpodobně", "ex": "It's likely to rain this afternoon." },
+    { "id": 104, "word": "likewise", "tr": "podobně / nápodobně", "ex": "He voted for the change, and I did likewise." },
+    { "id": 105, "word": "limb", "tr": "končetina / větev", "ex": "He lost a limb in the accident." },
+    { "id": 106, "word": "limit", "tr": "limit / omezení / omezit", "ex": "We must limit our spending this month." },
+    { "id": 107, "word": "limitation", "tr": "omezení / limitace", "ex": "Everyone has their own limitations." },
+    { "id": 108, "word": "limited", "tr": "omezený", "ex": "We have only a limited amount of time." },
+    { "id": 109, "word": "line", "tr": "čára / linka / fronta / řada", "ex": "Sign your name on the dotted line." },
+    { "id": 110, "word": "linear", "tr": "lineární / přímočarý", "ex": "The story follows a linear narrative." },
+    { "id": 111, "word": "link", "tr": "odkaz / spojení / spojit", "ex": "There is a direct link between smoking and cancer." },
+    { "id": 112, "word": "lion", "tr": "lev", "ex": "The lion is known as the king of the jungle." },
+    { "id": 113, "word": "lip", "tr": "ret / okraj", "ex": "He bit his lip to stop himself from crying." },
+    { "id": 114, "word": "liquid", "tr": "tekutý / kapalina", "ex": "Mercury is a liquid metal." },
+    { "id": 115, "word": "list", "tr": "seznam / vypsat", "ex": "I've made a list of everything we need." },
+    { "id": 116, "word": "listen", "tr": "poslouchat", "ex": "Please listen carefully to what I say." },
+    { "id": 117, "word": "listener", "tr": "posluchač", "ex": "The radio show has millions of listeners." },
+    { "id": 118, "word": "liter", "tr": "litr", "ex": "I need two liters of milk." },
+    { "id": 119, "word": "literacy", "tr": "gramotnost", "ex": "The adult literacy rate has improved." },
+    { "id": 120, "word": "literally", "tr": "doslova", "ex": "There were literally hundreds of people there." },
+    { "id": 121, "word": "literary", "tr": "literární", "ex": "He was a famous literary critic." },
+    { "id": 122, "word": "literature", "tr": "literatura", "ex": "She is studying English literature at college." },
+    { "id": 123, "word": "little", "tr": "malý / trochu / málo", "ex": "I'd like a little sugar in my coffee." },
+    { "id": 124, "word": "live", "tr": "žít / bydlet / živý / živě", "ex": "They live in a small village." },
+    { "id": 125, "word": "lively", "tr": "živý / čilý / energický", "ex": "The city has a very lively nightlife." }
+  ]
+}
