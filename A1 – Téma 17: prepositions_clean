@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 17,
+  "topic": "prepositions_clean",
+  "data": [
+    { "id": 1, "word": "in", "tr": "v" },
+    { "id": 2, "word": "on", "tr": "na" },
+    { "id": 3, "word": "under", "tr": "pod" },
+    { "id": 4, "word": "next to", "tr": "vedle" },
+    { "id": 5, "word": "behind", "tr": "za" },
+
+    { "id": 6, "word": "in front of", "tr": "před" },
+    { "id": 7, "word": "between", "tr": "mezi" },
+    { "id": 8, "word": "above", "tr": "nad" },
+    { "id": 9, "word": "below", "tr": "pod" },
+    { "id": 10, "word": "over", "tr": "nad" },
+
+    { "id": 11, "word": "through", "tr": "skrz" },
+    { "id": 12, "word": "across", "tr": "přes" },
+    { "id": 13, "word": "into", "tr": "do" },
+    { "id": 14, "word": "out of", "tr": "z" },
+    { "id": 15, "word": "to", "tr": "k / do" },
+
+    { "id": 16, "word": "from", "tr": "z / od" },
+    { "id": 17, "word": "with", "tr": "s" },
+    { "id": 18, "word": "without", "tr": "bez" },
+    { "id": 19, "word": "for", "tr": "pro" },
+    { "id": 20, "word": "about", "tr": "o" },
+
+    { "id": 21, "word": "at", "tr": "u / v" },
+    { "id": 22, "word": "by", "tr": "u / vedle" },
+    { "id": 23, "word": "around", "tr": "kolem" },
+    { "id": 24, "word": "inside", "tr": "uvnitř" },
+    { "id": 25, "word": "outside", "tr": "venku" },
+
+    { "id": 26, "word": "near", "tr": "blízko" },
+    { "id": 27, "word": "far from", "tr": "daleko od" },
+    { "id": 28, "word": "up", "tr": "nahoru" },
+    { "id": 29, "word": "down", "tr": "dolů" },
+    { "id": 30, "word": "along", "tr": "podél" },
+
+    { "id": 31, "word": "past", "tr": "kolem" },
+    { "id": 32, "word": "toward", "tr": "směrem k" },
+    { "id": 33, "word": "away from", "tr": "pryč od" },
+    { "id": 34, "word": "during", "tr": "během" },
+    { "id": 35, "word": "after", "tr": "po" },
+
+    { "id": 36, "word": "before", "tr": "před" },
+    { "id": 37, "word": "since", "tr": "od" },
+    { "id": 38, "word": "until", "tr": "do" },
+    { "id": 39, "word": "inside of", "tr": "uvnitř" },
+    { "id": 40, "word": "outside of", "tr": "mimo" },
+
+    { "id": 41, "word": "throughout", "tr": "napříč" },
+    { "id": 42, "word": "via", "tr": "přes" },
+    { "id": 43, "word": "per", "tr": "na" },
+    { "id": 44, "word": "like", "tr": "jako" },
+    { "id": 45, "word": "unlike", "tr": "na rozdíl od" },
+
+    { "id": 46, "word": "except", "tr": "kromě" },
+    { "id": 47, "word": "according to", "tr": "podle" },
+    { "id": 48, "word": "because of", "tr": "kvůli" },
+    { "id": 49, "word": "thanks to", "tr": "díky" },
+    { "id": 50, "word": "as", "tr": "jako" }
+  ]
+}
