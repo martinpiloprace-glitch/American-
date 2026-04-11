@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "rebel", "tr": "rebel / buřič / bouřit se", "ex": "The young man was known as a rebel in his village." },
+    { "id": 52, "word": "rebellion", "tr": "povstání / vzpoura", "ex": "The army quickly crushed the rebellion." },
+    { "id": 53, "word": "recall", "tr": "vzpomenout si / vybavit si / odvolat", "ex": "I can't recall exactly what he said." },
+    { "id": 54, "word": "receipt", "tr": "účtenka / stvrzenka", "ex": "Can I have a receipt, please?" },
+    { "id": 55, "word": "receive", "tr": "obdržet / dostat", "ex": "Did you receive my email?" },
+    { "id": 56, "word": "receiver", "tr": "přijímač / sluchátko / příjemce", "ex": "He picked up the receiver and dialed the number." },
+    { "id": 57, "word": "recent", "tr": "nedávný", "ex": "The company has faced many problems in recent years." },
+    { "id": 58, "word": "recently", "tr": "nedávno / v poslední době", "ex": "I haven't seen him recently." },
+    { "id": 59, "word": "reception", "tr": "recepce / recepce (oslava) / příjem", "ex": "The wedding reception was held in a large hotel." },
+    { "id": 60, "word": "receptionist", "tr": "recepční", "ex": "The receptionist asked me to wait for a moment." },
+    { "id": 61, "word": "recession", "tr": "recese / hospodářský pokles", "ex": "The country is currently in a deep recession." },
+    { "id": 62, "word": "recipe", "tr": "recept (kuchařský)", "ex": "I'd like the recipe for this cake." },
+    { "id": 63, "word": "recipient", "tr": "příjemce", "ex": "Who was the recipient of the letter?" },
+    { "id": 64, "word": "reckon", "tr": "počítat s / myslet si / odhadovat", "ex": "I reckon it will take about two hours." },
+    { "id": 65, "word": "recognition", "tr": "uznání / rozpoznání", "ex": "He received an award in recognition of his service." },
+    { "id": 66, "word": "recognize", "tr": "poznat / uznat / uvědomit si", "ex": "I didn't recognize her at first." },
+    { "id": 67, "word": "recommend", "tr": "doporučit", "ex": "Can you recommend a good restaurant?" },
+    { "id": 68, "word": "recommendation", "tr": "doporučení", "ex": "I followed your recommendation and bought the book." },
+    { "id": 69, "word": "reconstruction", "tr": "rekonstrukce", "ex": "The city underwent a major reconstruction after the war." },
+    { "id": 70, "word": "record", "tr": "záznam / rekord / nahrát", "ex": "He holds the world record for the high jump." },
+    { "id": 71, "word": "recording", "tr": "nahrávka / záznam", "ex": "I listened to a recording of the speech." },
+    { "id": 72, "word": "recover", "tr": "zotavit se / získat zpět", "ex": "It took her a long time to recover from the surgery." },
+    { "id": 73, "word": "recovery", "tr": "zotavení / obnova", "ex": "Doctors are optimistic about his recovery." },
+    { "id": 74, "word": "recruit", "tr": "rekrutovat / nabrat / nováček", "ex": "The company is looking to recruit new staff." },
+    { "id": 75, "word": "recruitment", "tr": "nábor", "ex": "The recruitment process can be quite long." }
+  ]
+}
