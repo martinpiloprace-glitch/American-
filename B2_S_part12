@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 12,
+  "mode": "sentences",
+  "data": [
+    { "id": 276, "word": "solely", "tr": "výhradně / pouze", "ex": "The decision was based solely on economic factors." },
+    { "id": 277, "word": "solicit", "tr": "žádat / ucházet se / lákat", "ex": "The organization is soliciting donations for the earthquake victims." },
+    { "id": 278, "word": "solid", "tr": "pevný / tuhý / solidní", "ex": "The bridge is built on solid rock." },
+    { "id": 279, "word": "solitary", "tr": "samotářský / osamělý", "ex": "He leads a very solitary life." },
+    { "id": 280, "word": "solitude", "tr": "samota / osamění", "ex": "She enjoys the solitude of the mountains." },
+    { "id": 281, "word": "solo", "tr": "sólo / samostatně", "ex": "She made her first solo flight at the age of 21." },
+    { "id": 282, "word": "solution", "tr": "řešení / roztok", "ex": "We need to find a solution to this problem." },
+    { "id": 283, "word": "solve", "tr": "vyřešit / rozluštit", "ex": "The police are working hard to solve the crime." },
+    { "id": 284, "word": "some", "tr": "nějaký / někteří / trochu", "ex": "Would you like some more tea?" },
+    { "id": 285, "word": "somebody", "tr": "někdo", "ex": "Somebody left their umbrella in the hallway." },
+    { "id": 286, "word": "someday", "tr": "někdy (v budoucnu)", "ex": "I hope to visit Japan someday." },
+    { "id": 287, "word": "somehow", "tr": "nějak / jaksi", "ex": "We will find the money somehow." },
+    { "id": 288, "word": "someone", "tr": "někdo", "ex": "Someone is knocking at the door." },
+    { "id": 289, "word": "something", "tr": "něco", "ex": "I have something important to tell you." },
+    { "id": 290, "word": "sometime", "tr": "někdy / kdysi", "ex": "Let's get together for a coffee sometime." },
+    { "id": 291, "word": "sometimes", "tr": "někdy / občas", "ex": "Sometimes I just want to be alone." },
+    { "id": 292, "word": "somewhat", "tr": "poněkud / poněkud", "ex": "The situation has changed somewhat since yesterday." },
+    { "id": 293, "word": "somewhere", "tr": "někde / někam", "ex": "I've seen him somewhere before." },
+    { "id": 294, "word": "son", "tr": "syn", "ex": "They have two sons and a daughter." },
+    { "id": 295, "word": "song", "tr": "píseň / písnička", "ex": "What's your favorite song?" },
+    { "id": 296, "word": "soon", "tr": "brzy / brzy", "ex": "I hope you get better soon." },
+    { "id": 297, "word": "sophisticated", "tr": "sofistikovaný / kultivovaný", "ex": "The system uses highly sophisticated technology." },
+    { "id": 298, "word": "sore", "tr": "bolavý / bolák", "ex": "My muscles are sore after the workout." },
+    { "id": 299, "word": "sorrow", "tr": "smutek / žal", "ex": "She expressed her deep sorrow at the news." },
+    { "id": 300, "word": "sorry", "tr": "líto / omluvit se", "ex": "I'm sorry I'm late." }
+  ]
+}
