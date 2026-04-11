@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "W",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "weight", "tr": "váha / hmotnost", "ex": "He's trying to lose weight." },
+    { "id": 52, "word": "weird", "tr": "divný / zvláštní", "ex": "That's a really weird coincidence." },
+    { "id": 53, "word": "welcome", "tr": "vítat / vítaný / vítejte", "ex": "You are always welcome in our home." },
+    { "id": 54, "word": "welfare", "tr": "blaho / sociální zabezpečení", "ex": "The government is concerned about the welfare of the children." },
+    { "id": 55, "word": "well", "tr": "dobře / zdravý / studna", "ex": "I hope you are feeling well." },
+    { "id": 56, "word": "well-being", "tr": "pohoda / blahobyt / zdraví", "ex": "The project aims to improve the well-being of the local community." },
+    { "id": 57, "word": "west", "tr": "západ / západní", "ex": "The sun sets in the west." },
+    { "id": 58, "word": "western", "tr": "západní", "ex": "He is a student of Western philosophy." },
+    { "id": 59, "word": "wet", "tr": "mokrý / vlhký / namočit", "ex": "Be careful, the floor is still wet." },
+    { "id": 60, "word": "whale", "tr": "velryba", "ex": "We went on a boat trip to see the whales." },
+    { "id": 61, "word": "what", "tr": "co / jaký", "ex": "What are you doing?" },
+    { "id": 62, "word": "whatever", "tr": "cokoliv / jakýkoliv", "ex": "You can do whatever you want." },
+    { "id": 63, "word": "wheat", "tr": "pšenice", "ex": "The fields are golden with wheat." },
+    { "id": 64, "word": "wheel", "tr": "kolo / volant / kormidlo", "ex": "He sat behind the wheel of his new car." },
+    { "id": 65, "word": "wheelchair", "tr": "invalidní vozík", "ex": "He has been in a wheelchair since the accident." },
+    { "id": 66, "word": "when", "tr": "když / kdy", "ex": "When are you coming back?" },
+    { "id": 67, "word": "whenever", "tr": "kdykoliv", "ex": "Whenever I hear that song, it reminds me of you." },
+    { "id": 68, "word": "where", "tr": "kde / kam", "ex": "Where do you live?" },
+    { "id": 69, "word": "whereas", "tr": "zatímco / kdežto", "ex": "She likes tea, whereas I prefer coffee." },
+    { "id": 70, "word": "whereby", "tr": "jímž / čímž / pomocí čeho", "ex": "They have created a system whereby customers can order online." },
+    { "id": 71, "word": "wherever", "tr": "kdekoliv / kamkoliv", "ex": "I'll follow you wherever you go." },
+    { "id": 72, "word": "whether", "tr": "zda / jestli", "ex": "I don't know whether he will come or not." },
+    { "id": 73, "word": "which", "tr": "který", "ex": "Which book do you want?" },
+    { "id": 74, "word": "while", "tr": "zatímco / chvíle", "ex": "I'll wait here for a while." },
+    { "id": 75, "word": "whip", "tr": "bič / šlehat / šlehačka", "ex": "She whipped the cream until it was stiff." }
+  ]
+}
