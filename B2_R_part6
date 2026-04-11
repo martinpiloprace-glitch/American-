@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "relevant", "tr": "relevantní / k věci / podstatný", "ex": "Please provide all the relevant information." },
+    { "id": 127, "word": "reliability", "tr": "spolehlivost", "ex": "We chose this car for its reputation for reliability." },
+    { "id": 128, "word": "reliable", "tr": "spolehlivý", "ex": "He is a very reliable employee." },
+    { "id": 129, "word": "relief", "tr": "úleva / pomoc (humanitární)", "ex": "It was a great relief to hear that everyone was safe." },
+    { "id": 130, "word": "relieve", "tr": "ulevit / zmírnit", "ex": "This medicine will help to relieve the pain." },
+    { "id": 131, "word": "religion", "tr": "náboženství", "ex": "Is religion an important part of your life?" },
+    { "id": 132, "word": "religious", "tr": "náboženský / věřící", "ex": "The building is used for religious services." },
+    { "id": 133, "word": "reluctant", "tr": "zdráhavý / neochotný", "ex": "He was reluctant to talk about his experiences." },
+    { "id": 134, "word": "rely", "tr": "spoléhat se", "ex": "You can always rely on him to do a good job." },
+    { "id": 135, "word": "remain", "tr": "zůstat / setrvat", "ex": "The symptoms may remain for several days." },
+    { "id": 136, "word": "remainder", "tr": "zbytek", "ex": "He spent the remainder of his life in Italy." },
+    { "id": 137, "word": "remains", "tr": "ostatky / zbytky / památky", "ex": "The remains of the ancient temple are still visible." },
+    { "id": 138, "word": "remark", "tr": "poznámka / podotknout", "ex": "She made a rude remark about his appearance." },
+    { "id": 139, "word": "remarkable", "tr": "pozoruhodný / nevšední", "ex": "He has a remarkable talent for music." },
+    { "id": 140, "word": "remedy", "tr": "náprava / lék", "ex": "The government is seeking a remedy for the situation." },
+    { "id": 141, "word": "remember", "tr": "pamatovat si / vzpomenout si", "ex": "I can't remember where I put my keys." },
+    { "id": 142, "word": "remind", "tr": "připomenout", "ex": "Please remind me to call my mother." },
+    { "id": 143, "word": "reminder", "tr": "připomínka / upomínka", "ex": "I sent him a reminder about the meeting." },
+    { "id": 144, "word": "remote", "tr": "vzdálený / odlehlý / dálkový", "ex": "They live in a remote village in the mountains." },
+    { "id": 145, "word": "removal", "tr": "odstranění / stěhování", "ex": "The removal of the old bridge took several weeks." },
+    { "id": 146, "word": "remove", "tr": "odstranit / vyjmout", "ex": "You should remove the skin before eating the fruit." },
+    { "id": 147, "word": "render", "tr": "učinit / poskytnout / interpretovat", "ex": "The accident rendered him unable to walk." },
+    { "id": 148, "word": "renew", "tr": "obnovit / prodloužit", "ex": "I need to renew my passport." },
+    { "id": 149, "word": "renewable", "tr": "obnovitelný", "ex": "We need to invest more in renewable energy." },
+    { "id": 150, "word": "renowned", "tr": "proslulý / proslavený", "ex": "He is a renowned expert in his field." }
+  ]
+}
