@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "penetrate", "tr": "proniknout / vniknout", "ex": "The sunlight could not penetrate the thick curtains." },
+    { "id": 77, "word": "penny", "tr": "penny / grešle", "ex": "It won't cost you a single penny." },
+    { "id": 78, "word": "pension", "tr": "důchod / penze", "ex": "He is now living on a state pension." },
+    { "id": 79, "word": "people", "tr": "lidé / národ", "ex": "How many people were at the meeting?" },
+    { "id": 80, "word": "pepper", "tr": "pepř / paprika", "ex": "Would you like some salt and pepper?" },
+    { "id": 81, "word": "per", "tr": "za / podle", "ex": "The speed limit is 50 miles per hour." },
+    { "id": 82, "word": "perceive", "tr": "vnímat / uvědomovat si", "ex": "How do you perceive your role in this company?" },
+    { "id": 83, "word": "percentage", "tr": "procento / podíl", "ex": "What percentage of the population is unemployed?" },
+    { "id": 84, "word": "perception", "tr": "vnímání / vjem", "ex": "The public perception of the government is changing." },
+    { "id": 85, "word": "perfect", "tr": "perfektní / dokonalý / zdokonalit", "ex": "The weather was perfect for a picnic." },
+    { "id": 86, "word": "perfectly", "tr": "dokonale / naprosto", "ex": "I understand you perfectly well." },
+    { "id": 87, "word": "perform", "tr": "provést / vykonat / vystupovat", "ex": "The surgeons will perform the operation tomorrow." },
+    { "id": 88, "word": "performance", "tr": "výkon / představení", "ex": "The actor gave a brilliant performance." },
+    { "id": 89, "word": "perhaps", "tr": "možná / snad", "ex": "Perhaps it would be better to wait until tomorrow." },
+    { "id": 90, "word": "period", "tr": "období / tečka", "ex": "The house was built during the Victorian period." },
+    { "id": 91, "word": "permanent", "tr": "trvalý / stálý", "ex": "She is looking for a permanent job." },
+    { "id": 92, "word": "permanently", "tr": "trvale / natrvalo", "ex": "The library is now permanently closed." },
+    { "id": 93, "word": "permission", "tr": "povolení", "ex": "You need permission to park here." },
+    { "id": 94, "word": "permit", "tr": "povolit / povolení", "ex": "The security guard refused to permit them to enter." },
+    { "id": 95, "word": "persist", "tr": "vytrvat / přetrvávat", "ex": "If the symptoms persist, you should see a doctor." },
+    { "id": 96, "word": "persistent", "tr": "vytrvalý / neodbytný", "ex": "She is very persistent and never gives up." },
+    { "id": 97, "word": "person", "tr": "osoba / člověk", "ex": "She is a very kind and caring person." },
+    { "id": 98, "word": "personal", "tr": "osobní / soukromý", "ex": "I cannot answer questions about my personal life." },
+    { "id": 99, "word": "personality", "tr": "osobnost / povaha", "ex": "She has a very outgoing personality." },
+    { "id": 100, "word": "personally", "tr": "osobně", "ex": "Personally, I think it's a great idea." }
+  ]
+}
