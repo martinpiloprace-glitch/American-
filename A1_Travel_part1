@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Travel",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "visit", "tr": "navštívit", "ex": "Visit London." },
+    { "id": 2, "word": "passport", "tr": "pas", "ex": "Show your passport." },
+    { "id": 3, "word": "hotel", "tr": "hotel", "ex": "The hotel is big." },
+    { "id": 4, "word": "airport", "tr": "letiště", "ex": "Go to the airport." },
+    { "id": 5, "word": "baggage", "tr": "zavazadla", "ex": "Where is my baggage?" },
+    { "id": 6, "word": "holiday", "tr": "dovolená", "ex": "Have a nice holiday." },
+    { "id": 7, "word": "ticket", "tr": "jízdenka / letenka", "ex": "Buy a ticket." },
+    { "id": 8, "word": "beach", "tr": "pláž", "ex": "Go to the beach." },
+    { "id": 9, "word": "country", "tr": "země / stát", "ex": "A beautiful country." },
+    { "id": 10, "word": "world", "tr": "svět", "ex": "Travel the world." }
+  ]
+}
