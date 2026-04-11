@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 13,
+  "mode": "sentences",
+  "data": [
+    { "id": 301, "word": "sort", "tr": "druh / vytřídit", "ex": "What sort of music do you like?" },
+    { "id": 302, "word": "soul", "tr": "duše", "ex": "He believed that the soul is immortal." },
+    { "id": 303, "word": "sound", "tr": "zvuk / znít / solidní", "ex": "I heard a strange sound coming from the kitchen." },
+    { "id": 304, "word": "soup", "tr": "polévka", "ex": "The tomato soup was delicious." },
+    { "id": 305, "word": "sour", "tr": "kyselý / zatrpklý", "ex": "The milk has gone sour." },
+    { "id": 306, "word": "source", "tr": "zdroj / pramen", "ex": "The sun is our main source of energy." },
+    { "id": 307, "word": "south", "tr": "jih / jižní", "ex": "The birds fly south for the winter." },
+    { "id": 308, "word": "southern", "tr": "jižní", "ex": "They live in the southern part of the country." },
+    { "id": 309, "word": "souvenir", "tr": "suvenýr / upomínka", "ex": "I bought a small souvenir to remember the trip." },
+    { "id": 310, "word": "sovereign", "tr": "suverénní / panovník", "ex": "The country is a sovereign state." },
+    { "id": 311, "word": "sovereignty", "tr": "suverenita / svrchovanost", "ex": "The people are fighting for their national sovereignty." },
+    { "id": 312, "word": "space", "tr": "vesmír / prostor", "ex": "There is plenty of space in the garden." },
+    { "id": 313, "word": "spacious", "tr": "prostorný", "ex": "The apartment is very spacious and bright." },
+    { "id": 314, "word": "spare", "tr": "náhradní / volný / ušetřit", "ex": "Do you have a spare pen?" },
+    { "id": 315, "word": "spark", "tr": "jiskra / jiskřit", "ex": "A spark from the fire lit the dry grass." },
+    { "id": 316, "word": "speak", "tr": "mluvit / hovořit", "ex": "How many languages can you speak?" },
+    { "id": 317, "word": "speaker", "tr": "mluvčí / reproduktor", "ex": "He is a very good public speaker." },
+    { "id": 318, "word": "special", "tr": "speciální / zvláštní", "ex": "Today is a very special day for us." },
+    { "id": 319, "word": "specialist", "tr": "specialista / odborník", "ex": "You should see a skin specialist." },
+    { "id": 320, "word": "specialized", "tr": "specializovaný", "ex": "The company produces specialized equipment." },
+    { "id": 321, "word": "species", "tr": "druh (biol.) / živočišný druh", "ex": "There are many different species of birds in the park." },
+    { "id": 322, "word": "specific", "tr": "specifický / konkrétní", "ex": "Can you be more specific about your plans?" },
+    { "id": 323, "word": "specifically", "tr": "specificky / konkrétně", "ex": "The program is designed specifically for children." },
+    { "id": 324, "word": "specification", "tr": "specifikace / technické parametry", "ex": "What are the technical specifications of the new model?" },
+    { "id": 325, "word": "specify", "tr": "upřesnit / specifikovat", "ex": "Please specify the color you want." }
+  ]
+}
