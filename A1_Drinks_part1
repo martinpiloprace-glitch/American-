@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Drinks",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "water", "tr": "voda", "ex": "Drink some water." },
+    { "id": 2, "word": "tea", "tr": "čaj", "ex": "Green tea, please." },
+    { "id": 3, "word": "coffee", "tr": "káva", "ex": "I like coffee." },
+    { "id": 4, "word": "juice", "tr": "džus", "ex": "Apple juice." },
+    { "id": 5, "word": "milk", "tr": "mléko", "ex": "Cold milk." },
+    { "id": 6, "word": "beer", "tr": "pivo", "ex": "One beer, please." },
+    { "id": 7, "word": "wine", "tr": "víno", "ex": "Red wine." },
+    { "id": 8, "word": "hot", "tr": "horký", "ex": "The tea is hot." },
+    { "id": 9, "word": "cold", "tr": "studený", "ex": "Water is cold." },
+    { "id": 10, "word": "cup", "tr": "šálek", "ex": "A cup of tea." }
+  ]
+}
