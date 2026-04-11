@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 226, "word": "transparent", "tr": "průhledný / transparentní", "ex": "The glass is completely transparent." },
+    { "id": 227, "word": "transplant", "tr": "transplantace / přesadit", "ex": "He is waiting for a kidney transplant." },
+    { "id": 228, "word": "transport", "tr": "doprava / přepravit", "ex": "Public transport is very efficient in this city." },
+    { "id": 229, "word": "transportation", "tr": "přeprava / doprava (systém)", "ex": "The city needs a better transportation system." },
+    { "id": 230, "word": "trap", "tr": "past / polapit", "ex": "The fox was caught in a trap." },
+    { "id": 231, "word": "trash", "tr": "odpadky / harampádí", "ex": "Please put your trash in the bin." },
+    { "id": 232, "word": "trauma", "tr": "trauma / úraz", "ex": "She is still recovering from the trauma of the accident." },
+    { "id": 233, "word": "travel", "tr": "cestovat / cestování", "ex": "I love to travel to new places." },
+    { "id": 234, "word": "traveler", "tr": "cestovatel / cestující", "ex": "The hotel is popular with business travelers." },
+    { "id": 235, "word": "treasure", "tr": "poklad / cenit si", "ex": "The pirates buried their treasure on the island." },
+    { "id": 236, "word": "treat", "tr": "léčit / jednat (s někým) / pohoštění", "ex": "They treat their employees very well." },
+    { "id": 237, "word": "treatment", "tr": "léčba / zacházení", "ex": "The new treatment for cancer is very promising." },
+    { "id": 238, "word": "treaty", "tr": "smlouva / pakt", "ex": "The two countries signed a peace treaty." },
+    { "id": 239, "word": "tree", "tr": "strom", "ex": "The birds are singing in the trees." },
+    { "id": 240, "word": "tremendous", "tr": "ohromný / děsivý", "ex": "The project was a tremendous success." },
+    { "id": 241, "word": "trench", "tr": "příkop / zákop", "ex": "The soldiers spent months in the trenches." },
+    { "id": 242, "word": "trend", "tr": "trend / tendence", "ex": "There is a trend towards healthier eating." },
+    { "id": 243, "word": "trial", "tr": "soudní proces / zkouška", "ex": "The trial is expected to last for several weeks." },
+    { "id": 244, "word": "triangle", "tr": "trojúhelník", "ex": "A triangle has three sides." },
+    { "id": 245, "word": "tribal", "tr": "kmenový", "ex": "The area is home to several tribal groups." },
+    { "id": 246, "word": "tribe", "tr": "kmen", "ex": "He belongs to a nomadic tribe in the desert." },
+    { "id": 247, "word": "tribute", "tr": "pocta / hold", "ex": "The statue was erected as a tribute to the fallen soldiers." },
+    { "id": 248, "word": "trick", "tr": "trik / klam / oklamat", "ex": "He played a clever trick on his friends." },
+    { "id": 249, "word": "trigger", "tr": "spoušť / spustit / vyvolat", "ex": "The smoke triggered the fire alarm." },
+    { "id": 250, "word": "trim", "tr": "zastřihnout / upravit / štíhlý", "ex": "I need to trim the hedge." }
+  ]
+}
