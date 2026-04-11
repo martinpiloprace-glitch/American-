@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 14,
+  "mode": "sentences",
+  "data": [
+    { "id": 326, "word": "specimen", "tr": "vzorek / exemplář", "ex": "The museum has a fine specimen of a dinosaur skeleton." },
+    { "id": 327, "word": "spectacle", "tr": "podívaná / podívaná / brýle (zast.)", "ex": "The opening ceremony was a magnificent spectacle." },
+    { "id": 328, "word": "spectacular", "tr": "velkolepý / úžasný", "ex": "The view from the top of the mountain is spectacular." },
+    { "id": 329, "word": "spectator", "tr": "divák (sportovní)", "ex": "The match attracted thousands of spectators." },
+    { "id": 330, "word": "spectrum", "tr": "spektrum / škála", "ex": "The group covers a wide spectrum of political opinions." },
+    { "id": 331, "word": "speculate", "tr": "spekulovat / uvažovat", "ex": "Experts speculate that the economy will grow next year." },
+    { "id": 332, "word": "speculation", "tr": "spekulace / domněnka", "ex": "There has been much speculation about the cause of the fire." },
+    { "id": 333, "word": "speech", "tr": "řeč / projev", "ex": "He gave a long speech at the wedding." },
+    { "id": 334, "word": "speed", "tr": "rychlost / upalovat", "ex": "The car was traveling at a very high speed." },
+    { "id": 335, "word": "spell", "tr": "hláskovat / kouzlo / období", "ex": "How do you spell your last name?" },
+    { "id": 336, "word": "spelling", "tr": "pravopis / hláskování", "ex": "His spelling is quite poor." },
+    { "id": 337, "word": "spend", "tr": "utratit / strávit (čas)", "ex": "I spent a lot of money on my new computer." },
+    { "id": 338, "word": "sphere", "tr": "koule / sféra / obor", "ex": "The Earth is not a perfect sphere." },
+    { "id": 339, "word": "spice", "tr": "koření / okořenit", "ex": "Add some spice to the soup to give it more flavor." },
+    { "id": 340, "word": "spicy", "tr": "kořeněný / pálivý", "ex": "I don't like very spicy food." },
+    { "id": 341, "word": "spider", "tr": "pavouk", "ex": "There is a large spider in the bathroom." },
+    { "id": 342, "word": "spill", "tr": "rozlít / vysypat", "ex": "I accidentally spilled some coffee on the carpet." },
+    { "id": 343, "word": "spin", "tr": "točit (se) / příst / rotace", "ex": "The Earth spins on its axis." },
+    { "id": 344, "word": "spine", "tr": "páteř / hřbet (knihy)", "ex": "He injured his spine in a fall." },
+    { "id": 345, "word": "spirit", "tr": "duch / nálada / lihovina", "ex": "The team showed a great fighting spirit." },
+    { "id": 346, "word": "spiritual", "tr": "duchovní / spirituální", "ex": "The mountain is a place of great spiritual importance." },
+    { "id": 347, "word": "spit", "tr": "plivat / plivanec", "ex": "It's rude to spit on the ground." },
+    { "id": 348, "word": "spite", "tr": "vzdor / zášť / navzdory", "ex": "They went for a walk in spite of the rain." },
+    { "id": 349, "word": "splendid", "tr": "nádherný / skvělý", "ex": "We had a splendid time at the party." },
+    { "id": 350, "word": "split", "tr": "rozdělit / rozštípnout / rozchod", "ex": "The committee is split on the issue." }
+  ]
+}
