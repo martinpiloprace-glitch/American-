@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "parent", "tr": "rodič", "ex": "Being a parent is a big responsibility." },
+    { "id": 27, "word": "parish", "tr": "farnost / obec", "ex": "He is a well-known figure in the local parish." },
+    { "id": 28, "word": "park", "tr": "park / parkovat", "ex": "It’s hard to find a place to park in the city center." },
+    { "id": 29, "word": "parking", "tr": "parkování", "ex": "There is no parking allowed on this street." },
+    { "id": 30, "word": "parliament", "tr": "parlament", "ex": "The new law was passed by parliament yesterday." },
+    { "id": 31, "word": "parliamentary", "tr": "parlamentní", "ex": "The country is preparing for parliamentary elections." },
+    { "id": 32, "word": "part", "tr": "část / role / díl", "ex": "Exercise is an essential part of a healthy life." },
+    { "id": 33, "word": "partial", "tr": "částečný / podjatý", "ex": "The project was only a partial success." },
+    { "id": 34, "word": "partially", "tr": "částečně", "ex": "The road is partially blocked due to an accident." },
+    { "id": 35, "word": "participant", "tr": "účastník", "ex": "Each participant will receive a certificate." },
+    { "id": 36, "word": "participate", "tr": "účastnit se / podílet se", "ex": "She was encouraged to participate in the discussion." },
+    { "id": 37, "word": "participation", "tr": "účast / zapojení", "ex": "Student participation in the project was very high." },
+    { "id": 38, "word": "particle", "tr": "částice", "ex": "Dust particles were visible in the sunlight." },
+    { "id": 39, "word": "particular", "tr": "konkrétní / specifický", "ex": "Is there any particular reason why you are late?" },
+    { "id": 40, "word": "particularly", "tr": "obzvláště / zejména", "ex": "The weather has been particularly hot this week." },
+    { "id": 41, "word": "partly", "tr": "částečně / zčásti", "ex": "The accident was partly his fault." },
+    { "id": 42, "word": "partner", "tr": "partner / společník", "ex": "She is a junior partner in a law firm." },
+    { "id": 43, "word": "partnership", "tr": "partnerství / spolupráce", "ex": "The two companies have formed a strategic partnership." },
+    { "id": 44, "word": "party", "tr": "strana (politická) / večírek / skupina", "ex": "Which political party do you support?" },
+    { "id": 45, "word": "pass", "tr": "projít / podat / průsmyk", "ex": "Did you pass your driving test?" },
+    { "id": 46, "word": "passage", "tr": "průchod / úryvek / chodba", "ex": "He read a short passage from the book." },
+    { "id": 47, "word": "passenger", "tr": "cestující / pasažér", "ex": "The plane was carrying 200 passengers." },
+    { "id": 48, "word": "passing", "tr": "plynutí / kolemjdoucí / letmý", "ex": "He made a passing remark about the weather." },
+    { "id": 49, "word": "passion", "tr": "vášeň", "ex": "Music is his greatest passion in life." },
+    { "id": 50, "word": "passionate", "tr": "vášnivý / nadšený", "ex": "He is very passionate about environmental issues." }
+  ]
+}
