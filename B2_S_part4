@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "select", "tr": "vybrat / navolit", "ex": "You can select the files you want to delete." },
+    { "id": 77, "word": "selection", "tr": "výběr / selekce", "ex": "The shop has a wide selection of shoes." },
+    { "id": 78, "word": "selective", "tr": "výběrový / selektivní", "ex": "The university is very selective about who it admits." },
+    { "id": 79, "word": "self", "tr": "já / sebe / vlastní", "ex": "She has a very strong sense of self." },
+    { "id": 80, "word": "self-conscious", "tr": "nesvůj / rozpačitý", "ex": "He felt self-conscious in his new suit." },
+    { "id": 81, "word": "self-esteem", "tr": "sebeúcta / sebevědomí", "ex": "Doing sports can help to build your self-esteem." },
+    { "id": 82, "word": "sell", "tr": "prodat", "ex": "We decided to sell our car." },
+    { "id": 83, "word": "seller", "tr": "prodejce / prodejný artikl", "ex": "The book has become a best-seller." },
+    { "id": 84, "word": "semester", "tr": "semestr", "ex": "The new semester begins in February." },
+    { "id": 85, "word": "semi-final", "tr": "semifinále", "ex": "The team reached the semi-finals for the first time." },
+    { "id": 86, "word": "senate", "tr": "senát", "ex": "The bill was passed by the Senate yesterday." },
+    { "id": 87, "word": "senator", "tr": "senátor", "ex": "She is the first female senator from this state." },
+    { "id": 88, "word": "send", "tr": "poslat / odeslat", "ex": "I'll send you an email with the details." },
+    { "id": 89, "word": "senior", "tr": "služebně starší / nadřízený / senior", "ex": "He is a senior partner in the law firm." },
+    { "id": 90, "word": "sensation", "tr": "pocit / vjem / senzace", "ex": "I had a strange sensation that someone was watching me." },
+    { "id": 91, "word": "sensational", "tr": "senzační / úžasný", "ex": "The team gave a sensational performance." },
+    { "id": 92, "word": "sense", "tr": "smysl / vnímat", "ex": "Dogs have a very keen sense of smell." },
+    { "id": 93, "word": "sensible", "tr": "rozumný / praktický", "ex": "It's sensible to wear a seatbelt." },
+    { "id": 94, "word": "sensitive", "tr": "citlivý", "ex": "He is very sensitive to criticism." },
+    { "id": 95, "word": "sensitivity", "tr": "citlivost", "ex": "The project requires a lot of political sensitivity." },
+    { "id": 96, "word": "sentence", "tr": "věta / rozsudek / odsoudit", "ex": "The judge gave him a three-year sentence." },
+    { "id": 97, "word": "sentiment", "tr": "cit / cítění / sentiment", "ex": "Public sentiment is strongly against the war." },
+    { "id": 98, "word": "separate", "tr": "oddělený / rozdělit", "ex": "The children have separate rooms." },
+    { "id": 99, "word": "separately", "tr": "odděleně / zvlášť", "ex": "The two issues will be discussed separately." },
+    { "id": 100, "word": "separation", "tr": "oddělení / odloučení", "ex": "The separation of church and state is important." }
+  ]
+}
