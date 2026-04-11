@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "W",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "washing", "tr": "praní / prádlo (vyprané)", "ex": "I need to hang the washing out." },
+    { "id": 27, "word": "waste", "tr": "plýtvat / odpad / zbytečný", "ex": "Don't waste your time on things that don't matter." },
+    { "id": 28, "word": "watch", "tr": "sledovat / hodinky / hlídat", "ex": "I like to watch documentaries on TV." },
+    { "id": 29, "word": "water", "tr": "voda / zalévat", "ex": "Don't forget to water the plants." },
+    { "id": 30, "word": "wave", "tr": "vlna / mávat", "ex": "She waved goodbye as the train pulled away." },
+    { "id": 31, "word": "way", "tr": "cesta / způsob / směr", "ex": "Is this the right way to the station?" },
+    { "id": 32, "word": "weak", "tr": "slabý / nevýrazný", "ex": "He felt weak after the long illness." },
+    { "id": 33, "word": "weaken", "tr": "oslabit / zeslábnout", "ex": "The constant rain had weakened the bridge." },
+    { "id": 34, "word": "weakness", "tr": "slabost / slabina", "ex": "Chocolate is my greatest weakness." },
+    { "id": 35, "word": "wealth", "tr": "bohatství / majetek", "ex": "He used his wealth to help the poor." },
+    { "id": 36, "word": "wealthy", "tr": "bohatý / majetný", "ex": "She comes from a very wealthy family." },
+    { "id": 37, "word": "weapon", "tr": "zbraň", "ex": "The police are still searching for the murder weapon." },
+    { "id": 38, "word": "wear", "tr": "nosit (na sobě) / opotřebení", "ex": "What are you going to wear to the party?" },
+    { "id": 39, "word": "weather", "tr": "počasí", "ex": "The weather has been terrible lately." },
+    { "id": 40, "word": "weave", "tr": "tkát / plést / kličkovat", "ex": "She learned how to weave baskets from her grandmother." },
+    { "id": 41, "word": "web", "tr": "pavučina / síť (internetová)", "ex": "I found a spider's web in the corner of the room." },
+    { "id": 42, "word": "website", "tr": "webová stránka", "ex": "For more information, visit our website." },
+    { "id": 43, "word": "wedding", "tr": "svatba", "ex": "They are planning a big summer wedding." },
+    { "id": 44, "word": "wednesday", "tr": "středa", "ex": "The report is due next Wednesday." },
+    { "id": 45, "word": "weed", "tr": "plevel / vytrhávat plevel", "ex": "The garden is full of weeds." },
+    { "id": 46, "word": "week", "tr": "týden", "ex": "I'm going on holiday next week." },
+    { "id": 47, "word": "weekend", "tr": "víkend", "ex": "What are you doing at the weekend?" },
+    { "id": 48, "word": "weekly", "tr": "týdenní / týdně", "ex": "The magazine is published weekly." },
+    { "id": 49, "word": "weep", "tr": "plakat / ronit (slzy)", "ex": "She started to weep when she heard the sad news." },
+    { "id": 50, "word": "weigh", "tr": "vážit / zvážit", "ex": "How much do you weigh?" }
+  ]
+}
