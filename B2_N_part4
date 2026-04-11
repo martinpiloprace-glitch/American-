@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "N",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "notice", "tr": "všimnout si / oznámení / výpovědní lhůta", "ex": "I didn't notice that you had a haircut." },
+    { "id": 77, "word": "noticeable", "tr": "všimnutelný / zřetelný", "ex": "There is a noticeable difference between the two products." },
+    { "id": 78, "word": "notion", "tr": "představa / pojem / myšlenka", "ex": "He has some strange notions about education." },
+    { "id": 79, "word": "notorious", "tr": "neblaze proslulý", "ex": "The area is notorious for its high crime rate." },
+    { "id": 80, "word": "novel", "tr": "román / neotřelý", "ex": "She is writing her third novel." },
+    { "id": 81, "word": "novelty", "tr": "novinka / novost", "ex": "Electric cars are still a bit of a novelty here." },
+    { "id": 82, "word": "November", "tr": "listopad", "ex": "My birthday is in November." },
+    { "id": 83, "word": "now", "tr": "teď / nyní", "ex": "I'm busy right now, can we talk later?" },
+    { "id": 84, "word": "nowadays", "tr": "v dnešní době", "ex": "Nowadays, most people have a smartphone." },
+    { "id": 85, "word": "nowhere", "tr": "nikde", "ex": "The missing keys were nowhere to be found." },
+    { "id": 86, "word": "nuclear", "tr": "jaderný / nukleární", "ex": "The country is reducing its nuclear weapons." },
+    { "id": 87, "word": "nuisance", "tr": "nepříjemnost / otrava (člověk)", "ex": "It's a nuisance having to go all the way back." },
+    { "id": 88, "word": "number", "tr": "číslo / počet", "ex": "Can I have your phone number?" },
+    { "id": 89, "word": "numerous", "tr": "četný / četní", "ex": "He has won numerous awards for his work." },
+    { "id": 90, "word": "nurse", "tr": "zdravotní sestra / pečovat", "ex": "The nurse gave him an injection." },
+    { "id": 91, "word": "nursery", "tr": "školka / jesle / zahradnictví", "ex": "The children are at the nursery today." },
+    { "id": 92, "word": "nursing", "tr": "ošetřovatelství / kojení", "ex": "She chose nursing as her career." },
+    { "id": 93, "word": "nut", "tr": "ořech / matice", "ex": "This cake contains nuts." },
+    { "id": 94, "word": "nutrition", "tr": "výživa", "ex": "Good nutrition is essential for health." },
+    { "id": 95, "word": "nutritional", "tr": "nutriční / výživový", "ex": "The label gives nutritional information about the food." }
+  ]
+}
