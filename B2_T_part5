@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "thereby", "tr": "tím / čímž", "ex": "He signed the contract, thereby agreeing to the terms." },
+    { "id": 102, "word": "therefore", "tr": "proto / tudíž", "ex": "I think, therefore I am." },
+    { "id": 103, "word": "thermal", "tr": "termální / tepelný", "ex": "The area is famous for its thermal springs." },
+    { "id": 104, "word": "these", "tr": "tito / tyto", "ex": "These books are very interesting." },
+    { "id": 105, "word": "thesis", "tr": "teze / diplomová práce", "ex": "She is writing her doctoral thesis." },
+    { "id": 106, "word": "they", "tr": "oni / ony / ona", "ex": "They are coming to visit us." },
+    { "id": 107, "word": "thick", "tr": "hustý / tlustý", "ex": "The walls are two feet thick." },
+    { "id": 108, "word": "thief", "tr": "zloděj", "ex": "The thief stole her purse." },
+    { "id": 109, "word": "thin", "tr": "tenký / hubený / řídký", "ex": "He has grown very thin lately." },
+    { "id": 110, "word": "thing", "tr": "věc", "ex": "What's that thing on the table?" },
+    { "id": 111, "word": "think", "tr": "myslet / přemýšlet", "ex": "I think it's going to rain." },
+    { "id": 112, "word": "thinking", "tr": "myšlení / uvažování", "ex": "What is the thinking behind this decision?" },
+    { "id": 113, "word": "third", "tr": "třetí", "ex": "This is the third time I've called him." },
+    { "id": 114, "word": "thirsty", "tr": "žíznivý", "ex": "I'm very thirsty. Can I have some water?" },
+    { "id": 115, "word": "thirteen", "tr": "třináct", "ex": "He is thirteen years old." },
+    { "id": 116, "word": "thirty", "tr": "třicet", "ex": "She is in her early thirties." },
+    { "id": 117, "word": "this", "tr": "tento / tato", "ex": "This is a very difficult problem." },
+    { "id": 118, "word": "thorough", "tr": "důkladný / pečlivý", "ex": "The police carried out a thorough search of the house." },
+    { "id": 119, "word": "thoroughly", "tr": "důkladně / úplně", "ex": "I thoroughly enjoyed the movie." },
+    { "id": 120, "word": "those", "tr": "tamti / tamty", "ex": "Those people are waiting for the bus." },
+    { "id": 121, "word": "though", "tr": "ačkoliv / i když / přesto", "ex": "Though it was raining, we went for a walk." },
+    { "id": 122, "word": "thought", "tr": "myšlenka / nápad / myšlení", "ex": "The thought of food made him feel hungry." },
+    { "id": 123, "word": "thoughtful", "tr": "zamyšlený / pozorný / ohleduplný", "ex": "It was very thoughtful of you to send flowers." },
+    { "id": 124, "word": "thousand", "tr": "tisíc", "ex": "A thousand people attended the concert." },
+    { "id": 125, "word": "thread", "tr": "vlákno / nit / provléknout", "ex": "She searched for a needle and thread." }
+  ]
+}
