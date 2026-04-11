@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Furniture",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "sofa", "tr": "pohovka", "ex": "Sit on the sofa." },
+    { "id": 2, "word": "table", "tr": "stůl", "ex": "Eat at the table." },
+    { "id": 3, "word": "chair", "tr": "židle", "ex": "A wood chair." },
+    { "id": 4, "word": "bed", "tr": "postel", "ex": "The bed is big." },
+    { "id": 5, "word": "lamp", "tr": "lampa", "ex": "A small lamp." },
+    { "id": 6, "word": "shelf", "tr": "police", "ex": "Put it on the shelf." },
+    { "id": 7, "word": "desk", "tr": "psací stůl", "ex": "Work at the desk." },
+    { "id": 8, "word": "mirror", "tr": "zrcadlo", "ex": "See the mirror." },
+    { "id": 9, "word": "carpet", "tr": "koberec", "ex": "Red carpet." },
+    { "id": 10, "word": "wardrobe", "tr": "šatní skříň", "ex": "Open the wardrobe." }
+  ]
+}
