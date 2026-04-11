@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Days of the Week",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "Monday", "tr": "pondělí", "ex": "Work on Monday." },
+    { "id": 2, "word": "Tuesday", "tr": "úterý", "ex": "It is Tuesday." },
+    { "id": 3, "word": "Wednesday", "tr": "středa", "ex": "Meet on Wednesday." },
+    { "id": 4, "word": "Thursday", "tr": "čtvrtek", "ex": "Rainy Thursday." },
+    { "id": 5, "word": "Friday", "tr": "pátek", "ex": "I like Friday." },
+    { "id": 6, "word": "Saturday", "tr": "sobota", "ex": "Saturday is fun." },
+    { "id": 7, "word": "Sunday", "tr": "neděle", "ex": "Rest on Sunday." },
+    { "id": 8, "word": "week", "tr": "týden", "ex": "See you next week." },
+    { "id": 9, "word": "weekend", "tr": "víkend", "ex": "Great weekend." },
+    { "id": 10, "word": "day", "tr": "den", "ex": "Have a nice day." }
+  ]
+}
