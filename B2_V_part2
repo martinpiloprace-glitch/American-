@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "V",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "variety", "tr": "rozmanitost / výběr / odrůda", "ex": "The shop sells a wide variety of goods." },
+    { "id": 27, "word": "various", "tr": "různý / rozmanitý", "ex": "There are various ways to solve this problem." },
+    { "id": 28, "word": "vary", "tr": "lišit se / měnit se", "ex": "Prices vary depending on the season." },
+    { "id": 29, "word": "vast", "tr": "obrovský / nesmírný", "ex": "The vast majority of people supported the change." },
+    { "id": 30, "word": "vastly", "tr": "nesmírně / ohromně", "ex": "The quality of the service has improved vastly." },
+    { "id": 31, "word": "vault", "tr": "trezor / klenba / skok", "ex": "The gold is kept in a high-security vault." },
+    { "id": 32, "word": "vegetable", "tr": "zelenina", "ex": "You should eat more fresh vegetables." },
+    { "id": 33, "word": "vegetative", "tr": "vegetativní", "ex": "He has been in a persistent vegetative state for years." },
+    { "id": 34, "word": "vehicle", "tr": "vozidlo / prostředek", "ex": "The police are looking for a dark blue vehicle." },
+    { "id": 35, "word": "veil", "tr": "závoj / opona / zahalit", "ex": "The bride wore a white silk veil." },
+    { "id": 36, "word": "vein", "tr": "žíla / cévka / nálada", "ex": "The nurse had trouble finding a vein in his arm." },
+    { "id": 37, "word": "velocity", "tr": "rychlost (vektorová)", "ex": "The rocket reached a velocity of several miles per second." },
+    { "id": 38, "word": "venerable", "tr": "ctihodný / vážený", "ex": "The venerable institution was founded in 1850." },
+    { "id": 39, "word": "vengeance", "tr": "pomsta / odplata", "ex": "He swore vengeance on the men who killed his father." },
+    { "id": 40, "word": "venture", "tr": "podnik / odvážit se / riskantní akce", "ex": "The two companies have embarked on a joint venture." },
+    { "id": 41, "word": "venue", "tr": "místo konání (akce)", "ex": "The stadium is a popular venue for rock concerts." },
+    { "id": 42, "word": "verb", "tr": "sloveso", "ex": "Every sentence must have a verb." },
+    { "id": 43, "word": "verbal", "tr": "verbální / ústní", "ex": "We have a verbal agreement, but nothing in writing." },
+    { "id": 44, "word": "verdict", "tr": "verdikt / rozsudek", "ex": "The jury reached a verdict of not guilty." },
+    { "id": 45, "word": "verge", "tr": "okraj / krajnice / schylovat se k", "ex": "The company is on the verge of bankruptcy." },
+    { "id": 46, "word": "verify", "tr": "ověřit / potvrdit", "ex": "Please verify that all the information is correct." },
+    { "id": 47, "word": "versatile", "tr": "všestranný", "ex": "He is a very versatile actor who can play any role." },
+    { "id": 48, "word": "verse", "tr": "verš / sloka", "ex": "She recited the first verse of the poem." },
+    { "id": 49, "word": "version", "tr": "verze", "ex": "I've only seen the movie version of the book." },
+    { "id": 50, "word": "versus", "tr": "proti / versus", "ex": "It was a battle of youth versus experience." }
+  ]
+}
