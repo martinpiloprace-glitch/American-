@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "responsibility", "tr": "zodpovědnost", "ex": "It's your responsibility to keep the room clean." },
+    { "id": 202, "word": "responsible", "tr": "zodpovědný", "ex": "Who is responsible for this mess?" },
+    { "id": 203, "word": "rest", "tr": "odpočinek / zbytek / odpočívat", "ex": "You look tired, you should get some rest." },
+    { "id": 204, "word": "restaurant", "tr": "restaurace", "ex": "We had dinner at a small Italian restaurant." },
+    { "id": 205, "word": "restless", "tr": "neprůbojný / nepokojný / netrpělivý", "ex": "He spent a restless night tossing and turning." },
+    { "id": 206, "word": "restoration", "tr": "obnova / restaurování", "ex": "The restoration of the old church took two years." },
+    { "id": 207, "word": "restore", "tr": "obnovit / vrátit / restaurovat", "ex": "The power supply has been restored after the storm." },
+    { "id": 208, "word": "restraint", "tr": "omezení / zdrženlivost / pouta", "ex": "The police exercised great restraint during the protest." },
+    { "id": 209, "word": "restrict", "tr": "omezit / vyhradit", "ex": "The new law will restrict the sale of alcohol." },
+    { "id": 210, "word": "restriction", "tr": "omezení / restrikce", "ex": "There are no restrictions on the amount of money you can bring." },
+    { "id": 211, "word": "result", "tr": "výsledek / vyústit", "ex": "The accident resulted in several injuries." },
+    { "id": 212, "word": "resume", "tr": "pokračovat / znovu začít / životopis", "ex": "The talks are expected to resume tomorrow." },
+    { "id": 213, "word": "retail", "tr": "maloobchod / maloobchodní", "ex": "The retail price of the book is twenty dollars." },
+    { "id": 214, "word": "retain", "tr": "udržet si / uchovat", "ex": "The company managed to retain its market share." },
+    { "id": 215, "word": "retire", "tr": "odejít do důchodu", "ex": "He plans to retire at the age of 65." },
+    { "id": 216, "word": "retirement", "tr": "důchod / penze (období)", "ex": "She is enjoying her retirement in the countryside." },
+    { "id": 217, "word": "retreat", "tr": "ustoupit / ústup / útočiště", "ex": "The army was forced to retreat." },
+    { "id": 218, "word": "return", "tr": "vrátit (se) / návrat", "ex": "I'll call you as soon as I return." },
+    { "id": 219, "word": "reveal", "tr": "odhalit / prozradit", "ex": "The investigation revealed some shocking facts." },
+    { "id": 220, "word": "revelation", "tr": "odhalení / zjevení", "ex": "The book contains several startling revelations." },
+    { "id": 221, "word": "revenge", "tr": "pomsta / pomstít se", "ex": "He wanted to take revenge for the insult." },
+    { "id": 222, "word": "revenue", "tr": "výnos / příjem / tržba", "ex": "The company's annual revenue has increased significantly." },
+    { "id": 223, "word": "reverse", "tr": "obrátit / couvat / opačný", "ex": "Can you reverse the car into the garage?" },
+    { "id": 224, "word": "review", "tr": "recenze / posudek / přezkoumat", "ex": "The film received very positive reviews." },
+    { "id": 225, "word": "revise", "tr": "revidovat / opakovat (na zkoušku)", "ex": "I need to revise my notes before the exam." }
+  ]
+}
