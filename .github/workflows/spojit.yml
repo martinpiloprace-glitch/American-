@@ -1,0 +1,29 @@
+name: Spojit JSONy do jednoho
+on:
+  workflow_dispatch: # Tohle ti vytvoří tlačítko na spuštění
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Spojit soubory
+        run: |
+          python -c "
+          import json, glob
+          result = []
+          # Najde všechny jsony a složí je do pole
+          for f in sorted(glob.glob('*.json')):
+              if f == 'american_master.json': continue
+              with open(f, 'r', encoding='utf-8') as file:
+                  result.append(json.load(file))
+          with open('american_master.json', 'w', encoding='utf-8') as out:
+              json.dump(result, out, ensure_ascii=False, indent=2)
+          "
+      - name: Nahrát zpět na GitHub
+        run: |
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Robot'
+          git add american_master.json
+          git commit -m 'Spojeno 518 JSONů do jednoho' || exit 0
+          git push
