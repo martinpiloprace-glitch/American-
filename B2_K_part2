@@ -1,0 +1,14 @@
+{
+  "level": "B2",
+  "letter": "K",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "knit", "tr": "plést (vlnu)", "ex": "My grandmother taught me how to knit." },
+    { "id": 27, "word": "knock", "tr": "klepat / zaklepání", "ex": "I heard a knock at the door." },
+    { "id": 28, "word": "knot", "tr": "uzel", "ex": "He tied a tight knot in the rope." },
+    { "id": 29, "word": "know", "tr": "vědět / znát", "ex": "I don't know the answer to that question." },
+    { "id": 30, "word": "knowledge", "tr": "znalost / vědomosti", "ex": "He has a vast knowledge of history." },
+    { "id": 31, "word": "known", "tr": "známý", "ex": "She is a well-known actress." }
+  ]
+}
