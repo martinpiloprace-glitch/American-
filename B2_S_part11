@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 11,
+  "mode": "sentences",
+  "data": [
+    { "id": 251, "word": "smoking", "tr": "kouření", "ex": "Smoking is strictly forbidden in the building." },
+    { "id": 252, "word": "smooth", "tr": "hladký / plynulý / vyhladit", "ex": "The flight was very smooth." },
+    { "id": 253, "word": "smoothly", "tr": "hladce / plynule", "ex": "Everything went smoothly during the presentation." },
+    { "id": 254, "word": "snack", "tr": "svačina / přesnídávka", "ex": "I usually have a quick snack in the afternoon." },
+    { "id": 255, "word": "snake", "tr": "had", "ex": "I'm terrified of snakes." },
+    { "id": 256, "word": "snap", "tr": "zlomit (se) / lusknout / prasknout", "ex": "The branch suddenly snapped under his weight." },
+    { "id": 257, "word": "snow", "tr": "sníh / sněžit", "ex": "It hasn't snowed yet this winter." },
+    { "id": 258, "word": "so", "tr": "tak / tak tedy / a tak", "ex": "It was very cold, so I put on a coat." },
+    { "id": 259, "word": "so-called", "tr": "takzvaný", "ex": "This is a problem with the so-called expert's opinion." },
+    { "id": 260, "word": "soak", "tr": "namočit / nasáknout", "ex": "Soak the beans in water overnight." },
+    { "id": 261, "word": "soap", "tr": "mýdlo", "ex": "Wash your hands with soap and water." },
+    { "id": 262, "word": "soar", "tr": "vyletět / vyletět nahoru / vznášet se", "ex": "Property prices have soared in the last year." },
+    { "id": 263, "word": "soccer", "tr": "fotbal (v USA)", "ex": "He plays soccer for the local team." },
+    { "id": 264, "word": "social", "tr": "sociální / společenský", "ex": "I have a very busy social life." },
+    { "id": 265, "word": "socialism", "tr": "socialismus", "ex": "The party's ideology is based on socialism." },
+    { "id": 266, "word": "socialist", "tr": "socialistický / socialista", "ex": "The country has a socialist government." },
+    { "id": 267, "word": "society", "tr": "společnost / spolek", "ex": "We live in a multicultural society." },
+    { "id": 268, "word": "sock", "tr": "ponožka", "ex": "I can't find my other sock." },
+    { "id": 269, "word": "soft", "tr": "měkký / jemný", "ex": "The bed was very soft and comfortable." },
+    { "id": 270, "word": "softly", "tr": "jemně / tiše", "ex": "She spoke softly so as not to wake the baby." },
+    { "id": 271, "word": "software", "tr": "software", "ex": "I need to install some new software on my computer." },
+    { "id": 272, "word": "soil", "tr": "půda / zemina / zašpinit", "ex": "The soil in this area is very fertile." },
+    { "id": 273, "word": "solar", "tr": "solární / sluneční", "ex": "The house is heated by solar energy." },
+    { "id": 274, "word": "soldier", "tr": "voják", "ex": "The soldiers returned home after the war." },
+    { "id": 275, "word": "sole", "tr": "jediný / výhradní / podrážka", "ex": "She is the sole survivor of the crash." }
+  ]
+}
