@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "temptation", "tr": "pokušení", "ex": "I couldn't resist the temptation to eat the chocolate." },
+    { "id": 52, "word": "ten", "tr": "deset", "ex": "I'll be back in ten minutes." },
+    { "id": 53, "word": "tenant", "tr": "nájemník", "ex": "The tenants are responsible for paying the utility bills." },
+    { "id": 54, "word": "tend", "tr": "mít sklon / pečovat", "ex": "I tend to go to bed late on weekends." },
+    { "id": 55, "word": "tendency", "tr": "tendence / sklon", "ex": "There is a tendency for prices to rise in the summer." },
+    { "id": 56, "word": "tender", "tr": "křehký / jemný / nabídka (v soutěži)", "ex": "The meat was very tender and juicy." },
+    { "id": 57, "word": "tenement", "tr": "činžák / nájemní dům", "ex": "The family lived in a crowded tenement in the city center." },
+    { "id": 58, "word": "tennis", "tr": "tenis", "ex": "We play tennis every Saturday morning." },
+    { "id": 59, "word": "tension", "tr": "napětí / pnutí", "ex": "There is a lot of tension between the two countries." },
+    { "id": 60, "word": "tent", "tr": "stan", "ex": "We spent the night in a tent near the lake." },
+    { "id": 61, "word": "tentative", "tr": "předběžný / váhavý / pokusný", "ex": "We have made a tentative agreement." },
+    { "id": 62, "word": "term", "tr": "termín / pojem / období", "ex": "The spring term ends in late May." },
+    { "id": 63, "word": "terminal", "tr": "terminál / konečný / smrtelný", "ex": "The patient was diagnosed with a terminal illness." },
+    { "id": 64, "word": "terminate", "tr": "ukončit / skončit", "ex": "Your contract will terminate at the end of the year." },
+    { "id": 65, "word": "termination", "tr": "ukončení / výpověď", "ex": "The sudden termination of the project surprised everyone." },
+    { "id": 66, "word": "terminology", "tr": "terminologie", "ex": "I don't understand all the legal terminology." },
+    { "id": 67, "word": "terrace", "tr": "terasa / řadový dům", "ex": "We had dinner on the terrace overlooking the garden." },
+    { "id": 68, "word": "terrain", "tr": "terén", "ex": "The rocky terrain made walking difficult." },
+    { "id": 69, "word": "terrible", "tr": "hrozný / strašný", "ex": "It was a terrible accident." },
+    { "id": 70, "word": "terribly", "tr": "hrozně / strašně", "ex": "I'm terribly sorry for being late." },
+    { "id": 71, "word": "terrific", "tr": "úžasný / skvělý", "ex": "You look terrific in that dress!" },
+    { "id": 72, "word": "terrify", "tr": "vyděsit / k smrti vystrašit", "ex": "The loud noise terrified the children." },
+    { "id": 73, "word": "territory", "tr": "území / teritorium", "ex": "The island is a British overseas territory." },
+    { "id": 74, "word": "terror", "tr": "hrůza / teror", "ex": "The people lived in terror of the secret police." },
+    { "id": 75, "word": "terrorism", "tr": "terorismus", "ex": "The government is committed to fighting terrorism." }
+  ]
+}
