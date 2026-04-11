@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 15,
+  "mode": "sentences",
+  "data": [
+    { "id": 351, "word": "propose", "tr": "navrhnout / zamýšlet", "ex": "I propose that we take a short break." },
+    { "id": 352, "word": "proposition", "tr": "návrh / tvrzení / nabídka", "ex": "The new business proposition sounds interesting." },
+    { "id": 353, "word": "prospect", "tr": "vyhlídka / naděje / potenciální zákazník", "ex": "There is little prospect of an improvement in the weather." },
+    { "id": 354, "word": "prosper", "tr": "prosperovat / vzkvétat", "ex": "The company continues to prosper despite the competition." },
+    { "id": 355, "word": "prosperity", "tr": "prosperita / blahobyt", "ex": "The country is enjoying a period of economic prosperity." },
+    { "id": 356, "word": "protect", "tr": "chránit", "ex": "We need to protect our natural environment." },
+    { "id": 357, "word": "protection", "tr": "ochrana", "ex": "Wear sunscreen for protection against the sun." },
+    { "id": 358, "word": "protective", "tr": "ochranný", "ex": "The workers wear protective clothing." },
+    { "id": 359, "word": "protein", "tr": "protein / bílkovina", "ex": "Meat and beans are good sources of protein." },
+    { "id": 360, "word": "protest", "tr": "protestovat / protest", "ex": "Thousands of people took part in the protest." },
+    { "id": 361, "word": "protester", "tr": "protestující", "ex": "The police were keeping a close eye on the protesters." },
+    { "id": 362, "word": "protocol", "tr": "protokol / pravidla", "ex": "The visit was conducted according to official protocol." },
+    { "id": 363, "word": "proud", "tr": "hrdý / pyšný", "ex": "She was very proud of her son's achievements." },
+    { "id": 364, "word": "proudly", "tr": "hrdě", "ex": "He proudly showed us his medal." },
+    { "id": 365, "word": "prove", "tr": "dokázat / prokázat se", "ex": "The medicine has been proven to be effective." },
+    { "id": 366, "word": "provide", "tr": "poskytnout / zajistit", "ex": "The company will provide all the necessary equipment." },
+    { "id": 367, "word": "provided", "tr": "za předpokladu / pokud", "ex": "I will go, provided that you come with me." },
+    { "id": 368, "word": "provider", "tr": "poskytovatel", "ex": "We are looking for a reliable internet service provider." },
+    { "id": 369, "word": "province", "tr": "provincie / oblast", "ex": "The mountains are in the northern province." },
+    { "id": 370, "word": "provincial", "tr": "provinční / venkovský", "ex": "He grew up in a small provincial town." },
+    { "id": 371, "word": "provision", "tr": "poskytování / opatření / zásoby", "ex": "The government is responsible for the provision of healthcare." },
+    { "id": 372, "word": "provoke", "tr": "vyprovokovat / vyvolat", "ex": "The news is likely to provoke a strong reaction." },
+    { "id": 373, "word": "psychological", "tr": "psychologický", "ex": "The accident has had a deep psychological impact on him." },
+    { "id": 374, "word": "psychologist", "tr": "psycholog", "ex": "She decided to see a psychologist about her anxiety." },
+    { "id": 375, "word": "psychology", "tr": "psychologie", "ex": "He is studying psychology at university." }
+  ]
+}
