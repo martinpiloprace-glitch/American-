@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "House Rooms",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "room", "tr": "pokoj", "ex": "A small room." },
+    { "id": 2, "word": "kitchen", "tr": "kuchyně", "ex": "Cook in the kitchen." },
+    { "id": 3, "word": "bedroom", "tr": "ložnice", "ex": "Sleep in the bedroom." },
+    { "id": 4, "word": "bathroom", "tr": "koupelna", "ex": "Go to the bathroom." },
+    { "id": 5, "word": "hall", "tr": "předsíň / hala", "ex": "Stand in the hall." },
+    { "id": 6, "word": "living room", "tr": "obývák", "ex": "Sit in the living room." },
+    { "id": 7, "word": "floor", "tr": "podlaha / patro", "ex": "On the first floor." },
+    { "id": 8, "word": "stairs", "tr": "schody", "ex": "Go up the stairs." },
+    { "id": 9, "word": "garden", "tr": "zahrada", "ex": "Play in the garden." },
+    { "id": 10, "word": "home", "tr": "domov", "ex": "I am home." }
+  ]
+}
