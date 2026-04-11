@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 13,
+  "mode": "sentences",
+  "data": [
+    { "id": 301, "word": "private", "tr": "soukromý / osobní", "ex": "The house has a private swimming pool." },
+    { "id": 302, "word": "privilege", "tr": "privilegium / výsada", "ex": "It was a privilege to meet the president." },
+    { "id": 303, "word": "prize", "tr": "cena / výhra", "ex": "She won first prize in the competition." },
+    { "id": 304, "word": "probability", "tr": "pravděpodobnost", "ex": "There is a high probability of rain tomorrow." },
+    { "id": 305, "word": "probable", "tr": "pravděpodobný", "ex": "It is probable that the meeting will be canceled." },
+    { "id": 306, "word": "probably", "tr": "pravděpodobně", "ex": "I'll probably stay at home tonight." },
+    { "id": 307, "word": "probe", "tr": "sonda / vyšetřovat / zkoumat", "ex": "The government has launched a probe into the scandal." },
+    { "id": 308, "word": "problem", "tr": "problém", "ex": "I'm having a problem with my computer." },
+    { "id": 309, "word": "procedure", "tr": "postup / procedura", "ex": "What is the standard procedure for applying for a grant?" },
+    { "id": 310, "word": "proceed", "tr": "pokračovat / postupovat", "ex": "The project is proceeding according to plan." },
+    { "id": 311, "word": "proceeding", "tr": "jednání / řízení / úkon", "ex": "Legal proceedings have been initiated against the company." },
+    { "id": 312, "word": "process", "tr": "proces / zpracovat", "ex": "It takes time to process your application." },
+    { "id": 313, "word": "processor", "tr": "procesor / zpracovatel", "ex": "The new computer has a very fast processor." },
+    { "id": 314, "word": "proclaim", "tr": "prohlásit / vyhlásit", "ex": "The president proclaimed a state of emergency." },
+    { "id": 315, "word": "produce", "tr": "vyrábět / produkovat / plodiny", "ex": "The factory produces 500 cars a day." },
+    { "id": 316, "word": "producer", "tr": "producent / výrobce", "ex": "The film producer is looking for new talent." },
+    { "id": 317, "word": "product", "tr": "produkt / výrobek", "ex": "The company is launching a new product next month." },
+    { "id": 318, "word": "production", "tr": "produkce / výroba", "ex": "Production has been halted due to a strike." },
+    { "id": 319, "word": "productive", "tr": "produktivní", "ex": "The meeting was very productive and we made many decisions." },
+    { "id": 320, "word": "productivity", "tr": "produktivita", "ex": "New technology has helped to increase productivity." },
+    { "id": 321, "word": "profession", "tr": "profese / povolání", "ex": "Teaching is a very demanding profession." },
+    { "id": 322, "word": "professional", "tr": "profesionální / odborník", "ex": "You should seek professional advice before signing the contract." },
+    { "id": 323, "word": "professor", "tr": "profesor", "ex": "She is a professor of history at the university." },
+    { "id": 324, "word": "profile", "tr": "profil", "ex": "You can update your profile on our website." },
+    { "id": 325, "word": "profit", "tr": "zisk / profitovat", "ex": "The company made a huge profit last year." }
+  ]
+}
