@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "monday", "tr": "pondělí", "ex": "The office is closed on Monday." },
+    { "id": 202, "word": "monetary", "tr": "měnový / peněžní", "ex": "The country is facing a monetary crisis." },
+    { "id": 203, "word": "money", "tr": "peníze", "ex": "I don't have enough money to buy that." },
+    { "id": 204, "word": "monitor", "tr": "sledovat / monitor / obrazovka", "ex": "The doctor will monitor your progress." },
+    { "id": 205, "word": "monkey", "tr": "opice", "ex": "The monkey was eating a banana." },
+    { "id": 206, "word": "monopoly", "tr": "monopol", "ex": "The company has a monopoly on the local market." },
+    { "id": 207, "word": "monster", "tr": "monstrum / příšera", "ex": "He believed there was a monster under his bed." },
+    { "id": 208, "word": "month", "tr": "měsíc (kalendářní)", "ex": "We are going on holiday next month." },
+    { "id": 209, "word": "monthly", "tr": "měsíčně / měsíčník", "ex": "I pay my bills on a monthly basis." },
+    { "id": 210, "word": "monument", "tr": "památník / monument", "ex": "The monument was built to honor the dead." },
+    { "id": 211, "word": "mood", "tr": "nálada", "ex": "I'm not in the mood for a party tonight." },
+    { "id": 212, "word": "moon", "tr": "měsíc (těleso)", "ex": "The moon was bright in the night sky." },
+    { "id": 213, "word": "moral", "tr": "morální / mravní / ponaučení", "ex": "He is a man of high moral standards." },
+    { "id": 214, "word": "morality", "tr": "morálka / mravnost", "ex": "They are debating the morality of the new law." },
+    { "id": 215, "word": "more", "tr": "víc / více", "ex": "Would you like some more coffee?" },
+    { "id": 216, "word": "moreover", "tr": "navíc / mimoto", "ex": "The house is too small; moreover, it's too expensive." },
+    { "id": 217, "word": "morning", "tr": "ráno / dopoledne", "ex": "I enjoy going for a walk in the morning." },
+    { "id": 218, "word": "mortgage", "tr": "hypotéka / zastavit (nemovitost)", "ex": "They took out a 25-year mortgage." },
+    { "id": 219, "word": "most", "tr": "nejvíc / většina", "ex": "Most people enjoy listening to music." },
+    { "id": 220, "word": "mostly", "tr": "většinou / hlavně", "ex": "The audience was mostly composed of students." },
+    { "id": 221, "word": "mother", "tr": "matka", "ex": "My mother is a teacher." },
+    { "id": 222, "word": "motion", "tr": "pohyb / návrh", "ex": "The motion of the ship made her feel sick." },
+    { "id": 223, "word": "motivate", "tr": "motivovat", "ex": "The teacher tried to motivate her students." },
+    { "id": 224, "word": "motivation", "tr": "motivace", "ex": "What was your motivation for moving here?" },
+    { "id": 225, "word": "motive", "tr": "motiv / pohnutka", "ex": "The police are trying to find a motive for the crime." }
+  ]
+}
