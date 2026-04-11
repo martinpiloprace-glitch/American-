@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Clothing",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "shirt", "tr": "košile / triko", "ex": "Wear a white shirt." },
+    { "id": 2, "word": "pants", "tr": "kalhoty", "ex": "Blue pants." },
+    { "id": 3, "word": "dress", "tr": "šaty", "ex": "Nice dress." },
+    { "id": 4, "word": "shoes", "tr": "boty", "ex": "My shoes are new." },
+    { "id": 5, "word": "hat", "tr": "klobouk / čepice", "ex": "Put on your hat." },
+    { "id": 6, "word": "jacket", "tr": "bunda / sako", "ex": "The jacket is warm." },
+    { "id": 7, "word": "sock", "tr": "ponožka", "ex": "One red sock." },
+    { "id": 8, "word": "coat", "tr": "kabát", "ex": "Long black coat." },
+    { "id": 9, "word": "skirt", "tr": "sukně", "ex": "Short skirt." },
+    { "id": 10, "word": "wear", "tr": "nosit / mít na sobě", "ex": "I wear jeans." }
+  ]
+}
