@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Verbs",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "go", "tr": "jít / jet", "ex": "I go home." },
+    { "id": 2, "word": "eat", "tr": "jíst", "ex": "Eat the apple." },
+    { "id": 3, "word": "drink", "tr": "pít", "ex": "Drink the water." },
+    { "id": 4, "word": "sleep", "tr": "spát", "ex": "I sleep now." },
+    { "id": 5, "word": "run", "tr": "běhat", "ex": "Run fast!" },
+    { "id": 6, "word": "see", "tr": "vidět", "ex": "I see you." },
+    { "id": 7, "word": "have", "tr": "mít", "ex": "I have a car." },
+    { "id": 8, "word": "work", "tr": "pracovat", "ex": "They work here." },
+    { "id": 9, "word": "read", "tr": "číst", "ex": "Read the book." },
+    { "id": 10, "word": "write", "tr": "psát", "ex": "Write a name." }
+  ]
+}
