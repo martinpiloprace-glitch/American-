@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "O",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "ours", "tr": "náš (samostatně)", "ex": "The blue car is ours." },
+    { "id": 102, "word": "ourselves", "tr": "my sami / se / si", "ex": "We can manage by ourselves." },
+    { "id": 103, "word": "out", "tr": "ven / venku", "ex": "He is out at the moment." },
+    { "id": 104, "word": "outbreak", "tr": "vypuknutí / propuknutí", "ex": "There was a sudden outbreak of flu." },
+    { "id": 105, "word": "outcome", "tr": "výsledek / závěr", "ex": "We are waiting for the final outcome of the election." },
+    { "id": 106, "word": "outdoor", "tr": "venkovní / vnější", "ex": "The hotel has an outdoor swimming pool." },
+    { "id": 107, "word": "outdoors", "tr": "venku / v přírodě", "ex": "I love spending time outdoors." },
+    { "id": 108, "word": "outer", "tr": "vnější / vnější strana", "ex": "The rocket entered the outer atmosphere." },
+    { "id": 109, "word": "outfit", "tr": "oblečení / oděv / výstroj", "ex": "I need a new outfit for the wedding." },
+    { "id": 110, "word": "outgoings", "tr": "výdaje", "ex": "We need to reduce our monthly outgoings." },
+    { "id": 111, "word": "outing", "tr": "výlet / vycházka", "ex": "The children went on a school outing to the zoo." },
+    { "id": 112, "word": "outlet", "tr": "prodejna / východisko / zásuvka", "ex": "The company has retail outlets all over the country." },
+    { "id": 113, "word": "outline", "tr": "obrys / nástin / načrtnout", "ex": "He gave us a brief outline of the plan." },
+    { "id": 114, "word": "outlook", "tr": "výhled / perspektiva", "ex": "The economic outlook for next year is positive." },
+    { "id": 115, "word": "output", "tr": "výkon / výstup / produkce", "ex": "The factory has increased its daily output." },
+    { "id": 116, "word": "outrage", "tr": "pobouření / urážka / pobouřit", "ex": "The news caused widespread public outrage." },
+    { "id": 117, "word": "outrageous", "tr": "pobuřující / nehorázný", "ex": "That is an outrageous thing to say!" },
+    { "id": 118, "word": "outside", "tr": "venku / vnější", "ex": "It's cold outside; wear a coat." },
+    { "id": 119, "word": "outsider", "tr": "outsider / člověk zvenčí", "ex": "He felt like an outsider in the group." },
+    { "id": 120, "word": "outskirts", "tr": "předměstí / okraj města", "ex": "They live on the outskirts of Prague." },
+    { "id": 121, "word": "outstanding", "tr": "vynikající / nevyřízený", "ex": "She did an outstanding job on the project." },
+    { "id": 122, "word": "oven", "tr": "trouba (na pečení)", "ex": "Put the cake in the oven for thirty minutes." },
+    { "id": 123, "word": "over", "tr": "přes / nad / konec", "ex": "The meeting is finally over." },
+    { "id": 124, "word": "overall", "tr": "celkový / celkově", "ex": "The overall cost was much higher than expected." },
+    { "id": 125, "word": "overcome", "tr": "překonat / přemoci", "ex": "She managed to overcome her fear of flying." }
+  ]
+}
