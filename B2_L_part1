@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "L",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "label", "tr": "štítek / nálepka / označit", "ex": "Always read the label before using the product." },
+    { "id": 2, "word": "laboratory", "tr": "laboratoř", "ex": "The samples are being tested in the laboratory." },
+    { "id": 3, "word": "labor", "tr": "práce / úsilí / porod", "ex": "The project required months of hard labor." },
+    { "id": 4, "word": "lack", "tr": "nedostatek / postrádat", "ex": "The plant died because of a lack of water." },
+    { "id": 5, "word": "ladder", "tr": "žebřík", "ex": "He climbed up the ladder to fix the roof." },
+    { "id": 6, "word": "lady", "tr": "dáma / paní", "ex": "She is a very elegant lady." },
+    { "id": 7, "word": "lake", "tr": "jezero", "ex": "We went for a swim in the lake." },
+    { "id": 8, "word": "lamp", "tr": "lampa / svítidlo", "ex": "I turned on the desk lamp to read." },
+    { "id": 9, "word": "land", "tr": "země / souš / přistát", "ex": "The plane is scheduled to land at six." },
+    { "id": 10, "word": "landing", "tr": "přistání / podesta", "ex": "The pilot made a perfect landing." },
+    { "id": 11, "word": "landlord", "tr": "pronajímatel / domácí", "ex": "The landlord decided to increase the rent." },
+    { "id": 12, "word": "landmark", "tr": "dominanta / památka", "ex": "The Eiffel Tower is a famous landmark." },
+    { "id": 13, "word": "landscape", "tr": "krajina", "ex": "The landscape was covered in snow." },
+    { "id": 14, "word": "lane", "tr": "jízdní pruh / ulička", "ex": "The car stayed in the left lane." },
+    { "id": 15, "word": "language", "tr": "jazyk / řeč", "ex": "How many languages can you speak?" },
+    { "id": 16, "word": "lap", "tr": "klín / kolo (závodní)", "ex": "The cat was sitting on her lap." },
+    { "id": 17, "word": "laptop", "tr": "notebook / laptop", "ex": "I need to buy a new laptop for work." },
+    { "id": 18, "word": "large", "tr": "velký / rozsáhlý", "ex": "The house has a large garden." },
+    { "id": 19, "word": "largely", "tr": "převážně / z velké části", "ex": "The success was largely due to her efforts." },
+    { "id": 20, "word": "laser", "tr": "laser", "ex": "The doctor used a laser for the surgery." },
+    { "id": 21, "word": "last", "tr": "poslední / trvat", "ex": "The meeting lasted for over two hours." },
+    { "id": 22, "word": "late", "tr": "pozdě / pozdní", "ex": "I'm sorry I'm late for the meeting." },
+    { "id": 23, "word": "lately", "tr": "v poslední době / nedávno", "ex": "I haven't seen her much lately." },
+    { "id": 24, "word": "later", "tr": "později / později narozený", "ex": "I'll call you back later." },
+    { "id": 25, "word": "latest", "tr": "nejnovější / poslední", "ex": "Have you heard the latest news?" }
+  ]
+}
