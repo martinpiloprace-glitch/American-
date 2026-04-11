@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "management", "tr": "vedení / management / správa", "ex": "The company is under new management." },
+    { "id": 27, "word": "manager", "tr": "manažer / vedoucí", "ex": "I'd like to speak to the manager, please." },
+    { "id": 28, "word": "mandate", "tr": "mandát / příkaz / zmocnění", "ex": "The government has a mandate to carry out reforms." },
+    { "id": 29, "word": "mandatory", "tr": "povinný / nařízený", "ex": "Wearing a seat belt is mandatory." },
+    { "id": 30, "word": "manifest", "tr": "zjevný / projevit / seznam (nákladu)", "ex": "His anger was manifest in his voice." },
+    { "id": 31, "word": "manipulate", "tr": "manipulovat / ovlivňovat", "ex": "She knows how to manipulate people to get what she wants." },
+    { "id": 32, "word": "manipulation", "tr": "manipulace", "ex": "The stock market is vulnerable to manipulation." },
+    { "id": 33, "word": "manner", "tr": "způsob / chování / mravy", "ex": "He has a very polite manner." },
+    { "id": 34, "word": "mansion", "tr": "sídlo / rezidence / palác", "ex": "The movie star lives in a huge mansion." },
+    { "id": 35, "word": "manual", "tr": "manuální / příručka / návod", "ex": "Have you read the instruction manual?" },
+    { "id": 36, "word": "manufacture", "tr": "vyrábět / výroba", "ex": "The company manufactures car parts." },
+    { "id": 37, "word": "manufacturer", "tr": "výrobce", "ex": "Faulty goods should be returned to the manufacturer." },
+    { "id": 38, "word": "manufacturing", "tr": "výroba / průmyslová výroba", "ex": "Manufacturing has declined in this region." },
+    { "id": 39, "word": "manuscript", "tr": "rukopis", "ex": "The author sent the manuscript to the publisher." },
+    { "id": 40, "word": "many", "tr": "mnoho / hodně", "ex": "How many people are coming to the party?" },
+    { "id": 41, "word": "map", "tr": "mapa", "ex": "We need a map of the city center." },
+    { "id": 42, "word": "marathon", "tr": "maraton", "ex": "He is training for his first marathon." },
+    { "id": 43, "word": "march", "tr": "pochod / březen / pochodovat", "ex": "The soldiers began their long march." },
+    { "id": 44, "word": "margin", "tr": "okraj / marže / rozmezí", "ex": "Leave a wide margin on the left side of the page." },
+    { "id": 45, "word": "marginal", "tr": "nepatrný / okrajový", "ex": "There has been a marginal improvement in his health." },
+    { "id": 46, "word": "marine", "tr": "mořský / námořní", "ex": "Pollution is a threat to marine life." },
+    { "id": 47, "word": "mark", "tr": "označit / známka / stopa", "ex": "The coffee left a dark mark on the carpet." },
+    { "id": 48, "word": "marker", "tr": "popisovač / fix / ukazatel", "ex": "I'll use a red marker to highlight the mistakes." },
+    { "id": 49, "word": "market", "tr": "trh / tržiště", "ex": "We go to the local market every Saturday." },
+    { "id": 50, "word": "marketing", "tr": "marketing", "ex": "She works in the marketing department." }
+  ]
+}
