@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 16,
+  "mode": "sentences",
+  "data": [
+    { "id": 376, "word": "stamp", "tr": "razítko / známka / dupnout", "ex": "Don't forget to put a stamp on the envelope." },
+    { "id": 377, "word": "stance", "tr": "postoj / stanovisko", "ex": "What is the government's stance on this issue?" },
+    { "id": 378, "word": "stand", "tr": "stát / postavit / stánek", "ex": "I can't stand the smell of cigarette smoke." },
+    { "id": 379, "word": "standard", "tr": "standard / úroveň / běžný", "ex": "The service was not up to the usual standard." },
+    { "id": 380, "word": "standardize", "tr": "standardizovat / sjednotit", "ex": "We need to standardize our reporting procedures." },
+    { "id": 381, "word": "standing", "tr": "postavení / pověst / trvalý", "ex": "The company has a high standing in the community." },
+    { "id": 382, "word": "star", "tr": "hvězda / zářit", "ex": "She is a rising star in the film industry." },
+    { "id": 383, "word": "stare", "tr": "zlostně hledět / zírat", "ex": "It's rude to stare at people." },
+    { "id": 384, "word": "stark", "tr": "úplný / strohý / pustý", "ex": "There is a stark contrast between the two cities." },
+    { "id": 385, "word": "start", "tr": "začít / start / začátek", "ex": "When does the movie start?" },
+    { "id": 386, "word": "starve", "tr": "hladovět / umírat hlady", "ex": "Millions of people are starving in the developing world." },
+    { "id": 387, "word": "state", "tr": "stát / stav / uvést", "ex": "Please state your name and address." },
+    { "id": 388, "word": "statement", "tr": "prohlášení / výpis (z účtu)", "ex": "The minister will make a statement later today." },
+    { "id": 389, "word": "station", "tr": "stanice / nádraží", "ex": "The nearest bus station is just around the corner." },
+    { "id": 390, "word": "statistic", "tr": "statistický údaj / statistika", "ex": "Crime statistics show a fall in burglaries." },
+    { "id": 391, "word": "statistical", "tr": "statistický", "ex": "The report provides statistical evidence for the theory." },
+    { "id": 392, "word": "statue", "tr": "socha", "ex": "A statue of the president was erected in the park." },
+    { "id": 393, "word": "status", "tr": "status / stav / postavení", "ex": "What is the current status of the project?" },
+    { "id": 394, "word": "statute", "tr": "stanovy / zákon / nařízení", "ex": "The protection of children is guaranteed by statute." },
+    { "id": 395, "word": "stay", "tr": "zůstat / pobyt", "ex": "We enjoyed our stay in London." },
+    { "id": 396, "word": "steadily", "tr": "stále / plynule / vytrvale", "ex": "Prices have been rising steadily over the last few years." },
+    { "id": 397, "word": "steady", "tr": "stálý / stabilní / pevný", "ex": "He maintained a steady pace throughout the race." },
+    { "id": 398, "word": "steal", "tr": "ukrást / kradmý pohyb", "ex": "Someone stole my bike last night." },
+    { "id": 399, "word": "steam", "tr": "pára / pařit", "ex": "Steam was rising from the hot coffee." },
+    { "id": 400, "word": "steel", "tr": "ocel / ocelový", "ex": "The bridge is made of reinforced steel." }
+  ]
+}
