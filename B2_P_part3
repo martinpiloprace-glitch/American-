@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "passive", "tr": "pasivní", "ex": "He takes a very passive role in the relationship." },
+    { "id": 52, "word": "passport", "tr": "pas / cestovní pas", "ex": "You need a valid passport to travel abroad." },
+    { "id": 53, "word": "past", "tr": "minulost / minulý / kolem", "ex": "In the past, people used to travel by horse." },
+    { "id": 54, "word": "pasture", "tr": "pastvina / pást se", "ex": "The cows were grazing in the pasture." },
+    { "id": 55, "word": "patch", "tr": "skvrna / náplast / záplata", "ex": "There was a wet patch on the ceiling." },
+    { "id": 56, "word": "patent", "tr": "patent / patentovat", "ex": "He applied for a patent for his invention." },
+    { "id": 57, "word": "path", "tr": "cesta / stezka", "ex": "Follow the path through the woods." },
+    { "id": 58, "word": "patience", "tr": "trpělivost", "ex": "Teaching young children requires a lot of patience." },
+    { "id": 59, "word": "patient", "tr": "trpělivý / pacient", "ex": "You need to be patient and wait for your turn." },
+    { "id": 60, "word": "patrol", "tr": "hlídka / patrolovat", "ex": "The border is patrolled by soldiers." },
+    { "id": 61, "word": "patron", "tr": "patron / stálý zákazník", "ex": "The princess is a patron of several charities." },
+    { "id": 62, "word": "pattern", "tr": "vzor / model / schéma", "ex": "The fabric has a beautiful floral pattern." },
+    { "id": 63, "word": "pause", "tr": "pauza / odmlka / zastavit", "ex": "He paused for a moment before answering." },
+    { "id": 64, "word": "pavement", "tr": "chodník / dlažba", "ex": "It’s illegal to ride your bike on the pavement." },
+    { "id": 65, "word": "pay", "tr": "platit / plat", "ex": "How much did you pay for those shoes?" },
+    { "id": 66, "word": "payment", "tr": "platba / úhrada", "ex": "Payment can be made by cash or credit card." },
+    { "id": 67, "word": "peace", "tr": "mír / klid", "ex": "They are working hard to bring peace to the region." },
+    { "id": 68, "word": "peaceful", "tr": "mírumilovný / klidný", "ex": "It was a peaceful afternoon in the garden." },
+    { "id": 69, "word": "peak", "tr": "vrchol / špička", "ex": "Traffic reaches its peak at 5 PM." },
+    { "id": 70, "word": "peasant", "tr": "rolník / venkovan", "ex": "The museum shows how peasants lived in the 19th century." },
+    { "id": 71, "word": "peculiar", "tr": "zvláštní / podivný", "ex": "The wine has a rather peculiar taste." },
+    { "id": 72, "word": "peer", "tr": "vrstevník / zírat", "ex": "Teenagers are often influenced by their peers." },
+    { "id": 73, "word": "pen", "tr": "pero / propiska / ohrada", "ex": "Do you have a pen I could borrow?" },
+    { "id": 74, "word": "penalty", "tr": "trest / pokuta / penalizace", "ex": "There is a stiff penalty for late payment." },
+    { "id": 75, "word": "pencil", "tr": "tužka", "ex": "Please write your name in pencil." }
+  ]
+}
