@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "marketplace", "tr": "tržiště / tržní prostředí", "ex": "It's difficult for small firms to compete in the global marketplace." },
+    { "id": 52, "word": "marriage", "tr": "manželství / sňatek", "ex": "They have a very happy marriage." },
+    { "id": 3, "word": "married", "tr": "ženatý / vdaná", "ex": "How long have you been married?" },
+    { "id": 54, "word": "marry", "tr": "vzít si / oženit se / vdát se", "ex": "They decided to marry in June." },
+    { "id": 55, "word": "martial", "tr": "válečný / bojový", "ex": "He has been practicing martial arts for years." },
+    { "id": 56, "word": "marvelous", "tr": "úžasný / skvělý", "ex": "The weather was marvelous all week." },
+    { "id": 57, "word": "mass", "tr": "hmota / masa / mše", "ex": "The mountain was a huge mass of rock." },
+    { "id": 58, "word": "massacre", "tr": "masakr / vyvraždit", "ex": "The massacre was condemned by the whole world." },
+    { "id": 59, "word": "massive", "tr": "masivní / mohutný", "ex": "The project was a massive success." },
+    { "id": 60, "word": "master", "tr": "mistr / ovládnout / pán", "ex": "It takes years to master a foreign language." },
+    { "id": 61, "word": "masterpiece", "tr": "mistrovské dílo", "ex": "The painting is considered a masterpiece." },
+    { "id": 62, "word": "mat", "tr": "podložka / rohožka", "ex": "Wipe your feet on the mat before entering." },
+    { "id": 63, "word": "match", "tr": "zápas / sirka / hodit se k sobě", "ex": "Your tie doesn't match your shirt." },
+    { "id": 64, "word": "mate", "tr": "partner / kamarád / pářit se", "ex": "He is my best mate from school." },
+    { "id": 65, "word": "material", "tr": "materiál / látka / hmotný", "ex": "What material is this shirt made of?" },
+    { "id": 66, "word": "mathematical", "tr": "matematický", "ex": "The theory is based on a mathematical model." },
+    { "id": 67, "word": "mathematics", "tr": "matematika", "ex": "Mathematics is his favorite subject." },
+    { "id": 68, "word": "maths", "tr": "matika (hovorově)", "ex": "I'm not very good at maths." },
+    { "id": 69, "word": "matter", "tr": "záležitost / hmota / záležet", "ex": "It doesn't matter what you wear." },
+    { "id": 70, "word": "mature", "tr": "dospělý / zralý", "ex": "She is very mature for her age." },
+    { "id": 71, "word": "maturity", "tr": "dospělost / zralost", "ex": "The decision showed a great deal of maturity." },
+    { "id": 72, "word": "maximum", "tr": "maximum / maximální", "ex": "The maximum speed limit is 120 km/h." },
+    { "id": 73, "word": "May", "tr": "květen / smět / moci", "ex": "May I use your phone, please?" },
+    { "id": 74, "word": "maybe", "tr": "možná / snad", "ex": "Maybe we can go to the cinema tonight." },
+    { "id": 75, "word": "mayor", "tr": "starosta / primátor", "ex": "The mayor gave a speech at the opening ceremony." }
+  ]
+}
