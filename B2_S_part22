@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 22,
+  "mode": "sentences",
+  "data": [
+    { "id": 526, "word": "suppress", "tr": "potlačit / zakázat", "ex": "The rebellion was brutally suppressed by the army." },
+    { "id": 527, "word": "supreme", "tr": "nejvyšší / vrcholný", "ex": "The Supreme Court will make the final decision." },
+    { "id": 528, "word": "sure", "tr": "jistý / jistě", "ex": "Are you sure you locked the door?" },
+    { "id": 529, "word": "surely", "tr": "jistě / určitě", "ex": "Surely you don't believe everything he says?" },
+    { "id": 530, "word": "surface", "tr": "povrch / hladina", "ex": "The moon has a very dusty surface." },
+    { "id": 531, "word": "surge", "tr": "prudký nárůst / vlna / nahrnout se", "ex": "There has been a surge in demand for electric cars." },
+    { "id": 532, "word": "surgeon", "tr": "chirurg", "ex": "The surgeon performed a complex heart operation." },
+    { "id": 533, "word": "surgery", "tr": "operace / chirurgie / ordinace", "ex": "He is recovering from minor surgery on his knee." },
+    { "id": 534, "word": "surname", "tr": "příjmení", "ex": "Please write your surname in capital letters." },
+    { "id": 535, "word": "surplus", "tr": "přebytek / nadbytečný", "ex": "The country has a trade surplus this year." },
+    { "id": 536, "word": "surprise", "tr": "překvapení / překvapit", "ex": "Her arrival was a complete surprise." },
+    { "id": 537, "word": "surprised", "tr": "překvapený", "ex": "I was surprised to see him there." },
+    { "id": 538, "word": "surprising", "tr": "překvapivý", "ex": "It's surprising how many people still smoke." },
+    { "id": 539, "word": "surrender", "tr": "vzdát se / kapitulovat", "ex": "The enemy forces were forced to surrender." },
+    { "id": 540, "word": "surround", "tr": "obklopit / obklíčit", "ex": "The house is surrounded by beautiful gardens." },
+    { "id": 541, "word": "surrounding", "tr": "okolní", "ex": "We explored the surrounding countryside." },
+    { "id": 542, "word": "surroundings", "tr": "okolí / prostředí", "ex": "He quickly adapted to his new surroundings." },
+    { "id": 543, "word": "surveillance", "tr": "dohled / sledování", "ex": "The suspects were kept under constant surveillance." },
+    { "id": 544, "word": "survey", "tr": "průzkum / anketa / mapovat", "ex": "A recent survey showed that most people favor the change." },
+    { "id": 545, "word": "survival", "tr": "přežití", "ex": "Doctors are fighting for the child's survival." },
+    { "id": 546, "word": "survive", "tr": "přežít", "ex": "How long can a person survive without water?" },
+    { "id": 547, "word": "survivor", "tr": "přeživší", "ex": "There were no survivors of the plane crash." },
+    { "id": 548, "word": "suspect", "tr": "podezřelý / podezřívat", "ex": "The police have arrested a prime suspect." },
+    { "id": 549, "word": "suspend", "tr": "pozastavit / vyloučit / pověsit", "ex": "The ferry service has been suspended due to the storm." },
+    { "id": 550, "word": "suspension", "tr": "pozastavení / odklad / odpružení", "ex": "The player was given a three-match suspension." }
+  ]
+}
