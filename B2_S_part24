@@ -1,0 +1,13 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 24,
+  "mode": "sentences",
+  "data": [
+    { "id": 576, "word": "synthetic", "tr": "syntetický / umělý", "ex": "The shirt is made from synthetic fibers." },
+    { "id": 577, "word": "syrup", "tr": "sirup", "ex": "I like to have maple syrup on my pancakes." },
+    { "id": 578, "word": "system", "tr": "systém / soustava", "ex": "The school system needs to be reformed." },
+    { "id": 579, "word": "systematic", "tr": "systematický / metodický", "ex": "We need to take a more systematic approach to the problem." },
+    { "id": 580, "word": "systematically", "tr": "systematicky", "ex": "They went through the building systematically, room by room." }
+  ]
+}
