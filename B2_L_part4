@@ -1,0 +1,32 @@
+{
+  "level": "B2",
+  "letter": "L",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "level", "tr": "úroveň / hladina / vyrovnaný", "ex": "The water level in the river is rising." },
+    { "id": 77, "word": "lever", "tr": "páka", "ex": "Pull the lever to start the machine." },
+    { "id": 78, "word": "leverage", "tr": "páka / vliv / využít (vliv)", "ex": "The company used its market position as leverage." },
+    { "id": 80, "word": "liable", "tr": "odpovědný / náchylný", "ex": "You are liable for any damage you cause." },
+    { "id": 81, "word": "liberal", "tr": "liberální / štědrý", "ex": "He has very liberal views on education." },
+    { "id": 82, "word": "liberate", "tr": "osvobodit", "ex": "The army moved in to liberate the city." },
+    { "id": 83, "word": "liberty", "tr": "svoboda", "ex": "The statue is a symbol of liberty." },
+    { "id": 84, "word": "library", "tr": "knihovna", "ex": "I borrowed some books from the local library." },
+    { "id": 85, "word": "license", "tr": "licence / průkaz / povolit", "ex": "Do you have a valid driving license?" },
+    { "id": 86, "word": "lick", "tr": "lízat / líznutí", "ex": "The dog tried to lick my face." },
+    { "id": 87, "word": "lid", "tr": "víčko / poklice", "ex": "Put the lid back on the jar." },
+    { "id": 88, "word": "lie", "tr": "lhát / ležet", "ex": "Don't lie to me; tell me the truth." },
+    { "id": 89, "word": "life", "tr": "život", "ex": "He moved to the city for a better life." },
+    { "id": 90, "word": "lifelong", "tr": "celoživotní", "ex": "It has been his lifelong dream to travel to Japan." },
+    { "id": 91, "word": "lifestyle", "tr": "životní styl", "ex": "She enjoys a very active lifestyle." },
+    { "id": 92, "word": "lifetime", "tr": "doživotí / doba života", "ex": "A lot of changes can happen in a lifetime." },
+    { "id": 93, "word": "lift", "tr": "zvednout / výtah", "ex": "This box is too heavy for me to lift." },
+    { "id": 94, "word": "light", "tr": "světlo / lehký / zapálit", "ex": "The room was filled with bright light." },
+    { "id": 95, "word": "lighten", "tr": "zesvětlit / odlehčit", "ex": "We need to lighten the load on the truck." },
+    { "id": 96, "word": "lighter", "tr": "zapalovač / lehčí", "ex": "Do you have a lighter for my candle?" },
+    { "id": 97, "word": "lighthouse", "tr": "maják", "ex": "The lighthouse guided the ships to safety." },
+    { "id": 98, "word": "lighting", "tr": "osvětlení", "ex": "The lighting in the theater was perfect." },
+    { "id": 99, "word": "lightly", "tr": "lehce / jemně", "ex": "She touched his shoulder lightly." },
+    { "id": 100, "word": "lightning", "tr": "blesk / blýskání", "ex": "The tree was struck by lightning." }
+  ]
+}
