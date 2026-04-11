@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "play", "tr": "hrát / hra / divadelní hra", "ex": "The children are playing in the garden." },
+    { "id": 152, "word": "player", "tr": "hráč / přehrávač", "ex": "He is the best player on the team." },
+    { "id": 153, "word": "playground", "tr": "hřiště (dětské)", "ex": "The school has a large playground." },
+    { "id": 154, "word": "plea", "tr": "prosba / obhajoba / prohlášení", "ex": "He made an emotional plea for help." },
+    { "id": 155, "word": "plead", "tr": "prosit / hájit / prohlásit u soudu", "ex": "The prisoner pleaded for mercy." },
+    { "id": 156, "word": "pleasant", "tr": "příjemný / milý", "ex": "We spent a very pleasant evening together." },
+    { "id": 157, "word": "please", "tr": "prosím / potěšit", "ex": "It's difficult to please everyone." },
+    { "id": 158, "word": "pleased", "tr": "potěšený / spokojený", "ex": "I'm very pleased with the results." },
+    { "id": 159, "word": "pleasure", "tr": "potěšení / radost", "ex": "It was a pleasure meeting you." },
+    { "id": 160, "word": "pledge", "tr": "přislíbit / slib / záruka", "ex": "The government has made a pledge to reduce taxes." },
+    { "id": 161, "word": "plenty", "tr": "dostatek / hojnost", "ex": "Don't worry, we have plenty of time." },
+    { "id": 162, "word": "plot", "tr": "zápletka / spiknutí / pozemek", "ex": "The movie had a very complicated plot." },
+    { "id": 163, "word": "plug", "tr": "zástrčka / zapojit / špunt", "ex": "Is the printer plugged in?" },
+    { "id": 164, "word": "plunge", "tr": "ponořit se / prudký pokles", "ex": "Share prices took a sudden plunge." },
+    { "id": 165, "word": "plus", "tr": "plus / výhoda", "ex": "The salary is good, plus there are many benefits." },
+    { "id": 166, "word": "pocket", "tr": "kapsa", "ex": "He put his keys in his pocket." },
+    { "id": 167, "word": "poem", "tr": "báseň", "ex": "She wrote a beautiful poem for her mother." },
+    { "id": 168, "word": "poet", "tr": "básník", "ex": "He is considered one of the greatest poets of his time." },
+    { "id": 169, "word": "poetry", "tr": "poezie", "ex": "I enjoy reading modern poetry." },
+    { "id": 170, "word": "point", "tr": "bod / smysl / ukázat", "ex": "I don't see the point of waiting any longer." },
+    { "id": 171, "word": "pointed", "tr": "špičatý / trefný", "ex": "The building has a pointed roof." },
+    { "id": 172, "word": "poison", "tr": "jed / otrávit", "ex": "Some mushrooms contain a deadly poison." },
+    { "id": 173, "word": "poisonous", "tr": "jedovatý", "ex": "The bite of that snake is poisonous." },
+    { "id": 174, "word": "pole", "tr": "tyč / sloup / pól", "ex": "The flag was flying from a tall pole." },
+    { "id": 175, "word": "police", "tr": "policie", "ex": "Call the police immediately!" }
+  ]
+}
