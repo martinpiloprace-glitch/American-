@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Body Parts",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "head", "tr": "hlava", "ex": "Touch your head." },
+    { "id": 2, "word": "face", "tr": "obličej", "ex": "Wash your face." },
+    { "id": 3, "word": "eye", "tr": "oko", "ex": "My eye is blue." },
+    { "id": 4, "word": "ear", "tr": "ucho", "ex": "I hear with my ear." },
+    { "id": 5, "word": "nose", "tr": "nos", "ex": "Small nose." },
+    { "id": 6, "word": "mouth", "tr": "pusa", "ex": "Open your mouth." },
+    { "id": 7, "word": "hand", "tr": "ruka", "ex": "Wash your hand." },
+    { "id": 8, "word": "arm", "tr": "paže", "ex": "Long arm." },
+    { "id": 9, "word": "leg", "tr": "noha", "ex": "My leg hurts." },
+    { "id": 10, "word": "foot", "tr": "chodidlo", "ex": "Left foot." }
+  ]
+}
