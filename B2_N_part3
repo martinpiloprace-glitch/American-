@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "N",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "noble", "tr": "vznešený / šlechtický", "ex": "It was a noble gesture on his part." },
+    { "id": 52, "word": "nobody", "tr": "nikdo", "ex": "Nobody knows the answer to that question." },
+    { "id": 53, "word": "nod", "tr": "přikývnout / kývnutí", "ex": "He gave a quick nod of agreement." },
+    { "id": 54, "word": "noise", "tr": "hluk / šum", "ex": "Try not to make too much noise." },
+    { "id": 55, "word": "noisy", "tr": "hlučný", "ex": "The street outside is very noisy." },
+    { "id": 56, "word": "nominal", "tr": "nominální / symbolický", "ex": "They charged a nominal fee for the service." },
+    { "id": 57, "word": "nominate", "tr": "nominovat / jmenovat", "ex": "She was nominated for an Academy Award." },
+    { "id": 58, "word": "nomination", "tr": "nominace", "ex": "The nominations will be announced next week." },
+    { "id": 59, "word": "none", "tr": "žádný / nikdo", "ex": "None of the players was injured." },
+    { "id": 60, "word": "nonetheless", "tr": "přesto / nicméně", "ex": "The task was difficult, but nonetheless rewarding." },
+    { "id": 61, "word": "nonsense", "tr": "nesmysl / hloupost", "ex": "Stop talking nonsense and listen to me." },
+    { "id": 62, "word": "noon", "tr": "poledne", "ex": "The meeting is scheduled for noon." },
+    { "id": 63, "word": "nor", "tr": "ani / aniž", "ex": "I neither know nor care what happens." },
+    { "id": 64, "word": "norm", "tr": "norma / standard", "ex": "Working late has become the norm in this office." },
+    { "id": 65, "word": "normal", "tr": "normální / běžný", "ex": "It's normal to feel nervous before an interview." },
+    { "id": 66, "word": "normally", "tr": "normálně / běžně", "ex": "I normally go to bed around eleven." },
+    { "id": 67, "word": "north", "tr": "sever / severní", "ex": "The city is in the north of the country." },
+    { "id": 68, "word": "northern", "tr": "severní", "ex": "They live in a small town in northern England." },
+    { "id": 69, "word": "nose", "tr": "nos", "ex": "She has a small, straight nose." },
+    { "id": 70, "word": "not", "tr": "ne / zápor", "ex": "I am not hungry." },
+    { "id": 71, "word": "notable", "tr": "pozoruhodný / významný", "ex": "There has been a notable improvement in his work." },
+    { "id": 72, "word": "notably", "tr": "zejména / pozoruhodně", "ex": "Several people were absent, notably the manager." },
+    { "id": 73, "word": "note", "tr": "poznámka / bankovka / všimnout si", "ex": "Please note that the office is closed on Mondays." },
+    { "id": 74, "word": "notebook", "tr": "zápisník / sešit", "ex": "He wrote his ideas down in a small notebook." },
+    { "id": 75, "word": "nothing", "tr": "nic", "ex": "There is nothing in the box." }
+  ]
+}
