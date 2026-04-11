@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 11,
+  "mode": "sentences",
+  "data": [
+    { "id": 251, "word": "premium", "tr": "prémie / pojistné / prvotřídní", "ex": "You have to pay a premium for extra luggage." },
+    { "id": 252, "word": "preoccupied", "tr": "zaneprázdněný (myšlenkami) / zaujatý", "ex": "He seemed preoccupied and didn't hear me." },
+    { "id": 253, "word": "preparation", "tr": "příprava", "ex": "The team is in final preparation for the match." },
+    { "id": 254, "word": "prepare", "tr": "připravit (se)", "ex": "I need to prepare for my interview." },
+    { "id": 255, "word": "prepared", "tr": "připravený", "ex": "We were not prepared for such heavy rain." },
+    { "id": 256, "word": "prescribe", "tr": "předepsat / stanovit", "ex": "The doctor prescribed some antibiotics." },
+    { "id": 257, "word": "prescription", "tr": "recept (lékařský) / předpis", "ex": "The pharmacist is filling my prescription." },
+    { "id": 258, "word": "presence", "tr": "přítomnost / výskyt", "ex": "Your presence is requested at the meeting." },
+    { "id": 259, "word": "present", "tr": "přítomný / dárek / prezentovat", "ex": "He gave her a beautiful present for her birthday." },
+    { "id": 260, "word": "presentation", "tr": "prezentace / představení", "ex": "The sales manager gave a short presentation." },
+    { "id": 261, "word": "presently", "tr": "v současnosti / brzy", "ex": "The manager is presently out of the office." },
+    { "id": 262, "word": "preservation", "tr": "zachování / ochrana / konzervace", "ex": "The organization is dedicated to the preservation of historical sites." },
+    { "id": 263, "word": "preserve", "tr": "zachovat / uchránit / zavařenina", "ex": "We must preserve our natural resources." },
+    { "id": 264, "word": "preside", "tr": "předsedat / vést", "ex": "The judge will preside over the trial." },
+    { "id": 265, "word": "president", "tr": "prezident / předseda", "ex": "The president signed the new law." },
+    { "id": 266, "word": "presidential", "tr": "prezidentský", "ex": "The presidential elections will be held next year." },
+    { "id": 267, "word": "press", "tr": "tisk / tisknout / naléhat", "ex": "Press the button to start the machine." },
+    { "id": 268, "word": "pressure", "tr": "tlak / nátlak", "ex": "She is under a lot of pressure at work." },
+    { "id": 269, "word": "prestige", "tr": "prestiž", "ex": "Winning the award brought great prestige to the school." },
+    { "id": 270, "word": "presumably", "tr": "pravděpodobně / podle všeho", "ex": "Presumably, he forgot about the meeting." },
+    { "id": 271, "word": "presume", "tr": "předpokládat / domnívat se", "ex": "I presume that you enjoyed the movie." },
+    { "id": 272, "word": "pretend", "tr": "předstírat / hrát si na", "ex": "He pretended to be asleep when I entered the room." },
+    { "id": 273, "word": "pretext", "tr": "záminka", "ex": "He used his headache as a pretext for leaving early." },
+    { "id": 274, "word": "pretty", "tr": "pěkný / docela", "ex": "The garden looks pretty in the springtime." },
+    { "id": 275, "word": "prevail", "tr": "převládat / zvítězit", "ex": "Common sense will hopefully prevail in the end." }
+  ]
+}
