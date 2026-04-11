@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 8,
+  "mode": "sentences",
+  "data": [
+    { "id": 176, "word": "researcher", "tr": "výzkumník / badatel", "ex": "Researchers have discovered a new species of frog." },
+    { "id": 177, "word": "resemble", "tr": "podobat se", "ex": "She closely resembles her mother." },
+    { "id": 178, "word": "resent", "tr": "nesnášet / cítit křivdu", "ex": "He resents the fact that he wasn't invited." },
+    { "id": 179, "word": "resentment", "tr": "rozhořčení / odpor / zášť", "ex": "There is a lot of resentment toward the new law." },
+    { "id": 180, "word": "reservation", "tr": "rezervace / pochybnost", "ex": "I'd like to make a reservation for dinner." },
+    { "id": 181, "word": "reserve", "tr": "rezervovat / záloha / rezerva", "ex": "The money was kept in reserve for emergencies." },
+    { "id": 182, "word": "reside", "tr": "sídlit / bydlet", "ex": "The family resides in a small town in France." },
+    { "id": 183, "word": "residence", "tr": "bydliště / rezidence", "ex": "The palace is the official residence of the king." },
+    { "id": 184, "word": "resident", "tr": "obyvatel / rezident", "ex": "Local residents are complaining about the noise." },
+    { "id": 185, "word": "residential", "tr": "obytný / rezidenční", "ex": "The area is mainly residential." },
+    { "id": 186, "word": "residue", "tr": "zbytek / reziduum", "ex": "There was a sticky residue on the table." },
+    { "id": 187, "word": "resign", "tr": "odstoupit / rezignovat", "ex": "He decided to resign from his position." },
+    { "id": 188, "word": "resignation", "tr": "rezignace / odstoupení", "ex": "The minister announced his resignation yesterday." },
+    { "id": 189, "word": "resist", "tr": "odolat / bránit se", "ex": "It’s hard to resist eating chocolate." },
+    { "id": 190, "word": "resistance", "tr": "odpor", "ex": "The new policy met with a lot of resistance." },
+    { "id": 191, "word": "resistant", "tr": "odolný", "ex": "This material is resistant to water." },
+    { "id": 192, "word": "resolution", "tr": "rozlišení / předsevzetí / rozhodnutí", "ex": "My New Year's resolution is to exercise more." },
+    { "id": 193, "word": "resolve", "tr": "vyřešit / odhodlání", "ex": "The crisis was resolved peacefully." },
+    { "id": 194, "word": "resort", "tr": "středisko / letovisko / východisko", "ex": "We stayed at a luxury resort in the Maldives." },
+    { "id": 195, "word": "resource", "tr": "zdroj / prostředek", "ex": "Water is a precious natural resource." },
+    { "id": 196, "word": "respect", "tr": "respekt / úcta / respektovat", "ex": "You should show respect to your elders." },
+    { "id": 197, "word": "respective", "tr": "příslušný / vlastní", "ex": "They all went back to their respective homes." },
+    { "id": 198, "word": "respectively", "tr": "v uvedeném pořadí / po řadě", "ex": "John and Mary are 20 and 22, respectively." },
+    { "id": 199, "word": "respond", "tr": "odpovědět / reagovat", "ex": "The police responded quickly to the call." },
+    { "id": 200, "word": "response", "tr": "odpověď / reakce", "ex": "I'm waiting for a response to my application." }
+  ]
+}
