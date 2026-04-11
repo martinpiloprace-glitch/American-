@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 10,
+  "topic": "home_short",
+  "data": [
+    { "id": 1, "word": "house", "tr": "dům", "ex": "The house is big.", "ex_tr": "Dům je velký." },
+    { "id": 2, "word": "home", "tr": "domov", "ex": "I am home.", "ex_tr": "Jsem doma." },
+    { "id": 3, "word": "room", "tr": "pokoj", "ex": "The room is clean.", "ex_tr": "Pokoj je čistý." },
+    { "id": 4, "word": "kitchen", "tr": "kuchyně", "ex": "The kitchen is small.", "ex_tr": "Kuchyně je malá." },
+    { "id": 5, "word": "bathroom", "tr": "koupelna", "ex": "The bathroom is new.", "ex_tr": "Koupelna je nová." },
+
+    { "id": 6, "word": "bedroom", "tr": "ložnice", "ex": "The bedroom is quiet.", "ex_tr": "Ložnice je tichá." },
+    { "id": 7, "word": "living room", "tr": "obývák", "ex": "The living room is big.", "ex_tr": "Obývák je velký." },
+    { "id": 8, "word": "hall", "tr": "chodba", "ex": "The hall is long.", "ex_tr": "Chodba je dlouhá." },
+    { "id": 9, "word": "door", "tr": "dveře", "ex": "The door is open.", "ex_tr": "Dveře jsou otevřené." },
+    { "id": 10, "word": "window", "tr": "okno", "ex": "The window is clean.", "ex_tr": "Okno je čisté." },
+
+    { "id": 11, "word": "floor", "tr": "podlaha", "ex": "The floor is cold.", "ex_tr": "Podlaha je studená." },
+    { "id": 12, "word": "ceiling", "tr": "strop", "ex": "The ceiling is high.", "ex_tr": "Strop je vysoký." },
+    { "id": 13, "word": "wall", "tr": "zeď", "ex": "The wall is white.", "ex_tr": "Zeď je bílá." },
+    { "id": 14, "word": "light", "tr": "světlo", "ex": "The light is on.", "ex_tr": "Světlo je zapnuté." },
+    { "id": 15, "word": "lamp", "tr": "lampa", "ex": "The lamp is new.", "ex_tr": "Lampa je nová." },
+
+    { "id": 16, "word": "table", "tr": "stůl", "ex": "The table is big.", "ex_tr": "Stůl je velký." },
+    { "id": 17, "word": "chair", "tr": "židle", "ex": "The chair is soft.", "ex_tr": "Židle je měkká." },
+    { "id": 18, "word": "sofa", "tr": "pohovka", "ex": "The sofa is comfy.", "ex_tr": "Pohovka je pohodlná." },
+    { "id": 19, "word": "bed", "tr": "postel", "ex": "The bed is warm.", "ex_tr": "Postel je teplá." },
+    { "id": 20, "word": "closet", "tr": "skříň", "ex": "The closet is full.", "ex_tr": "Skříň je plná." },
+
+    { "id": 21, "word": "shelf", "tr": "police", "ex": "The shelf is high.", "ex_tr": "Police je vysoko." },
+    { "id": 22, "word": "drawer", "tr": "šuplík", "ex": "The drawer is open.", "ex_tr": "Šuplík je otevřený." },
+    { "id": 23, "word": "carpet", "tr": "koberec", "ex": "The carpet is soft.", "ex_tr": "Koberec je měkký." },
+    { "id": 24, "word": "curtain", "tr": "závěs", "ex": "The curtain is blue.", "ex_tr": "Závěs je modrý." },
+    { "id": 25, "word": "mirror", "tr": "zrcadlo", "ex": "The mirror is clean.", "ex_tr": "Zrcadlo je čisté." },
+
+    { "id": 26, "word": "fridge", "tr": "lednice", "ex": "The fridge is full.", "ex_tr": "Lednice je plná." },
+    { "id": 27, "word": "freezer", "tr": "mrazák", "ex": "The freezer works.", "ex_tr": "Mrazák funguje." },
+    { "id": 28, "word": "oven", "tr": "trouba", "ex": "The oven is hot.", "ex_tr": "Trouba je horká." },
+    { "id": 29, "word": "stove", "tr": "sporák", "ex": "The stove is on.", "ex_tr": "Sporák je zapnutý." },
+    { "id": 30, "word": "microwave", "tr": "mikrovlnka", "ex": "The microwave works.", "ex_tr": "Mikrovlnka funguje." },
+
+    { "id": 31, "word": "sink", "tr": "dřez", "ex": "The sink is clean.", "ex_tr": "Dřez je čistý." },
+    { "id": 32, "word": "toilet", "tr": "záchod", "ex": "The toilet is clean.", "ex_tr": "Záchod je čistý." },
+    { "id": 33, "word": "shower", "tr": "sprcha", "ex": "The shower works.", "ex_tr": "Sprcha funguje." },
+    { "id": 34, "word": "bathtub", "tr": "vana", "ex": "The bathtub is full.", "ex_tr": "Vana je plná." },
+    { "id": 35, "word": "towel", "tr": "ručník", "ex": "The towel is dry.", "ex_tr": "Ručník je suchý." },
+
+    { "id": 36, "word": "soap", "tr": "mýdlo", "ex": "I use soap.", "ex_tr": "Používám mýdlo." },
+    { "id": 37, "word": "toothbrush", "tr": "kartáček", "ex": "I use a toothbrush.", "ex_tr": "Používám kartáček." },
+    { "id": 38, "word": "toothpaste", "tr": "pasta", "ex": "I use toothpaste.", "ex_tr": "Používám pastu." },
+    { "id": 39, "word": "shampoo", "tr": "šampon", "ex": "I use shampoo.", "ex_tr": "Používám šampon." },
+    { "id": 40, "word": "cleaner", "tr": "čistič", "ex": "I use cleaner.", "ex_tr": "Používám čistič." },
+
+    { "id": 41, "word": "washing machine", "tr": "pračka", "ex": "The machine works.", "ex_tr": "Pračka funguje." },
+    { "id": 42, "word": "dryer", "tr": "sušička", "ex": "The dryer runs.", "ex_tr": "Sušička běží." },
+    { "id": 43, "word": "vacuum", "tr": "vysavač", "ex": "The vacuum works.", "ex_tr": "Vysavač funguje." },
+    { "id": 44, "word": "broom", "tr": "koště", "ex": "I use a broom.", "ex_tr": "Používám koště." },
+    { "id": 45, "word": "trash can", "tr": "koš", "ex": "The trash can is full.", "ex_tr": "Koš je plný." },
+
+    { "id": 46, "word": "key", "tr": "klíč", "ex": "I have a key.", "ex_tr": "Mám klíč." },
+    { "id": 47, "word": "remote", "tr": "ovladač", "ex": "The remote works.", "ex_tr": "Ovladač funguje." },
+    { "id": 48, "word": "clock", "tr": "hodiny", "ex": "The clock ticks.", "ex_tr": "Hodiny tikají." },
+    { "id": 49, "word": "picture", "tr": "obraz", "ex": "The picture is nice.", "ex_tr": "Obraz je hezký." },
+    { "id": 50, "word": "plant", "tr": "rostlina", "ex": "The plant grows.", "ex_tr": "Rostlina roste." }
+  ]
+}
