@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "City Life",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "street", "tr": "ulice", "ex": "Cross the street." },
+    { "id": 2, "word": "building", "tr": "budova", "ex": "Tall building." },
+    { "id": 3, "word": "shop", "tr": "obchod", "ex": "The shop is open." },
+    { "id": 4, "word": "people", "tr": "lidé", "ex": "Many people." },
+    { "id": 5, "word": "park", "tr": "park", "ex": "Walk in the park." },
+    { "id": 6, "word": "car", "tr": "auto", "ex": "Too many cars." },
+    { "id": 7, "word": "noise", "tr": "hluk", "ex": "Big city noise." },
+    { "id": 8, "word": "bridge", "tr": "most", "ex": "Over the bridge." },
+    { "id": 9, "word": "square", "tr": "náměstí", "ex": "Meet at the square." },
+    { "id": 10, "word": "light", "tr": "světlo", "ex": "Red light." }
+  ]
+}
