@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 11,
+  "mode": "sentences",
+  "data": [
+    { "id": 251, "word": "trip", "tr": "výlet / cesta / zakopnout", "ex": "We are planning a trip to the mountains." },
+    { "id": 252, "word": "triumph", "tr": "triumf / vítězství", "ex": "The team's victory was a great triumph." },
+    { "id": 253, "word": "trivial", "tr": "banální / všední", "ex": "It's a trivial matter, not worth worrying about." },
+    { "id": 254, "word": "trolley", "tr": "vozík / nákupní vozík", "ex": "He pushed the trolley through the supermarket." },
+    { "id": 255, "word": "troop", "tr": "vojáci / oddíl", "ex": "The government is withdrawing its troops from the region." },
+    { "id": 256, "word": "trophy", "tr": "trofej / pohár", "ex": "He proudly displayed his trophy on the shelf." },
+    { "id": 257, "word": "tropical", "tr": "tropický", "ex": "They spent their holiday on a tropical island." },
+    { "id": 258, "word": "trouble", "tr": "problém / potíž / trápit", "ex": "I'm sorry to cause you so much trouble." },
+    { "id": 259, "word": "troubled", "tr": "znepokojený / ustaraný", "ex": "He has a troubled expression on his face." },
+    { "id": 260, "word": "trousers", "tr": "kalhoty", "ex": "He was wearing a pair of grey trousers." },
+    { "id": 261, "word": "truck", "tr": "nákladní auto / kamion", "ex": "The goods were delivered by truck." },
+    { "id": 262, "word": "true", "tr": "pravdivý / skutečný", "ex": "Is it true that you are moving to London?" },
+    { "id": 263, "word": "truly", "tr": "skutečně / opravdu", "ex": "I am truly sorry for what happened." },
+    { "id": 264, "word": "trunk", "tr": "kufr (auta) / kmen / chobot", "ex": "Put the luggage in the trunk of the car." },
+    { "id": 265, "word": "trust", "tr": "důvěra / důvěřovat", "ex": "Trust is essential in any relationship." },
+    { "id": 266, "word": "truth", "tr": "pravda", "ex": "You must tell the truth." },
+    { "id": 267, "word": "try", "tr": "zkusit / pokusit se / pokus", "ex": "I'll try my best to help you." },
+    { "id": 268, "word": "tub", "tr": "vana / kelímek", "ex": "He sat in a tub of hot water." },
+    { "id": 269, "word": "tube", "tr": "tuba / trubice / metro (v Londýně)", "ex": "I need a tube of toothpaste." },
+    { "id": 270, "word": "tuesday", "tr": "úterý", "ex": "The meeting is on Tuesday morning." },
+    { "id": 271, "word": "tuition", "tr": "školné / výuka", "ex": "The university has increased its tuition fees." },
+    { "id": 272, "word": "tumble", "tr": "svalit se / převalit se / pád", "ex": "The prices on the stock market tumbled today." },
+    { "id": 273, "word": "tumor", "tr": "nádor / tumor", "ex": "The doctors found a small tumor in his brain." },
+    { "id": 274, "word": "tune", "tr": "melodie / naladit", "ex": "I can't get that tune out of my head." },
+    { "id": 275, "word": "tunnel", "tr": "tunel / razit tunel", "ex": "The train went through a long tunnel." }
+  ]
+}
