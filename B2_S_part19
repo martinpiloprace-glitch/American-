@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 19,
+  "mode": "sentences",
+  "data": [
+    { "id": 451, "word": "stumble", "tr": "zakopnout / klopýtnout", "ex": "I stumbled over a rock in the path." },
+    { "id": 452, "word": "stupid", "tr": "hloupý", "ex": "That was a very stupid mistake to make." },
+    { "id": 453, "word": "style", "tr": "styl", "ex": "I like your style of writing." },
+    { "id": 454, "word": "subject", "tr": "předmět / poddaný / vystavit (čemu)", "ex": "Mathematics is my favorite subject." },
+    { "id": 455, "word": "submission", "tr": "odevzdání / podrobení se", "ex": "The deadline for the submission of reports is Friday." },
+    { "id": 456, "word": "submit", "tr": "odevzdat / podrobit se", "ex": "You must submit your application by the end of the month." },
+    { "id": 457, "word": "subordinate", "tr": "podřízený", "ex": "He treats his subordinates with respect." },
+    { "id": 458, "word": "subscribe", "tr": "odebírat / předplatit / souhlasit", "ex": "I subscribe to several magazines." },
+    { "id": 459, "word": "subscription", "tr": "předplatné / odběr", "ex": "My subscription to the newspaper expires next month." },
+    { "id": 460, "word": "subsequent", "tr": "následný", "ex": "The first meeting was followed by subsequent discussions." },
+    { "id": 461, "word": "subsequently", "tr": "následně / později", "ex": "He was subsequently charged with murder." },
+    { "id": 462, "word": "subsidy", "tr": "dotace / subvence", "ex": "The government provides a subsidy for public transport." },
+    { "id": 463, "word": "substance", "tr": "látka / podstata / hmota", "ex": "The leaves are covered with a sticky substance." },
+    { "id": 464, "word": "substantial", "tr": "podstatný / značný", "ex": "The project will require a substantial amount of money." },
+    { "id": 465, "word": "substantially", "tr": "podstatně / značně", "ex": "The quality of life has improved substantially." },
+    { "id": 466, "word": "substitute", "tr": "nahradit / náhradník", "ex": "You can substitute margarine for butter in this recipe." },
+    { "id": 467, "word": "substitution", "tr": "náhrada / substituce", "ex": "The manager made a tactical substitution in the second half." },
+    { "id": 468, "word": "subtle", "tr": "jemný / decentní / nepatrný", "ex": "There are subtle differences between the two paintings." },
+    { "id": 469, "word": "suburb", "tr": "předměstí", "ex": "They live in a quiet suburb of London." },
+    { "id": 470, "word": "suburban", "tr": "předměstský / mimoměstský", "ex": "The area has a very suburban feel." },
+    { "id": 471, "word": "subway", "tr": "metro (v USA) / podchod", "ex": "We took the subway to the city center." },
+    { "id": 472, "word": "succeed", "tr": "uspět / následovat (po někom)", "ex": "She finally succeeded in passing her driving test." },
+    { "id": 473, "word": "success", "tr": "úspěch", "ex": "The party was a great success." },
+    { "id": 474, "word": "successful", "tr": "úspěšný", "ex": "He is a very successful businessman." },
+    { "id": 475, "word": "successfully", "tr": "úspěšně", "ex": "The operation was performed successfully." }
+  ]
+}
