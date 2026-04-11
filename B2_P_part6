@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "picnic", "tr": "piknik", "ex": "We had a lovely picnic by the river." },
+    { "id": 127, "word": "picture", "tr": "obrázek / fotka / představit si", "ex": "Can you picture yourself living in another country?" },
+    { "id": 128, "word": "piece", "tr": "kus / kousek", "ex": "Would you like another piece of cake?" },
+    { "id": 129, "word": "pig", "tr": "prase", "ex": "The farmer has several pigs and cows." },
+    { "id": 130, "word": "pile", "tr": "hromada / kupa / kupit", "ex": "There was a huge pile of laundry on the bed." },
+    { "id": 131, "word": "pill", "tr": "pilulka / prášek", "ex": "The doctor told her to take one pill three times a day." },
+    { "id": 132, "word": "pilot", "tr": "pilot / řídit (letadlo)", "ex": "The pilot landed the plane safely." },
+    { "id": 133, "word": "pin", "tr": "špendlík / připnout / kód", "ex": "She used a pin to attach the note to the board." },
+    { "id": 134, "word": "pink", "tr": "růžový", "ex": "She wore a bright pink dress to the party." },
+    { "id": 135, "word": "pioneer", "tr": "průkopník / zahájit", "ex": "She was a pioneer in the field of computer science." },
+    { "id": 136, "word": "pipe", "tr": "potrubí / dýmka / píšťala", "ex": "Water was leaking from a broken pipe." },
+    { "id": 137, "word": "pit", "tr": "jáma / důl / pecka", "ex": "The soldiers dug a deep pit." },
+    { "id": 138, "word": "pitch", "tr": "hřiště / výška tónu / nadhazovat", "ex": "The football pitch was covered in mud." },
+    { "id": 139, "word": "pity", "tr": "lítost / soucit / škoda", "ex": "It's a great pity that you can't come." },
+    { "id": 140, "word": "place", "tr": "místo / umístit", "ex": "This is a beautiful place for a holiday." },
+    { "id": 141, "word": "placement", "tr": "umístění / stáž", "ex": "The university helps students find work placements." },
+    { "id": 142, "word": "plain", "tr": "prostý / jasný / rovina", "ex": "The document was written in plain English." },
+    { "id": 143, "word": "plan", "tr": "plán / plánovat", "ex": "Do you have any plans for the weekend?" },
+    { "id": 144, "word": "plane", "tr": "letadlo / rovina", "ex": "The plane took off on time." },
+    { "id": 145, "word": "planet", "tr": "planeta", "ex": "We must protect our planet for future generations." },
+    { "id": 146, "word": "planning", "tr": "plánování", "ex": "The event required a lot of careful planning." },
+    { "id": 147, "word": "plant", "tr": "rostlina / zasadit / továrna", "ex": "I forgot to water my plants." },
+    { "id": 148, "word": "plastic", "tr": "plast / plastový", "ex": "The toy is made of recycled plastic." },
+    { "id": 149, "word": "plate", "tr": "talíř / cedulka / plát", "ex": "She put the sandwiches on a large plate." },
+    { "id": 150, "word": "platform", "tr": "nástupiště / plošina / platforma", "ex": "The train for London leaves from platform 4." }
+  ]
+}
