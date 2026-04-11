@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 5,
+  "topic": "time_short",
+  "data": [
+    { "id": 1, "word": "time", "tr": "čas", "ex": "I have time.", "ex_tr": "Mám čas." },
+    { "id": 2, "word": "now", "tr": "teď", "ex": "Do it now.", "ex_tr": "Udělej to teď." },
+    { "id": 3, "word": "today", "tr": "dnes", "ex": "Today is good.", "ex_tr": "Dnes je dobře." },
+    { "id": 4, "word": "tomorrow", "tr": "zítra", "ex": "See you tomorrow.", "ex_tr": "Uvidíme se zítra." },
+    { "id": 5, "word": "yesterday", "tr": "včera", "ex": "It was yesterday.", "ex_tr": "Bylo to včera." },
+
+    { "id": 6, "word": "morning", "tr": "ráno", "ex": "Good morning.", "ex_tr": "Dobré ráno." },
+    { "id": 7, "word": "noon", "tr": "poledne", "ex": "It is noon.", "ex_tr": "Je poledne." },
+    { "id": 8, "word": "afternoon", "tr": "odpoledne", "ex": "This afternoon.", "ex_tr": "Dnes odpoledne." },
+    { "id": 9, "word": "evening", "tr": "večer", "ex": "Good evening.", "ex_tr": "Dobrý večer." },
+    { "id": 10, "word": "night", "tr": "noc", "ex": "Good night.", "ex_tr": "Dobrou noc." },
+
+    { "id": 11, "word": "hour", "tr": "hodina", "ex": "One hour.", "ex_tr": "Jedna hodina." },
+    { "id": 12, "word": "minute", "tr": "minuta", "ex": "One minute.", "ex_tr": "Jedna minuta." },
+    { "id": 13, "word": "second", "tr": "sekunda", "ex": "One second.", "ex_tr": "Jedna sekunda." },
+    { "id": 14, "word": "week", "tr": "týden", "ex": "One week.", "ex_tr": "Jeden týden." },
+    { "id": 15, "word": "month", "tr": "měsíc", "ex": "One month.", "ex_tr": "Jeden měsíc." },
+
+    { "id": 16, "word": "year", "tr": "rok", "ex": "One year.", "ex_tr": "Jeden rok." },
+    { "id": 17, "word": "weekend", "tr": "víkend", "ex": "The weekend is here.", "ex_tr": "Víkend je tady." },
+    { "id": 18, "word": "holiday", "tr": "svátek", "ex": "It is a holiday.", "ex_tr": "Je svátek." },
+    { "id": 19, "word": "season", "tr": "roční období", "ex": "New season.", "ex_tr": "Nové období." },
+    { "id": 20, "word": "spring", "tr": "jaro", "ex": "It is spring.", "ex_tr": "Je jaro." },
+
+    { "id": 21, "word": "summer", "tr": "léto", "ex": "It is summer.", "ex_tr": "Je léto." },
+    { "id": 22, "word": "autumn", "tr": "podzim", "ex": "It is autumn.", "ex_tr": "Je podzim." },
+    { "id": 23, "word": "winter", "tr": "zima", "ex": "It is winter.", "ex_tr": "Je zima." },
+    { "id": 24, "word": "early", "tr": "brzy", "ex": "I am early.", "ex_tr": "Jsem brzy." },
+    { "id": 25, "word": "late", "tr": "pozdě", "ex": "I am late.", "ex_tr": "Jdu pozdě." },
+
+    { "id": 26, "word": "soon", "tr": "brzy", "ex": "See you soon.", "ex_tr": "Uvidíme se brzy." },
+    { "id": 27, "word": "later", "tr": "později", "ex": "Call me later.", "ex_tr": "Zavolej později." },
+    { "id": 28, "word": "before", "tr": "před", "ex": "Before lunch.", "ex_tr": "Před obědem." },
+    { "id": 29, "word": "after", "tr": "po", "ex": "After work.", "ex_tr": "Po práci." },
+    { "id": 30, "word": "always", "tr": "vždy", "ex": "I always try.", "ex_tr": "Vždy se snažím." },
+
+    { "id": 31, "word": "never", "tr": "nikdy", "ex": "I never stop.", "ex_tr": "Nikdy nepřestanu." },
+    { "id": 32, "word": "sometimes", "tr": "někdy", "ex": "I sometimes read.", "ex_tr": "Někdy čtu." },
+    { "id": 33, "word": "often", "tr": "často", "ex": "I often walk.", "ex_tr": "Často chodím." },
+    { "id": 34, "word": "rarely", "tr": "zřídka", "ex": "I rarely run.", "ex_tr": "Zřídka běhám." },
+    { "id": 35, "word": "usually", "tr": "obvykle", "ex": "I usually cook.", "ex_tr": "Obvykle vařím." },
+
+    { "id": 36, "word": "midnight", "tr": "půlnoc", "ex": "It is midnight.", "ex_tr": "Je půlnoc." },
+    { "id": 37, "word": "sunrise", "tr": "východ slunce", "ex": "At sunrise.", "ex_tr": "Při východu." },
+    { "id": 38, "word": "sunset", "tr": "západ slunce", "ex": "At sunset.", "ex_tr": "Při západu." },
+    { "id": 39, "word": "moment", "tr": "moment", "ex": "One moment.", "ex_tr": "Moment." },
+    { "id": 40, "word": "hourly", "tr": "každou hodinu", "ex": "Hourly check.", "ex_tr": "Kontrola každou hodinu." },
+
+    { "id": 41, "word": "daily", "tr": "denně", "ex": "Daily work.", "ex_tr": "Denní práce." },
+    { "id": 42, "word": "weekly", "tr": "týdně", "ex": "Weekly plan.", "ex_tr": "Týdenní plán." },
+    { "id": 43, "word": "monthly", "tr": "měsíčně", "ex": "Monthly pay.", "ex_tr": "Měsíční plat." },
+    { "id": 44, "word": "yearly", "tr": "ročně", "ex": "Yearly check.", "ex_tr": "Roční kontrola." },
+    { "id": 45, "word": "deadline", "tr": "termín", "ex": "The deadline is today.", "ex_tr": "Termín je dnes." },
+
+    { "id": 46, "word": "schedule", "tr": "rozvrh", "ex": "My schedule is full.", "ex_tr": "Mám plný rozvrh." },
+    { "id": 47, "word": "clock", "tr": "hodiny", "ex": "The clock works.", "ex_tr": "Hodiny jdou." },
+    { "id": 48, "word": "watch", "tr": "hodinky", "ex": "My watch is new.", "ex_tr": "Moje hodinky jsou nové." },
+    { "id": 49, "word": "calendar", "tr": "kalendář", "ex": "Check the calendar.", "ex_tr": "Zkontroluj kalendář." },
+    { "id": 50, "word": "alarm", "tr": "budík", "ex": "The alarm rings.", "ex_tr": "Budík zvoní." }
+  ]
+}
