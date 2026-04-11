@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "W",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "wool", "tr": "vlna", "ex": "This sweater is made of pure wool." },
+    { "id": 127, "word": "word", "tr": "slovo / zpráva", "ex": "I don't understand this word." },
+    { "id": 128, "word": "work", "tr": "práce / pracovat / fungovat", "ex": "She works for an advertising agency." },
+    { "id": 129, "word": "worker", "tr": "dělník / pracovník", "ex": "The company employs over 500 workers." },
+    { "id": 130, "word": "workforce", "tr": "pracovní síla / zaměstnanci", "ex": "The factory has a highly skilled workforce." },
+    { "id": 131, "word": "working", "tr": "pracovní / fungující", "ex": "What are your normal working hours?" },
+    { "id": 132, "word": "workout", "tr": "trénink / cvičení", "ex": "I do a gym workout three times a week." },
+    { "id": 133, "word": "workplace", "tr": "pracoviště", "ex": "Safety in the workplace is very important." },
+    { "id": 134, "word": "workshop", "tr": "dílna / seminář / workshop", "ex": "He's attending a photography workshop this weekend." },
+    { "id": 135, "word": "world", "tr": "svět", "ex": "He wants to travel around the world." },
+    { "id": 136, "word": "worldwide", "tr": "celosvětový / po celém světě", "ex": "The company has a worldwide reputation." },
+    { "id": 137, "word": "worm", "tr": "červ / žížala", "ex": "The bird was pulling a worm out of the ground." },
+    { "id": 138, "word": "worry", "tr": "strachovat se / trápit se / obava", "ex": "Don't worry, everything will be fine." },
+    { "id": 139, "word": "worse", "tr": "horší", "ex": "The weather is getting worse." },
+    { "id": 140, "word": "worship", "tr": "uctívat / uctívání / bohoslužba", "ex": "The ancient Greeks worshipped many gods." },
+    { "id": 141, "word": "worst", "tr": "nejhorší", "ex": "That was the worst movie I've ever seen." },
+    { "id": 142, "word": "worth", "tr": "hodnota / stojící za to", "ex": "The painting is worth a lot of money." },
+    { "id": 143, "word": "worthwhile", "tr": "stojící za námahu / přínosný", "ex": "It was a difficult journey, but it was worthwhile." },
+    { "id": 144, "word": "worthy", "tr": "hodný čeho / úctyhodný", "ex": "He is a worthy opponent." },
+    { "id": 145, "word": "wound", "tr": "rána / zranění / zranit", "ex": "The nurse cleaned the wound on his leg." },
+    { "id": 146, "word": "wrap", "tr": "zabalit / obalit", "ex": "I need to wrap the birthday present." },
+    { "id": 147, "word": "wreck", "tr": "vrak / troska / zničit", "ex": "The ship was a total wreck after the storm." },
+    { "id": 148, "word": "wrist", "tr": "zápěstí", "ex": "She fell and broke her wrist." },
+    { "id": 149, "word": "write", "tr": "psát / napsat", "ex": "I need to write a letter to my parents." },
+    { "id": 150, "word": "wrong", "tr": "špatný / nesprávný / křivda", "ex": "I think you've got the wrong number." }
+  ]
+}
