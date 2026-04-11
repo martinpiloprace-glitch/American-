@@ -1,0 +1,23 @@
+{
+  "level": "B2",
+  "letter": "U",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "urgent", "tr": "naléhavý / urgentní", "ex": "The problem requires urgent attention." },
+    { "id": 77, "word": "urgently", "tr": "naléhavě / okamžitě", "ex": "We need to deal with this matter urgently." },
+    { "id": 78, "word": "us", "tr": "nás / nám", "ex": "They invited us to their wedding." },
+    { "id": 79, "word": "usage", "tr": "použití / úzus / spotřeba", "ex": "The book explains the rules of English usage." },
+    { "id": 80, "word": "use", "tr": "použít / užívat / použití", "ex": "Can I use your phone for a second?" },
+    { "id": 81, "word": "used", "tr": "použitý / zvyklý", "ex": "I'm not used to getting up so early." },
+    { "id": 82, "word": "useful", "tr": "užitečný", "ex": "That's a very useful piece of information." },
+    { "id": 83, "word": "user", "tr": "uživatel", "ex": "The software is designed to be easy for the user." },
+    { "id": 84, "word": "usual", "tr": "obvyklý", "ex": "I'll meet you at the usual time." },
+    { "id": 85, "word": "usually", "tr": "obvykle", "ex": "I usually go to work by bus." },
+    { "id": 86, "word": "utility", "tr": "užitek / veřejná služba / užitkový", "ex": "The cost of utilities like water and gas is rising." },
+    { "id": 87, "word": "utilize", "tr": "využít / zužitkovat", "ex": "We must utilize all available resources." },
+    { "id": 88, "word": "utmost", "tr": "nejzazší / maximální", "ex": "This matter is of the utmost importance." },
+    { "id": 89, "word": "utter", "tr": "naprostý / úplný / vyřknout", "ex": "The whole thing was an utter disaster." },
+    { "id": 90, "word": "utterly", "tr": "naprosto / úplně", "ex": "I was utterly confused by his explanation." }
+  ]
+}
