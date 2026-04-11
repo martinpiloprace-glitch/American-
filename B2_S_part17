@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 17,
+  "mode": "sentences",
+  "data": [
+    { "id": 401, "word": "steep", "tr": "strmý / prudký / nehorázný", "ex": "The path to the top is very steep." },
+    { "id": 402, "word": "steer", "tr": "řídit / kormidlovat / vést", "ex": "He steered the car through the narrow gate." },
+    { "id": 403, "word": "stem", "tr": "stonka / pocházet / zastavit", "ex": "The current economic problems stem from the war." },
+    { "id": 404, "word": "step", "tr": "krok / stupeň / šlápnout", "ex": "Take a few steps back, please." },
+    { "id": 405, "word": "stereotype", "tr": "stereotyp / škatulkovat", "ex": "The ad plays on traditional gender stereotypes." },
+    { "id": 406, "word": "stick", "tr": "hůl / přilepit / držet se", "ex": "I can't get this label to stick." },
+    { "id": 407, "word": "sticky", "tr": "lepkavý", "ex": "My fingers are sticky from the jam." },
+    { "id": 408, "word": "stiff", "tr": "tuhý / ztuhlý / prudký", "ex": "My muscles are stiff after the long walk." },
+    { "id": 409, "word": "still", "tr": "stále / tichý / nehybný", "ex": "Are you still living in London?" },
+    { "id": 410, "word": "stimulate", "tr": "stimulovat / povzbudit", "ex": "The new law is intended to stimulate investment." },
+    { "id": 411, "word": "stimulus", "tr": "podnět / stimul", "ex": "The baby responds to visual stimuli." },
+    { "id": 412, "word": "stir", "tr": "míchat / rozruch / pohnout se", "ex": "Stir the soup constantly so it doesn't burn." },
+    { "id": 413, "word": "stock", "tr": "sklad / zásoby / akcie", "ex": "The shop has a large stock of winter coats." },
+    { "id": 414, "word": "stomach", "tr": "žaludek / břicho", "ex": "I've got a stomach ache." },
+    { "id": 415, "word": "stone", "tr": "kámen / pecka", "ex": "The children were throwing stones into the river." },
+    { "id": 416, "word": "stop", "tr": "zastavit / přestat / zastávka", "ex": "Stop talking and listen to me." },
+    { "id": 417, "word": "storage", "tr": "skladování / úložný prostor", "ex": "The furniture is in storage until we find a house." },
+    { "id": 418, "word": "store", "tr": "obchod / sklad / uložit", "ex": "Data is stored on the computer's hard drive." },
+    { "id": 419, "word": "storm", "tr": "bouře / útok", "ex": "A violent storm broke out during the night." },
+    { "id": 420, "word": "story", "tr": "příběh / poschodí / článek", "ex": "He told us a very funny story." },
+    { "id": 421, "word": "straight", "tr": "rovný / rovnou / přímo", "ex": "Go straight down this road for two miles." },
+    { "id": 422, "word": "straighten", "tr": "napřímit / narovnat", "ex": "He straightened his tie in the mirror." },
+    { "id": 423, "word": "straightforward", "tr": "přímočarý / jasný / upřímný", "ex": "The application process is quite straightforward." },
+    { "id": 424, "word": "strain", "tr": "námaha / napětí / kmen (viru)", "ex": "The move has put a lot of strain on our relationship." },
+    { "id": 425, "word": "strange", "tr": "podivný / cizí", "ex": "That's a very strange thing to say." }
+  ]
+}
