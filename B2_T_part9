@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 9,
+  "mode": "sentences",
+  "data": [
+    { "id": 201, "word": "tractor", "tr": "traktor", "ex": "The farmer is driving a tractor." },
+    { "id": 202, "word": "trade", "tr": "obchod / živnost / obchodovat", "ex": "International trade is essential for the economy." },
+    { "id": 203, "word": "tradition", "tr": "tradice", "ex": "It's a local tradition to have a parade." },
+    { "id": 204, "word": "traditional", "tr": "tradiční", "ex": "They wore traditional costumes for the festival." },
+    { "id": 205, "word": "traditionally", "tr": "tradičně", "ex": "The festival is traditionally held in July." },
+    { "id": 206, "word": "traffic", "tr": "provoz / doprava", "ex": "The traffic was very heavy this morning." },
+    { "id": 207, "word": "tragedy", "tr": "tragedie", "ex": "The death of the young girl was a tragedy." },
+    { "id": 208, "word": "tragic", "tr": "tragický", "ex": "It was a tragic accident." },
+    { "id": 209, "word": "trail", "tr": "stezka / stopa / vléct se", "ex": "The trail leads to the top of the mountain." },
+    { "id": 210, "word": "train", "tr": "vlak / trénovat / učit se", "ex": "I take the train to work every day." },
+    { "id": 211, "word": "trainer", "tr": "trenér / instruktor / tenisky", "ex": "She works as a personal trainer." },
+    { "id": 212, "word": "training", "tr": "trénink / školení / výcvik", "ex": "The staff need more training on the new system." },
+    { "id": 213, "word": "trait", "tr": "rys / vlastnost", "ex": "Patience is a very desirable trait." },
+    { "id": 214, "word": "traitor", "tr": "zrádce", "ex": "He was branded a traitor to his country." },
+    { "id": 215, "word": "transaction", "tr": "transakce / obchod", "ex": "The transaction was completed successfully." },
+    { "id": 216, "word": "transfer", "tr": "přestoupit / převést / přesun", "ex": "I want to transfer some money to my savings account." },
+    { "id": 217, "word": "transform", "tr": "přeměnit / transformovat", "ex": "The new paint has transformed the room." },
+    { "id": 218, "word": "transformation", "tr": "transformace / proměna", "ex": "The city has undergone a complete transformation." },
+    { "id": 219, "word": "transient", "tr": "přechodný / pomíjivý", "ex": "The feeling of happiness was only transient." },
+    { "id": 220, "word": "transition", "tr": "přechod / změna", "ex": "The country is in a period of transition." },
+    { "id": 221, "word": "translate", "tr": "přeložit", "ex": "Can you translate this letter into English?" },
+    { "id": 222, "word": "translation", "tr": "překlad", "ex": "The translation was very accurate." },
+    { "id": 223, "word": "translator", "tr": "překladatel", "ex": "She works as a freelance translator." },
+    { "id": 224, "word": "transmission", "tr": "přenos / vysílání / převodovka", "ex": "The automatic transmission makes the car easy to drive." },
+    { "id": 225, "word": "transmit", "tr": "vysílat / přenášet", "ex": "The disease is transmitted by mosquitoes." }
+  ]
+}
