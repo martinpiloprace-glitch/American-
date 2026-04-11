@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "N",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "neglect", "tr": "zanedbat / opomenout", "ex": "He was accused of neglecting his duties." },
+    { "id": 27, "word": "negotiate", "tr": "vyjednávat / dojednat", "ex": "The company is trying to negotiate a new contract." },
+    { "id": 28, "word": "negotiation", "tr": "vyjednávání / jednání", "ex": "The issue is still under negotiation." },
+    { "id": 29, "word": "neighbor", "tr": "soused / sousedka", "ex": "Our next-door neighbor is very friendly." },
+    { "id": 30, "word": "neighborhood", "tr": "sousedství / čtvrť", "ex": "It's a very quiet and safe neighborhood." },
+    { "id": 31, "word": "neither", "tr": "ani jeden / také ne", "ex": "Neither of the two candidates was suitable for the job." },
+    { "id": 32, "word": "nerve", "tr": "nerv / odvaha", "ex": "The accident caused damage to his optic nerve." },
+    { "id": 33, "word": "nervous", "tr": "nervózní", "ex": "I always get nervous before an exam." },
+    { "id": 34, "word": "nest", "tr": "hnízdo", "ex": "The bird built a nest in the apple tree." },
+    { "id": 35, "word": "net", "tr": "síť / čistý (zisk)", "ex": "The fisherman mended his nets." },
+    { "id": 36, "word": "network", "tr": "síť / propojení", "ex": "The railway network covers the whole country." },
+    { "id": 37, "word": "neutral", "tr": "neutrální / nestranný", "ex": "Switzerland remained neutral during the war." },
+    { "id": 38, "word": "never", "tr": "nikdy", "ex": "I have never been to America." },
+    { "id": 39, "word": "nevertheless", "tr": "přesto / nicméně", "ex": "It was very cold; nevertheless, we went for a walk." },
+    { "id": 40, "word": "new", "tr": "nový", "ex": "I need to buy a new pair of shoes." },
+    { "id": 41, "word": "newly", "tr": "nově / nedávno", "ex": "They are a newly married couple." },
+    { "id": 42, "word": "news", "tr": "zprávy / novinky", "ex": "Have you heard the latest news?" },
+    { "id": 43, "word": "newspaper", "tr": "noviny", "ex": "I read about the accident in the newspaper." },
+    { "id": 44, "word": "next", "tr": "další / vedlejší", "ex": "The next train leaves at ten o'clock." },
+    { "id": 45, "word": "nice", "tr": "hezký / milý", "ex": "It was a very nice surprise." },
+    { "id": 46, "word": "niche", "tr": "výklenek / prostor na trhu", "ex": "The company has found a profitable niche in the market." },
+    { "id": 47, "word": "nickname", "tr": "přezdívka", "ex": "His nickname at school was 'Brains'." },
+    { "id": 48, "word": "night", "tr": "noc / večer", "ex": "I couldn't sleep at all last night." },
+    { "id": 49, "word": "nightmare", "tr": "noční můra", "ex": "The traffic jam was a complete nightmare." },
+    { "id": 50, "word": "nine", "tr": "devět", "ex": "She has nine cats." }
+  ]
+}
