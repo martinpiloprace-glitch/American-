@@ -1,0 +1,30 @@
+{
+  "level": "B2",
+  "letter": "Q",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "qualification", "tr": "kvalifikace / oprávnění", "ex": "What qualifications do you need for this job?" },
+    { "id": 2, "word": "qualified", "tr": "kvalifikovaný / způsobilý", "ex": "She is a highly qualified lawyer." },
+    { "id": 3, "word": "qualify", "tr": "kvalifikovat se / splnit podmínky", "ex": "The team needs one more win to qualify for the finals." },
+    { "id": 4, "word": "quality", "tr": "kvalita / vlastnost", "ex": "The company is known for the high quality of its products." },
+    { "id": 5, "word": "quantity", "tr": "množství / kvantita", "ex": "The company focuses on quality rather than quantity." },
+    { "id": 6, "word": "quarrel", "tr": "hádka / hádat se", "ex": "They had a fierce quarrel about money." },
+    { "id": 7, "word": "quarter", "tr": "čtvrtina / čtvrť", "ex": "I'll be ready in a quarter of an hour." },
+    { "id": 8, "word": "queen", "tr": "královna", "ex": "The queen visited the hospital yesterday." },
+    { "id": 9, "word": "query", "tr": "dotaz / otázka / zpochybnit", "ex": "If you have any queries, please let us know." },
+    { "id": 10, "word": "quest", "tr": "hledání / výprava / pátrání", "ex": "They went on a quest for the lost treasure." },
+    { "id": 11, "word": "question", "tr": "otázka / pochybovat", "ex": "Can I ask you a personal question?" },
+    { "id": 12, "word": "questionnaire", "tr": "dotazník", "ex": "Please fill out this questionnaire about your habits." },
+    { "id": 13, "word": "queue", "tr": "fronta / stát ve frontě", "ex": "We had to wait in a long queue for tickets." },
+    { "id": 14, "word": "quick", "tr": "rychlý", "ex": "I'll have a quick shower and then we can go." },
+    { "id": 15, "word": "quickly", "tr": "rychle", "ex": "The news spread quickly through the office." },
+    { "id": 16, "word": "quiet", "tr": "tichý / klidný", "ex": "The street is very quiet at night." },
+    { "id": 17, "word": "quietly", "tr": "tichounce / klidně", "ex": "She closed the door quietly behind her." },
+    { "id": 18, "word": "quit", "tr": "skončit / odejít (z práce)", "ex": "He decided to quit his job and travel the world." },
+    { "id": 19, "word": "quite", "tr": "docela / zcela", "ex": "The exam was quite difficult." },
+    { "id": 20, "word": "quota", "tr": "kvóta / stanovený podíl", "ex": "The company has met its sales quota for the month." },
+    { "id": 21, "word": "quotation", "tr": "citát / cenová nabídka", "ex": "The book starts with a quotation from Shakespeare." },
+    { "id": 22, "word": "quote", "tr": "citovat / uvést cenu", "ex": "Can you quote me a price for the repairs?" }
+  ]
+}
