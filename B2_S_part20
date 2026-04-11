@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 20,
+  "mode": "sentences",
+  "data": [
+    { "id": 476, "word": "succession", "tr": "následnictví / řada / posloupnost", "ex": "He won the championship for the third year in succession." },
+    { "id": 477, "word": "successive", "tr": "následný / jdoucí po sobě", "ex": "The team has won five successive matches." },
+    { "id": 478, "word": "successor", "tr": "nástupce / následovník", "ex": "Who will be the successor to the current CEO?" },
+    { "id": 479, "word": "such", "tr": "takový", "ex": "I've never seen such a beautiful sunset." },
+    { "id": 480, "word": "suck", "tr": "sát / cucat / stát za nic (slang)", "ex": "The baby was sucking its thumb." },
+    { "id": 481, "word": "sudden", "tr": "náhlý / prudký", "ex": "There was a sudden change in the weather." },
+    { "id": 482, "word": "suddenly", "tr": "náhle / najednou", "ex": "Suddenly, all the lights went out." },
+    { "id": 483, "word": "sue", "tr": "zažalovat / podat žalobu", "ex": "He is planning to sue the company for damages." },
+    { "id": 484, "word": "suffer", "tr": "trpět / utrpět", "ex": "She suffers from terrible headaches." },
+    { "id": 485, "word": "suffering", "tr": "utrpení", "ex": "The war caused widespread suffering." },
+    { "id": 486, "word": "sufficient", "tr": "dostatečný / postačující", "ex": "We have sufficient evidence to prove his guilt." },
+    { "id": 487, "word": "sufficiently", "tr": "dostatečně", "ex": "The water was not sufficiently hot for tea." },
+    { "id": 488, "word": "sugar", "tr": "cukr", "ex": "Do you take sugar in your coffee?" },
+    { "id": 489, "word": "suggest", "tr": "navrhnout / naznačit", "ex": "I suggest that we wait until tomorrow." },
+    { "id": 490, "word": "suggestion", "tr": "návrh / podnět", "ex": "Does anyone have any suggestions for a title?" },
+    { "id": 491, "word": "suicide", "tr": "sebevražda", "ex": "The police are investigating it as a possible suicide." },
+    { "id": 492, "word": "suit", "tr": "oblek / slušet / vyhovovat", "ex": "That blue dress really suits you." },
+    { "id": 493, "word": "suitable", "tr": "vhodný / vyhovující", "ex": "The movie is not suitable for young children." },
+    { "id": 494, "word": "suitcase", "tr": "kufr", "ex": "Have you packed your suitcase yet?" },
+    { "id": 495, "word": "suite", "tr": "apartmá / sada / souprava", "ex": "We booked a luxury suite for our honeymoon." },
+    { "id": 496, "word": "sum", "tr": "součet / suma / částka", "ex": "A large sum of money was stolen from the bank." },
+    { "id": 497, "word": "summarize", "tr": "shrnout / sumarizovat", "ex": "Could you summarize the main points of the report?" },
+    { "id": 498, "word": "summary", "tr": "shrnutí / stručný přehled", "ex": "He gave a brief summary of the book." },
+    { "id": 499, "word": "summer", "tr": "léto", "ex": "We usually go to the beach in the summer." },
+    { "id": 500, "word": "summit", "tr": "vrchol / summit (jednání)", "ex": "The world leaders met for a global summit." }
+  ]
+}
