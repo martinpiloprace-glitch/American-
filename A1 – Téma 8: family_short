@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 8,
+  "topic": "family_short",
+  "data": [
+    { "id": 1, "word": "family", "tr": "rodina", "ex": "My family is big.", "ex_tr": "Moje rodina je velká." },
+    { "id": 2, "word": "mother", "tr": "matka", "ex": "My mother cooks.", "ex_tr": "Moje máma vaří." },
+    { "id": 3, "word": "father", "tr": "otec", "ex": "My father works.", "ex_tr": "Můj táta pracuje." },
+    { "id": 4, "word": "mom", "tr": "máma", "ex": "I love my mom.", "ex_tr": "Miluju mámu." },
+    { "id": 5, "word": "dad", "tr": "táta", "ex": "I love my dad.", "ex_tr": "Miluju tátu." },
+
+    { "id": 6, "word": "son", "tr": "syn", "ex": "My son plays.", "ex_tr": "Můj syn si hraje." },
+    { "id": 7, "word": "daughter", "tr": "dcera", "ex": "My daughter reads.", "ex_tr": "Moje dcera čte." },
+    { "id": 8, "word": "brother", "tr": "bratr", "ex": "My brother runs.", "ex_tr": "Můj bratr běží." },
+    { "id": 9, "word": "sister", "tr": "sestra", "ex": "My sister sings.", "ex_tr": "Moje sestra zpívá." },
+    { "id": 10, "word": "baby", "tr": "miminko", "ex": "The baby sleeps.", "ex_tr": "Miminko spí." },
+
+    { "id": 11, "word": "parents", "tr": "rodiče", "ex": "My parents help.", "ex_tr": "Moji rodiče pomáhají." },
+    { "id": 12, "word": "children", "tr": "děti", "ex": "The children play.", "ex_tr": "Děti si hrají." },
+    { "id": 13, "word": "grandmother", "tr": "babička", "ex": "My grandmother cooks.", "ex_tr": "Moje babička vaří." },
+    { "id": 14, "word": "grandfather", "tr": "dědeček", "ex": "My grandfather walks.", "ex_tr": "Můj děda jde." },
+    { "id": 15, "word": "grandparents", "tr": "prarodiče", "ex": "My grandparents visit.", "ex_tr": "Moji prarodiče navštěvují." },
+
+    { "id": 16, "word": "grandson", "tr": "vnuk", "ex": "My grandson smiles.", "ex_tr": "Můj vnuk se směje." },
+    { "id": 17, "word": "granddaughter", "tr": "vnučka", "ex": "My granddaughter plays.", "ex_tr": "Moje vnučka si hraje." },
+    { "id": 18, "word": "uncle", "tr": "strýc", "ex": "My uncle drives.", "ex_tr": "Můj strýc řídí." },
+    { "id": 19, "word": "aunt", "tr": "teta", "ex": "My aunt cooks.", "ex_tr": "Moje teta vaří." },
+    { "id": 20, "word": "cousin", "tr": "bratranec / sestřenice", "ex": "My cousin laughs.", "ex_tr": "Můj bratranec se směje." },
+
+    { "id": 21, "word": "nephew", "tr": "synovec", "ex": "My nephew plays.", "ex_tr": "Můj synovec si hraje." },
+    { "id": 22, "word": "niece", "tr": "neteř", "ex": "My niece draws.", "ex_tr": "Moje neteř kreslí." },
+    { "id": 23, "word": "husband", "tr": "manžel", "ex": "Her husband works.", "ex_tr": "Její manžel pracuje." },
+    { "id": 24, "word": "wife", "tr": "manželka", "ex": "His wife cooks.", "ex_tr": "Jeho manželka vaří." },
+    { "id": 25, "word": "partner", "tr": "partner", "ex": "My partner helps.", "ex_tr": "Můj partner pomáhá." },
+
+    { "id": 26, "word": "stepmother", "tr": "macecha", "ex": "My stepmother smiles.", "ex_tr": "Moje macecha se směje." },
+    { "id": 27, "word": "stepfather", "tr": "otčím", "ex": "My stepfather helps.", "ex_tr": "Můj otčím pomáhá." },
+    { "id": 28, "word": "stepsister", "tr": "nevlastní sestra", "ex": "My stepsister reads.", "ex_tr": "Moje nevlastní sestra čte." },
+    { "id": 29, "word": "stepbrother", "tr": "nevlastní bratr", "ex": "My stepbrother runs.", "ex_tr": "Můj nevlastní bratr běží." },
+    { "id": 30, "word": "in-laws", "tr": "tchánovci", "ex": "My in-laws visit.", "ex_tr": "Moji tchánovci navštěvují." },
+
+    { "id": 31, "word": "father-in-law", "tr": "tchán", "ex": "My father-in-law cooks.", "ex_tr": "Můj tchán vaří." },
+    { "id": 32, "word": "mother-in-law", "tr": "tchyně", "ex": "My mother-in-law helps.", "ex_tr": "Moje tchyně pomáhá." },
+    { "id": 33, "word": "brother-in-law", "tr": "švagr", "ex": "My brother-in-law drives.", "ex_tr": "Můj švagr řídí." },
+    { "id": 34, "word": "sister-in-law", "tr": "švagrová", "ex": "My sister-in-law cooks.", "ex_tr": "Moje švagrová vaří." },
+    { "id": 35, "word": "fiancé", "tr": "snoubenec", "ex": "My fiancé waits.", "ex_tr": "Můj snoubenec čeká." },
+
+    { "id": 36, "word": "fiancée", "tr": "snoubenka", "ex": "My fiancée smiles.", "ex_tr": "Moje snoubenka se směje." },
+    { "id": 37, "word": "boyfriend", "tr": "přítel", "ex": "My boyfriend calls.", "ex_tr": "Můj přítel volá." },
+    { "id": 38, "word": "girlfriend", "tr": "přítelkyně", "ex": "My girlfriend texts.", "ex_tr": "Moje přítelkyně píše." },
+    { "id": 39, "word": "twin", "tr": "dvojče", "ex": "My twin laughs.", "ex_tr": "Moje dvojče se směje." },
+    { "id": 40, "word": "siblings", "tr": "sourozenci", "ex": "My siblings talk.", "ex_tr": "Moji sourozenci mluví." },
+
+    { "id": 41, "word": "relative", "tr": "příbuzný", "ex": "My relative visits.", "ex_tr": "Můj příbuzný navštěvuje." },
+    { "id": 42, "word": "family friend", "tr": "rodinný přítel", "ex": "He is a family friend.", "ex_tr": "Je rodinný přítel." },
+    { "id": 43, "word": "godmother", "tr": "kmotra", "ex": "My godmother helps.", "ex_tr": "Moje kmotra pomáhá." },
+    { "id": 44, "word": "godfather", "tr": "kmotr", "ex": "My godfather visits.", "ex_tr": "Můj kmotr navštěvuje." },
+    { "id": 45, "word": "godchild", "tr": "kmotřenec / kmotřenka", "ex": "My godchild smiles.", "ex_tr": "Můj kmotřenec se směje." },
+
+    { "id": 46, "word": "baby boy", "tr": "chlapeček", "ex": "The baby boy sleeps.", "ex_tr": "Chlapeček spí." },
+    { "id": 47, "word": "baby girl", "tr": "holčička", "ex": "The baby girl sleeps.", "ex_tr": "Holčička spí." },
+    { "id": 48, "word": "only child", "tr": "jedináček", "ex": "He is an only child.", "ex_tr": "Je jedináček." },
+    { "id": 49, "word": "married", "tr": "ženatý / vdaná", "ex": "I am married.", "ex_tr": "Jsem ženatý / vdaná." },
+    { "id": 50, "word": "single", "tr": "svobodný", "ex": "I am single.", "ex_tr": "Jsem svobodný." }
+  ]
+}
