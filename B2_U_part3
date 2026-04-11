@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "U",
+  "part": 3,
+  "mode": "sentences",
+  "data": [
+    { "id": 51, "word": "unreliable", "tr": "nespolehlivý", "ex": "The bus service is very unreliable." },
+    { "id": 52, "word": "unsatisfactory", "tr": "neuspokojivý", "ex": "The results of the test were unsatisfactory." },
+    { "id": 53, "word": "unskilled", "tr": "nekvalifikovaný / nezručný", "ex": "The factory employs many unskilled workers." },
+    { "id": 54, "word": "unstable", "tr": "nestabilní / labilní", "ex": "The political situation in the country is very unstable." },
+    { "id": 55, "word": "unsuccessful", "tr": "neúspěšný", "ex": "The company made an unsuccessful bid for the contract." },
+    { "id": 56, "word": "until", "tr": "dokud / až do", "ex": "I'll wait here until you come back." },
+    { "id": 57, "word": "unusual", "tr": "neobvyklý / zvláštní", "ex": "It's unusual for him to be late." },
+    { "id": 58, "word": "unusually", "tr": "neobvykle / nezvykle", "ex": "It's unusually warm for this time of year." },
+    { "id": 59, "word": "unwilling", "tr": "neochotný / zdráhají se", "ex": "They were unwilling to compromise." },
+    { "id": 60, "word": "up", "tr": "nahoru / vzhůru", "ex": "He ran up the stairs." },
+    { "id": 61, "word": "update", "tr": "aktualizovat / aktualizace", "ex": "You need to update your software regularly." },
+    { "id": 62, "word": "upgrade", "tr": "vylepšit / povýšit / upgrade", "ex": "I've decided to upgrade my computer." },
+    { "id": 63, "word": "uphill", "tr": "do kopce / namáhavý", "ex": "It was a long uphill climb to the top." },
+    { "id": 64, "word": "uphold", "tr": "udržovat / potvrdit / dodržovat", "ex": "The court upheld the original decision." },
+    { "id": 65, "word": "upon", "tr": "na / po (formální 'on')", "ex": "Upon arrival, please report to the reception." },
+    { "id": 66, "word": "upper", "tr": "horní / vyšší", "ex": "The bedrooms are on the upper floor." },
+    { "id": 67, "word": "upright", "tr": "vzpřímený / čestný / svisle", "ex": "Please place the box in an upright position." },
+    { "id": 68, "word": "upset", "tr": "rozrušený / převrátit / zkazit", "ex": "She was very upset when she heard the news." },
+    { "id": 69, "word": "upstairs", "tr": "nahoře / v patře", "ex": "He is sleeping upstairs." },
+    { "id": 70, "word": "up-to-date", "tr": "aktuální / moderní", "ex": "We need to keep our records up-to-date." },
+    { "id": 71, "word": "upward", "tr": "vzhůru / směrem nahoru", "ex": "The path follows an upward slope." },
+    { "id": 72, "word": "upwards", "tr": "vzhůru / směrem nahoru", "ex": "The prices have been moving upwards lately." },
+    { "id": 73, "word": "urban", "tr": "městský / urbánní", "ex": "The city has several large urban parks." },
+    { "id": 74, "word": "urge", "tr": "naléhat / nutkání / pobízet", "ex": "I urge you to reconsider your decision." },
+    { "id": 75, "word": "urgency", "tr": "naléhavost / spěch", "ex": "There is a sense of urgency about the project." }
+  ]
+}
