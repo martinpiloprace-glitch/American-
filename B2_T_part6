@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "threat", "tr": "hrozba / vyhrůžka", "ex": "The hurricane poses a serious threat to the coast." },
+    { "id": 127, "word": "threaten", "tr": "hrozit / vyhrožovat", "ex": "He threatened to call the police." },
+    { "id": 128, "word": "three", "tr": "tři", "ex": "I have three brothers." },
+    { "id": 129, "word": "threshold", "tr": "práh / mezní hodnota", "ex": "She was standing on the threshold of the house." },
+    { "id": 130, "word": "thrive", "tr": "prosperovat / vzkvétat", "ex": "The business began to thrive in its second year." },
+    { "id": 131, "word": "throat", "tr": "krk / hrdlo", "ex": "I have a sore throat." },
+    { "id": 132, "word": "through", "tr": "skrz / přes / díky", "ex": "We walked through the park." },
+    { "id": 133, "word": "throughout", "tr": "po celém / v průběhu celého", "ex": "It rained throughout the night." },
+    { "id": 134, "word": "throw", "tr": "hodit / házet / hod", "ex": "Can you throw me the ball?" },
+    { "id": 135, "word": "thrust", "tr": "vrazit / strčit / tah (motoru)", "ex": "He thrust his hands into his pockets." },
+    { "id": 136, "word": "thumb", "tr": "palec (u ruky)", "ex": "He gave us a thumbs-up sign." },
+    { "id": 137, "word": "thunder", "tr": "hrom / hřmít", "ex": "We heard thunder in the distance." },
+    { "id": 138, "word": "thus", "tr": "tudíž / a tak / tímto způsobem", "ex": "They won the match and thus the championship." },
+    { "id": 139, "word": "tick", "tr": "zaškrtnout / tikat / klíště", "ex": "Please tick the box if you agree." },
+    { "id": 140, "word": "ticket", "tr": "lístek / jízdenka / pokuta", "ex": "I bought a ticket for the concert." },
+    { "id": 141, "word": "tide", "tr": "příliv a odliv / proud", "ex": "The tide is coming in." },
+    { "id": 142, "word": "tidy", "tr": "uklizený / uklidit", "ex": "Please keep your room tidy." },
+    { "id": 143, "word": "tie", "tr": "uvázat / kravata / remíza", "ex": "He was wearing a suit and tie." },
+    { "id": 144, "word": "tight", "tr": "těsný / pevný / přísný", "ex": "These shoes are a bit tight." },
+    { "id": 145, "word": "tighten", "tr": "utáhnout / zpřísnit", "ex": "The government is planning to tighten security." },
+    { "id": 146, "word": "tightly", "tr": "pevně / těsně", "ex": "She held the baby tightly in her arms." },
+    { "id": 147, "word": "tile", "tr": "dlaždice / kachlička / taška (střešní)", "ex": "The bathroom walls are covered in white tiles." },
+    { "id": 148, "word": "timber", "tr": "dřevo (stavební) / trám", "ex": "The house is made of timber." },
+    { "id": 149, "word": "time", "tr": "čas / doba / krát", "ex": "What time is it?" },
+    { "id": 150, "word": "timely", "tr": "včasný / příhodný", "ex": "The report was a timely reminder of the dangers." }
+  ]
+}
