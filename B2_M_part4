@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "me", "tr": "mě / mně / mi", "ex": "Can you help me with this box?" },
+    { "id": 77, "word": "meal", "tr": "jídlo / pokrm", "ex": "That was a delicious three-course meal." },
+    { "id": 78, "word": "mean", "tr": "znamenat / myslet / lakomý / průměr", "ex": "What does this word mean?" },
+    { "id": 79, "word": "meaning", "tr": "význam / smysl", "ex": "The word has several different meanings." },
+    { "id": 80, "word": "meaningful", "tr": "smysluplný / významný", "ex": "We had a very meaningful conversation." },
+    { "id": 81, "word": "means", "tr": "prostředek / prostředky / způsob", "ex": "The internet is a powerful means of communication." },
+    { "id": 82, "word": "meantime", "tr": "mezitím / prozatímní doba", "ex": "The doctor will be here soon; in the meantime, try to relax." },
+    { "id": 83, "word": "meanwhile", "tr": "mezitím", "ex": "My mother was cooking; meanwhile, I was setting the table." },
+    { "id": 84, "word": "measure", "tr": "měřit / opatření / míra", "ex": "We need to measure the distance between the two points." },
+    { "id": 85, "word": "measurement", "tr": "měření / rozměr", "ex": "The exact measurements of the room are 4 by 5 meters." },
+    { "id": 86, "word": "meat", "tr": "maso", "ex": "I don't eat meat; I'm a vegetarian." },
+    { "id": 87, "word": "mechanic", "tr": "mechanik / opravář", "ex": "I took my car to the mechanic to fix the brakes." },
+    { "id": 88, "word": "mechanical", "tr": "mechanický / strojní", "ex": "The breakdown was caused by a mechanical failure." },
+    { "id": 89, "word": "mechanism", "tr": "mechanismus / zařízení", "ex": "The locking mechanism is broken." },
+    { "id": 90, "word": "medal", "tr": "medaile", "ex": "He won a gold medal at the Olympic Games." },
+    { "id": 91, "word": "media", "tr": "média", "ex": "The story was widely reported in the national media." },
+    { "id": 92, "word": "medical", "tr": "lékařský / zdravotní", "ex": "She is a student at a medical school." },
+    { "id": 93, "word": "medication", "tr": "lék / léčba léky", "ex": "Are you taking any medication at the moment?" },
+    { "id": 94, "word": "medicine", "tr": "medicína / lék", "ex": "He decided to study medicine to help people." },
+    { "id": 95, "word": "medieval", "tr": "středověký", "ex": "The town is famous for its medieval castle." },
+    { "id": 96, "word": "meditation", "tr": "meditace", "ex": "She practices meditation every morning." },
+    { "id": 97, "word": "medium", "tr": "střední / médium / prostředek", "ex": "I'd like a medium-sized coffee, please." },
+    { "id": 98, "word": "meet", "tr": "potkat / seznámit se / vyhovět", "ex": "Nice to meet you." },
+    { "id": 99, "word": "meeting", "tr": "schůzka / shromáždění", "ex": "I have a meeting with my boss at 2 PM." },
+    { "id": 100, "word": "melody", "tr": "melodie", "ex": "The song has a very catchy melody." }
+  ]
+}
