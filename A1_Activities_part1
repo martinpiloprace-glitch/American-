@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Activities",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "play", "tr": "hrát", "ex": "Play with me." },
+    { "id": 2, "word": "sing", "tr": "zpívat", "ex": "Sing a song." },
+    { "id": 3, "word": "dance", "tr": "tančit", "ex": "Dance with her." },
+    { "id": 4, "word": "jump", "tr": "skočit", "ex": "Jump high." },
+    { "id": 5, "word": "walk", "tr": "chodit", "ex": "Walk the dog." },
+    { "id": 6, "word": "run", "tr": "běžet", "ex": "Run fast." },
+    { "id": 7, "word": "read", "tr": "číst", "ex": "Read the news." },
+    { "id": 8, "word": "write", "tr": "psát", "ex": "Write your name." },
+    { "id": 9, "word": "draw", "tr": "kreslit", "ex": "Draw a house." },
+    { "id": 10, "word": "swim", "tr": "plavat", "ex": "Swim today." }
+  ]
+}
