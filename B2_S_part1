@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "sail", "tr": "plavit se / plachta", "ex": "We spent the afternoon sailing around the bay." },
+    { "id": 2, "word": "sailor", "tr": "námořník", "ex": "The sailors were happy to be back on land." },
+    { "id": 3, "word": "saint", "tr": "svatý / svatý člověk", "ex": "St. Patrick is the patron saint of Ireland." },
+    { "id": 4, "word": "sake", "tr": "zájem / kvůli / účel", "ex": "For the sake of clarity, let me explain again." },
+    { "id": 5, "word": "salary", "tr": "plat / mzda", "ex": "She is happy with her current salary." },
+    { "id": 6, "word": "sale", "tr": "prodej / výprodej", "ex": "The house is for sale." },
+    { "id": 7, "word": "salmon", "tr": "losos", "ex": "We had grilled salmon for dinner." },
+    { "id": 8, "word": "salt", "tr": "sůl", "ex": "Pass the salt, please." },
+    { "id": 9, "word": "salty", "tr": "slaný", "ex": "The soup is a bit too salty." },
+    { "id": 10, "word": "salvation", "tr": "spása / záchrana", "ex": "The new investment was the company's salvation." },
+    { "id": 11, "word": "same", "tr": "stejný / totéž", "ex": "We live in the same street." },
+    { "id": 12, "word": "sample", "tr": "vzorek / ochutnat", "ex": "We need to take a blood sample." },
+    { "id": 13, "word": "sanction", "tr": "sankce / postih / schválení", "ex": "The UN imposed economic sanctions on the country." },
+    { "id": 14, "word": "sand", "tr": "písek", "ex": "The children were playing in the sand." },
+    { "id": 15, "word": "sandwich", "tr": "sendvič / obložený chléb", "ex": "I'll just have a ham sandwich." },
+    { "id": 16, "word": "satellite", "tr": "satelit / družice", "ex": "The images were transmitted via satellite." },
+    { "id": 17, "word": "satisfaction", "tr": "satisfakce / spokojenost", "ex": "He gets a lot of satisfaction from his work." },
+    { "id": 18, "word": "satisfactory", "tr": "uspokojivý / dostatečný", "ex": "The results of the test were satisfactory." },
+    { "id": 19, "word": "satisfied", "tr": "spokojený", "ex": "Are you satisfied with the service?" },
+    { "id": 20, "word": "satisfy", "tr": "uspokojit / vyhovět", "ex": "The company failed to satisfy the customers' needs." },
+    { "id": 21, "word": "sauce", "tr": "omáčka", "ex": "The pasta was served with a tomato sauce." },
+    { "id": 22, "word": "save", "tr": "zachránit / ušetřit / uložit", "ex": "He saved the girl from drowning." },
+    { "id": 23, "word": "savings", "tr": "úspory", "ex": "She put all her savings into a new business." },
+    { "id": 24, "word": "say", "tr": "říct / pravit", "ex": "What did he say to you?" },
+    { "id": 25, "word": "scale", "tr": "stupnice / měřítko / váha", "ex": "On a scale of one to ten, how do you feel?" }
+  ]
+}
