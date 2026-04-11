@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "W",
+  "part": 4,
+  "mode": "sentences",
+  "data": [
+    { "id": 76, "word": "whisper", "tr": "šeptat / šepot", "ex": "She leaned over to whisper something in his ear." },
+    { "id": 77, "word": "whistle", "tr": "pískat / hvízdat / píšťalka", "ex": "The referee blew his whistle to end the game." },
+    { "id": 78, "word": "white", "tr": "bílý", "ex": "The house was painted bright white." },
+    { "id": 79, "word": "who", "tr": "kdo / který", "ex": "Who is that man standing over there?" },
+    { "id": 80, "word": "whoever", "tr": "kdokoliv", "ex": "Whoever did this will be punished." },
+    { "id": 81, "word": "whole", "tr": "celý / veškerý", "ex": "I spent the whole day cleaning the house." },
+    { "id": 82, "word": "wholly", "tr": "zcela / úplně", "ex": "The report is wholly inaccurate." },
+    { "id": 83, "word": "whom", "tr": "koho / komu (4. a 2. pád)", "ex": "To whom should I address the letter?" },
+    { "id": 84, "word": "whose", "tr": "čí / jehož", "ex": "Whose bag is this?" },
+    { "id": 85, "word": "why", "tr": "proč", "ex": "Why didn't you tell me the truth?" },
+    { "id": 86, "word": "wicked", "tr": "zlý / hříšný / podlý", "ex": "In the story, the wicked witch is defeated." },
+    { "id": 87, "word": "wide", "tr": "široký / rozsáhlý", "ex": "The river is quite wide at this point." },
+    { "id": 88, "word": "widely", "tr": "široce / velmi", "ex": "The new book is widely available in bookstores." },
+    { "id": 89, "word": "widen", "tr": "rozšířit / rozšířit se", "ex": "The government plans to widen the motorway." },
+    { "id": 90, "word": "widespread", "tr": "rozšířený / všeobecný", "ex": "The storm caused widespread damage." },
+    { "id": 91, "word": "widow", "tr": "vdova", "ex": "She has been a widow for ten years." },
+    { "id": 92, "word": "width", "tr": "šířka", "ex": "What is the width of the table?" },
+    { "id": 93, "word": "wife", "tr": "manželka", "ex": "He lives in London with his wife and two children." },
+    { "id": 94, "word": "wild", "tr": "divoký / nespoutaný", "ex": "We saw several wild animals in the forest." },
+    { "id": 95, "word": "wildlife", "tr": "volně žijící zvěř / příroda", "ex": "The park is famous for its diverse wildlife." },
+    { "id": 96, "word": "will", "tr": "vůle / závěť / pomocné sloveso pro budoucí čas", "ex": "It was a battle of wills." },
+    { "id": 97, "word": "willing", "tr": "ochotný", "ex": "Are you willing to help us?" },
+    { "id": 98, "word": "willingly", "tr": "ochotně / dobrovolně", "ex": "He willingly accepted the extra work." },
+    { "id": 100, "word": "willingness", "tr": "ochota", "ex": "She appreciated his willingness to learn." },
+    { "id": 100, "word": "win", "tr": "vyhrát / zvítězit / výhra", "ex": "I hope our team wins the match." }
+  ]
+}
