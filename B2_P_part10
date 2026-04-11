@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 226, "word": "preach", "tr": "kázat / hlásat", "ex": "The minister preached a sermon on the importance of forgiveness." },
+    { "id": 227, "word": "precaution", "tr": "preventivní opatření / obezřetnost", "ex": "We took every possible precaution to ensure their safety." },
+    { "id": 228, "word": "precede", "tr": "předcházet", "ex": "A short film will precede the main feature." },
+    { "id": 229, "word": "precedent", "tr": "precedens / předchozí případ", "ex": "The judge's ruling set a legal precedent." },
+    { "id": 230, "word": "precious", "tr": "vzácný / drahocenný", "ex": "Gold is a precious metal." },
+    { "id": 231, "word": "precise", "tr": "přesný / precizní", "ex": "We need precise measurements before we start building." },
+    { "id": 232, "word": "precisely", "tr": "přesně / právě", "ex": "That is precisely what I was trying to say." },
+    { "id": 233, "word": "precision", "tr": "přesnost", "ex": "The instruments were made with great precision." },
+    { "id": 234, "word": "precondition", "tr": "předpoklad / podmínka", "ex": "Peace is a precondition for economic growth." },
+    { "id": 235, "word": "predict", "tr": "předpovídat / hádat", "ex": "It's difficult to predict the outcome of the election." },
+    { "id": 236, "word": "predictable", "tr": "předvídatelný", "ex": "The ending of the book was very predictable." },
+    { "id": 237, "word": "prediction", "tr": "předpověď", "ex": "Journalists are making predictions about the new government." },
+    { "id": 238, "word": "predominant", "tr": "převažující / dominantní", "ex": "English is the predominant language in international business." },
+    { "id": 239, "word": "predominantly", "tr": "převážně / hlavně", "ex": "The city's population is predominantly young." },
+    { "id": 240, "word": "prefer", "tr": "preferovat / dávat přednost", "ex": "I prefer tea to coffee." },
+    { "id": 241, "word": "preference", "tr": "preference / přednost", "ex": "Do you have a preference for any particular hotel?" },
+    { "id": 242, "word": "pregnancy", "tr": "těhotenství", "ex": "She had a very healthy pregnancy." },
+    { "id": 243, "word": "pregnant", "tr": "těhotná", "ex": "My sister is six months pregnant." },
+    { "id": 244, "word": "prejudice", "tr": "předsudek / zaujatost", "ex": "We must work together to overcome racial prejudice." },
+    { "id": 245, "word": "preliminary", "tr": "předběžný / úvodní", "ex": "The preliminary results of the study are encouraging." },
+    { "id": 246, "word": "prelude", "tr": "předehra / úvod", "ex": "The dark clouds were a prelude to the storm." },
+    { "id": 247, "word": "premature", "tr": "předčasný", "ex": "The baby was born several weeks premature." },
+    { "id": 248, "word": "premier", "tr": "premiér / první / přední", "ex": "The event was attended by the premier of the province." },
+    { "id": 249, "word": "premiere", "tr": "premiéra", "ex": "The film's world premiere was held in London." },
+    { "id": 250, "word": "premises", "tr": "prostory / areál", "ex": "Smoking is not allowed on the school premises." }
+  ]
+}
