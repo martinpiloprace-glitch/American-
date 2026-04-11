@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "P",
+  "part": 5,
+  "mode": "sentences",
+  "data": [
+    { "id": 101, "word": "personnel", "tr": "personál / zaměstnanci", "ex": "The company has over 500 personnel." },
+    { "id": 102, "word": "perspective", "tr": "perspektiva / úhel pohledu", "ex": "We need to look at the problem from a different perspective." },
+    { "id": 103, "word": "persuade", "tr": "přesvědčit / přemluvit", "ex": "I managed to persuade him to come with us." },
+    { "id": 104, "word": "persuasion", "tr": "přesvědčování / přesvědčení", "ex": "It took a lot of persuasion to get her to agree." },
+    { "id": 105, "word": "pertain", "tr": "týkat se / náležet", "ex": "The laws pertain only to the local area." },
+    { "id": 106, "word": "pessimism", "tr": "pesimismus", "ex": "There is a general feeling of pessimism about the future." },
+    { "id": 107, "word": "pessimistic", "tr": "pesimistický", "ex": "Don't be so pessimistic; everything will be fine." },
+    { "id": 108, "word": "pet", "tr": "mazlíček / domácí zvíře", "ex": "Do you have any pets?" },
+    { "id": 109, "word": "petition", "tr": "petice / žádost", "ex": "They collected over a thousand signatures for the petition." },
+    { "id": 110, "word": "petrol", "tr": "benzín", "ex": "The car is running out of petrol." },
+    { "id": 111, "word": "phase", "tr": "fáze / etapa", "ex": "The first phase of the project is now complete." },
+    { "id": 112, "word": "phenomenon", "tr": "jev / fenomén", "ex": "The aurora borealis is a natural phenomenon." },
+    { "id": 113, "word": "philosophy", "tr": "filozofie", "ex": "He studied philosophy at university." },
+    { "id": 114, "word": "phone", "tr": "telefon / telefonovat", "ex": "Can I use your phone for a second?" },
+    { "id": 115, "word": "photo", "tr": "fotka", "ex": "He took a photo of the sunset." },
+    { "id": 116, "word": "photograph", "tr": "fotografie / fotografovat", "ex": "The old photograph was faded and torn." },
+    { "id": 117, "word": "photographer", "tr": "fotograf", "ex": "She works as a professional wedding photographer." },
+    { "id": 118, "word": "photography", "tr": "fotografování / fotografie (obor)", "ex": "His main hobby is landscape photography." },
+    { "id": 119, "word": "phrase", "tr": "frazé / sousloví", "ex": "Can you explain the meaning of this phrase?" },
+    { "id": 120, "word": "physical", "tr": "fyzický / hmotný", "ex": "Physical exercise is good for your health." },
+    { "id": 121, "word": "physically", "tr": "fyzicky", "ex": "The job is very physically demanding." },
+    { "id": 122, "word": "physician", "tr": "lékař / doktor", "ex": "You should consult your physician before starting a new diet." },
+    { "id": 123, "word": "physics", "tr": "fyzika", "ex": "Physics was my favorite subject in school." },
+    { "id": 124, "word": "piano", "tr": "klavír / piáno", "ex": "She has been playing the piano since she was five." },
+    { "id": 125, "word": "pick", "tr": "vybrat / trhat / sbírat", "ex": "You can pick whichever one you like." }
+  ]
+}
