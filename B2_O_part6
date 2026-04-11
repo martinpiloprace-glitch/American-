@@ -1,0 +1,24 @@
+{
+  "level": "B2",
+  "letter": "O",
+  "part": 6,
+  "mode": "sentences",
+  "data": [
+    { "id": 126, "word": "overlook", "tr": "přehlédnout / mít vyhlídku na", "ex": "Our hotel room overlooks the harbor." },
+    { "id": 127, "word": "overly", "tr": "příliš / nadměrně", "ex": "I'm not overly concerned about the results." },
+    { "id": 128, "word": "overnight", "tr": "přes noc / náhlý", "ex": "He stayed overnight at a friend's house." },
+    { "id": 129, "word": "overseas", "tr": "v zámoří / zahraniční", "ex": "The company is expanding its overseas operations." },
+    { "id": 130, "word": "oversee", "tr": "dohlížet / kontrolovat", "ex": "A team of experts was hired to oversee the project." },
+    { "id": 131, "word": "overstate", "tr": "přehánět / nadsazovat", "ex": "It would be hard to overstate the importance of this discovery." },
+    { "id": 132, "word": "overtake", "tr": "předjet / předstihnout", "ex": "It's dangerous to overtake on a sharp bend." },
+    { "id": 133, "word": "overtime", "tr": "přesčas", "ex": "I've been working a lot of overtime lately." },
+    { "id": 134, "word": "overturn", "tr": "převrátit / zrušit (rozsudek)", "ex": "The car hit a tree and overturned." },
+    { "id": 135, "word": "overwhelm", "tr": "uchvátit / přemoci / zahltit", "ex": "The beauty of the landscape overwhelmed us." },
+    { "id": 136, "word": "overwhelming", "tr": "ohromující / drtivý", "ex": "The evidence against him was overwhelming." },
+    { "id": 137, "word": "owe", "tr": "dlužit", "ex": "I still owe you ten dollars for the taxi." },
+    { "id": 138, "word": "own", "tr": "vlastnit / vlastní", "ex": "I'd like to own my own business one day." },
+    { "id": 139, "word": "owner", "tr": "vlastník / majitel", "ex": "The owner of the restaurant is very friendly." },
+    { "id": 140, "word": "ownership", "tr": "vlastnictví", "ex": "The car was under joint ownership." },
+    { "id": 141, "word": "oxygen", "tr": "kyslík", "ex": "We need oxygen to breathe." }
+  ]
+}
