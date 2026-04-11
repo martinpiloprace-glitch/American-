@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "L",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "laugh", "tr": "smát se / smích", "ex": "He made everyone laugh with his jokes." },
+    { "id": 27, "word": "laughter", "tr": "smích", "ex": "Laughter is the best medicine." },
+    { "id": 28, "word": "launch", "tr": "spustit / zahájit / vypustit", "ex": "The company is about to launch a new product." },
+    { "id": 29, "word": "law", "tr": "zákon / právo", "ex": "You must obey the law." },
+    { "id": 30, "word": "lawful", "tr": "zákonný / legální", "ex": "The police had a lawful reason to search the house." },
+    { "id": 31, "word": "lawmaker", "tr": "zákonodárce", "ex": "Lawmakers are debating the new tax bill." },
+    { "id": 32, "word": "lawsuit", "tr": "soudní spor / žaloba", "ex": "They filed a lawsuit against the company." },
+    { "id": 33, "word": "lawyer", "tr": "právník", "ex": "You should talk to a lawyer before signing anything." },
+    { "id": 34, "word": "lay", "tr": "položit / prostřít", "ex": "Please lay the book on the table." },
+    { "id": 35, "word": "layer", "tr": "vrstva", "ex": "The cake has a thick layer of chocolate." },
+    { "id": 36, "word": "layout", "tr": "rozvržení / uspořádání", "ex": "I like the layout of your new apartment." },
+    { "id": 37, "word": "lead", "tr": "vést / olovo", "ex": "All roads lead to Rome." },
+    { "id": 38, "word": "leader", "tr": "vůdce / lídr", "ex": "He is a natural leader." },
+    { "id": 39, "word": "leadership", "tr": "vedení / vůdcovství", "ex": "The party needs new leadership." },
+    { "id": 40, "word": "leading", "tr": "vedoucí / přední", "ex": "She is a leading expert in her field." },
+    { "id": 41, "word": "leaf", "tr": "list", "ex": "The trees lose their leaves in autumn." },
+    { "id": 42, "word": "leaflet", "tr": "leták / prospekt", "ex": "I picked up a tourist leaflet at the station." },
+    { "id": 43, "word": "league", "tr": "liga / spolek", "ex": "Our team is at the top of the league." },
+    { "id": 44, "word": "leak", "tr": "unikat / únik / prosakovat", "ex": "There is a gas leak in the kitchen." },
+    { "id": 45, "word": "lean", "tr": "opřít se / naklonit se / libový", "ex": "Don't lean against the wall; it's wet." },
+    { "id": 46, "word": "leap", "tr": "skočit / skok / prudce vzrůst", "ex": "It was a giant leap for mankind." },
+    { "id": 47, "word": "learn", "tr": "učit se / dozvědět se", "ex": "I want to learn how to play chess." },
+    { "id": 48, "word": "learning", "tr": "učení / vzdělávání", "ex": "Online learning has become very popular." },
+    { "id": 49, "word": "lease", "tr": "pronájem / pronajmout si", "ex": "The lease on the apartment expires in May." },
+    { "id": 50, "word": "least", "tr": "nejméně", "ex": "It will cost at least fifty dollars." }
+  ]
+}
