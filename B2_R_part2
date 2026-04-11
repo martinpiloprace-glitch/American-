@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 26, "word": "rate", "tr": "míra / sazba / hodnotit", "ex": "The unemployment rate has fallen recently." },
+    { "id": 27, "word": "rather", "tr": "spíše / poněkud", "ex": "It's rather cold today, isn't it?" },
+    { "id": 28, "word": "ratify", "tr": "ratifikovat / schválit", "ex": "The treaty was ratified by all member states." },
+    { "id": 29, "word": "rating", "tr": "hodnocení / rating", "ex": "The show has very high television ratings." },
+    { "id": 30, "word": "ratio", "tr": "poměr", "ex": "The ratio of students to teachers is 15 to 1." },
+    { "id": 31, "word": "rational", "tr": "racionální / rozumný", "ex": "We need to make a rational decision." },
+    { "id": 32, "word": "raw", "tr": "surový / tepelně neupravený", "ex": "I don't like eating raw fish." },
+    { "id": 33, "word": "ray", "tr": "paprsek", "ex": "A ray of sunlight came through the window." },
+    { "id": 34, "word": "reach", "tr": "dosáhnout / dorazit", "ex": "We hope to reach our destination by sunset." },
+    { "id": 35, "word": "react", "tr": "reagovat", "ex": "How did he react to the news?" },
+    { "id": 36, "word": "reaction", "tr": "reakce", "ex": "What was her initial reaction?" },
+    { "id": 37, "word": "readily", "tr": "ochotně / snadno", "ex": "He readily agreed to help us." },
+    { "id": 38, "word": "reading", "tr": "čtení / hodnota (na přístroji)", "ex": "Her main hobby is reading." },
+    { "id": 39, "word": "ready", "tr": "připravený / hotový", "ex": "Are you ready to go?" },
+    { "id": 40, "word": "real", "tr": "skutečný / reálný", "ex": "Is that your real name?" },
+    { "id": 41, "word": "realistic", "tr": "realistický", "ex": "We need to be realistic about our chances." },
+    { "id": 42, "word": "reality", "tr": "realita / skutečnost", "ex": "The reality is often different from what we imagine." },
+    { "id": 43, "word": "realize", "tr": "uvědomit si / realizovat", "ex": "I didn't realize it was so late." },
+    { "id": 44, "word": "really", "tr": "opravdu / skutečně", "ex": "I really enjoyed the party." },
+    { "id": 45, "word": "realm", "tr": "říše / sféra / oblast", "ex": "The matter lies outside the realm of my expertise." },
+    { "id": 46, "word": "rear", "tr": "zadní / zadní část / vychovávat", "ex": "The entrance is at the rear of the building." },
+    { "id": 47, "word": "reason", "tr": "důvod / rozum / uvažovat", "ex": "There is no reason to be afraid." },
+    { "id": 48, "word": "reasonable", "tr": "rozumný / přijatelný", "ex": "The price seems quite reasonable." },
+    { "id": 49, "word": "reasonably", "tr": "rozumně / docela", "ex": "The job was reasonably well paid." },
+    { "id": 50, "word": "reassure", "tr": "uklidnit / ujistit", "ex": "The doctor reassured her that the operation was simple." }
+  ]
+}
