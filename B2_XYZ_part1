@@ -1,0 +1,28 @@
+{
+  "level": "B2",
+  "letter": "XYZ",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "xenophobia", "tr": "xenofobie", "ex": "The government is taking steps to combat xenophobia." },
+    { "id": 2, "word": "yard", "tr": "dvůr / zahrada / yard (jednotka)", "ex": "The kids are playing in the backyard." },
+    { "id": 3, "word": "yawn", "tr": "zívat / zívnutí", "ex": "He couldn't stop yawning during the meeting." },
+    { "id": 4, "word": "year", "tr": "rok", "ex": "He is ten years old." },
+    { "id": 5, "word": "yearly", "tr": "roční / každoroční / ročně", "ex": "The festival is a yearly event." },
+    { "id": 6, "word": "yell", "tr": "křičet / řvát / výkřik", "ex": "Don't yell at me!" },
+    { "id": 7, "word": "yellow", "tr": "žlutý", "ex": "The sunflowers were a bright yellow." },
+    { "id": 8, "word": "yes", "tr": "ano", "ex": "The answer is yes." },
+    { "id": 9, "word": "yesterday", "tr": "včera", "ex": "I saw him yesterday." },
+    { "id": 10, "word": "yet", "tr": "ještě / už / přesto", "ex": "I haven't finished my homework yet." },
+    { "id": 11, "word": "yield", "tr": "výnos / podlehout / ustoupit", "ex": "The crop yield was very high this year." },
+    { "id": 12, "word": "young", "tr": "mladý", "ex": "She is still very young." },
+    { "id": 13, "word": "your", "tr": "tvůj / váš", "ex": "What's your name?" },
+    { "id": 14, "word": "yours", "tr": "tvůj / váš (vlastnictví)", "ex": "Is this book yours?" },
+    { "id": 15, "word": "yourself", "tr": "ty sám / se (sebou)", "ex": "You should be ashamed of yourself." },
+    { "id": 16, "word": "youth", "tr": "mládí / mládež / mladík", "ex": "In my youth, I used to play a lot of football." },
+    { "id": 17, "word": "zeal", "tr": "horlivost / nadšení", "ex": "She approached the task with great zeal." },
+    { "id": 18, "word": "zero", "tr": "nula", "ex": "The temperature dropped below zero last night." },
+    { "id": 19, "word": "zone", "tr": "zóna / oblast / pásmo", "ex": "The city center is a pedestrian zone." },
+    { "id": 20, "word": "zoo", "tr": "zoo / zoologická zahrada", "ex": "We saw the lions at the zoo." }
+  ]
+}
