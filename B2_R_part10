@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 226, "word": "revision", "tr": "revize / opakování učiva", "ex": "She is doing some last-minute revision for the test." },
+    { "id": 227, "word": "revival", "tr": "ožilvení / vzkříšení", "ex": "There has been a revival of interest in folk music." },
+    { "id": 228, "word": "revive", "tr": "oživiti / vzkřísit", "ex": "The economy is starting to revive." },
+    { "id": 229, "word": "revolution", "tr": "revoluce / otáčka", "ex": "The French Revolution began in 1789." },
+    { "id": 230, "word": "revolutionary", "tr": "revoluční", "ex": "The new engine design is truly revolutionary." },
+    { "id": 231, "word": "reward", "tr": "odměna / odměnit", "ex": "There is a reward for information leading to an arrest." },
+    { "id": 232, "word": "rhythm", "tr": "rytmus", "ex": "I love the rhythm of the music." },
+    { "id": 233, "word": "rib", "tr": "žebro", "ex": "He broke two ribs in the accident." },
+    { "id": 234, "word": "rice", "tr": "rýže", "ex": "Would you like rice or potatoes with your meal?" },
+    { "id": 235, "word": "rich", "tr": "bohatý / sytý", "ex": "He is one of the richest men in the world." },
+    { "id": 236, "word": "rid", "tr": "zbavit se", "ex": "I finally got rid of that old sofa." },
+    { "id": 237, "word": "ride", "tr": "jet (na něčem) / jízda", "ex": "Can you ride a motorcycle?" },
+    { "id": 238, "word": "rider", "tr": "jezdec", "ex": "The rider was thrown from the horse." },
+    { "id": 239, "word": "ridiculous", "tr": "směšný / absurdní", "ex": "That’s a ridiculous idea!" },
+    { "id": 240, "word": "rifle", "tr": "puška / puškový", "ex": "He was carrying a hunting rifle." },
+    { "id": 241, "word": "right", "tr": "správný / pravý / právo", "ex": "You were right about the weather." },
+    { "id": 242, "word": "ring", "tr": "prsten / kruh / zvonit", "ex": "She wore a gold ring on her finger." },
+    { "id": 243, "word": "riot", "tr": "výtržnost / nepokoje / bouřit se", "ex": "The police were called to deal with the riot." },
+    { "id": 244, "word": "rise", "tr": "stoupat / růst / vzestup", "ex": "The sun rises in the east." },
+    { "id": 245, "word": "risk", "tr": "riziko / riskovat", "ex": "Smoking increases the risk of heart disease." },
+    { "id": 246, "word": "risky", "tr": "riskantní", "ex": "It's a risky business to invest all your money in one stock." },
+    { "id": 247, "word": "rival", "tr": "rival / soupeř / konkurovat", "ex": "The two companies are bitter rivals." },
+    { "id": 248, "word": "river", "tr": "řeka", "ex": "We went fishing in the river." },
+    { "id": 249, "word": "road", "tr": "cesta / silnice", "ex": "The road was blocked by a fallen tree." },
+    { "id": 250, "word": "rob", "tr": "okrást / vyloupit", "ex": "They planned to rob the bank." }
+  ]
+}
