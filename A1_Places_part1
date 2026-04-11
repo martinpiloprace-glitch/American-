@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "Places in Town",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "bank", "tr": "banka", "ex": "Where is the bank?" },
+    { "id": 2, "word": "hospital", "tr": "nemocnice", "ex": "A big hospital." },
+    { "id": 3, "word": "school", "tr": "škola", "ex": "I go to school." },
+    { "id": 4, "word": "park", "tr": "park", "ex": "Play in the park." },
+    { "id": 5, "word": "shop", "tr": "obchod", "ex": "The shop is near." },
+    { "id": 6, "word": "restaurant", "tr": "restaurace", "ex": "Eat in a restaurant." },
+    { "id": 7, "word": "cinema", "tr": "kino", "ex": "Go to the cinema." },
+    { "id": 8, "word": "library", "tr": "knihovna", "ex": "Read in the library." },
+    { "id": 9, "word": "street", "tr": "ulice", "ex": "Long street." },
+    { "id": 10, "word": "station", "tr": "nádraží / stanice", "ex": "Bus station." }
+  ]
+}
