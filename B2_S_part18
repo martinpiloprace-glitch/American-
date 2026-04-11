@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "S",
+  "part": 18,
+  "mode": "sentences",
+  "data": [
+    { "id": 426, "word": "stranger", "tr": "cizinec / neznámý člověk", "ex": "Don't talk to strangers." },
+    { "id": 427, "word": "strategic", "tr": "strategický", "ex": "The city is of great strategic importance." },
+    { "id": 428, "word": "strategy", "tr": "strategie", "ex": "We need to develop a long-term strategy." },
+    { "id": 429, "word": "stream", "tr": "potok / proud / streamovat", "ex": "A small stream flows through the garden." },
+    { "id": 430, "word": "street", "tr": "ulice", "ex": "He lives just across the street." },
+    { "id": 431, "word": "strength", "tr": "síla / silná stránka", "ex": "She showed great inner strength during the crisis." },
+    { "id": 432, "word": "strengthen", "tr": "posílit / upevnit", "ex": "The new evidence will strengthen our case." },
+    { "id": 433, "word": "stress", "tr": "stres / důraz / zdůraznit", "ex": "He is suffering from work-related stress." },
+    { "id": 434, "word": "stretch", "tr": "natáhnout (se) / protáhnout / úsek", "ex": "It's important to stretch before exercising." },
+    { "id": 435, "word": "strict", "tr": "přísný / striktní", "ex": "My parents were very strict with me." },
+    { "id": 436, "word": "strictly", "tr": "přísně / striktně", "ex": "The rules must be strictly followed." },
+    { "id": 437, "word": "strike", "tr": "stávka / udeřit / úder", "ex": "The workers are on strike for better pay." },
+    { "id": 438, "word": "striking", "tr": "pozoruhodný / nápadný / úchvatný", "ex": "There is a striking resemblance between the two sisters." },
+    { "id": 439, "word": "string", "tr": "provázek / struna / řetězec", "ex": "He tied the parcel with a piece of string." },
+    { "id": 440, "word": "strip", "tr": "proužek / svléknout / zbavit", "ex": "The wallpaper was coming off in strips." },
+    { "id": 441, "word": "stroke", "tr": "mrtvice / pohlazení / úder", "ex": "He suffered a minor stroke last year." },
+    { "id": 442, "word": "strong", "tr": "silný", "ex": "He is a very strong swimmer." },
+    { "id": 443, "word": "strongly", "tr": "silně / důrazně", "ex": "I strongly advise you to see a doctor." },
+    { "id": 444, "word": "structural", "tr": "strukturální / stavební", "ex": "The building has serious structural damage." },
+    { "id": 445, "word": "structure", "tr": "struktura / stavba / uspořádat", "ex": "We need to change the structure of the organization." },
+    { "id": 446, "word": "struggle", "tr": "boj / usilovat / zápasit", "ex": "The country is struggling to recover from the war." },
+    { "id": 447, "word": "student", "tr": "student", "ex": "She is a medical student at the university." },
+    { "id": 448, "word": "studio", "tr": "ateliér / studio", "ex": "The artist spends all day in his studio." },
+    { "id": 449, "word": "study", "tr": "studovat / studie / pracovna", "ex": "He spent the whole day in his study." },
+    { "id": 450, "word": "stuff", "tr": "věci / hmota / vycpat", "ex": "Where should I put all this stuff?" }
+  ]
+}
