@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 12,
+  "mode": "sentences",
+  "data": [
+    { "id": 276, "word": "turbulent", "tr": "bouřlivý / nepokojný", "ex": "The country has a turbulent political history." },
+    { "id": 277, "word": "turmoil", "tr": "vřava / zmatek / nepokoje", "ex": "The country was in a state of political turmoil." },
+    { "id": 278, "word": "turn", "tr": "otočit / odbočit / řada", "ex": "It's your turn to wash the dishes." },
+    { "id": 279, "word": "turnover", "tr": "obrat / fluktuace", "ex": "The company has an annual turnover of £50 million." },
+    { "id": 280, "word": "tutor", "tr": "soukromý učitel / doučovat", "ex": "He works as a math tutor after school." },
+    { "id": 281, "word": "tutorial", "tr": "návod / tutoriál / cvičení", "ex": "I followed an online tutorial to fix my computer." },
+    { "id": 282, "word": "twelve", "tr": "dvanáct", "ex": "There are twelve months in a year." },
+    { "id": 283, "word": "twenty", "tr": "dvacet", "ex": "He is twenty years old." },
+    { "id": 284, "word": "twice", "tr": "dvakrát", "ex": "I've seen that movie twice." },
+    { "id": 285, "word": "twin", "tr": "dvojče / dvojitý", "ex": "They are identical twins." },
+    { "id": 286, "word": "twist", "tr": "otočit / zkroutit / zápletka", "ex": "The road twists and turns through the mountains." },
+    { "id": 287, "word": "two", "tr": "dvě / dva", "ex": "I have two sisters." },
+    { "id": 288, "word": "type", "tr": "typ / druh / psát na stroji", "ex": "What type of car do you drive?" },
+    { "id": 289, "word": "typical", "tr": "typický", "ex": "It was a typical Monday morning." },
+    { "id": 290, "word": "typically", "tr": "typicky", "ex": "The disease typically affects older people." },
+    { "id": 291, "word": "tyrant", "tr": "tyran", "ex": "The country was ruled by a brutal tyrant." },
+    { "id": 292, "word": "tire", "tr": "pneumatika (UK: tyre) / unavit se", "ex": "I need to change a flat tire." },
+    { "id": 293, "word": "ubiquitous", "tr": "všudypřítomný", "ex": "Coffee shops are ubiquitous in this city." },
+    { "id": 294, "word": "ugly", "tr": "ošklivý", "ex": "It's a very ugly building." },
+    { "id": 295, "word": "ultimate", "tr": "konečný / definitivní / vrcholný", "ex": "Our ultimate goal is to win the championship." },
+    { "id": 296, "word": "ultimately", "tr": "nakonec / v konečném důsledku", "ex": "Ultimately, the decision is yours." },
+    { "id": 297, "word": "umbrella", "tr": "deštník / zaštítění", "ex": "Don't forget your umbrella, it's raining." },
+    { "id": 298, "word": "unable", "tr": "neschopen", "ex": "I was unable to attend the meeting." },
+    { "id": 299, "word": "unacceptable", "tr": "nepřijatelný", "ex": "Such behavior is totally unacceptable." },
+    { "id": 300, "word": "unanimous", "tr": "jednomyslný", "ex": "The decision was unanimous." }
+  ]
+}
