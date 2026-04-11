@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "M",
+  "part": 10,
+  "mode": "sentences",
+  "data": [
+    { "id": 226, "word": "motor", "tr": "motor / motorový", "ex": "The boat is powered by a small electric motor." },
+    { "id": 227, "word": "mount", "tr": "horu / upevnit / narůstat", "ex": "The evidence against him continues to mount." },
+    { "id": 228, "word": "mountain", "tr": "hora", "ex": "They spent the weekend climbing in the mountains." },
+    { "id": 229, "word": "mouse", "tr": "myš", "ex": "The cat was chasing a mouse in the garden." },
+    { "id": 230, "word": "mouth", "tr": "ústa / pusa", "ex": "Don't talk with your mouth full." },
+    { "id": 231, "word": "move", "tr": "hýbat se / stěhovat se / krok", "ex": "We are planning to move to a bigger house." },
+    { "id": 232, "word": "movement", "tr": "pohyb / hnutí", "ex": "The police monitored the movement of the suspects." },
+    { "id": 233, "word": "movie", "tr": "film", "ex": "Let's go to the cinema and watch a movie." },
+    { "id": 234, "word": "mud", "tr": "bláto / bahno", "ex": "His boots were covered in thick mud." },
+    { "id": 235, "word": "multiple", "tr": "mnohonásobný / četný / násobek", "ex": "She suffered multiple injuries in the accident." },
+    { "id": 236, "word": "multiply", "tr": "násobit / množit se", "ex": "If you multiply 5 by 4, you get 20." },
+    { "id": 237, "word": "municipal", "tr": "městský / obecní", "ex": "The municipal elections will be held in May." },
+    { "id": 238, "word": "murder", "tr": "vražda / zavraždit", "ex": "He was found guilty of murder." },
+    { "id": 239, "word": "muscle", "tr": "sval", "ex": "He spent hours at the gym building muscle." },
+    { "id": 240, "word": "museum", "tr": "muzeum", "ex": "The museum has a large collection of Roman coins." },
+    { "id": 241, "word": "music", "tr": "hudba", "ex": "She listens to classical music while she works." },
+    { "id": 242, "word": "musical", "tr": "hudební / muzikál", "ex": "Are you interested in seeing a Broadway musical?" },
+    { "id": 243, "word": "musician", "tr": "hudebník", "ex": "He is a very talented jazz musician." },
+    { "id": 244, "word": "must", "tr": "muset", "ex": "You must finish your homework before you go out." },
+    { "id": 245, "word": "mutual", "tr": "vzájemný", "ex": "The agreement was based on mutual respect." },
+    { "id": 246, "word": "my", "tr": "můj", "ex": "This is my favorite book." },
+    { "id": 247, "word": "myself", "tr": "já sám / se / si", "ex": "I can do it by myself, thank you." },
+    { "id": 248, "word": "mysterious", "tr": "tajemný / záhadný", "ex": "A mysterious stranger arrived at the door." },
+    { "id": 249, "word": "mystery", "tr": "záhada / tajemství", "ex": "The cause of the fire remains a mystery." },
+    { "id": 250, "word": "myth", "tr": "mýtus / báje", "ex": "It's a common myth that bats are blind." }
+  ]
+}
