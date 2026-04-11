@@ -1,0 +1,18 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 13,
+  "mode": "sentences",
+  "data": [
+    { "id": 291, "word": "sack", "tr": "pytel / vyhodit z práce", "ex": "He was given the sack for being late." },
+    { "id": 292, "word": "sacred", "tr": "posvátný / duchovní", "ex": "The cow is a sacred animal in some cultures." },
+    { "id": 293, "word": "sacrifice", "tr": "oběť / obětovat", "ex": "Parents often make sacrifices for their children." },
+    { "id": 294, "word": "sad", "tr": "smutný", "ex": "It's a very sad story." },
+    { "id": 295, "word": "saddle", "tr": "sedlo", "ex": "He tightened the cinch on the horse's saddle." },
+    { "id": 296, "word": "sadly", "tr": "bohužel / smutně", "ex": "Sadly, the dog died a few days later." },
+    { "id": 297, "word": "sadness", "tr": "smutek", "ex": "Her eyes were filled with sadness." },
+    { "id": 298, "word": "safe", "tr": "bezpečný / trezor", "ex": "I hope you have a safe journey." },
+    { "id": 299, "word": "safely", "tr": "bezpečně", "ex": "The plane landed safely at the airport." },
+    { "id": 300, "word": "safety", "tr": "bezpečnost", "ex": "The police are concerned about public safety." }
+  ]
+}
