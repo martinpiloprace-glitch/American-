@@ -1,0 +1,18 @@
+{
+  "level": "A1",
+  "topic": "School Supplies",
+  "part": 2,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "bag", "tr": "batoh / taška", "ex": "My bag is heavy." },
+    { "id": 2, "word": "pencil", "tr": "tužka", "ex": "Draw with a pencil." },
+    { "id": 3, "word": "eraser", "tr": "guma", "ex": "I need an eraser." },
+    { "id": 4, "word": "ruler", "tr": "pravítko", "ex": "Use a ruler." },
+    { "id": 5, "word": "notebook", "tr": "sešit", "ex": "Write in the notebook." },
+    { "id": 6, "word": "glue", "tr": "lepidlo", "ex": "The glue is sticky." },
+    { "id": 7, "word": "scissors", "tr": "nůžky", "ex": "Cut with scissors." },
+    { "id": 8, "word": "map", "tr": "mapa", "ex": "Look at the map." },
+    { "id": 9, "word": "pen", "tr": "pero", "ex": "Blue pen." },
+    { "id": 10, "word": "desk", "tr": "lavice", "ex": "Sit at your desk." }
+  ]
+}
