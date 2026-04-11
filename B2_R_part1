@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "R",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "race", "tr": "závod / rasa / závodit", "ex": "He won the 100-meter race." },
+    { "id": 2, "word": "racial", "tr": "rasový", "ex": "The law forbids racial discrimination." },
+    { "id": 3, "word": "racism", "tr": "rasismus", "ex": "We must all work together to fight racism." },
+    { "id": 4, "word": "racist", "tr": "rasista / rasistický", "ex": "The comedian was criticized for making racist jokes." },
+    { "id": 5, "word": "rack", "tr": "police / stojan / věšák", "ex": "I put the books back on the rack." },
+    { "id": 6, "word": "radar", "tr": "radar", "ex": "The plane disappeared from the radar screens." },
+    { "id": 7, "word": "radiation", "tr": "radiace / záření", "ex": "The sun is a source of ultraviolet radiation." },
+    { "id": 8, "word": "radical", "tr": "radikální / základní", "ex": "The company needs to make radical changes to survive." },
+    { "id": 9, "word": "radically", "tr": "radikálně / od základu", "ex": "The new system is radically different from the old one." },
+    { "id": 10, "word": "radio", "tr": "rádio / rozhlas", "ex": "I heard the news on the radio." },
+    { "id": 11, "word": "rage", "tr": "vztek / zuřivost / zuřit", "ex": "He flew into a rage when he saw the damage." },
+    { "id": 12, "word": "raid", "tr": "razie / přepad / vpadnout", "ex": "The police carried out a drug raid on the house." },
+    { "id": 13, "word": "rail", "tr": "kolejnice / zábradlí / železnice", "ex": "We travel more and more by rail." },
+    { "id": 14, "word": "railway", "tr": "železnice / trať", "ex": "The town is located on a busy railway line." },
+    { "id": 15, "word": "rain", "tr": "déšť / pršet", "ex": "It looks like it's going to rain." },
+    { "id": 16, "word": "raise", "tr": "zvednout / zvýšit / vychovat", "ex": "If you have a question, please raise your hand." },
+    { "id": 17, "word": "rally", "tr": "shromáždění / sraz / rallye", "ex": "Thousands of people attended the political rally." },
+    { "id": 18, "word": "random", "tr": "náhodný", "ex": "The winners were chosen at random." },
+    { "id": 19, "word": "range", "tr": "rozsah / škála / řada", "ex": "The hotel offers a wide range of facilities." },
+    { "id": 20, "word": "rank", "tr": "hodnost / pořadí / řadit se", "ex": "He holds the rank of captain." },
+    { "id": 21, "word": "rapid", "tr": "rychlý / prudký", "ex": "The city has undergone rapid growth." },
+    { "id": 22, "word": "rapidly", "tr": "rychle / prudce", "ex": "The situation is changing rapidly." },
+    { "id": 23, "word": "rare", "tr": "vzácný / málokdy vídaný", "ex": "It's very rare to see this species of bird." },
+    { "id": 24, "word": "rarely", "tr": "zřídka / málokdy", "ex": "I rarely go to the cinema these days." },
+    { "id": 25, "word": "rat", "tr": "krysa / potkan", "ex": "The old basement was full of rats." }
+  ]
+}
