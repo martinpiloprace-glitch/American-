@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "V",
+  "part": 1,
+  "mode": "sentences",
+  "data": [
+    { "id": 1, "word": "vacancy", "tr": "volné místo / volný pokoj", "ex": "Are there any vacancies at the hotel tonight?" },
+    { "id": 2, "word": "vacant", "tr": "volný / neobsazený", "ex": "The seat next to me was vacant." },
+    { "id": 3, "word": "vacation", "tr": "dovolená / prázdniny", "ex": "We're going to Italy for our summer vacation." },
+    { "id": 4, "word": "vaccinate", "tr": "očkovat", "ex": "Have you been vaccinated against the flu?" },
+    { "id": 5, "word": "vaccination", "tr": "očkování / vakcinace", "ex": "Vaccination is the best way to prevent the disease." },
+    { "id": 6, "word": "vaccine", "tr": "vakcína", "ex": "Scientists are working on a new vaccine for the virus." },
+    { "id": 7, "word": "vacuum", "tr": "vakuum / vysavač / vysávat", "ex": "I need to vacuum the carpet." },
+    { "id": 8, "word": "vague", "tr": "neurčitý / vágní / nejasný", "ex": "I have only a vague memory of what happened." },
+    { "id": 9, "word": "vaguely", "tr": "neurčitě / matně", "ex": "I vaguely remember meeting him before." },
+    { "id": 10, "word": "vain", "tr": "marný / domýšlivý", "ex": "All our efforts were in vain." },
+    { "id": 11, "word": "valid", "tr": "platný / oprávněný", "ex": "Is your passport still valid?" },
+    { "id": 12, "word": "validate", "tr": "potvrdit / validovat", "ex": "The data must be validated before it can be used." },
+    { "id": 13, "word": "validity", "tr": "platnost / oprávněnost", "ex": "The court questioned the validity of the contract." },
+    { "id": 14, "word": "valley", "tr": "údolí", "ex": "The village is situated in a deep valley." },
+    { "id": 15, "word": "valuable", "tr": "cenný / hodnotný", "ex": "She has some very valuable jewelry." },
+    { "id": 16, "word": "valuation", "tr": "ocenění / odhad ceny", "ex": "The bank is carrying out a valuation of the property." },
+    { "id": 17, "word": "value", "tr": "hodnota / cenit si", "ex": "What is the value of your house?" },
+    { "id": 18, "word": "valve", "tr": "ventil / chlopeň", "ex": "The heart valves control the flow of blood." },
+    { "id": 19, "word": "van", "tr": "dodávka", "ex": "The furniture was delivered in a large white van." },
+    { "id": 20, "word": "vanish", "tr": "zmizet", "ex": "The sun vanished behind the clouds." },
+    { "id": 21, "word": "vanity", "tr": "marnivost / domýšlivost", "ex": "He did it out of sheer vanity." },
+    { "id": 22, "word": "vapor", "tr": "pára / výpar", "ex": "Water vapor rises from the boiling kettle." },
+    { "id": 23, "word": "variable", "tr": "proměnlivý / proměnná", "ex": "The weather is very variable at this time of year." },
+    { "id": 24, "word": "variation", "tr": "variace / obměna / kolísání", "ex": "There is a lot of variation in the prices." },
+    { "id": 25, "word": "varied", "tr": "rozmanitý / pestrý", "ex": "The hotel offers a varied menu." }
+  ]
+}
