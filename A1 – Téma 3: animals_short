@@ -1,0 +1,66 @@
+{
+  "level": "A1",
+  "topic_id": 3,
+  "topic": "animals_short",
+  "data": [
+    { "id": 1, "word": "dog", "tr": "pes", "ex": "The dog runs.", "ex_tr": "Pes běží." },
+    { "id": 2, "word": "cat", "tr": "kočka", "ex": "The cat sleeps.", "ex_tr": "Kočka spí." },
+    { "id": 3, "word": "bird", "tr": "pták", "ex": "The bird flies.", "ex_tr": "Pták letí." },
+    { "id": 4, "word": "fish", "tr": "ryba", "ex": "The fish swims.", "ex_tr": "Ryba plave." },
+    { "id": 5, "word": "cow", "tr": "kráva", "ex": "The cow eats.", "ex_tr": "Kráva jí." },
+
+    { "id": 6, "word": "horse", "tr": "kůň", "ex": "The horse runs.", "ex_tr": "Kůň běží." },
+    { "id": 7, "word": "sheep", "tr": "ovce", "ex": "The sheep eats.", "ex_tr": "Ovce jí." },
+    { "id": 8, "word": "goat", "tr": "koza", "ex": "The goat jumps.", "ex_tr": "Koza skáče." },
+    { "id": 9, "word": "pig", "tr": "prase", "ex": "The pig sleeps.", "ex_tr": "Prase spí." },
+    { "id": 10, "word": "chicken", "tr": "slepice", "ex": "The chicken walks.", "ex_tr": "Slepice jde." },
+
+    { "id": 11, "word": "duck", "tr": "kachna", "ex": "The duck swims.", "ex_tr": "Kachna plave." },
+    { "id": 12, "word": "mouse", "tr": "myš", "ex": "The mouse runs.", "ex_tr": "Myš běží." },
+    { "id": 13, "word": "rat", "tr": "krysa", "ex": "The rat hides.", "ex_tr": "Krysa se schová." },
+    { "id": 14, "word": "rabbit", "tr": "králík", "ex": "The rabbit jumps.", "ex_tr": "Králík skáče." },
+    { "id": 15, "word": "frog", "tr": "žába", "ex": "The frog jumps.", "ex_tr": "Žába skáče." },
+
+    { "id": 16, "word": "bear", "tr": "medvěd", "ex": "The bear walks.", "ex_tr": "Medvěd jde." },
+    { "id": 17, "word": "wolf", "tr": "vlk", "ex": "The wolf runs.", "ex_tr": "Vlk běží." },
+    { "id": 18, "word": "fox", "tr": "liška", "ex": "The fox hides.", "ex_tr": "Liška se schová." },
+    { "id": 19, "word": "deer", "tr": "jelen", "ex": "The deer runs.", "ex_tr": "Jelen běží." },
+    { "id": 20, "word": "lion", "tr": "lev", "ex": "The lion roars.", "ex_tr": "Lev řve." },
+
+    { "id": 21, "word": "tiger", "tr": "tygr", "ex": "The tiger runs.", "ex_tr": "Tygr běží." },
+    { "id": 22, "word": "elephant", "tr": "slon", "ex": "The elephant walks.", "ex_tr": "Slon jde." },
+    { "id": 23, "word": "giraffe", "tr": "žirafa", "ex": "The giraffe eats.", "ex_tr": "Žirafa jí." },
+    { "id": 24, "word": "monkey", "tr": "opice", "ex": "The monkey climbs.", "ex_tr": "Opice leze." },
+    { "id": 25, "word": "zebra", "tr": "zebra", "ex": "The zebra runs.", "ex_tr": "Zebra běží." },
+
+    { "id": 26, "word": "panda", "tr": "panda", "ex": "The panda eats.", "ex_tr": "Panda jí." },
+    { "id": 27, "word": "kangaroo", "tr": "klokan", "ex": "The kangaroo jumps.", "ex_tr": "Klokan skáče." },
+    { "id": 28, "word": "koala", "tr": "koala", "ex": "The koala sleeps.", "ex_tr": "Koala spí." },
+    { "id": 29, "word": "camel", "tr": "velbloud", "ex": "The camel walks.", "ex_tr": "Velbloud jde." },
+    { "id": 30, "word": "hippo", "tr": "hroch", "ex": "The hippo swims.", "ex_tr": "Hroch plave." },
+
+    { "id": 31, "word": "rhino", "tr": "nosorožec", "ex": "The rhino runs.", "ex_tr": "Nosorožec běží." },
+    { "id": 32, "word": "snake", "tr": "had", "ex": "The snake moves.", "ex_tr": "Had se hýbe." },
+    { "id": 33, "word": "turtle", "tr": "želva", "ex": "The turtle walks.", "ex_tr": "Želva jde." },
+    { "id": 34, "word": "shark", "tr": "žralok", "ex": "The shark swims.", "ex_tr": "Žralok plave." },
+    { "id": 35, "word": "whale", "tr": "velryba", "ex": "The whale swims.", "ex_tr": "Velryba plave." },
+
+    { "id": 36, "word": "dolphin", "tr": "delfín", "ex": "The dolphin jumps.", "ex_tr": "Delfín skáče." },
+    { "id": 37, "word": "seal", "tr": "tuleň", "ex": "The seal swims.", "ex_tr": "Tuleň plave." },
+    { "id": 38, "word": "eagle", "tr": "orel", "ex": "The eagle flies.", "ex_tr": "Orel letí." },
+    { "id": 39, "word": "owl", "tr": "sova", "ex": "The owl looks.", "ex_tr": "Sova se dívá." },
+    { "id": 40, "word": "crow", "tr": "vrána", "ex": "The crow flies.", "ex_tr": "Vrána letí." },
+
+    { "id": 41, "word": "swan", "tr": "labuť", "ex": "The swan swims.", "ex_tr": "Labuť plave." },
+    { "id": 42, "word": "goose", "tr": "husa", "ex": "The goose walks.", "ex_tr": "Husa jde." },
+    { "id": 43, "word": "turkey", "tr": "krocan", "ex": "The turkey walks.", "ex_tr": "Krocan jde." },
+    { "id": 44, "word": "bee", "tr": "včela", "ex": "The bee flies.", "ex_tr": "Včela letí." },
+    { "id": 45, "word": "ant", "tr": "mravenec", "ex": "The ant walks.", "ex_tr": "Mravenec jde." },
+
+    { "id": 46, "word": "spider", "tr": "pavouk", "ex": "The spider climbs.", "ex_tr": "Pavouk leze." },
+    { "id": 47, "word": "butterfly", "tr": "motýl", "ex": "The butterfly flies.", "ex_tr": "Motýl letí." },
+    { "id": 48, "word": "bat", "tr": "netopýr", "ex": "The bat flies.", "ex_tr": "Netopýr letí." },
+    { "id": 49, "word": "fox", "tr": "liška", "ex": "The fox runs.", "ex_tr": "Liška běží." },
+    { "id": 50, "word": "hedgehog", "tr": "ježek", "ex": "The hedgehog walks.", "ex_tr": "Ježek jde." }
+  ]
+}
