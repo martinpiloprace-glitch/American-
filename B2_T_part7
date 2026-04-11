@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "letter": "T",
+  "part": 7,
+  "mode": "sentences",
+  "data": [
+    { "id": 151, "word": "timetable", "tr": "rozvrh / jízdní řád", "ex": "Let's check the train timetable." },
+    { "id": 152, "word": "tin", "tr": "konzerva / cín / plechovka", "ex": "We had a tin of soup for lunch." },
+    { "id": 153, "word": "tiny", "tr": "maličký / drobný", "ex": "The baby has tiny hands." },
+    { "id": 154, "word": "tip", "tr": "tip / spropitné / špička", "ex": "He gave the waiter a generous tip." },
+    { "id": 155, "word": "tire", "tr": "pneumatika (v USA) / unavit se", "ex": "I need to check the air pressure in the tires." },
+    { "id": 156, "word": "tired", "tr": "unavený", "ex": "I'm too tired to go out tonight." },
+    { "id": 157, "word": "tiring", "tr": "únavný", "ex": "It was a long and tiring journey." },
+    { "id": 158, "word": "tissue", "tr": "tkáň / papírový kapesník", "ex": "He wiped his eyes with a tissue." },
+    { "id": 159, "word": "title", "tr": "titul / název", "ex": "What's the title of the book?" },
+    { "id": 160, "word": "to", "tr": "k / do / aby", "ex": "I'm going to the shop." },
+    { "id": 161, "word": "tobacco", "tr": "tabák", "ex": "Tobacco is bad for your health." },
+    { "id": 162, "word": "today", "tr": "dnes", "ex": "What are you doing today?" },
+    { "id": 163, "word": "toe", "tr": "prst u nohy", "ex": "He stubbed his toe on the door." },
+    { "id": 164, "word": "together", "tr": "spolu / společně", "ex": "We spent the whole day together." },
+    { "id": 165, "word": "toilet", "tr": "toaleta / záchod", "ex": "Where is the toilet, please?" },
+    { "id": 166, "word": "token", "tr": "žeton / důkaz / symbolický", "ex": "The gift is a token of our appreciation." },
+    { "id": 167, "word": "tolerance", "tr": "tolerance / snášenlivost", "ex": "We should show more tolerance towards others." },
+    { "id": 168, "word": "tolerant", "tr": "tolerantní", "ex": "My parents are quite tolerant of my music." },
+    { "id": 169, "word": "tolerate", "tr": "tolerovat / snášet", "ex": "I won't tolerate such behavior in my house." },
+    { "id": 170, "word": "toll", "tr": "mýtné / daň / počet obětí", "ex": "The death toll from the earthquake is rising." },
+    { "id": 171, "word": "tomato", "tr": "rajče", "ex": "I love fresh tomato salad." },
+    { "id": 172, "word": "tomorrow", "tr": "zítra", "ex": "See you tomorrow!" },
+    { "id": 173, "word": "tone", "tr": "tón / odstín", "ex": "I don't like the tone of his voice." },
+    { "id": 174, "word": "tongue", "tr": "jazyk", "ex": "He stuck his tongue out at me." },
+    { "id": 175, "word": "tonight", "tr": "dnes večer", "ex": "Are you going out tonight?" }
+  ]
+}
