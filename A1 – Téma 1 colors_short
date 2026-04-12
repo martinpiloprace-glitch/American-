@@ -1,6 +1,6 @@
 {
   "level": "A1",
-  "topic_id": 10,
+  "topic_id": 1,
   "topic": "colors_long",
   "data": [
     { "id": 1, "word": "blue", "tr": "modrá", "ex": "The blue is nice.", "ex_tr": "Modrá je hezká." },
